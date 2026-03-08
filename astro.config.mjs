@@ -5,5 +5,6 @@ import tailwind from '@astrojs/tailwind';
 // https://astro.build/config
 export default defineConfig({
   integrations: [tailwind()],
-  site: 'https://bibliabrasil.com.br',
+  site: 'https://franruiloz-lab.github.io',
+  base: '/biblia-brasil',
 });
