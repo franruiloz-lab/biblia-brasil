@@ -1,0 +1,504 @@
+{
+  "livro": "lucas",
+  "livroNome": "Lucas",
+  "capitulo": 11,
+  "testamento": "NT",
+  "titulo": "",
+  "autor": "Lucas (médico)",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "Estava Jesus em certo lugar orando e, quando acabou, disse-lhe um dos seus discípulos: Senhor, ensina-nos a orar, como também João ensinou aos seus discípulos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "Ao que ele lhes disse: Quando orardes, dizei: Pai, santificado seja o teu nome; venha o teu reino;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "dá-nos cada dia o nosso pão cotidiano;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "e perdoa-nos os nossos pecados, pois também nós perdoamos a todo aquele que nos deve; e não nos deixes entrar em tentação, {mas livra-nos do mal.}"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "Disse-lhes também: Se um de vós tiver um amigo, e se for procurá-lo à meia-noite e lhe disser: Amigo, empresta-me três pães,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "pois que um amigo meu, estando em viagem, chegou a minha casa, e não tenho o que lhe oferecer;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "e se ele, de dentro, responder: Não me incomodes; já está a porta fechada, e os meus filhos estão comigo na cama; não posso levantar-me para te atender;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "digo-vos que, ainda que se levante para lhos dar por ser seu amigo, todavia, por causa da sua importunação, se levantará e lhe dará quantos pães ele precisar."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 9,
+      "versoes": {
+        "ARC": "Pelo que eu vos digo: Pedi, e dar-se-vos-á; buscai e achareis; batei, e abrir-se-vos-á;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 10,
+      "versoes": {
+        "ARC": "pois todo o que pede, recebe; e quem busca acha; e ao que bate, abrir-se-lhe-á."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 11,
+      "versoes": {
+        "ARC": "E qual o pai dentre vós que, se o filho lhe pedir pão, lhe dará uma pedra? Ou, se lhe pedir peixe, lhe dará por peixe uma serpente?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 12,
+      "versoes": {
+        "ARC": "Ou, se pedir um ovo, lhe dará um escorpião?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 13,
+      "versoes": {
+        "ARC": "Se vós, pois, sendo maus, sabeis dar boas dádivas aos vossos filhos, quanto mais dará o Pai celestial o Espírito Santo àqueles que lho pedirem?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 14,
+      "versoes": {
+        "ARC": "Estava Jesus expulsando um demônio, que era mudo; e aconteceu que, saindo o demônio, o mudo falou; e as multidões se admiraram."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 15,
+      "versoes": {
+        "ARC": "Mas alguns deles disseram: É por Belzebu, o príncipe dos demônios, que ele expulsa os demônios."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 16,
+      "versoes": {
+        "ARC": "E outros, experimentando-o, lhe pediam um sinal do céu."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 17,
+      "versoes": {
+        "ARC": "Ele, porém, conhecendo-lhes os pensamentos, disse-lhes: Todo reino dividido contra si mesmo será assolado, e casa sobre casa cairá."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 18,
+      "versoes": {
+        "ARC": "Ora, pois, se Satanás está dividido contra si mesmo, como subsistirá o seu reino? Pois dizeis que eu expulso dos demônios por Belzebu."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 19,
+      "versoes": {
+        "ARC": "E, se eu expulso os demônios por Belzebu, por quem os expulsam os vossos filhos? Por isso eles mesmos serão os vossos juizes."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 20,
+      "versoes": {
+        "ARC": "Mas, se é pelo dedo de Deus que eu expulso os demônios, logo é chegado a vós o reino de Deus."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 21,
+      "versoes": {
+        "ARC": "Quando o valente guarda, armado, a sua casa, em segurança estão os seus bens;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 22,
+      "versoes": {
+        "ARC": "mas, sobrevindo outro mais valente do que ele, e vencendo-o, tira-lhe toda a armadura em que confiava, e reparte os seus despojos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 23,
+      "versoes": {
+        "ARC": "Quem não é comigo, é contra mim; e quem comigo não ajunta, espalha."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 24,
+      "versoes": {
+        "ARC": "Ora, havendo o espírito imundo saindo do homem, anda por lugares áridos, buscando repouso; e não o encontrando, diz: Voltarei para minha casa, donde saí."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 25,
+      "versoes": {
+        "ARC": "E chegando, acha-a varrida e adornada."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 26,
+      "versoes": {
+        "ARC": "Então vai, e leva consigo outros sete espíritos piores do que ele e, entrando, habitam ali; e o último estado desse homem vem a ser pior do que o primeiro."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 27,
+      "versoes": {
+        "ARC": "Ora, enquanto ele dizia estas coisas, certa mulher dentre a multidão levantou a voz e lhe disse: Bem-aventurado o ventre que te trouxe e os peitos em que te amamentaste."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 28,
+      "versoes": {
+        "ARC": "Mas ele respondeu: Antes bem-aventurados os que ouvem a palavra de Deus, e a observam."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 29,
+      "versoes": {
+        "ARC": "Como afluíssem as multidões, começou ele a dizer: Geração perversa é esta; ela pede um sinal; e nenhum sinal se lhe dará, senão o de Jonas;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 30,
+      "versoes": {
+        "ARC": "porquanto, assim como Jonas foi sinal para os ninivitas, também o Filho do homem o será para esta geração."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 31,
+      "versoes": {
+        "ARC": "A rainha do sul se levantará no juízo com os homens desta geração, e os condenará; porque veio dos confins da terra para ouvir a sabedoria de Salomão; e eis, aqui quem é maior do que Salomão."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 32,
+      "versoes": {
+        "ARC": "Os homens de Nínive se levantarão no juízo com esta geração, e a condenarão; porque se arrependeram com a pregação de Jonas; e eis aqui quem é maior do que Jonas."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 33,
+      "versoes": {
+        "ARC": "Ninguém, depois de acender uma candeia, a põe em lugar oculto, nem debaixo do alqueire, mas no velador, para que os que entram vejam a luz."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 34,
+      "versoes": {
+        "ARC": "A candeia do corpo são os olhos. Quando, pois, os teus olhos forem bons, todo o teu corpo será luminoso; mas, quando forem maus, o teu corpo será tenebroso."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 35,
+      "versoes": {
+        "ARC": "Vê, então, que a luz que há em ti não sejam trevas."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 36,
+      "versoes": {
+        "ARC": "Se, pois, todo o teu corpo estiver iluminado, sem ter parte alguma em trevas, será inteiramente luminoso, como quando a candeia te alumia com o seu resplendor."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 37,
+      "versoes": {
+        "ARC": "Acabando Jesus de falar, um fariseu o convidou para almoçar com ele; e havendo Jesus entrado, reclinou-se à mesa."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 38,
+      "versoes": {
+        "ARC": "O fariseu admirou-se, vendo que ele não se lavara antes de almoçar."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 39,
+      "versoes": {
+        "ARC": "Ao que o Senhor lhe disse: Ora vós, os fariseus, limpais o exterior do corpo e do prato; mas o vosso interior do copo e do prato; mas o vosso interior está cheio de rapina e maldade."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 40,
+      "versoes": {
+        "ARC": "Loucos! quem fez o exterior, não fez também o inferior?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 41,
+      "versoes": {
+        "ARC": "Dai, porém, de esmola o que está dentro do copo e do prato, e eis que todas as coisas vos serão limpas."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 42,
+      "versoes": {
+        "ARC": "Mas ai de vós, fariseus! porque dais o dízimo da hortelã, e da arruda, e de toda hortaliça, e desprezais a justiça e o amor de Deus. Ora, estas coisas importava fazer, sem deixar aquelas."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 43,
+      "versoes": {
+        "ARC": "Ai de vós, fariseus! porque gostais dos primeiros assentos nas sinagogas, e das saudações nas praças."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 44,
+      "versoes": {
+        "ARC": "Ai de vós! porque sois como as sepulturas que não aparecem, sobre as quais andam os homens sem o saberem."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 45,
+      "versoes": {
+        "ARC": "Disse-lhe, então, um dos doutores da lei: Mestre, quando dizes isso, também nos afrontas a nós."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 46,
+      "versoes": {
+        "ARC": "Ele, porém, respondeu: Ai de vós também, doutores da lei! porque carregais os homens com fardos difíceis de suportar, e vós mesmos nem ainda com um dos vossos dedos tocais nesses fardos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 47,
+      "versoes": {
+        "ARC": "Ai de vós! porque edificais os túmulos dos profetas, e vossos pais os mataram."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 48,
+      "versoes": {
+        "ARC": "Assim sois testemunhas e aprovais as obras de vossos pais; porquanto eles os mataram, e vós lhes edificais os túmulos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 49,
+      "versoes": {
+        "ARC": "Por isso diz também a sabedoria de Deus: Profetas e apóstolos lhes mandarei; e eles matarão uns, e perseguirão outros;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 50,
+      "versoes": {
+        "ARC": "para que a esta geração se peçam contas do sangue de todos os profetas que, desde a fundação do mundo, foi derramado;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 51,
+      "versoes": {
+        "ARC": "desde o sangue de Abel, até o sangue de Zacarias, que foi morto entre o altar e o santuário; sim, eu vos digo, a esta geração se pedirão contas."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 52,
+      "versoes": {
+        "ARC": "Ai de vós, doutores da lei! porque tirastes a chave da ciência; vós mesmos não entrastes, e impedistes aos que entravam."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 53,
+      "versoes": {
+        "ARC": "Ao sair ele dali, começaram os escribas e os fariseus a apertá-lo fortemente, e a interrogá-lo acerca de muitas coisas,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 54,
+      "versoes": {
+        "ARC": "armando-lhe ciladas, a fim de o apanharem em alguma coisa que dissesse."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

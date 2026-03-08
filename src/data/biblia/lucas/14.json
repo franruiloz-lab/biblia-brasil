@@ -1,0 +1,333 @@
+{
+  "livro": "lucas",
+  "livroNome": "Lucas",
+  "capitulo": 14,
+  "testamento": "NT",
+  "titulo": "",
+  "autor": "Lucas (médico)",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "Tendo Jesus entrado, num sábado, em casa de um dos chefes dos fariseus para comer pão, eles o estavam observando."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "Achava-se ali diante dele certo homem hidrópico."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "E Jesus, tomando a palavra, falou aos doutores da lei e aos fariseus, e perguntou: É lícito curar no sábado, ou não?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "Eles, porém, ficaram calados. E Jesus, pegando no homem, o curou, e o despediu."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "Então lhes perguntou: Qual de vós, se lhe cair num poço um filho, ou um boi, não o tirará logo, mesmo em dia de sábado?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "A isto nada puderam responder."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "Ao notar como os convidados escolhiam os primeiros lugares, propôs-lhes esta parábola:"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "Quando por alguém fores convidado às bodas, não te reclines no primeiro lugar; não aconteça que esteja convidado outro mais digno do que tu;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 9,
+      "versoes": {
+        "ARC": "e vindo o que te convidou a ti e a ele, te diga: Dá o lugar a este; e então, com vergonha, tenhas de tomar o último lugar."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 10,
+      "versoes": {
+        "ARC": "Mas, quando fores convidado, vai e reclina-te no último lugar, para que, quando vier o que te convidou, te diga: Amigo, sobe mais para cima. Então terás honra diante de todos os que estiverem contigo à mesa."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 11,
+      "versoes": {
+        "ARC": "Porque todo o que a si mesmo se exaltar será humilhado, e aquele que a si mesmo se humilhar será exaltado."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 12,
+      "versoes": {
+        "ARC": "Disse também ao que o havia convidado: Quando deres um jantar, ou uma ceia, não convides teus amigos, nem teus irmãos, nem teus parentes, nem os vizinhos ricos, para que não suceda que também eles te tornem a convidar, e te seja isso retribuído."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 13,
+      "versoes": {
+        "ARC": "Mas quando deres um banquete, convida os pobres, os aleijados, os mancos e os cegos;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 14,
+      "versoes": {
+        "ARC": "e serás bem-aventurado; porque eles não têm com que te retribuir; pois retribuído te será na ressurreição dos justos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 15,
+      "versoes": {
+        "ARC": "Ao ouvir isso um dos que estavam com ele à mesa, disse-lhe: Bem-aventurado aquele que comer pão no reino de Deus."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 16,
+      "versoes": {
+        "ARC": "Jesus, porém, lhe disse: Certo homem dava uma grande ceia, e convidou a muitos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 17,
+      "versoes": {
+        "ARC": "E à hora da ceia mandou o seu servo dizer aos convidados: vinde, porque tudo já está preparado."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 18,
+      "versoes": {
+        "ARC": "Mas todos à uma começaram a escusar-se. Disse-lhe o primeiro: Comprei um campo, e preciso ir vê-lo; rogo-te que me dês por escusado."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 19,
+      "versoes": {
+        "ARC": "Outro disse: Comprei cinco juntas de bois, e vou experimentá-los; rogo-te que me dês por escusado."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 20,
+      "versoes": {
+        "ARC": "Ainda outro disse: Casei-me e portanto não posso ir."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 21,
+      "versoes": {
+        "ARC": "Voltou o servo e contou tudo isto a seu senhor: Então o dono da casa, indignado, disse a seu servo: Sai depressa para as ruas e becos da cidade e traze aqui os pobres, os aleijados, os cegos e os coxos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 22,
+      "versoes": {
+        "ARC": "Depois disse o servo: Senhor, feito está como o ordenaste, e ainda há lugar."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 23,
+      "versoes": {
+        "ARC": "Respondeu o senhor ao servo: Sai pelos caminhos e valados, e obriga-os a entrar, para que a minha casa se encha."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 24,
+      "versoes": {
+        "ARC": "Pois eu vos digo que nenhum daqueles homens que foram convidados provará a minha ceia."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 25,
+      "versoes": {
+        "ARC": "Ora, iam com ele grandes multidões; e, voltando-se, disse-lhes:"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 26,
+      "versoes": {
+        "ARC": "Se alguém vier a mim, e não aborrecer a pai e mãe, a mulher e filhos, a irmãos e irmãs, e ainda também à própria vida, não pode ser meu discípulo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 27,
+      "versoes": {
+        "ARC": "Quem não leva a sua cruz e não me segue, não pode ser meu discípulo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 28,
+      "versoes": {
+        "ARC": "Pois qual de vós, querendo edificar uma torre, não se senta primeiro a calcular as despesas, para ver se tem com que a acabar?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 29,
+      "versoes": {
+        "ARC": "Para não acontecer que, depois de haver posto os alicerces, e não a podendo acabar, todos os que a virem comecem a zombar dele,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 30,
+      "versoes": {
+        "ARC": "dizendo: Este homem começou a edificar e não pode acabar."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 31,
+      "versoes": {
+        "ARC": "Ou qual é o rei que, indo entrar em guerra contra outro rei, não se senta primeiro a consultar se com dez mil pode sair ao encontro do que vem contra ele com vinte mil?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 32,
+      "versoes": {
+        "ARC": "No caso contrário, enquanto o outro ainda está longe, manda embaixadores, e pede condições de paz."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 33,
+      "versoes": {
+        "ARC": "Assim, pois, todo aquele dentre vós que não renuncia a tudo quanto possui, não pode ser meu discípulo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 34,
+      "versoes": {
+        "ARC": "Bom é o sal; mas se o sal se tornar insípido, com que se há de restaurar-lhe o sabor?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 35,
+      "versoes": {
+        "ARC": "Não presta nem para terra, nem para adubo; lançam-no fora. Quem tem ouvidos para ouvir, ouça."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

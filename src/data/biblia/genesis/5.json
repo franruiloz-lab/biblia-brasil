@@ -1,0 +1,306 @@
+{
+  "livro": "genesis",
+  "livroNome": "Gênesis",
+  "capitulo": 5,
+  "testamento": "AT",
+  "titulo": "",
+  "autor": "Moisés",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "Este é o livro das gerações de Adão. No dia em que Deus criou o homem, à semelhança de Deus o fez."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "Homem e mulher os criou; e os abençoou, e os chamou pelo nome de homem, no dia em que foram criados."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "Adão viveu cento e trinta anos, e gerou um filho à sua semelhança, conforme a sua imagem, e pôs-lhe o nome de Sete."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "E foram os dias de Adão, depois que gerou a Sete, oitocentos anos; e gerou filhos e filhas."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "Todos os dias que Adão viveu foram novecentos e trinta anos; e morreu."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "Sete viveu cento e cinco anos, e gerou a Enos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "Viveu Sete, depois que gerou a Enos, oitocentos e sete anos; e gerou filhos e filhas."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "Todos os dias de Sete foram novecentos e doze anos; e morreu."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 9,
+      "versoes": {
+        "ARC": "Enos viveu noventa anos, e gerou a Quenã."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 10,
+      "versoes": {
+        "ARC": "viveu Enos, depois que gerou a Quenã, oitocentos e quinze anos; e gerou filhos e filhas."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 11,
+      "versoes": {
+        "ARC": "Todos os dias de Enos foram novecentos e cinco anos; e morreu."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 12,
+      "versoes": {
+        "ARC": "Quenã viveu setenta anos, e gerou a Maalalel."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 13,
+      "versoes": {
+        "ARC": "Viveu Quenã, depois que gerou a Maalalel, oitocentos e quarenta anos, e gerou filhos e filhas."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 14,
+      "versoes": {
+        "ARC": "Todos os dias de Quenã foram novecentos e dez anos; e morreu."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 15,
+      "versoes": {
+        "ARC": "Maalalel viveu sessenta e cinco anos, e gerou a Jarede."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 16,
+      "versoes": {
+        "ARC": "Viveu Maalalel, depois que gerou a Jarede, oitocentos e trinta anos; e gerou filhos e filhas."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 17,
+      "versoes": {
+        "ARC": "Todos os dias de Maalalel foram oitocentos e noventa e cinco anos; e morreu."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 18,
+      "versoes": {
+        "ARC": "Jarede viveu cento e sessenta e dois anos, e gerou a Enoque."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 19,
+      "versoes": {
+        "ARC": "Viveu Jarede, depois que gerou a Enoque, oitocentos anos; e gerou filhos e filhas."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 20,
+      "versoes": {
+        "ARC": "Todos os dias de Jarede foram novecentos e sessenta e dois anos; e morreu."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 21,
+      "versoes": {
+        "ARC": "Enoque viveu sessenta e cinco anos, e gerou a Matusalém."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 22,
+      "versoes": {
+        "ARC": "Andou Enoque com Deus, depois que gerou a Matusalém, trezentos anos; e gerou filhos e filhas."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 23,
+      "versoes": {
+        "ARC": "Todos os dias de Enoque foram trezentos e sessenta e cinco anos;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 24,
+      "versoes": {
+        "ARC": "Enoque andou com Deus; e não apareceu mais, porquanto Deus o tomou."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 25,
+      "versoes": {
+        "ARC": "Matusalém viveu cento e oitenta e sete anos, e gerou a Lameque."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 26,
+      "versoes": {
+        "ARC": "Viveu Matusalém, depois que gerou a Lameque, setecentos e oitenta e dois anos; e gerou filhos e filhas."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 27,
+      "versoes": {
+        "ARC": "Todos os dias de Matusalém foram novecentos e sessenta e nove anos; e morreu."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 28,
+      "versoes": {
+        "ARC": "Lameque viveu cento e oitenta e dois anos, e gerou um filho,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 29,
+      "versoes": {
+        "ARC": "a quem chamou Noé, dizendo: Este nos consolará acerca de nossas obras e do trabalho de nossas mãos, os quais provêm da terra que o Senhor amaldiçoou."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 30,
+      "versoes": {
+        "ARC": "Viveu Lameque, depois que gerou a Noé, quinhentos e noventa e cinco anos; e gerou filhos e filhas."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 31,
+      "versoes": {
+        "ARC": "Todos os dias de Lameque foram setecentos e setenta e sete anos; e morreu."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 32,
+      "versoes": {
+        "ARC": "E era Noé da idade de quinhentos anos; e gerou Noé a Sem, Cam e Jafé."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

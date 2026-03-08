@@ -1,0 +1,90 @@
+{
+  "livro": "salmos",
+  "livroNome": "Salmos",
+  "capitulo": 130,
+  "testamento": "AT",
+  "titulo": "",
+  "autor": "Davi e outros",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "Das profundezas clamo a ti, ó Senhor."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "Senhor, escuta a minha voz; estejam os teus ouvidos atentos à voz das minhas súplicas."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "Se tu, Senhor, observares as iniqüidades, Senhor, quem subsistirá?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "Mas contigo está o perdão, para que sejas temido."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "Aguardo ao Senhor; a minha alma o aguarda, e espero na sua palavra."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "A minha alma anseia pelo Senhor, mais do que os guardas pelo romper da manhã, sim, mais do que os guardas pela manhã."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "Espera, ó Israel, no Senhor! pois com o Senhor há benignidade, e com ele há copiosa redenção;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "e ele remirá a Israel de todas as suas iniqüidades."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

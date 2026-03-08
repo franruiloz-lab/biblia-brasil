@@ -1,0 +1,101 @@
+{
+  "livro": "salmos",
+  "livroNome": "Salmos",
+  "capitulo": 46,
+  "testamento": "AT",
+  "titulo": "Deus é o nosso refúgio e força",
+  "autor": "Filhos de Coré",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "Deus é o nosso refúgio e força, socorro bem presente na tribulação.",
+        "NVI-PT": "Deus é o nosso refúgio e fortaleza, socorro bem presente nas tribulações.",
+        "NTLH": "Deus é o nosso refúgio e a nossa força; ele sempre nos ajuda nos momentos de dificuldade.",
+        "NVT": "Deus é o nosso refúgio e força, socorro bem presente na tribulação."
+      },
+      "temas": ["protecao", "refugio", "forca", "tribulacao", "confianca"],
+      "versiculosRelacionados": ["salmos/91/1", "salmos/23/4", "proverbios/18/10"],
+      "faq": [
+        {
+          "pergunta": "O que significa 'Deus é o nosso refúgio e força' em Salmos 46:1?",
+          "resposta": "O hebraico usa duas palavras poderosas: 'machasseh' (refúgio, esconderijo) e 'oz' (força, poder). Juntas, descrevem Deus como alguém que ao mesmo tempo nos protege (refúgio) e nos capacita (força). Ele não é apenas um esconderijo onde nos encolhemos — é também a força para enfrentar o que está lá fora. E a expressão 'socorro bem presente' (hebraico: 'nimtsa meod', 'encontrado em abundância') diz que essa ajuda não está distante nem difícil de acessar — está amplamente disponível."
+        },
+        {
+          "pergunta": "Qual era a situação dos autores quando escreveram Salmos 46:1?",
+          "resposta": "O Salmo 46 foi escrito pelos filhos de Coré — levitas responsáveis pela música do templo. O contexto provável é uma invasão iminente ou recente a Jerusalém, possivelmente a ameaça assíria no tempo do rei Ezequias (2 Reis 18-19), quando um exército enorme cercou a cidade. No meio de uma crise nacional real, os autores declararam não um desejo, mas uma certeza: Deus é refúgio. Isso é fé adulta — não a ausência de crise, mas a presença de Deus dentro da crise."
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "Portanto, não temeremos, ainda que a terra se mude, e ainda que os montes se transportem para o meio do mar,",
+        "NVI-PT": "Por isso não temeremos, ainda que a terra se transtorne e os montes se abismem no coração do mar,",
+        "NTLH": "Por isso não temos medo, mesmo que a terra seja sacudida e as montanhas desabem no fundo do mar,",
+        "NVT": "Por isso não temeremos, ainda que a terra se transtorne e os montes se abismem no coração do mar,"
+      },
+      "temas": ["coragem", "fe", "confianca", "crise"],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "ainda que as suas águas se levantem e se perturbem, e os montes se abalam com as suas ondas. (Selá)",
+        "NVI-PT": "ainda que as suas águas rujam e se agitem e os montes se estremeçam com a sua fúria. (Selá)",
+        "NTLH": "mesmo que as suas águas ruidosas varram e sacudam as montanhas.",
+        "NVT": "ainda que as suas águas rujam e se agitem e os montes se estremeçam com a sua fúria. (Selá)"
+      },
+      "temas": ["tribulacao", "crise", "fe"],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 10,
+      "versoes": {
+        "ARC": "Aquietai-vos e sabei que eu sou Deus; serei exaltado entre os gentios, serei exaltado na terra.",
+        "NVI-PT": "Aquietai-vos e sabei que eu sou Deus; serei exaltado entre as nações, serei exaltado na terra.",
+        "NTLH": "Parem e reconheçam que eu sou Deus! Sou exaltado entre as nações; sou exaltado na terra.",
+        "NVT": "Aquietai-vos e sabei que eu sou Deus! Serei exaltado entre as nações, serei exaltado na terra."
+      },
+      "temas": ["quietude", "soberania-de-deus", "descanso", "confianca"],
+      "versiculosRelacionados": ["salmos/23/2", "isaias/30/15", "mateus/11/28"],
+      "faq": [
+        {
+          "pergunta": "O que significa 'aquietai-vos e sabei que eu sou Deus' em Salmos 46:10?",
+          "resposta": "O hebraico 'harpu' (aquietai-vos) vem de uma raiz que significa 'relaxar, soltar, abaixar as mãos'. É a imagem de alguém que para de lutar, de tentar controlar, de correr em pânico — e simplesmente se aquieta diante de Deus. O versículo não é apenas um convite à meditação calma: é um imperativo de rendição. 'Sabei que eu sou Deus' é o resultado desse quietar-se — quando paramos de agir como se tudo dependesse de nós, passamos a enxergar quem realmente está no controle."
+        },
+        {
+          "pergunta": "Como praticar o 'aquietai-vos' de Salmos 46:10 em um dia agitado?",
+          "resposta": "Praticamente, aquietar-se não exige horas de silêncio — pode ser uma pausa intencional de 2 minutos: fechar os olhos, respirar fundo, e dizer 'Senhor, Tu és Deus e eu não sou'. É o ato de soltar o controle que não temos de qualquer forma. Isaías 30:15 confirma: 'No quietar-vos e na confiança está a vossa força.' O problema não é que não sabemos que Deus é soberano — é que continuamos vivendo como se não fosse."
+        }
+      ]
+    },
+    {
+      "numero": 11,
+      "versoes": {
+        "ARC": "O Senhor dos Exércitos está conosco; o Deus de Jacó é o nosso refúgio. (Selá)",
+        "NVI-PT": "O SENHOR dos Exércitos está conosco; o Deus de Jacó é o nosso baluarte. (Selá)",
+        "NTLH": "O SENHOR Todo-Poderoso está conosco; o Deus de Jacó é o nosso refúgio.",
+        "NVT": "O SENHOR dos Exércitos está conosco; o Deus de Jacó é o nosso baluarte. (Selá)"
+      },
+      "temas": ["presenca-de-deus", "protecao", "refugio"],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "Salmos 46 é o salmo que inspirou Martinho Lutero a escrever o hino 'Castelo Forte é nosso Deus' — um dos mais cantados na história do Protestantismo. Com mais de 8.000 buscas mensais no Brasil, seu versículo 1 ('Deus é o nosso refúgio e força') e o versículo 10 ('Aquietai-vos e sabei que eu sou Deus') são dois dos textos mais buscados em momentos de crise e ansiedade.",
+    "contexto": "Escrito pelos filhos de Coré — família levita responsável pela música do templo — em meio a uma ameaça nacional grave, provavelmente o cerco assírio de Jerusalém (701 a.C.). O salmo tem três estrofes, cada uma terminando com o refrão: 'O SENHOR dos Exércitos está conosco.' A repetição não é redundância — é âncora: nos lembra da mesma verdade três vezes, porque em crise precisamos ouvir a mesma coisa várias vezes.",
+    "aplicacao": "Em um Brasil marcado por insegurança, instabilidade econômica e ansiedade coletiva, Salmos 46 oferece dois posicionamentos fundamentais: (1) Deus como refúgio ativo, não passivo — não apenas um esconderijo, mas força para enfrentar; (2) a quietude como ato de fé, não de fraqueza. 'Aquietai-vos' não é passividade — é a rendição soberana de quem entende que o Deus dos Exércitos já tomou conta da situação."
+  },
+  "versiculosDestaque": [1, 10],
+  "temas": ["protecao", "refugio", "forca", "quietude", "soberania-de-deus", "crise"],
+  "versiculosRelacionadosExternos": [
+    { "ref": "salmos/91/1", "texto": "Salmos 91:1 — O que habita no esconderijo do Altíssimo" },
+    { "ref": "isaias/40/31", "texto": "Isaías 40:31 — Os que esperam no SENHOR renovarão as suas forças" },
+    { "ref": "mateus/11/28", "texto": "Mateus 11:28 — Venham a mim todos os que estão cansados" },
+    { "ref": "filipenses/4/7", "texto": "Filipenses 4:7 — A paz de Deus que excede todo entendimento" }
+  ]
+}

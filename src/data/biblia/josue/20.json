@@ -1,0 +1,99 @@
+{
+  "livro": "josue",
+  "livroNome": "Josué",
+  "capitulo": 20,
+  "testamento": "AT",
+  "titulo": "",
+  "autor": "Josué",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "Falou mais o Senhor a Josué:"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "Dize aos filhos de Israel: Designai para vós as cidades de refúgio, de que vos falei por intermédio de Moisés,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "a fim de que fuja para ali o homicida, que tiver matado alguma pessoa involuntariamente, e não com intento; e elas vos servirão de refúgio contra o vingador do sangue."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "Fugindo ele para uma dessas cidades, apresentar-se-á à porta da mesma, e exporá a sua causa aos anciãos da tal cidade; então eles o acolherão ali e lhe darão lugar, para que habite com eles."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "Se, pois, o vingador do sangue o perseguir, não lhe entregarão o homicida, porquanto feriu a seu próximo sem intenção e sem odiá-lo dantes."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "E habitará nessa cidade até que compareça em juizo perante a congregação, até que morra o sumo sacerdote que houver naqueles dias; então o homicida voltará, e virá à sua cidade e à sua casa, à cidade donde tiver fugido."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "Então designaram a Quedes na Galiléia, na região montanhosa de Naftali, a Siquém na região montanhosa de Efraim, e a Quiriate-Arba {esta é Hebrom} na região montanhosa de Judá."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "E, além do Jordão na altura de Jericó para o oriente, designaram a Bezer, no deserto, no planalto da tribo de Rúben a Ramote, em Gileade, da tribo de Gade, e a Golã, em Basã, da tribo de Manassés."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 9,
+      "versoes": {
+        "ARC": "Foram estas as cidades designadas para todos os filhos de Israel, e para o estrangeiro que peregrinasse entre eles, para que se acolhesse a elas todo aquele que matasse alguma pessoa involuntariamente, para que não morresse às mãos do vingador do sangue, até se apresentar perante a congregação."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

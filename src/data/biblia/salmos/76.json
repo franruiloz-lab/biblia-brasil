@@ -1,0 +1,126 @@
+{
+  "livro": "salmos",
+  "livroNome": "Salmos",
+  "capitulo": 76,
+  "testamento": "AT",
+  "titulo": "",
+  "autor": "Davi e outros",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "Conhecido é Deus em Judá, grande é o seu nome em Israel."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "Em Salém está a sua tenda, e a sua morada em Sião."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "Ali quebrou ele as flechas do arco, o escudo, a espada, e a guerra."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "Glorioso és tu, mais majestoso do que os montes eternos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "Os ousados de coração foram despojados; dormiram o seu último sono; nenhum dos homens de força pôde usar as mãos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "À tua repreensão, ó Deus de Jacó, cavaleiros e cavalos ficaram estirados sem sentidos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "Tu, sim, tu és tremendo; e quem subsistirá à tua vista, quando te irares?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "Desde o céu fizeste ouvir o teu juízo; a terra tremeu e se aquietou,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 9,
+      "versoes": {
+        "ARC": "quando Deus se levantou para julgar, para salvar a todos os mansos da terra."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 10,
+      "versoes": {
+        "ARC": "Na verdade a cólera do homem redundará em teu louvor, e do restante da cólera tu te cingirás."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 11,
+      "versoes": {
+        "ARC": "Fazei votos, e pagai-os ao Senhor, vosso Deus; tragam presentes, os que estão em redor dele, àquele que deve ser temido."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 12,
+      "versoes": {
+        "ARC": "Ele ceifará o espírito dos príncipes; é tremendo para com os reis da terra."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

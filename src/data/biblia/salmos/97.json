@@ -1,0 +1,126 @@
+{
+  "livro": "salmos",
+  "livroNome": "Salmos",
+  "capitulo": 97,
+  "testamento": "AT",
+  "titulo": "",
+  "autor": "Davi e outros",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "O Senhor reina, regozije-se a terra; alegrem-se as numerosas ilhas."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "Nuvens e escuridão estão ao redor dele; justiça e eqüidade são a base do seu trono."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "Adiante dele vai um fogo que abrasa os seus inimigos em redor."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "Os seus relâmpagos alumiam o mundo; a terra os vê e treme."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "Os montes, como cerca, se derretem na presença do Senhor, na presença do Senhor de toda a terra."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "Os céus anunciam a sua justiça, e todos os povos vêem a sua glória."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "Confundidos são todos os que servem imagens esculpidas, que se gloriam de ídolos; prostrai-vos diante dele, todos os deuses."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "Sião ouve e se alegra, e regozijam-se as filhas de Judá por causa dos teus juízos, Senhor."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 9,
+      "versoes": {
+        "ARC": "Pois tu, Senhor, és o Altíssimo sobre toda a terra; tu és sobremodo exaltado acima de todos os deuses."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 10,
+      "versoes": {
+        "ARC": "O Senhor ama aos que odeiam o mal; ele preserva as almas dos seus santos, ele os livra das mãos dos ímpios."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 11,
+      "versoes": {
+        "ARC": "A luz é semeada para o justo, e a alegria para os retos de coração."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 12,
+      "versoes": {
+        "ARC": "Alegrai-vos, ó justos, no Senhor, e rendei graças ao seu santo nome."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

@@ -1,0 +1,160 @@
+{
+  "livro": "efesios",
+  "livroNome": "Efésios",
+  "capitulo": 6,
+  "testamento": "NT",
+  "titulo": "A armadura de Deus",
+  "autor": "Paulo (apóstolo)",
+  "versiculos": [
+    {
+      "numero": 10,
+      "versoes": {
+        "ARC": "Quanto ao mais, irmãos meus, fortalecei-vos no Senhor e na força do seu poder.",
+        "NVI-PT": "Finalmente, fortaleçam-se no Senhor e no seu grande poder.",
+        "NTLH": "Para terminar: fortaleçam-se no Senhor e no poder da sua força.",
+        "NVT": "Finalmente, fortaleçam-se no Senhor e no seu grande poder."
+      },
+      "temas": ["forca", "dependencia-de-deus", "guerra-espiritual"],
+      "versiculosRelacionados": ["filipenses/4/13", "isaias/40/31"],
+      "faq": []
+    },
+    {
+      "numero": 11,
+      "versoes": {
+        "ARC": "Revesti-vos de toda a armadura de Deus, para que possais estar firmes contra as astutas ciladas do diabo.",
+        "NVI-PT": "Vistam toda a armadura de Deus para que possam firmar-se contra as ciladas do diabo.",
+        "NTLH": "Usem toda a armadura que Deus fornece, para que vocês possam resistir às artimanhas do diabo.",
+        "NVT": "Revistam-se com toda a armadura de Deus para que possam resistir às ciladas do diabo."
+      },
+      "temas": ["armadura-de-deus", "guerra-espiritual", "protecao", "diabo"],
+      "versiculosRelacionados": ["efesios/6/13", "1-pedro/5/8", "tiago/4/7"],
+      "faq": [
+        {
+          "pergunta": "O que é a armadura de Deus em Efésios 6:11?",
+          "resposta": "Paulo usa a metáfora de um soldado romano — a figura militar mais poderosa da época — para descrever os recursos espirituais que Deus coloca à disposição do crente. A 'armadura de Deus' não é algo que fabricamos, mas que Deus fornece (v. 11: 'a armadura de Deus'). Ela cobre todas as dimensões da vida espiritual: a mente, o coração, os pés, a fé e a Palavra. Cada peça corresponde a uma fraqueza humana que o inimigo explora."
+        },
+        {
+          "pergunta": "O que são as 'ciladas do diabo' em Efésios 6:11?",
+          "resposta": "A palavra grega 'methodeia' (origem da palavra 'método') indica estratégias calculadas e sistemáticas — não ataques casuais, mas planos elaborados. Paulo reconhece que o adversário não age aleatoriamente: ele estuda, planeja e ataca os pontos vulneráveis. A boa notícia é que Deus equipou os crentes com uma armadura desenhada especificamente para resistir a essas estratégias."
+        }
+      ]
+    },
+    {
+      "numero": 12,
+      "versoes": {
+        "ARC": "Porque não temos que lutar contra a carne e o sangue, mas contra os principados, contra as potestades, contra os príncipes das trevas desta era, contra as hostes espirituais da maldade nos lugares celestiais.",
+        "NVI-PT": "Pois nossa luta não é contra o sangue e a carne, mas contra os principados, contra as potestades, contra os príncipes das trevas desta era, contra as hostes espirituais da maldade nos lugares celestiais.",
+        "NTLH": "Porque não estamos lutando contra seres humanos, mas contra os poderes e autoridades, contra os príncipes das trevas que governam este mundo, contra as hostes espirituais do mal no mundo celestial.",
+        "NVT": "Pois nossa luta não é contra seres humanos, mas contra os principados, contra as potestades, contra os príncipes das trevas desta era, contra as hostes espirituais da maldade nos lugares celestiais."
+      },
+      "temas": ["guerra-espiritual", "mundo-espiritual", "inimigo"],
+      "versiculosRelacionados": [],
+      "faq": [
+        {
+          "pergunta": "O que Paulo quis dizer com 'não lutamos contra carne e sangue'?",
+          "resposta": "Paulo reorienta a perspectiva do crente: o verdadeiro adversário não é a pessoa que o maltratou, o sistema político corrupto ou as circunstâncias adversas — por trás dessas realidades visíveis há forças espirituais que as impulsionam. Isso não nega a realidade do mal humano, mas nos impede de travar batalhas apenas no nível físico enquanto ignoramos a dimensão espiritual. A solução não é apenas estratégia humana, mas oração, Palavra e dependência de Deus."
+        }
+      ]
+    },
+    {
+      "numero": 13,
+      "versoes": {
+        "ARC": "Portanto, tomai toda a armadura de Deus, para que possais resistir no dia mau e, havendo feito tudo, ficar firmes.",
+        "NVI-PT": "Portanto, vistam toda a armadura de Deus para que, quando vier o dia mau, vocês possam resistir, e depois de terem feito tudo, permanecer de pé.",
+        "NTLH": "Por isso, usem toda a armadura que Deus fornece, para que no dia do mal vocês possam resistir e, depois de lutarem até o fim, permaneçam de pé.",
+        "NVT": "Portanto, vistam toda a armadura de Deus para que, quando vier o dia mau, vocês possam resistir e, depois de terem feito tudo, permanecer de pé."
+      },
+      "temas": ["perseveranca", "firmeza", "guerra-espiritual"],
+      "versiculosRelacionados": ["1-corintios/16/13", "1-pedro/5/9"],
+      "faq": []
+    },
+    {
+      "numero": 14,
+      "versoes": {
+        "ARC": "Estai, pois, firmes, tendo cingidos os vossos lombos com a verdade, e vestidos da couraça da justiça,",
+        "NVI-PT": "Portanto, mantenham-se firmes, com o cinto da verdade cingindo os seus lombos, vestidos com a couraça da justiça,",
+        "NTLH": "Fiquem firmes, pois. Tenham a verdade como o cinto em volta da cintura e a justiça como couraça para proteger o peito.",
+        "NVT": "Portanto, fiquem firmes, com o cinto da verdade cingindo os seus lombos, vestidos com a couraça da justiça,"
+      },
+      "temas": ["verdade", "justica", "armadura-de-deus"],
+      "versiculosRelacionados": [],
+      "faq": [
+        {
+          "pergunta": "O que é o 'cinto da verdade' em Efésios 6:14?",
+          "resposta": "No uniforme do soldado romano, o cinto (cingulum) era a peça central — ele prendia todas as outras. Sem ele, a armadura ficava frouxa e ineficaz. Paulo usa essa imagem para dizer que a verdade é o fundamento de toda a vida espiritual. O diabo é chamado de 'pai da mentira' (João 8:44) — sua arma primária é a distorção da realidade. O crente que vive na verdade — da Palavra, dos relacionamentos, da identidade em Cristo — fica protegido contra as principais estratégias do inimigo."
+        }
+      ]
+    },
+    {
+      "numero": 15,
+      "versoes": {
+        "ARC": "e calçados os pés na preparação do evangelho da paz;",
+        "NVI-PT": "tendo os pés calçados com a prontidão que vem do evangelho da paz.",
+        "NTLH": "Calcem nos pés a prontidão para anunciar o Evangelho da paz.",
+        "NVT": "tendo os pés calçados com a prontidão que vem do evangelho da paz."
+      },
+      "temas": ["evangelismo", "paz", "armadura-de-deus"],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 16,
+      "versoes": {
+        "ARC": "Além de tudo isso, tomai o escudo da fé, com o qual podereis apagar todos os dardos inflamados do maligno.",
+        "NVI-PT": "Além de tudo isso, tomem o escudo da fé, com o qual poderão apagar todos os dardos flamejantes do Maligno.",
+        "NTLH": "Em tudo isso, usem a fé como escudo, com o qual vocês poderão apagar todas as flechas em chamas que o Maligno lança contra vocês.",
+        "NVT": "Além de tudo isso, tomem o escudo da fé, com o qual poderão apagar todos os dardos flamejantes do Maligno."
+      },
+      "temas": ["fe", "armadura-de-deus", "protecao"],
+      "versiculosRelacionados": ["hebreus/11/1", "1-joao/5/4"],
+      "faq": [
+        {
+          "pergunta": "O que são os 'dardos inflamados do maligno' em Efésios 6:16?",
+          "resposta": "Os dardos flamejantes (béloi pepyromenoi) eram flechas embebidas em piche e fogo, usadas para incendiar — não apenas ferir, mas devastar. Espiritualmente, representam os pensamentos, dúvidas e acusações que o inimigo lança contra o crente: 'Deus não te ama', 'você nunca vai mudar', 'isso não vai funcionar'. O escudo da fé não é uma negação da realidade, mas a confiança ativa em quem Deus é — que extingue essas flechas antes que causem incêndio interior."
+        }
+      ]
+    },
+    {
+      "numero": 17,
+      "versoes": {
+        "ARC": "Tomai também o capacete da salvação e a espada do Espírito, que é a palavra de Deus,",
+        "NVI-PT": "Tomem o capacete da salvação e a espada do Espírito, que é a palavra de Deus.",
+        "NTLH": "E recebam a salvação como capacete e a palavra de Deus como a espada que o Espírito lhes dá.",
+        "NVT": "Tomem o capacete da salvação e a espada do Espírito, que é a palavra de Deus."
+      },
+      "temas": ["salvacao", "palavra-de-deus", "armadura-de-deus", "espirito-santo"],
+      "versiculosRelacionados": ["hebreus/4/12", "salmos/119/11"],
+      "faq": [
+        {
+          "pergunta": "Por que a Palavra de Deus é chamada de 'espada do Espírito' em Efésios 6:17?",
+          "resposta": "É a única peça ofensiva da armadura — todas as outras são defensivas. A espada (machaira) era a arma de combate próximo do soldado romano. Jesus mesmo usou a Palavra como arma contra Satanás no deserto ('Está escrito...' — Mateus 4:1-11). A Palavra de Deus não é apenas conforto ou instrução — é uma arma espiritual ativa que 'discerne os pensamentos e intenções do coração' (Hebreus 4:12). Um cristão que não conhece a Escritura entra em batalha desarmado."
+        }
+      ]
+    },
+    {
+      "numero": 18,
+      "versoes": {
+        "ARC": "Orando em todo o tempo com toda oração e súplica no Espírito, e vigiando nisto com toda a perseverança e súplica por todos os santos,",
+        "NVI-PT": "orando em todo tempo no Espírito com todo tipo de oração e súplica. Com esse objetivo, fiquem alertas, perseverando em oração por todos os santos.",
+        "NTLH": "Façam tudo isso em oração, pedindo a ajuda de Deus. Orem sempre, com toda espécie de orações e pedidos, guiados pelo Espírito. Mantenham-se alertas, com toda perseverança, orando por todos os irmãos e irmãs na fé.",
+        "NVT": "orando em todo tempo no Espírito com toda oração e súplica. Com esse objetivo, fiquem alertas, perseverando em oração por todos os santos."
+      },
+      "temas": ["oracao", "perseveranca", "espirito-santo", "vigilancia"],
+      "versiculosRelacionados": ["1-tessalonicenses/5/17", "lucas/18/1"],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "Efésios 6:10-18 — a passagem da 'armadura de Deus' — é um dos textos mais amados e estudados do Novo Testamento. Com mais de 15.000 buscas mensais no Brasil, ela ressoa especialmente em momentos de batalha espiritual, ansiedade e adversidade. Paulo encerra sua carta aos Efésios com esta imagem poderosa: o crente como soldado equipado por Deus para enfrentar batalhas que vão além do visível.",
+    "contexto": "Paulo escreveu Efésios provavelmente de Roma, enquanto estava preso — cercado literalmente por soldados romanos com armadura completa. A metáfora não é acadêmica: é uma observação direta, transformada em teologia viva. Cada peça da armadura romana recebe um equivalente espiritual, formando um retrato completo de como o crente deve se posicionar diante da vida.",
+    "aplicacao": "No Brasil de hoje, onde ansiedade, opressão espiritual e ataques contra a fé são realidades cotidianas, Efésios 6:10-18 oferece uma perspectiva transformadora: o problema não é apenas o que vejo, mas o que está por trás do que vejo. E a solução não é apenas esforço humano, mas equipar-se com o que Deus já forneceu. A armadura já está disponível — a questão é se o crente a veste diariamente."
+  },
+  "versiculosDestaque": [11, 13, 16, 17],
+  "temas": ["armadura-de-deus", "guerra-espiritual", "protecao", "fe", "palavra-de-deus"],
+  "versiculosRelacionadosExternos": [
+    { "ref": "1-pedro/5/8", "texto": "1 Pedro 5:8 — O diabo anda em derredor como leão que ruge" },
+    { "ref": "tiago/4/7", "texto": "Tiago 4:7 — Resistí ao diabo e ele fugirá de vós" },
+    { "ref": "romanos/8/37", "texto": "Romanos 8:37 — Somos mais que vencedores por meio daquele que nos amou" },
+    { "ref": "filipenses/4/13", "texto": "Filipenses 4:13 — Posso fazer todas as coisas por meio de Cristo" }
+  ]
+}

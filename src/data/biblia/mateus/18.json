@@ -1,0 +1,333 @@
+{
+  "livro": "mateus",
+  "livroNome": "Mateus",
+  "capitulo": 18,
+  "testamento": "NT",
+  "titulo": "",
+  "autor": "Mateus (apóstolo)",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "Naquela hora chegaram-se a Jesus os discípulos e perguntaram: Quem é o maior no reino dos céus?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "Jesus, chamando uma criança, colocou-a no meio deles,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "e disse: Em verdade vos digo que se não vos converterdes e não vos fizerdes como crianças, de modo algum entrareis no reino dos céus."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "Portanto, quem se tornar humilde como esta criança, esse é o maior no reino dos céus."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "E qualquer que receber em meu nome uma criança tal como esta, a mim me recebe."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "Mas qualquer que fizer tropeçar um destes pequeninos que crêem em mim, melhor lhe fora que se lhe pendurasse ao pescoço uma pedra de moinho, e se submergisse na profundeza do mar."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "Ai do mundo, por causa dos tropeços! pois é inevitável que venham; mas ai do homem por quem o tropeço vier!"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "Se, pois, a tua mão ou o teu pé te fizer tropeçar, corta-o, lança-o de ti; melhor te é entrar na vida aleijado, ou coxo, do que, tendo duas mãos ou dois pés, ser lançado no fogo eterno."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 9,
+      "versoes": {
+        "ARC": "E, se teu olho te fizer tropeçar, arranca-o, e lança-o de ti; melhor te é entrar na vida com um só olho, do que tendo dois olhos, ser lançado no inferno de fogo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 10,
+      "versoes": {
+        "ARC": "Vede, não desprezeis a nenhum destes pequeninos; pois eu vos digo que os seus anjos nos céus sempre vêm a face de meu Pai, que está nos céus."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 11,
+      "versoes": {
+        "ARC": "{Porque o Filho do homem veio salvar o que se havia perdido.}"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 12,
+      "versoes": {
+        "ARC": "Que vos parece? Se alguém tiver cem ovelhas, e uma delas se extraviar, não deixará as noventa e nove nos montes para ir buscar a que se extraviou?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 13,
+      "versoes": {
+        "ARC": "E, se acontecer achá-la, em verdade vos digo que maior prazer tem por esta do que pelas noventa e nove que não se extraviaram."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 14,
+      "versoes": {
+        "ARC": "Assim também não é da vontade de vosso Pai que está nos céus, que venha a perecer um só destes pequeninos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 15,
+      "versoes": {
+        "ARC": "Ora, se teu irmão pecar, vai, e repreende-o entre ti e ele só; se te ouvir, terás ganho teu irmão;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 16,
+      "versoes": {
+        "ARC": "mas se não te ouvir, leva ainda contigo um ou dois, para que pela boca de duas ou três testemunhas toda palavra seja confirmada."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 17,
+      "versoes": {
+        "ARC": "Se recusar ouvi-los, dize-o à igreja; e, se também recusar ouvir a igreja, considera-o como gentio e publicano."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 18,
+      "versoes": {
+        "ARC": "Em verdade vos digo: Tudo quanto ligardes na terra será ligado no céu; e tudo quanto desligardes na terra será desligado no céu."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 19,
+      "versoes": {
+        "ARC": "Ainda vos digo mais: Se dois de vós na terra concordarem acerca de qualquer coisa que pedirem, isso lhes será feito por meu Pai, que está nos céus."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 20,
+      "versoes": {
+        "ARC": "Pois onde se acham dois ou três reunidos em meu nome, aí estou eu no meio deles."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 21,
+      "versoes": {
+        "ARC": "Então Pedro, aproximando-se dele, lhe perguntou: Senhor, até quantas vezes pecará meu irmão contra mim, e eu hei de perdoar? Até sete?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 22,
+      "versoes": {
+        "ARC": "Respondeu-lhe Jesus: Não te digo que até sete; mas até setenta vezes sete."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 23,
+      "versoes": {
+        "ARC": "Por isso o reino dos céus é comparado a um rei que quis tomar contas a seus servos;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 24,
+      "versoes": {
+        "ARC": "e, tendo começado a tomá-las, foi-lhe apresentado um que lhe devia dez mil talentos;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 25,
+      "versoes": {
+        "ARC": "mas não tendo ele com que pagar, ordenou seu senhor que fossem vendidos, ele, sua mulher, seus filhos, e tudo o que tinha, e que se pagasse a dívida."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 26,
+      "versoes": {
+        "ARC": "Então aquele servo, prostrando-se, o reverenciava, dizendo: Senhor, tem paciência comigo, que tudo te pagarei."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 27,
+      "versoes": {
+        "ARC": "O senhor daquele servo, pois, movido de compaixão, soltou-o, e perdoou-lhe a dívida."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 28,
+      "versoes": {
+        "ARC": "Saindo, porém, aquele servo, encontrou um dos seus conservos, que lhe devia cem denários; e, segurando-o, o sufocava, dizendo: Paga o que me deves."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 29,
+      "versoes": {
+        "ARC": "Então o seu companheiro, caindo-lhe aos pés, rogava-lhe, dizendo: Tem paciência comigo, que te pagarei."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 30,
+      "versoes": {
+        "ARC": "Ele, porém, não quis; antes foi encerrá-lo na prisão, até que pagasse a dívida."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 31,
+      "versoes": {
+        "ARC": "Vendo, pois, os seus conservos o que acontecera, contristaram-se grandemente, e foram revelar tudo isso ao seu senhor."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 32,
+      "versoes": {
+        "ARC": "Então o seu senhor, chamando-o á sua presença, disse-lhe: Servo malvado, perdoei-te toda aquela dívida, porque me suplicaste;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 33,
+      "versoes": {
+        "ARC": "não devias tu também ter compaixão do teu companheiro, assim como eu tive compaixão de ti?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 34,
+      "versoes": {
+        "ARC": "E, indignado, o seu senhor o entregou aos verdugos, até que pagasse tudo o que lhe devia."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 35,
+      "versoes": {
+        "ARC": "Assim vos fará meu Pai celestial, se de coração não perdoardes, cada um a seu irmão."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

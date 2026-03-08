@@ -1,0 +1,486 @@
+{
+  "livro": "salmos",
+  "livroNome": "Salmos",
+  "capitulo": 89,
+  "testamento": "AT",
+  "titulo": "",
+  "autor": "Davi e outros",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "Cantarei para sempre as benignidades do Senhor; com a minha boca proclamarei a todas as gerações a tua fidelidade."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "Digo, pois: A tua benignidade será renovada para sempre; tu confirmarás a tua fidelidade até nos céus, dizendo:"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "Fiz um pacto com o meu escolhido; jurei ao meu servo Davi:"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "Estabelecerei para sempre a tua descendência, e firmarei o teu trono por todas as gerações."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "Os céus louvarão as tuas maravilhas, ó Senhor, e a tua fidelidade na assembléia dos santos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "Pois quem no firmamento se pode igualar ao Senhor? Quem entre os filhos de Deus é semelhante ao Senhor,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "um Deus sobremodo tremendo na assembléia dos santos, e temível mais do que todos os que estão ao seu redor?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "Ó Senhor, Deus dos exércitos, quem é poderoso como tu, Senhor, com a tua fidelidade ao redor de ti?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 9,
+      "versoes": {
+        "ARC": "Tu dominas o ímpio do mar; quando as suas ondas se levantam tu as fazes aquietar."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 10,
+      "versoes": {
+        "ARC": "Tu abateste a Raabe como se fora ferida de morte; com o teu braço poderoso espalhaste os teus inimigos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 11,
+      "versoes": {
+        "ARC": "São teus os céus, e tua é a terra; o mundo e a sua plenitude, tu os fundaste."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 12,
+      "versoes": {
+        "ARC": "O norte e o sul, tu os criaste; o Tabor e o Hermom regozijam-se em teu nome."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 13,
+      "versoes": {
+        "ARC": "Tu tens um braço poderoso; forte é a tua mão, e elevado a tua destra."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 14,
+      "versoes": {
+        "ARC": "Justiça e juízo são a base do teu trono; benignidade e verdade vão adiante de ti."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 15,
+      "versoes": {
+        "ARC": "Bem-aventurado o povo que conhece o som festivo, que anda, ó Senhor, na luz da tua face,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 16,
+      "versoes": {
+        "ARC": "que se regozija em teu nome todo o dia, e na tua justiça é exaltado."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 17,
+      "versoes": {
+        "ARC": "Pois tu és a glória da sua força; e pelo teu favor será exaltado o nosso poder."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 18,
+      "versoes": {
+        "ARC": "Porque o Senhor é o nosso escudo, e o Santo de Israel é o nosso Rei."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 19,
+      "versoes": {
+        "ARC": "Naquele tempo falaste em visão ao teu santo, e disseste: Coloquei a coroa num homem poderoso; exaltei um escolhido dentre o povo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 20,
+      "versoes": {
+        "ARC": "Achei Davi, meu servo; com o meu santo óleo o ungi."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 21,
+      "versoes": {
+        "ARC": "A minha mão será sempre com ele, e o meu braço o fortalecerá."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 22,
+      "versoes": {
+        "ARC": "O inimigo não o surpreenderá, nem o filho da perversidade o afligirá."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 23,
+      "versoes": {
+        "ARC": "Eu esmagarei diante dele os seus adversários, e aos que o odeiam abaterei."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 24,
+      "versoes": {
+        "ARC": "A minha fidelidade, porém, e a minha benignidade estarão com ele, e em meu nome será exaltado o seu poder."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 25,
+      "versoes": {
+        "ARC": "Porei a sua mão sobre o mar, e a sua destra sobre os rios."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 26,
+      "versoes": {
+        "ARC": "Ele me invocará, dizendo: Tu és meu pai, meu Deus, e a rocha da minha salvação."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 27,
+      "versoes": {
+        "ARC": "Também lhe darei o lugar de primogênito; fá-lo-ei o mais excelso dos reis da terra."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 28,
+      "versoes": {
+        "ARC": "Conservar-lhe-ei para sempre a minha benignidade, e o meu pacto com ele ficará firme."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 29,
+      "versoes": {
+        "ARC": "Farei que subsista para sempre a sua descendência, e o seu trono como os dias dos céus."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 30,
+      "versoes": {
+        "ARC": "Se os seus filhos deixarem a minha lei, e não andarem nas minhas ordenanças,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 31,
+      "versoes": {
+        "ARC": "se profanarem os meus preceitos, e não guardarem os meus mandamentos,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 32,
+      "versoes": {
+        "ARC": "então visitarei com vara a sua transgressão, e com açoites a sua iniqüidade."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 33,
+      "versoes": {
+        "ARC": "Mas não lhe retirarei totalmente a minha benignidade, nem faltarei com a minha fidelidade."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 34,
+      "versoes": {
+        "ARC": "Não violarei o meu pacto, nem alterarei o que saiu dos meus lábios."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 35,
+      "versoes": {
+        "ARC": "Uma vez para sempre jurei por minha santidade; não mentirei a Davi."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 36,
+      "versoes": {
+        "ARC": "A sua descendência subsistirá para sempre, e o seu trono será como o sol diante de mim;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 37,
+      "versoes": {
+        "ARC": "será estabelecido para sempre como a lua, e ficará firme enquanto o céu durar."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 38,
+      "versoes": {
+        "ARC": "Mas tu o repudiaste e rejeitaste, tu estás indignado contra o teu ungido."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 39,
+      "versoes": {
+        "ARC": "Desprezaste o pacto feito com teu servo; profanaste a sua coroa, arrojando-a por terra."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 40,
+      "versoes": {
+        "ARC": "Derribaste todos os seus muros; arruinaste as suas fortificações."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 41,
+      "versoes": {
+        "ARC": "Todos os que passam pelo caminho o despojam; tornou-se objeto de opróbrio para os seus vizinhos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 42,
+      "versoes": {
+        "ARC": "Exaltaste a destra dos seus adversários; fizeste com que todos os seus inimigos se regozijassem."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 43,
+      "versoes": {
+        "ARC": "Embotaste o fio da sua espada, e não o sustentaste na peleja;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 44,
+      "versoes": {
+        "ARC": "fizeste cessar o seu esplendor, e arrojaste por terra o seu trono;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 45,
+      "versoes": {
+        "ARC": "abreviaste os dias da sua mocidade; cobriste-o de vergonha."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 46,
+      "versoes": {
+        "ARC": "Até quando, Senhor? Esconder-te-ás para sempre? Até quando arderá a tua ira como fogo?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 47,
+      "versoes": {
+        "ARC": "Lembra-te de quão breves são os meus dias; de quão efêmeros criaste todos os filhos dos homens!"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 48,
+      "versoes": {
+        "ARC": "Que homem há que viva e não veja a morte? ou que se livre do poder do Seol?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 49,
+      "versoes": {
+        "ARC": "Senhor, onde estão as tuas antigas benignidades, que juraste a Davi na tua fidelidade?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 50,
+      "versoes": {
+        "ARC": "Lembre-te, Senhor, do opróbrio dos teus servos; e de como trago no meu peito os insultos de todos os povos poderosos,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 51,
+      "versoes": {
+        "ARC": "com que os teus inimigos, ó Senhor, têm difamado, com que têm difamado os passos do teu ungido."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 52,
+      "versoes": {
+        "ARC": "Bendito seja o Senhor para sempre. Amém e amém."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

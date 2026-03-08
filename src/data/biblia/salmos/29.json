@@ -1,0 +1,117 @@
+{
+  "livro": "salmos",
+  "livroNome": "Salmos",
+  "capitulo": 29,
+  "testamento": "AT",
+  "titulo": "",
+  "autor": "Davi e outros",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "Tributai ao Senhor, ó filhos dos poderosos, tributai ao Senhor glória e força."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "Tributai ao Senhor a glória devida ao seu nome; adorai o Senhor vestidos de trajes santos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "A voz do Senhor ouve-se sobre as águas; o Deus da glória troveja; o Senhor está sobre as muitas águas."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "A voz do Senhor é poderosa; a voz do Senhor é cheia de majestade."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "A voz do Senhor quebra os cedros; sim, o Senhor quebra os cedros do Líbano."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "Ele faz o Líbano saltar como um bezerro; e Siriom, como um filhote de boi selvagem."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "A voz do Senhor lança labaredas de fogo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "A voz do Senhor faz tremer o deserto; o Senhor faz tremer o deserto de Cades."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 9,
+      "versoes": {
+        "ARC": "A voz do Senhor faz as corças dar à luz, e desnuda as florestas; e no seu templo todos dizem: Glória!"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 10,
+      "versoes": {
+        "ARC": "O Senhor está entronizado sobre o dilúvio; o Senhor se assenta como rei, perpetuamente."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 11,
+      "versoes": {
+        "ARC": "O Senhor dará força ao seu povo; o Senhor abençoará o seu povo com paz."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

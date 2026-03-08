@@ -1,0 +1,279 @@
+{
+  "livro": "proverbios",
+  "livroNome": "Provérbios",
+  "capitulo": 22,
+  "testamento": "AT",
+  "titulo": "",
+  "autor": "Salomão e outros",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "Mais digno de ser escolhido é o bom nome do que as muitas riquezas; e o favor é melhor do que a prata e o ouro."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "O rico e o pobre se encontram; quem os faz a ambos é o Senhor."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "O prudente vê o perigo e esconde-se; mas os simples passam adiante e sofrem a pena."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "O galardão da humildade e do temor do Senhor é riquezas, e honra e vida."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "Espinhos e laços há no caminho do perverso; o que guarda a sua alma retira-se para longe deles."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "Instrui o menino no caminho em que deve andar, e até quando envelhecer não se desviará dele."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "O rico domina sobre os pobres; e o que toma emprestado é servo do que empresta."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "O que semear a perversidade segará males; e a vara da sua indignação falhará."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 9,
+      "versoes": {
+        "ARC": "Quem vê com olhos bondosos será abençoado; porque dá do seu pão ao pobre."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 10,
+      "versoes": {
+        "ARC": "Lança fora ao escarnecedor, e a contenda se irá; cessarão a rixa e a injúria."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 11,
+      "versoes": {
+        "ARC": "O que ama a pureza do coração, e que tem graça nos seus lábios, terá por seu amigo o rei."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 12,
+      "versoes": {
+        "ARC": "Os olhos do Senhor preservam o que tem conhecimento; mas ele transtorna as palavras do prevaricador."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 13,
+      "versoes": {
+        "ARC": "Diz o preguiçoso: um leão está lá fora; serei morto no meio das ruas."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 14,
+      "versoes": {
+        "ARC": "Cova profunda é a boca da adúltera; aquele contra quem o Senhor está irado cairá nela."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 15,
+      "versoes": {
+        "ARC": "A estultícia está ligada ao coração do menino; mas a vara da correção a afugentará dele."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 16,
+      "versoes": {
+        "ARC": "O que para aumentar o seu lucro oprime o pobre, e dá ao rico, certamente chegará à: penúria."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 17,
+      "versoes": {
+        "ARC": "Inclina o teu ouvido e ouve as palavras dos sábios, e aplica o teu coração ao meu conhecimento."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 18,
+      "versoes": {
+        "ARC": "Porque será coisa suave, se os guardares no teu peito, se estiverem todos eles prontos nos teus lábios."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 19,
+      "versoes": {
+        "ARC": "Para que a tua confiança esteja no senhor, a ti tos fiz saber hoje, sim, a ti mesmo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 20,
+      "versoes": {
+        "ARC": "Porventura não te escrevi excelentes coisas acerca dos conselhos e do conhecimento,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 21,
+      "versoes": {
+        "ARC": "para te fazer saber a certeza das palavras de verdade, para que possas responder com palavras de verdade aos que te enviarem?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 22,
+      "versoes": {
+        "ARC": "Não roubes ao pobre, porque é pobre; nem oprimas ao aflito na porta;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 23,
+      "versoes": {
+        "ARC": "porque o Senhor defenderá a sua causa em juízo, e aos que os roubam lhes tirará a vida."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 24,
+      "versoes": {
+        "ARC": "Não faças amizade com o iracundo; nem andes com o homem colérico;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 25,
+      "versoes": {
+        "ARC": "para que não aprendas as suas veredas, e tomes um laço para a tua alma."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 26,
+      "versoes": {
+        "ARC": "Não estejas entre os que se comprometem, que ficam por fiadores de dívidas."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 27,
+      "versoes": {
+        "ARC": "Se não tens com que pagar, por que tirariam a tua cama de debaixo de ti?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 28,
+      "versoes": {
+        "ARC": "Não removas os limites antigos que teus pais fixaram."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 29,
+      "versoes": {
+        "ARC": "Vês um homem hábil na sua obrar? esse perante reis assistirá; e não assistirá perante homens obscuros."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

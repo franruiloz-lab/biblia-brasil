@@ -1,0 +1,576 @@
+{
+  "livro": "lucas",
+  "livroNome": "Lucas",
+  "capitulo": 9,
+  "testamento": "NT",
+  "titulo": "",
+  "autor": "Lucas (médico)",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "Reunindo os doze, deu-lhes poder e autoridade sobre todos os demônios, e para curarem doenças;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "e enviou-os a pregar o reino de Deus, e fazer curas,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "dizendo-lhes: Nada leveis para o caminho, nem bordão, nem alforje, nem pão, nem dinheiro; nem tenhais duas túnicas."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "Em qualquer casa em que entrardes, nela ficai, e dali partireis."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "Mas, onde quer que não vos receberem, saindo daquela cidade, sacudi o pó dos vossos pés, em testemunho contra eles."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "Saindo, pois, os discípulos percorreram as aldeias, anunciando o evangelho e fazendo curas por toda parte."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "Ora, o tetrarca Herodes soube de tudo o que se passava, e ficou muito perplexo, porque diziam uns: João ressuscitou dos mortos;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "outros: Elias apareceu; e outros: Um dos antigos profetas se levantou."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 9,
+      "versoes": {
+        "ARC": "Herodes, porém, disse: A João eu mandei degolar; quem é, pois, este a respeito de quem ouço tais coisas? E procurava vê-lo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 10,
+      "versoes": {
+        "ARC": "Quando os apóstolos voltaram, contaram-lhe tudo o que havia feito. E ele, levando-os consigo, retirou-se à parte para uma cidade chamada Betsaida."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 11,
+      "versoes": {
+        "ARC": "Mas as multidões, percebendo isto, seguiram-no; e ele as recebeu, e falava-lhes do reino de Deus, e sarava os que necessitavam de cura."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 12,
+      "versoes": {
+        "ARC": "Ora, quando o dia começava a declinar, aproximando-se os doze, disseram-lhe: Despede a multidão, para que, indo às aldeias e aos sítios em redor, se hospedem, e achem o que comer; porque aqui estamos em lugar deserto."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 13,
+      "versoes": {
+        "ARC": "Mas ele lhes disse: Dai-lhes vós de comer. Responderam eles: Não temos senão cinco pães e dois peixes; salvo se nós formos comprar comida para todo este povo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 14,
+      "versoes": {
+        "ARC": "Pois eram cerca de cinco mil homens. Então disse a seus discípulos: Fazei-os reclinar-se em grupos de cerca de cinqüenta cada um."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 15,
+      "versoes": {
+        "ARC": "Assim o fizeram, mandando que todos se reclinassem."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 16,
+      "versoes": {
+        "ARC": "E tomando Jesus os cinco pães e os dois peixes, e olhando para o céu, os abençoou e partiu, e os entregava aos seus discípulos para os porem diante da multidão."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 17,
+      "versoes": {
+        "ARC": "Todos, pois, comeram e se fartaram; e foram levantados, do que lhes sobejou, doze cestos de pedaços."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 18,
+      "versoes": {
+        "ARC": "Enquanto ele estava orando à parte achavam-se com ele somente seus discípulos; e perguntou-lhes: Quem dizem as multidões que eu sou?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 19,
+      "versoes": {
+        "ARC": "Responderam eles: Uns dizem: João, o Batista; outros: Elias; e ainda outros, que um dos antigos profetas se levantou."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 20,
+      "versoes": {
+        "ARC": "Então lhes perguntou: Mas vós, quem dizeis que eu sou? Respondendo Pedro, disse: O Cristo de Deus."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 21,
+      "versoes": {
+        "ARC": "Jesus, porém, advertindo-os, mandou que não contassem isso a ninguém;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 22,
+      "versoes": {
+        "ARC": "e disse-lhes: É necessário que o Filho do homem padeça muitas coisas, que seja rejeitado pelos anciãos, pelos principais sacerdotes e escribas, que seja morto, e que ao terceiro dia ressuscite."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 23,
+      "versoes": {
+        "ARC": "Em seguida dizia a todos: Se alguém quer vir após mim, negue-se a si mesmo, tome cada dia a sua cruz, e siga-me."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 24,
+      "versoes": {
+        "ARC": "Pois quem quiser salvar a sua vida, perdê-la-á; mas quem perder a sua vida por amor de mim, esse a salvará."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 25,
+      "versoes": {
+        "ARC": "Pois, que aproveita ao homem ganhar o mundo inteiro, e perder-se, ou prejudicar-se a si mesmo?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 26,
+      "versoes": {
+        "ARC": "Porque, quem se envergonhar de mim e das minhas palavras, dele se envergonhará o Filho do homem, quando vier na sua glória, e na do Pai e dos santos anjos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 27,
+      "versoes": {
+        "ARC": "Mas em verdade vos digo: Alguns há, dos que estão aqui, que de modo nenhum provarão a morte até que vejam o reino de Deus."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 28,
+      "versoes": {
+        "ARC": "Cerca de oito dias depois de ter proferido essas palavras, tomou Jesus consigo a Pedro, a João e a Tiago, e subiu ao monte para orar."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 29,
+      "versoes": {
+        "ARC": "Enquanto ele orava, mudou-se a aparência do seu rosto, e a sua roupa tornou-se branca e resplandecente."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 30,
+      "versoes": {
+        "ARC": "E eis que estavam falando com ele dois varões, que eram Moisés e Elias,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 31,
+      "versoes": {
+        "ARC": "os quais apareceram com glória, e falavam da sua partida que estava para cumprir-se em Jerusalém."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 32,
+      "versoes": {
+        "ARC": "Ora, Pedro e os que estavam com ele se haviam deixado vencer pelo sono; despertando, porém, viram a sua glória e os dois varões que estavam com ele."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 33,
+      "versoes": {
+        "ARC": "E, quando estes se apartavam dele, disse Pedro a Jesus: Mestre, bom é estarmos nós aqui: façamos, pois, três cabanas, uma para ti, uma para Moisés, e uma para Elias, não sabendo o que dizia."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 34,
+      "versoes": {
+        "ARC": "Enquanto ele ainda falava, veio uma nuvem que os cobriu; e se atemorizaram ao entrarem na nuvem."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 35,
+      "versoes": {
+        "ARC": "E da nuvem saiu uma voz que dizia: Este é o meu Filho, o meu eleito; a ele ouvi."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 36,
+      "versoes": {
+        "ARC": "Ao soar esta voz, Jesus foi achado sozinho; e eles calaram-se, e por aqueles dias não contaram a ninguém nada do que tinham visto."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 37,
+      "versoes": {
+        "ARC": "No dia seguinte, quando desceram do monte, veio-lhe ao encontro uma grande multidão."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 38,
+      "versoes": {
+        "ARC": "E eis que um homem dentre a multidão clamou, dizendo: Mestre, peço-te que olhes para meu filho, porque é o único que tenho;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 39,
+      "versoes": {
+        "ARC": "pois um espírito se apodera dele, fazendo-o gritar subitamente, convulsiona-o até escumar e, mesmo depois de o ter quebrantado, dificilmente o larga."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 40,
+      "versoes": {
+        "ARC": "E roguei aos teus discípulos que o expulsassem, mas não puderam."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 41,
+      "versoes": {
+        "ARC": "Respondeu Jesus: ó geração incrédula e perversa! até quando estarei convosco e vos sofrerei? Traze-me cá o teu filho."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 42,
+      "versoes": {
+        "ARC": "Ainda quando ele vinha chegando, o demônio o derribou e o convulsionou; mas Jesus repreendeu o espírito imundo, curou o menino e o entregou a seu pai."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 43,
+      "versoes": {
+        "ARC": "E todos se maravilhavam da majestade de Deus. E admirando-se todos de tudo o que Jesus fazia, disse ele a seus discípulos:"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 44,
+      "versoes": {
+        "ARC": "Ponde vós estas palavras em vossos ouvidos; pois o Filho do homem está para ser entregue nas mãos dos homens."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 45,
+      "versoes": {
+        "ARC": "Eles, porém, não entendiam essa palavra, cujo sentido lhes era encoberto para que não o compreendessem; e temiam interrogá-lo a esse respeito."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 46,
+      "versoes": {
+        "ARC": "E suscitou-se entre eles uma discussão sobre qual deles seria o maior."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 47,
+      "versoes": {
+        "ARC": "Mas Jesus, percebendo o pensamento de seus corações, tomou uma criança, pô-la junto de si,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 48,
+      "versoes": {
+        "ARC": "e disse-lhes: Qualquer que receber esta criança em meu nome, a mim me recebe; e qualquer que me receber a mim, recebe aquele que me enviou; pois aquele que entre vós todos é o menor, esse é grande."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 49,
+      "versoes": {
+        "ARC": "Disse-lhe João: Mestre, vimos um homem que em teu nome expulsava demônios; e lho proibimos, porque não segue conosco."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 50,
+      "versoes": {
+        "ARC": "Respondeu-lhe Jesus: Não lho proibais; porque quem não é contra vós é por vós."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 51,
+      "versoes": {
+        "ARC": "Ora, quando se completavam os dias para a sua assunção, manifestou o firme propósito de ir a Jerusalém."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 52,
+      "versoes": {
+        "ARC": "Enviou, pois, mensageiros adiante de si. Indo eles, entraram numa aldeia de samaritanos para lhe prepararem pousada."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 53,
+      "versoes": {
+        "ARC": "Mas não o receberam, porque viajava em direção a Jerusalém."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 54,
+      "versoes": {
+        "ARC": "Vendo isto os discípulos Tiago e João, disseram: Senhor, queres que mandemos descer fogo do céu para os consumir {como Elias também fez?}"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 55,
+      "versoes": {
+        "ARC": "Ele porém, voltando-se, repreendeu-os, {e disse: Vós não sabeis de que espírito sois.}"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 56,
+      "versoes": {
+        "ARC": "{Pois o Filho do Homem não veio para destruir as vidas dos homens, mas para salvá-las.} E foram para outra aldeia."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 57,
+      "versoes": {
+        "ARC": "Quando iam pelo caminho, disse-lhe um homem: Seguir-te-ei para onde quer que fores."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 58,
+      "versoes": {
+        "ARC": "Respondeu-lhe Jesus: As raposas têm covis, e as aves do céu têm ninhos; mas o Filho do homem não tem onde reclinar a cabeça."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 59,
+      "versoes": {
+        "ARC": "E a outro disse: Segue-me. Ao que este respondeu: Permite-me ir primeiro sepultar meu pai."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 60,
+      "versoes": {
+        "ARC": "Replicou-lhe Jesus: Deixa os mortos sepultar os seus próprios mortos; tu, porém, vai e anuncia o reino de Deus."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 61,
+      "versoes": {
+        "ARC": "Disse também outro: Senhor, eu te seguirei, mas deixa-me despedir primeiro dos que estão em minha casa."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 62,
+      "versoes": {
+        "ARC": "Jesus, porém, lhe respondeu: Ninguém que lança mão do arado e olha para trás é apto para o reino de Deus."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

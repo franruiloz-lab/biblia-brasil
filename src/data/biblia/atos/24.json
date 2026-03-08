@@ -1,0 +1,261 @@
+{
+  "livro": "atos",
+  "livroNome": "Atos",
+  "capitulo": 24,
+  "testamento": "NT",
+  "titulo": "",
+  "autor": "Lucas (médico)",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "Cinco dias depois o sumo sacerdote Ananias desceu com alguns anciãos e um certo Tertulo, orador, os quais fizeram, perante o governador, queixa contra Paulo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "Sendo este chamado, Tertulo começou a acusá-lo, dizendo:"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "Visto que por ti gozamos de muita paz e por tua providência são continuamente feitas reformas nesta nação, em tudo e em todo lugar reconhecemo-lo com toda a gratidão, ó excelentíssimo Félix."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "Mas, para que não te detenha muito rogo-te que, conforme a tua eqüidade, nos ouças por um momento."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "Temos achado que este homem é uma peste, e promotor de sedições entre todos os judeus, por todo o mundo, e chefe da seita dos nazarenos;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "o qual tentou profanar o templo; e nós o prendemos, e conforme a nossa lei o quisemos julgar."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "Mas sobrevindo o comandante Lísias no-lo tirou dentre as mãos com grande violência,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "mandando aos acusadores que viessem a ti; e dele tu mesmo, examinando-o, poderás certificar-te de tudo aquilo de que o acusamos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 9,
+      "versoes": {
+        "ARC": "Os judeus também concordam na acusação, afirmando que estas coisas eram assim."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 10,
+      "versoes": {
+        "ARC": "Paulo, tendo-lhe o governador feito sinal que falasse, respondeu: Porquanto sei que há muitos anos és juiz sobre esta nação, com bom ânimo faço a minha defesa,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 11,
+      "versoes": {
+        "ARC": "pois bem podes verificar que não há mais de doze dias subi a Jerusalém para adorar,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 12,
+      "versoes": {
+        "ARC": "e que não me acharam no templo discutindo com alguém nem amotinando o povo, quer nas sinagogas quer na cidade."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 13,
+      "versoes": {
+        "ARC": "Nem te podem provar as coisas de que agora me acusam."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 14,
+      "versoes": {
+        "ARC": "Mas confesso-te isto: que, seguindo o caminho a que eles chamam seita, assim sirvo ao Deus de nossos pais, crendo tudo quanto está escrito na lei e nos profetas."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 15,
+      "versoes": {
+        "ARC": "Tendo esperança em Deus, como estes mesmos também esperam, de que há de haver ressurreição tanto dos justos como dos injustos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 16,
+      "versoes": {
+        "ARC": "Por isso procuro sempre ter uma consciência sem ofensas diante de Deus e dos homens."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 17,
+      "versoes": {
+        "ARC": "Vários anos depois vim trazer à minha nação esmolas e ofertas."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 18,
+      "versoes": {
+        "ARC": "Ocupado nestas coisas, me acharam já santificado no templo não em ajuntamento, nem com tumulto, alguns judeus da Ásia,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 19,
+      "versoes": {
+        "ARC": "os quais deviam comparecer diante de ti e acusar-me se tivessem alguma coisa contra mim;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 20,
+      "versoes": {
+        "ARC": "ou estes mesmos digam que iniqüidade acharam, quando compareci perante o sinédrio,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 21,
+      "versoes": {
+        "ARC": "a não ser acerca desta única palavra que, estando no meio deles, bradei: Por causa da ressurreição dos mortos é que hoje estou sendo julgado por vós."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 22,
+      "versoes": {
+        "ARC": "Félix, porém, que era bem informado a respeito do Caminho, adiou a questão, dizendo: Quando o comandante Lísias tiver descido, então tomarei inteiro conhecimento da vossa causa."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 23,
+      "versoes": {
+        "ARC": "E ordenou ao centurião que Paulo ficasse detido, mas fosse tratado com brandura e que a nenhum dos seus proibisse servi-lo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 24,
+      "versoes": {
+        "ARC": "Alguns dias depois, vindo Félix com sua mulher Drusila, que era judia, mandou chamar a Paulo, e ouviu-o acerca da fé em Cristo Jesus."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 25,
+      "versoes": {
+        "ARC": "E discorrendo ele sobre a justiça, o domínio próprio e o juízo vindouro, Félix ficou atemorizado e respondeu: Por ora vai-te, e quando tiver ocasião favorável, eu te chamarei."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 26,
+      "versoes": {
+        "ARC": "Esperava ao mesmo tempo que Paulo lhe desse dinheiro, pelo que o mandava chamar mais freqüentemente e conversava com ele."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 27,
+      "versoes": {
+        "ARC": "Mas passados dois anos, teve Félix por sucessor a Pórcio Festo; e querendo Félix agradar aos judeus, deixou a Paulo preso."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

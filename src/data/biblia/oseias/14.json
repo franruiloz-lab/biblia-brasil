@@ -1,0 +1,99 @@
+{
+  "livro": "oseias",
+  "livroNome": "Oseias",
+  "capitulo": 14,
+  "testamento": "AT",
+  "titulo": "",
+  "autor": "Oseias",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "Volta, ó Israel, para o Senhor teu Deus; porque pela tua iniqüidade tens caído."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "Tomai convosco palavras, e voltai para o Senhor; dizei-lhe: Tira toda a iniqüidade, e aceita o que é bom; e ofereceremos como novilhos os sacrifícios dos nossos lábios."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "Não nos salvará a Assíria, não iremos montados em cavalos; e à obra das nossas mãos já não diremos: Tu és o nosso Deus; porque em ti o órfão acha a misericórdia."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "Eu sararei a sua apostasia, eu voluntariamente os amarei; porque a minha ira se apartou deles."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "Eu serei para Israel como o orvalho; ele florescerá como o lírio, e lançará as suas raízes como o Líbano."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "Estender-se-ão as suas vergônteas, e a sua formosura será como a da oliveira, a sua fragrância como a do Líbano."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "Voltarão os que habitam à sua sombra; reverdecerão como o trigo, e florescerão como a vide; o seu renome será como o do vinho do Líbano."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "Ó Efraim, que tenho eu com os ídolos? Sou eu que respondo, e cuido de ti. Eu sou como a faia verde; de mim é achado o teu fruto."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 9,
+      "versoes": {
+        "ARC": "Quem é sábio, para que entenda estas coisas? prudente, para que as saiba? porque os caminhos do Senhor são retos, e os justos andarão neles; mas os transgressores neles cairão."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

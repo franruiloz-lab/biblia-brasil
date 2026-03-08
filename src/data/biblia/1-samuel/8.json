@@ -1,0 +1,216 @@
+{
+  "livro": "1-samuel",
+  "livroNome": "1 Samuel",
+  "capitulo": 8,
+  "testamento": "AT",
+  "titulo": "",
+  "autor": "Samuel / Natã / Gade",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "Ora, havendo Samuel envelhecido, constituiu a seus filhos por juízes sobre Israel."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "O seu filho primogênito chamava-se Joel, e o segundo Abias; e julgavam em Berseba."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "Seus filhos, porém, não andaram nos caminhos dele, mas desviaram-se após o lucro e, recebendo peitas, perverteram a justiça."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "Então todos os anciãos de Israel se congregaram, e vieram ter com Samuel, a Ramá,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "e lhe disseram: Eis que já estás velho, e teus filhos não andam nos teus caminhos. Constitui-nos, pois, agora um rei para nos julgar, como o têm todas as nações."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "Mas pareceu mal aos olhos de Samuel, quando disseram: Dá-nos um rei para nos julgar. Então Samuel orou ao Senhor."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "Disse o Senhor a Samuel: Ouve a voz do povo em tudo quanto te dizem, pois não é a ti que têm rejeitado, porém a mim, para que eu não reine sobre eles."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "Conforme todas as obras que fizeram desde o dia em que os tirei do Egito até o dia de hoje, deixando-me a mim e servindo a outros deuses, assim também fazem a ti."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 9,
+      "versoes": {
+        "ARC": "Agora, pois, ouve a sua voz, contudo lhes protestarás solenemente, e lhes declararás qual será o modo de agir do rei que houver de reinar sobre eles."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 10,
+      "versoes": {
+        "ARC": "Referiu, pois, Samuel todas as palavras do Senhor ao povo, que lhe havia pedido um rei,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 11,
+      "versoes": {
+        "ARC": "e disse: Este será o modo de agir do rei que houver de reinar sobre vós: tomará os vossos filhos, e os porá sobre os seus carros, e para serem seus cavaleiros, e para correrem adiante dos seus carros;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 12,
+      "versoes": {
+        "ARC": "e os porá por chefes de mil e chefes de cinqüenta, para lavrarem os seus campos, fazerem as suas colheitas e fabricarem as suas armas de guerra e os petrechos de seus carros."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 13,
+      "versoes": {
+        "ARC": "Tomará as vossas filhas para perfumistas, cozinheiras e padeiras."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 14,
+      "versoes": {
+        "ARC": "Tomará o melhor das vossas terras, das vossas vinhas e dos vossos elivais, e o dará aos seus servos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 15,
+      "versoes": {
+        "ARC": "Tomará e dízimo das vossas sementes e das vossas vinhas, para dar aos seus oficiais e aos seus servos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 16,
+      "versoes": {
+        "ARC": "Também os vossos servos e as vossas servas, e os vossos melhores mancebos, e os vossos jumentos tomará, e os empregará no seu trabalho."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 17,
+      "versoes": {
+        "ARC": "Tomará o dízimo do vosso rebanho; e vós lhe servireis de escravos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 18,
+      "versoes": {
+        "ARC": "Então naquele dia clamareis por causa de vosso rei, que vós mesmos houverdes escolhido; mas o Senhor não vos ouvira."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 19,
+      "versoes": {
+        "ARC": "O povo, porém, não quis ouvir a voz de Samuel; e disseram: Não, mas haverá sobre nós um rei,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 20,
+      "versoes": {
+        "ARC": "para que nós também sejamos como todas as outras nações, e para que o nosso rei nos julgue, e saia adiante de nós, e peleje as nossas batalhas."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 21,
+      "versoes": {
+        "ARC": "Ouviu, pois, Samuel todas as palavras do povo, e as repetiu aos ouvidos do Senhor."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 22,
+      "versoes": {
+        "ARC": "Disse o Senhor a Samuel: Dá ouvidos à sua voz, e constitui-lhes rei. Então Samuel disse aos homens de Israel: Volte cada um para a sua cidade."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

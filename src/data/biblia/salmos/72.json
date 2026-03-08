@@ -1,0 +1,198 @@
+{
+  "livro": "salmos",
+  "livroNome": "Salmos",
+  "capitulo": 72,
+  "testamento": "AT",
+  "titulo": "",
+  "autor": "Davi e outros",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "Ó Deus, dá ao rei os teus juízes, e a tua justiça ao filho do rei."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "Julgue ele o teu povo com justiça, e os teus pobres com eqüidade."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "Que os montes tragam paz ao povo, como também os outeiros, com justiça."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "Julgue ele os aflitos do povo, salve os filhos do necessitado, e esmague o opressor."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "Viva ele enquanto existir o sol, e enquanto durar a lua, por todas as gerações."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "Desça como a chuva sobre o prado, como os chuveiros que regam a terra."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "Nos seus dias floresça a justiça, e haja abundância de paz enquanto durar a lua."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "Domine de mar a mar, e desde o Rio até as extremidades da terra."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 9,
+      "versoes": {
+        "ARC": "Inclinem-se diante dele os seus adversários, e os seus inimigos lambam o pó."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 10,
+      "versoes": {
+        "ARC": "Paguem-lhe tributo os reis de Társis e das ilhas; os reis de Sabá e de Seba ofereçam-lhe dons."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 11,
+      "versoes": {
+        "ARC": "Todos os reis se prostrem perante ele; todas as nações o sirvam."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 12,
+      "versoes": {
+        "ARC": "Porque ele livra ao necessitado quando clama, como também ao aflito e ao que não tem quem o ajude."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 13,
+      "versoes": {
+        "ARC": "Compadece-se do pobre e do necessitado, e a vida dos necessitados ele salva."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 14,
+      "versoes": {
+        "ARC": "Ele os liberta da opressão e da violência, e precioso aos seus olhos é o sangue deles."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 15,
+      "versoes": {
+        "ARC": "Viva, pois, ele; e se lhe dê do ouro de Sabá; e continuamente se faça por ele oração, e o bendigam em todo o tempo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 16,
+      "versoes": {
+        "ARC": "Haja abundância de trigo na terra sobre os cumes dos montes; ondule o seu fruto como o Líbano, e das cidades floresçam homens como a erva da terra."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 17,
+      "versoes": {
+        "ARC": "Permaneça o seu nome eternamente; continue a sua fama enquanto o sol durar, e os homens sejam abençoados nele; todas as nações o chamem bem-aventurado."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 18,
+      "versoes": {
+        "ARC": "Bendito seja o Senhor Deus, o Deus de Israel, o único que faz maravilhas."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 19,
+      "versoes": {
+        "ARC": "Bendito seja para sempre o seu nome glorioso, e encha-se da sua glória toda a terra. Amém e amém."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 20,
+      "versoes": {
+        "ARC": "Findam aqui as orações de Davi, filho de Jessé."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

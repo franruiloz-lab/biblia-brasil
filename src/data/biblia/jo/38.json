@@ -1,0 +1,387 @@
+{
+  "livro": "jo",
+  "livroNome": "Jó",
+  "capitulo": 38,
+  "testamento": "AT",
+  "titulo": "",
+  "autor": "Desconhecido",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "Depois disso o Senhor respondeu a Jó dum redemoinho, dizendo:"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "Quem é este que escurece o conselho com palavras sem conhecimento?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "Agora cinge os teus lombos, como homem; porque te perguntarei, e tu me responderás."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "Onde estavas tu, quando eu lançava os fundamentos da terra? Faze-mo saber, se tens entendimento."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "Quem lhe fixou as medidas, se é que o sabes? ou quem a mediu com o cordel?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "Sobre que foram firmadas as suas bases, ou quem lhe assentou a pedra de esquina,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "quando juntas cantavam as estrelas da manhã, e todos os filhos de Deus bradavam de júbilo?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "Ou quem encerrou com portas o mar, quando este rompeu e saiu da madre;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 9,
+      "versoes": {
+        "ARC": "quando eu lhe pus nuvens por vestidura, e escuridão por faixas,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 10,
+      "versoes": {
+        "ARC": "e lhe tracei limites, pondo-lhe portas e ferrolhos,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 11,
+      "versoes": {
+        "ARC": "e lhe disse: Até aqui virás, porém não mais adiante; e aqui se quebrarão as tuas ondas orgulhosas?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 12,
+      "versoes": {
+        "ARC": "Desde que começaram os teus dias, deste tu ordem à madrugada, ou mostraste à alva o seu lugar,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 13,
+      "versoes": {
+        "ARC": "para que agarrasse nas extremidades da terra, e os ímpios fossem sacudidos dela?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 14,
+      "versoes": {
+        "ARC": "A terra se transforma como o barro sob o selo; e todas as coisas se assinalam como as cores dum vestido."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 15,
+      "versoes": {
+        "ARC": "E dos ímpios é retirada a sua luz, e o braço altivo se quebranta."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 16,
+      "versoes": {
+        "ARC": "Acaso tu entraste até os mananciais do mar, ou passeaste pelos recessos do abismo?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 17,
+      "versoes": {
+        "ARC": "Ou foram-te descobertas as portas da morte, ou viste as portas da sombra da morte?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 18,
+      "versoes": {
+        "ARC": "Compreendeste a largura da terra? Faze-mo saber, se sabes tudo isso."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 19,
+      "versoes": {
+        "ARC": "Onde está o caminho para a morada da luz? E, quanto às trevas, onde está o seu lugar,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 20,
+      "versoes": {
+        "ARC": "para que às tragas aos seus limites, e para que saibas as veredas para a sua casa?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 21,
+      "versoes": {
+        "ARC": "De certo tu o sabes, porque já então eras nascido, e porque é grande o número dos teus dias!"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 22,
+      "versoes": {
+        "ARC": "Acaso entraste nos tesouros da neve, e viste os tesouros da saraiva,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 23,
+      "versoes": {
+        "ARC": "que eu tenho reservado para o tempo da angústia, para o dia da peleja e da guerra?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 24,
+      "versoes": {
+        "ARC": "Onde está o caminho para o lugar em que se reparte a luz, e se espalha o vento oriental sobre a terra?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 25,
+      "versoes": {
+        "ARC": "Quem abriu canais para o aguaceiro, e um caminho para o relâmpago do trovão;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 26,
+      "versoes": {
+        "ARC": "para fazer cair chuva numa terra, onde não há ninguém, e no deserto, em que não há gente;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 27,
+      "versoes": {
+        "ARC": "para fartar a terra deserta e assolada, e para fazer crescer a tenra relva?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 28,
+      "versoes": {
+        "ARC": "A chuva porventura tem pai? Ou quem gerou as gotas do orvalho?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 29,
+      "versoes": {
+        "ARC": "Do ventre de quem saiu o gelo? E quem gerou a geada do céu?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 30,
+      "versoes": {
+        "ARC": "Como pedra as águas se endurecem, e a superfície do abismo se congela."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 31,
+      "versoes": {
+        "ARC": "Podes atar as cadeias das Plêiades, ou soltar os atilhos do Oriom?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 32,
+      "versoes": {
+        "ARC": "Ou fazer sair as constelações a seu tempo, e guiar a ursa com seus filhos?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 33,
+      "versoes": {
+        "ARC": "Sabes tu as ordenanças dos céus, ou podes estabelecer o seu domínio sobre a terra?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 34,
+      "versoes": {
+        "ARC": "Ou podes levantar a tua voz até as nuvens, para que a abundância das águas te cubra?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 35,
+      "versoes": {
+        "ARC": "Ou ordenarás aos raios de modo que saiam? Eles te dirão: Eis-nos aqui?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 36,
+      "versoes": {
+        "ARC": "Quem pôs sabedoria nas densas nuvens, ou quem deu entendimento ao meteoro?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 37,
+      "versoes": {
+        "ARC": "Quem numerará as nuvens pela sabedoria? Ou os odres do céu, quem os esvaziará,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 38,
+      "versoes": {
+        "ARC": "quando se funde o pó em massa, e se pegam os torrões uns aos outros?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 39,
+      "versoes": {
+        "ARC": "Podes caçar presa para a leoa, ou satisfazer a fome dos filhos dos leões,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 40,
+      "versoes": {
+        "ARC": "quando se agacham nos covis, e estão à espreita nas covas?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 41,
+      "versoes": {
+        "ARC": "Quem prepara ao corvo o seu alimento, quando os seus pintainhos clamam a Deus e andam vagueando, por não terem o que comer?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

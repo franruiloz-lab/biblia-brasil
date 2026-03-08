@@ -1,0 +1,108 @@
+{
+  "livro": "zacarias",
+  "livroNome": "Zacarias",
+  "capitulo": 3,
+  "testamento": "AT",
+  "titulo": "",
+  "autor": "Zacarias",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "Ele me mostrou o sumo sacerdote Josué, o qual estava diante do anjo do Senhor, e Satanás estava à sua mão direita, para se lhe opor."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "Mas o anjo do Senhor disse a Satanás: Que o Senhor te repreenda, ó Satanás; sim, o Senhor, que escolheu Jerusalém, te repreenda! Não é este um tição tirado do fogo?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "Ora Josué, vestido de trajes sujos, estava em pé diante do anjo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "Então falando este, ordenou aos que estavam diante dele, dizendo: Tirai-lhe estes trajes sujos. E a Josué disse: Eis que tenho feito com que passe de ti a tua iniqüidade, e te vestirei de trajes festivos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "Também disse eu: Ponham-lhe sobre a cabeça uma mitra limpa. Puseram-lhe, pois, sobre a cabeça uma mitra limpa, e vestiram-no; e o anjo do Senhor estava ali de pe."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "E o anjo do Senhor protestou a Josué, dizendo:"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "Assim diz o Senhor dos exércitos: Se andares nos meus caminhos, e se observares as minhas ordenanças, também tu julgarás a minha casa, e também guardarás os meus átrios, e te darei lugar entre os que estão aqui."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "Ouve, pois, Josué, sumo sacerdote, tu e os teus companheiros que se assentam diante de ti, porque são homens portentosos; eis que eu farei vir o meu servo, o Renovo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 9,
+      "versoes": {
+        "ARC": "Pois eis aqui a pedra que pus diante de Josué; sobre esta pedra única estão sete olhos. Eis que eu esculpirei a sua escultura, diz o Senhor dos exércitos, e tirarei a iniqüidade desta terra num só dia."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 10,
+      "versoes": {
+        "ARC": "Naquele dia, diz o Senhor dos exércitos, cada um de vós convidará o seu vizinho para debaixo da videira e para debaixo da figueira."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

@@ -1,0 +1,117 @@
+{
+  "livro": "apocalipse",
+  "livroNome": "Apocalipse",
+  "capitulo": 10,
+  "testamento": "NT",
+  "titulo": "",
+  "autor": "João (apóstolo)",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "E vi outro anjo forte que descia do céu, vestido de uma nuvem; por cima da sua cabeça estava o arco-íris; o seu rosto era como o sol, e os seus pés como colunas de fogo,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "e tinha na mão um livrinho aberto. Pôs o seu pé direito sobre o mar, e o esquerdo sobre a terra,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "e clamou com grande voz, assim como ruge o leão; e quando clamou, os sete trovões fizeram soar as suas vozes."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "Quando os sete trovões acabaram de soar eu já ia escrever, mas ouvi uma voz do céu, que dizia: Sela o que os sete trovões falaram, e não o escrevas."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "O anjo que vi em pé sobre o mar e sobre a terra levantou a mão direita ao céu,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "e jurou por aquele que vive pelos séculos dos séculos, o qual criou o céu e o que nele há, e a terra e o que nela há, e o mar e o que nele há, que não haveria mais demora,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "mas que nos dias da voz do sétimo anjo, quando este estivesse para tocar a trombeta, se cumpriria o mistério de Deus, como anunciou aos seus servos, os profetas."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "A voz que eu do céu tinha ouvido tornou a falar comigo, e disse: Vai, e toma o livro que está aberto na mão do anjo que se acha em pé sobre o mar e sobre a terra."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 9,
+      "versoes": {
+        "ARC": "E fui ter com o anjo e lhe pedi que me desse o livrinho. Disse-me ele: Toma-o, e come-o; ele fará amargo o teu ventre, mas na tua boca será doce como mel."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 10,
+      "versoes": {
+        "ARC": "Tomei o livrinho da mão do anjo, e o comi; e na minha boca era doce como mel; mas depois que o comi, o meu ventre ficou amargo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 11,
+      "versoes": {
+        "ARC": "Então me disseram: Importa que profetizes outra vez a muitos povos, e nações, e línguas, e reis."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

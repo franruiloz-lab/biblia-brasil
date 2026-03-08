@@ -1,0 +1,297 @@
+{
+  "livro": "salmos",
+  "livroNome": "Salmos",
+  "capitulo": 22,
+  "testamento": "AT",
+  "titulo": "",
+  "autor": "Davi e outros",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "Deus meu, Deus meu, por que me desamparaste? por que estás afastado de me auxiliar, e das palavras do meu bramido?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "Deus meu, eu clamo de dia, porém tu não me ouves; também de noite, mas não acho sossego."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "Contudo tu és santo, entronizado sobre os louvores de Israel."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "Em ti confiaram nossos pais; confiaram, e tu os livraste."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "A ti clamaram, e foram salvos; em ti confiaram, e não foram confundidos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "Mas eu sou verme, e não homem; opróbrio dos homens e desprezado do povo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "Todos os que me vêem zombam de mim, arreganham os beiços e meneiam a cabeça, dizendo:"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "Confiou no Senhor; que ele o livre; que ele o salve, pois que nele tem prazer."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 9,
+      "versoes": {
+        "ARC": "Mas tu és o que me tiraste da madre; o que me preservaste, estando eu ainda aos seios de minha mãe."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 10,
+      "versoes": {
+        "ARC": "Nos teus braços fui lançado desde a madre; tu és o meu Deus desde o ventre de minha mãe."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 11,
+      "versoes": {
+        "ARC": "Não te alongues de mim, pois a angústia está perto, e não há quem acuda."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 12,
+      "versoes": {
+        "ARC": "Muitos touros me cercam; fortes touros de Basã me rodeiam."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 13,
+      "versoes": {
+        "ARC": "Abrem contra mim sua boca, como um leão que despedaça e que ruge."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 14,
+      "versoes": {
+        "ARC": "Como água me derramei, e todos os meus ossos se desconjuntaram; o meu coração é como cera, derreteu-se no meio das minhas entranhas."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 15,
+      "versoes": {
+        "ARC": "A minha força secou-se como um caco e a língua se me pega ao paladar; tu me puseste no pó da morte."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 16,
+      "versoes": {
+        "ARC": "Pois cães me rodeiam; um ajuntamento de malfeitores me cerca; transpassaram-me as mãos e os pés."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 17,
+      "versoes": {
+        "ARC": "Posso contar todos os meus ossos. Eles me olham e ficam a mirar-me."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 18,
+      "versoes": {
+        "ARC": "Repartem entre si as minhas vestes, e sobre a minha túnica lançam sortes."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 19,
+      "versoes": {
+        "ARC": "Mas tu, Senhor, não te alongues de mim; força minha, apressa-te em socorrer-me."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 20,
+      "versoes": {
+        "ARC": "Livra-me da espada, e a minha vida do poder do cão."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 21,
+      "versoes": {
+        "ARC": "Salva-me da boca do leão, sim, livra-me dos chifres do boi selvagem."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 22,
+      "versoes": {
+        "ARC": "Então anunciarei o teu nome aos meus irmãos; louvar-te-ei no meio da congregação."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 23,
+      "versoes": {
+        "ARC": "Vós, que temeis ao Senhor, louvai-o; todos vós, filhos de Jacó, glorificai-o; temei-o todos vós, descendência de Israel."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 24,
+      "versoes": {
+        "ARC": "Porque não desprezou nem abominou a aflição do aflito, nem dele escondeu o seu rosto; antes, quando ele clamou, o ouviu."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 25,
+      "versoes": {
+        "ARC": "De ti vem o meu louvor na grande congregação; pagarei os meus votos perante os que o temem."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 26,
+      "versoes": {
+        "ARC": "Os mansos comerão e se fartarão; louvarão ao Senhor os que o buscam. Que o vosso coração viva eternamente!"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 27,
+      "versoes": {
+        "ARC": "Todos os limites da terra se lembrarão e se converterão ao Senhor, e diante dele adorarão todas as famílias das nações."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 28,
+      "versoes": {
+        "ARC": "Porque o domínio é do Senhor, e ele reina sobre as nações."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 29,
+      "versoes": {
+        "ARC": "Todos os grandes da terra comerão e adorarão, e todos os que descem ao pó se prostrarão perante ele, os que não podem reter a sua vida."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 30,
+      "versoes": {
+        "ARC": "A posteridade o servirá; falar-se-á do Senhor à geração vindoura."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 31,
+      "versoes": {
+        "ARC": "Chegarão e anunciarão a justiça dele; a um povo que há de nascer contarão o que ele fez."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

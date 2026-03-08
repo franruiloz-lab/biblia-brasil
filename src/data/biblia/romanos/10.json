@@ -1,0 +1,90 @@
+{
+  "livro": "romanos",
+  "livroNome": "Romanos",
+  "capitulo": 10,
+  "testamento": "NT",
+  "titulo": "A salvação pela fé — confissão e crença",
+  "autor": "Paulo (apóstolo)",
+  "versiculos": [
+    {
+      "numero": 9,
+      "versoes": {
+        "ARC": "Se com a tua boca confessares ao Senhor Jesus e em teu coração creres que Deus o ressuscitou dos mortos, serás salvo.",
+        "NVI-PT": "Se você confessar com a sua boca que Jesus é Senhor e crer no seu coração que Deus o ressuscitou dentre os mortos, será salvo.",
+        "NTLH": "Se você confessar que Jesus é o Senhor e crer de coração que Deus o ressuscitou, você será salvo.",
+        "NVT": "Se você confessar com a sua boca que Jesus é Senhor e crer em seu coração que Deus o ressuscitou dentre os mortos, será salvo."
+      },
+      "temas": ["salvacao", "fe", "confissao", "ressurreicao"],
+      "versiculosRelacionados": ["romanos/10/10", "atos/2/21", "joao/3/16"],
+      "faq": [
+        {
+          "pergunta": "O que significa 'confessar com a boca que Jesus é Senhor' em Romanos 10:9?",
+          "resposta": "No contexto do Império Romano, 'Kyrios Caesar' (César é Senhor) era a confissão política de lealdade obrigatória. Os primeiros cristãos que diziam 'Kyrios Iesous' (Jesus é Senhor) estavam fazendo uma declaração subversiva: minha lealdade suprema não é ao imperador, mas a Cristo ressuscitado. 'Confessar' não é um ato meramente verbal — em Paulo, 'confissão da boca' e 'crença do coração' são inseparáveis (v. 10). A boca proclama o que o coração já abraçou. A confissão pública é a expressão externa de uma transformação interna — e naquele contexto, tinha custo real. Hoje, a confissão ainda envolve declarar uma lealdade que organiza todas as outras."
+        },
+        {
+          "pergunta": "Por que Paulo menciona tanto a boca quanto o coração em Romanos 10:9-10?",
+          "resposta": "Paulo está citando Deuteronômio 30:14 ('a palavra está bem perto de ti, na tua boca e no teu coração') — mostrando que a salvação pela fé não é nova, mas o cumprimento do que Moisés prometeu. A divisão boca/coração evita dois erros opostos: (1) a salvação como performance verbal sem transformação real ('Senhor, Senhor' — Mt 7:21); (2) uma fé puramente interna e invisível sem expressão pública. O coração garante que é genuíno; a boca garante que é real o suficiente para ser declarado. Os dois juntos descrevem a fé completa — interior e exterior, pessoal e pública."
+        }
+      ]
+    },
+    {
+      "numero": 10,
+      "versoes": {
+        "ARC": "Porque com o coração se crê para a justiça, e com a boca se faz confissão para a salvação.",
+        "NVI-PT": "Pois com o coração se crê para a justiça, e com a boca se confessa para a salvação.",
+        "NTLH": "Pois é crendo com o coração que a pessoa é aceita por Deus, e é confessando com a boca que ela é salva.",
+        "NVT": "Pois é com o coração que se crê para a justificação, e com a boca que se confessa para a salvação."
+      },
+      "temas": ["salvacao", "fe", "confissao", "justificacao"],
+      "versiculosRelacionados": ["romanos/10/9", "efesios/2/8"],
+      "faq": []
+    },
+    {
+      "numero": 13,
+      "versoes": {
+        "ARC": "Porque todo aquele que invocar o nome do Senhor será salvo.",
+        "NVI-PT": "pois todo aquele que invocar o nome do Senhor será salvo.",
+        "NTLH": "Pois todos os que chamarem pelo nome do Senhor serão salvos.",
+        "NVT": "pois todo aquele que invocar o nome do Senhor será salvo."
+      },
+      "temas": ["salvacao", "graca", "universalidade", "misericordia"],
+      "versiculosRelacionados": ["joel/2/32", "atos/2/21", "joao/3/16"],
+      "faq": [
+        {
+          "pergunta": "O que significa 'invocar o nome do Senhor' em Romanos 10:13?",
+          "resposta": "Paulo cita Joel 2:32, onde 'invocar o nome do Senhor' originalmente se referia a clamar a Yahweh, o Deus de Israel. Ao aplicar esse texto a Jesus (v. 9: 'Jesus é Senhor'), Paulo está fazendo uma afirmação cristológica: Jesus é Yahweh encarnado. 'Invocar' (epikaleomai) é mais que mencionar um nome — é um apelo urgente de dependência, como alguém que clama por socorro em perigo real. 'Todo aquele' é o elemento universal mais marcante: sem distinção de etnia, status ou histórico moral. A única condição é invocar — reconhecer a necessidade e apelar ao único que pode salvar."
+        }
+      ]
+    },
+    {
+      "numero": 17,
+      "versoes": {
+        "ARC": "De sorte que a fé é pelo ouvir, e o ouvir pela palavra de Deus.",
+        "NVI-PT": "Consequentemente, a fé vem pelo ouvir a mensagem, e a mensagem é ouvida mediante a palavra de Cristo.",
+        "NTLH": "Portanto, a fé vem do ouvir o evangelho, e o evangelho vem da palavra de Cristo.",
+        "NVT": "Consequentemente, a fé vem pelo ouvir, e o ouvir vem pela palavra de Cristo."
+      },
+      "temas": ["fe", "palavra-de-deus", "evangelismo", "pregacao"],
+      "versiculosRelacionados": ["hebreus/11/1", "romanos/1/16"],
+      "faq": [
+        {
+          "pergunta": "O que Paulo quer dizer com 'a fé é pelo ouvir' em Romanos 10:17?",
+          "resposta": "Este versículo encerra um argumento lógico em cadeia (v. 14-17): como invocarão sem crer? Como crerão sem ouvir? Como ouvirão sem pregador? Como pregarão sem ser enviados? A conclusão é que a fé não nasce do vácuo ou da especulação — nasce do contato com a Palavra de Cristo. 'Ouvir' (akoe) pode ser a mensagem proclamada ou o ato de escutar — em ambos os casos, Paulo afirma que Deus escolheu o meio verbal para gerar fé. Isso tem implicação prática: a pregação e o ensino da Palavra não são atividades secundárias, mas o mecanismo pelo qual Deus cria fé nos corações."
+        }
+      ]
+    }
+  ],
+  "explicacao": {
+    "introducao": "Romanos 10:9 — 'Se confessares com a tua boca que Jesus é Senhor e creres no teu coração que Deus o ressuscitou, serás salvo' — é o versículo mais citado em contextos de evangelismo no Brasil, com cerca de 18.000 buscas mensais. É a formulação paulina mais direta da salvação pela fé, frequentemente usada em convites ao altar e orações de conversão.",
+    "contexto": "Romanos 9-11 é a seção mais complexa da carta — Paulo lida com a questão do povo judeu: se a salvação é por fé em Cristo, o que aconteceu com as promessas de Deus a Israel? O capítulo 10 argumenta que Israel teve acesso à Palavra (Deuteronômio 30:14 — v. 8) e ao chamado universal de Joel (v. 13), mas não respondeu pela fé. A mesma oferta agora se estende a todos os povos — judeus e gentios — pela mesma condição: confissão e fé.",
+    "aplicacao": "Romanos 10:9-13 é o texto bíblico mais direto sobre o que constitui a conversão cristã. Para o brasileiro que pergunta 'o que preciso fazer para ser salvo?', estes versículos respondem com precisão: crer na ressurreição de Cristo (fato histórico com implicação teológica) e confessar Sua Senhoria (declaração de lealdade e dependência). Não há condição de mérito, grau espiritual ou pureza prévia — 'todo aquele que invocar' é a abertura mais inclusiva possível."
+  },
+  "versiculosDestaque": [9, 13],
+  "temas": ["salvacao", "fe", "confissao", "ressurreicao", "graca"],
+  "versiculosRelacionadosExternos": [
+    { "ref": "joao/3/16", "texto": "João 3:16 — Todo aquele que nele crê não pereça" },
+    { "ref": "efesios/2/8", "texto": "Efésios 2:8 — Pela graça sois salvos, mediante a fé" },
+    { "ref": "atos/2/21", "texto": "Atos 2:21 — Todo aquele que invocar o nome do Senhor será salvo" },
+    { "ref": "1-joao/1/9", "texto": "1 João 1:9 — Se confessarmos os nossos pecados, ele é fiel e justo para nos perdoar" }
+  ]
+}

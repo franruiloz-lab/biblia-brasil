@@ -1,0 +1,252 @@
+{
+  "livro": "salmos",
+  "livroNome": "Salmos",
+  "capitulo": 44,
+  "testamento": "AT",
+  "titulo": "",
+  "autor": "Davi e outros",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "Ó Deus, nós ouvimos com os nossos ouvidos, nossos pais nos têm contado os feitos que realizaste em seus dias, nos tempos da antigüidade."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "Tu expeliste as nações com a tua mão, mas a eles plantaste; afligiste os povos, mas a eles estendes-te largamente."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "Pois não foi pela sua espada que conquistaram a terra, nem foi o seu braço que os salvou, mas a tua destra e o teu braço, e a luz do teu rosto, porquanto te agradaste deles."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "Tu és o meu Rei, ó Deus; ordena livramento para Jacó."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "Por ti derrubamos os nossos adversários; pelo teu nome pisamos os que se levantam contra nós."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "Pois não confio no meu arco, nem a minha espada me pode salvar."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "Mas tu nos salvaste dos nossos adversários, e confundiste os que nos odeiam."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "Em Deus é que nos temos gloriado o dia todo, e sempre louvaremos o teu nome."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 9,
+      "versoes": {
+        "ARC": "Mas agora nos rejeitaste e nos humilhaste, e não sais com os nossos exércitos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 10,
+      "versoes": {
+        "ARC": "Fizeste-nos voltar as costas ao inimigo e aqueles que nos odeiam nos despojam à vontade."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 11,
+      "versoes": {
+        "ARC": "Entregaste-nos como ovelhas para alimento, e nos espalhaste entre as nações."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 12,
+      "versoes": {
+        "ARC": "Vendeste por nada o teu povo, e não lucraste com o seu preço."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 13,
+      "versoes": {
+        "ARC": "Puseste-nos por opróbrio aos nossos vizinhos, por escárnio e zombaria àqueles que estão à roda de nós."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 14,
+      "versoes": {
+        "ARC": "Puseste-nos por provérbio entre as nações, por ludíbrio entre os povos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 15,
+      "versoes": {
+        "ARC": "A minha ignomínia está sempre diante de mim, e a vergonha do meu rosto me cobre,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 16,
+      "versoes": {
+        "ARC": "à voz daquele que afronta e blasfema, à vista do inimigo e do vingador."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 17,
+      "versoes": {
+        "ARC": "Tudo isto nos sobreveio; todavia não nos esquecemos de ti, nem nos houvemos falsamente contra o teu pacto."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 18,
+      "versoes": {
+        "ARC": "O nosso coração não voltou atrás, nem os nossos passos se desviaram das tuas veredas,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 19,
+      "versoes": {
+        "ARC": "para nos teres esmagado onde habitam os chacais, e nos teres coberto de trevas profundas."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 20,
+      "versoes": {
+        "ARC": "Se nos tivéssemos esquecido do nome do nosso Deus, e estendido as nossas mãos para um deus estranho,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 21,
+      "versoes": {
+        "ARC": "porventura Deus não haveria de esquadrinhar isso? pois ele conhece os segredos do coração."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 22,
+      "versoes": {
+        "ARC": "Mas por amor de ti somos entregues à morte o dia todo; somos considerados como ovelhas para o matadouro."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 23,
+      "versoes": {
+        "ARC": "Desperta! por que dormes, Senhor? Acorda! não nos rejeites para sempre."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 24,
+      "versoes": {
+        "ARC": "Por que escondes o teu rosto, e te esqueces da nossa tribulação e da nossa angústia?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 25,
+      "versoes": {
+        "ARC": "Pois a nossa alma está abatida até o pó; o nosso corpo pegado ao chão."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 26,
+      "versoes": {
+        "ARC": "Levanta-te em nosso auxílio, e resgata-nos por tua benignidade."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

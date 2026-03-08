@@ -1,0 +1,153 @@
+{
+  "livro": "tito",
+  "livroNome": "Tito",
+  "capitulo": 2,
+  "testamento": "NT",
+  "titulo": "",
+  "autor": "Paulo (apóstolo)",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "Tu, porém, fala o que convém à sã doutrina."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "Exorta os velhos a que sejam temperantes, sérios, sóbrios, sãos na fé, no amor, e na constância;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "as mulheres idosas, semelhantemente, que sejam reverentes no seu viver, não caluniadoras, não dadas a muito vinho, mestras do bem,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "para que ensinem as mulheres novas a amarem aos seus maridos e filhos,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "a serem moderadas, castas, operosas donas de casa, bondosas, submissas a seus maridos, para que a palavra de Deus não seja blasfemada."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "Exorta semelhantemente os moços a que sejam moderados."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "Em tudo te dá por exemplo de boas obras; na doutrina mostra integridade, sobriedade,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "linguagem sã e irrepreensível, para que o adversário se confunda, não tendo nenhum mal que dizer de nós."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 9,
+      "versoes": {
+        "ARC": "Exorta os servos a que sejam submissos a seus senhores em tudo, sendo-lhes agradáveis, não os contradizendo"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 10,
+      "versoes": {
+        "ARC": "nem defraudando, antes mostrando perfeita lealdade, para que em tudo sejam ornamento da doutrina de Deus nosso Salvador."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 11,
+      "versoes": {
+        "ARC": "Porque a graça de Deus se manifestou, trazendo salvação a todos os homens,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 12,
+      "versoes": {
+        "ARC": "ensinando-nos, para que, renunciando à impiedade e às paixões mundanas, vivamos no presente mundo sóbria, e justa, e piamente,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 13,
+      "versoes": {
+        "ARC": "aguardando a bem-aventurada esperança e o aparecimento da glória do nosso grande Deus e Salvador Cristo Jesus,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 14,
+      "versoes": {
+        "ARC": "que se deu a si mesmo por nós para nos remir de toda a iniqüidade, e purificar para si um povo todo seu, zeloso de boas obras."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 15,
+      "versoes": {
+        "ARC": "Fala estas coisas, exorta e repreende com toda autoridade. Ninguém te despreze."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

@@ -1,0 +1,116 @@
+---
+import Base from '../../layouts/Base.astro';
+import Breadcrumb from '../../components/ui/Breadcrumb.astro';
+import livros from '../../data/livros.json';
+
+const title = 'A Bíblia Sagrada Completa — Todos os Livros | Bíblia Brasil';
+const description = 'Acesse todos os 66 livros da Bíblia Sagrada em português. Antigo e Novo Testamento completos, com 4 versões (ARC, NVI, NTLH, NVT), explicações e versículos em destaque.';
+
+const schema = {
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": "A Bíblia Sagrada Completa",
+  "description": description,
+  "url": "https://bibliabrasil.com.br/biblia",
+  "inLanguage": "pt-BR"
+};
+
+const breadcrumbs = [
+  { label: 'Início', href: '/' },
+  { label: 'A Bíblia' }
+];
+
+const at = livros.filter(l => l.testamento === 'AT');
+const nt = livros.filter(l => l.testamento === 'NT');
+
+// Livros em destaque (com dados existentes)
+const destaque = ['salmos', 'proverbios', 'numeros', '2-cronicas', 'romanos', 'filipenses'];
+---
+
+<Base title={title} description={description} schema={schema}>
+  <div class="max-w-5xl mx-auto px-4 py-8">
+    <Breadcrumb items={breadcrumbs} />
+
+    <header class="mb-10">
+      <div class="ui-font text-sm font-semibold mb-2" style="color: var(--color-primary);">66 livros · 1.189 capítulos · 31.102 versículos</div>
+      <h1 class="text-3xl md:text-4xl font-bold mb-3">A Bíblia Sagrada</h1>
+      <p class="text-lg max-w-2xl" style="color: var(--color-text-muted);">
+        Leia a Bíblia completa em 4 versões brasileiras. Cada capítulo com explicação e contexto histórico.
+      </p>
+    </header>
+
+    <!-- Antigo Testamento -->
+    <section class="mb-14">
+      <div class="flex items-center gap-3 mb-6">
+        <h2 class="text-2xl font-bold">Antigo Testamento</h2>
+        <span class="ui-font text-sm px-3 py-1 rounded-full" style="background-color: var(--color-bg-card); color: var(--color-text-muted); border: 1px solid var(--color-border);">
+          {at.length} livros
+        </span>
+      </div>
+
+      <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-3">
+        {at.map(livro => {
+          const temDados = destaque.includes(livro.slug);
+          return (
+            <a
+              href={`/biblia/${livro.slug}`}
+              class={`flex flex-col p-4 rounded-xl border transition-all hover:border-purple-400 hover:shadow-sm group ${temDados ? '' : ''}`}
+              style={`border-color: var(--color-border); background-color: var(--color-bg-card);`}
+            >
+              <div class="flex items-start justify-between mb-2">
+                <span class="ui-font text-xs font-bold px-1.5 py-0.5 rounded" style="background-color: var(--color-primary-bg); color: var(--color-primary);">
+                  {livro.abrev}
+                </span>
+                {temDados && (
+                  <span class="ui-font text-xs" style="color: var(--color-primary);">★</span>
+                )}
+              </div>
+              <span class="text-sm font-semibold leading-tight mb-1" style="color: var(--color-text);">{livro.nome}</span>
+              <span class="ui-font text-xs mt-auto" style="color: var(--color-text-muted);">{livro.capitulos} cap.</span>
+            </a>
+          );
+        })}
+      </div>
+    </section>
+
+    <!-- Novo Testamento -->
+    <section class="mb-10">
+      <div class="flex items-center gap-3 mb-6">
+        <h2 class="text-2xl font-bold">Novo Testamento</h2>
+        <span class="ui-font text-sm px-3 py-1 rounded-full" style="background-color: var(--color-bg-card); color: var(--color-text-muted); border: 1px solid var(--color-border);">
+          {nt.length} livros
+        </span>
+      </div>
+
+      <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-3">
+        {nt.map(livro => {
+          const temDados = destaque.includes(livro.slug);
+          return (
+            <a
+              href={`/biblia/${livro.slug}`}
+              class="flex flex-col p-4 rounded-xl border transition-all hover:border-purple-400 hover:shadow-sm group"
+              style="border-color: var(--color-border); background-color: var(--color-bg-card);"
+            >
+              <div class="flex items-start justify-between mb-2">
+                <span class="ui-font text-xs font-bold px-1.5 py-0.5 rounded" style="background-color: var(--color-nt-bg); color: var(--color-nt-text);">
+                  {livro.abrev}
+                </span>
+                {temDados && (
+                  <span class="ui-font text-xs" style="color: var(--color-primary);">★</span>
+                )}
+              </div>
+              <span class="text-sm font-semibold leading-tight mb-1" style="color: var(--color-text);">{livro.nome}</span>
+              <span class="ui-font text-xs mt-auto" style="color: var(--color-text-muted);">{livro.capitulos} cap.</span>
+            </a>
+          );
+        })}
+      </div>
+    </section>
+
+    <!-- Legenda -->
+    <div class="flex items-center gap-2 ui-font text-xs" style="color: var(--color-text-muted);">
+      <span style="color: var(--color-primary);">★</span>
+      <span>Livros com versículos em destaque e explicações completas</span>
+    </div>
+  </div>
+</Base>

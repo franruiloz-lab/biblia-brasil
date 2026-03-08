@@ -1,0 +1,92 @@
+{
+  "livro": "tiago",
+  "livroNome": "Tiago",
+  "capitulo": 1,
+  "testamento": "NT",
+  "titulo": "Fé, tentações e sabedoria",
+  "autor": "Tiago (irmão de Jesus)",
+  "versiculos": [
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "Meus irmãos, considerai sumo gozo o passardes por várias tentações,",
+        "NVI-PT": "Considerem motivo de grande alegria, meus irmãos, o fato de passarem por diversas provações,",
+        "NTLH": "Meus irmãos e irmãs, fiquem muito alegres quando tiverem de enfrentar todo tipo de provação.",
+        "NVT": "Considerem motivo de grande alegria, meus irmãos, o fato de passarem por diversas provações."
+      },
+      "temas": ["tribulacao", "alegria", "carater", "perseveranca"],
+      "versiculosRelacionados": ["romanos/5/3-4", "1-pedro/1/6-7"],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "sabendo que a provação da vossa fé produz paciência.",
+        "NVI-PT": "porque sabe que a prova de sua fé produz perseverança.",
+        "NTLH": "Porque vocês sabem que, quando a sua fé é posta à prova, isso produz perseverança.",
+        "NVT": "pois sabe que a prova de sua fé produz perseverança."
+      },
+      "temas": ["tribulacao", "perseveranca", "carater", "fe"],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "E se algum de vós tem falta de sabedoria, peça-a a Deus, que a todos dá liberalmente e não impropera, e ser-lhe-á dada.",
+        "NVI-PT": "Se algum de vocês tem falta de sabedoria, peça a Deus, que a todos dá generosamente, sem censura, e ela lhe será concedida.",
+        "NTLH": "Se algum de vocês precisa de sabedoria, peça a Deus, que dá a todos com generosidade e sem fazer crítica, e essa sabedoria será dada.",
+        "NVT": "Se algum de vocês tem falta de sabedoria, peça-a a Deus, que a todos dá generosamente, sem fazer censura, e lhe será concedida."
+      },
+      "temas": ["sabedoria", "oracao", "generosidade-de-deus", "dependencia-de-deus"],
+      "versiculosRelacionados": ["proverbios/2/6", "mateus/7/7"],
+      "faq": [
+        {
+          "pergunta": "Como pedir sabedoria a Deus segundo Tiago 1:5?",
+          "resposta": "A promessa de Tiago 1:5 é quase escandalosamente simples: peça. Sem ritual, sem merecimento prévio, sem fórmula especial. Deus dá 'a todos' (sem distinção de nível espiritual), 'generosamente' (sem parcimônia) e 'sem fazer censura' (sem reclamar que você precisou pedir). A única condição vem no versículo 6: 'peça com fé, sem duvidar'. A sabedoria prometida não é QI espiritual ou dom sobrenatural — é discernimento prático para navegar situações difíceis com integridade e perspectiva divina."
+        }
+      ]
+    },
+    {
+      "numero": 17,
+      "versoes": {
+        "ARC": "Toda a boa dádiva e todo o dom perfeito são lá do alto, descendo do Pai das luzes, em quem não há mudança nem sombra de variação.",
+        "NVI-PT": "Toda boa dádiva e todo dom perfeito vêm do alto, descendo do Pai das luzes, em quem não há mudança nem sombra de variação.",
+        "NTLH": "Tudo o que é bom e tudo o que é perfeito nos vem de Deus, que criou as luzes no céu. Deus nunca muda nem varia como as sombras dos astros.",
+        "NVT": "Toda boa dádiva e todo dom perfeito vêm do alto, descendo do Pai das luzes, em quem não há mudança nem sombra de variação."
+      },
+      "temas": ["bencao", "bondade-de-deus", "imutabilidade-de-deus", "gratidao"],
+      "versiculosRelacionados": ["salmos/84/11", "malaquias/3/6"],
+      "faq": [
+        {
+          "pergunta": "O que significa 'Pai das luzes' em Tiago 1:17?",
+          "resposta": "É uma expressão única no NT — Deus como criador e fonte de toda luz (Gênesis 1:3, João 1:4-5). Em contraste com os astros, que têm fases e projetam sombras, Deus 'não tem mudança nem sombra de variação'. A imagem astronômica é precisa: a lua tem fases, o sol tem eclipses, as estrelas têm variação. Mas Deus — o Pai que criou todas essas luzes — está acima de qualquer variação. Isso é a base da confiança: as boas dádivas de Deus não são sazonais nem dependentes do nosso comportamento — fluem de um caráter imutável."
+        }
+      ]
+    },
+    {
+      "numero": 22,
+      "versoes": {
+        "ARC": "Sede, porém, praticantes da palavra, e não somente ouvintes, enganando-vos a vós mesmos.",
+        "NVI-PT": "Não se contentem em ouvir somente a palavra, enganando a si mesmos. Façam o que ela diz.",
+        "NTLH": "Não basta ouvir o que a mensagem de Deus diz. Vocês precisam praticá-la. Se não praticarem, estarão enganando a si mesmos.",
+        "NVT": "Sejam praticantes da palavra e não somente ouvintes, enganando a si mesmos."
+      },
+      "temas": ["obediencia", "palavra-de-deus", "pratica", "integridade"],
+      "versiculosRelacionados": ["mateus/7/24-25", "tiago/2/17"],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "Tiago 1 é o capítulo mais prático do NT — um manual de vida cristã concreta. Provações, sabedoria, tentações, a língua, a Palavra e as obras: Tiago não filosofa — ordena. Com especial popularidade no Brasil pelo versículo 5 ('peça sabedoria a Deus') e pelo versículo 17 ('toda boa dádiva vem do alto'), o capítulo é referência para quem busca uma fé encarnada no cotidiano.",
+    "contexto": "Tiago era irmão de Jesus e líder da igreja em Jerusalém. Sua carta é endereçada às 'doze tribos da dispersão' — cristãos judeus espalhados pelo mundo greco-romano, enfrentando perseguição e pobreza. O tom é pastoral e direto: ele não tem tempo para abstrações — seu povo precisa de instrução prática para sobreviver com fé intacta.",
+    "aplicacao": "Tiago 1 é o antídoto para a fé sem obras — o crente que ouve mas não faz (v. 22), que pede sabedoria mas não age (v. 5-6), que vê bênçãos como garantidas sem reconhecer o Doador (v. 17). Para o brasileiro que quer uma fé que funciona no trabalho, nas finanças e nos relacionamentos, este capítulo oferece o fundamento: receba a Palavra, pratique a Palavra, confie no Doador de todo bem."
+  },
+  "versiculosDestaque": [5, 17, 22],
+  "temas": ["sabedoria", "tribulacao", "perseveranca", "palavra-de-deus", "bencao"],
+  "versiculosRelacionadosExternos": [
+    { "ref": "proverbios/2/6", "texto": "Provérbios 2:6 — O SENHOR é quem dá a sabedoria" },
+    { "ref": "romanos/5/3-4", "texto": "Romanos 5:3-4 — A tribulação produz paciência" },
+    { "ref": "mateus/7/24", "texto": "Mateus 7:24 — Todo aquele que ouve e pratica é como um homem prudente" }
+  ]
+}

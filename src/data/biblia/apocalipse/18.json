@@ -1,0 +1,234 @@
+{
+  "livro": "apocalipse",
+  "livroNome": "Apocalipse",
+  "capitulo": 18,
+  "testamento": "NT",
+  "titulo": "",
+  "autor": "João (apóstolo)",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "Depois destas coisas vi descer do céu outro anjo que tinha grande autoridade, e a terra foi iluminada com a sua glória."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "E ele clamou com voz forte, dizendo: Caiu, caiu a grande Babilônia, e se tornou morada de demônios, e guarida de todo espírito imundo, e guarida de toda ave imunda e detestável."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "Porque todas as nações têm bebido do vinho da ira da sua prostituição, e os reis da terra se prostituíram com ela; e os mercadores da terra se enriqueceram com a abundância de suas delícias."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "Ouvi outra voz do céu dizer: Sai dela, povo meu, para que não sejas participante dos sete pecados, e para que não incorras nas suas pragas."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "Porque os seus pecados se acumularam até o céu, e Deus se lembrou das iniqüidades dela."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "Tornai a dar-lhe como também ela vos tem dado, e retribuí-lhe em dobro conforme as suas obras; no cálice em que vos deu de beber dai-lhe a ela em dobro."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "Quanto ela se glorificou, e em delícias esteve, tanto lhe dai de tormento e de pranto; pois que ela diz em seu coração: Estou assentada como rainha, e não sou viúva, e de modo algum verei o pranto."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "Por isso, num mesmo dia virão as suas pragas, a morte, e o pranto, e a fome; e será consumida no fogo; porque forte é o Senhor Deus que a julga."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 9,
+      "versoes": {
+        "ARC": "E os reis da terra, que com ela se prostituíram e viveram em delícias, sobre ela chorarão e prantearão, quando virem a fumaça do seu incêndio;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 10,
+      "versoes": {
+        "ARC": "e, estando de longe por medo do tormento dela, dirão: Ai! ai da grande cidade, Babilônia, a cidade forte! pois numa só hora veio o teu julgamento."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 11,
+      "versoes": {
+        "ARC": "E sobre ela choram e lamentam os mercadores da terra; porque ninguém compra mais as suas mercadorias:"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 12,
+      "versoes": {
+        "ARC": "mercadorias de ouro, de prata, de pedras preciosas, de pérolas, de linho fino, de púrpura, de seda e de escarlata; e toda espécie de madeira odorífera, e todo objeto de marfim, de madeira preciosíssima, de bronze, de ferro e de mármore;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 13,
+      "versoes": {
+        "ARC": "e canela, especiarias, perfume, mirra e incenso; e vinho, azeite, flor de farinha e trigo; e gado, ovelhas, cavalos e carros; e escravos, e até almas de homens."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 14,
+      "versoes": {
+        "ARC": "Também os frutos que a tua alma cobiçava foram-se de ti; e todas as coisas delicadas e suntuosas se foram de ti, e nunca mais se acharão."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 15,
+      "versoes": {
+        "ARC": "Os mercadores destas coisas, que por ela se enriqueceram, ficarão de longe por medo do tormento dela, chorando e lamentando,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 16,
+      "versoes": {
+        "ARC": "dizendo: Ai! ai da grande cidade, da que estava vestida de linho fino, de púrpura, de escarlata, e adornada com ouro, e pedras preciosas, e pérolas! porque numa só hora foram assoladas tantas riquezas."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 17,
+      "versoes": {
+        "ARC": "E todo piloto, e todo o que navega para qualquer porto e todos os marinheiros, e todos os que trabalham no mar se puseram de longe;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 18,
+      "versoes": {
+        "ARC": "e, contemplando a fumaça do incêndio dela, clamavam: Que cidade é semelhante a esta grande cidade?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 19,
+      "versoes": {
+        "ARC": "E lançaram pó sobre as suas cabeças, e clamavam, chorando e lamentando, dizendo: Ai! ai da grande cidade, na qual todos os que tinham naus no mar se enriqueceram em razão da sua opulência! porque numa só hora foi assolada."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 20,
+      "versoes": {
+        "ARC": "Exulta sobre ela, ó céu, e vós, santos e apóstolos e profetas; porque Deus vindicou a vossa causa contra ela."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 21,
+      "versoes": {
+        "ARC": "Um forte anjo levantou uma pedra, qual uma grande mó, e lançou-a no mar, dizendo: Com igual ímpeto será lançada Babilônia, a grande cidade, e nunca mais será achada."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 22,
+      "versoes": {
+        "ARC": "E em ti não se ouvirá mais o som de harpistas, de músicos, de flautistas e de trombeteiros; e nenhum artífice de arte alguma se achará mais em ti; e em ti não mais se ouvirá ruído de mó;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 23,
+      "versoes": {
+        "ARC": "e luz de candeia não mais brilhará em ti, e voz de noivo e de noiva não mais em ti se ouvirá; porque os teus mercadores eram os grandes da terra; porque todas as nações foram enganadas pelas tuas feitiçarias."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 24,
+      "versoes": {
+        "ARC": "E nela se achou o sangue dos profetas, e dos santos, e de todos os que foram mortos na terra."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

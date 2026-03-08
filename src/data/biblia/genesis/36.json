@@ -1,0 +1,405 @@
+{
+  "livro": "genesis",
+  "livroNome": "Gênesis",
+  "capitulo": 36,
+  "testamento": "AT",
+  "titulo": "",
+  "autor": "Moisés",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "Estas são as gerações de Esaú {este é Edom}:"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "Esaú tomou dentre as filhas de Canaã suas mulheres: Ada, filha de Elom o heteu, e Aolíbama, filha de Ana, filha de Zibeão o heveu,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "e Basemate, filha de Ismael, irmã de Nebaiote."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "Ada teve de Esaú a Elifaz, e Basemate teve a Reuel;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "e Aolíbama teve a Jeús, Jalão e Corá; estes são os filhos de Esaú, que lhe nasceram na terra de Canaã."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "Depois Esaú tomou suas mulheres, seus filhos, suas filhas e todas as almas de sua casa, seu gado, todos os seus animais e todos os seus bens, que havia adquirido na terra de Canaã, e foi-se para outra terra, apartando-se de seu irmão Jacó."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "Porque os seus bens eram abundantes demais para habitarem juntos; e a terra de suas peregrinações não os podia sustentar por causa do seu gado."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "Portanto Esaú habitou no monte de Seir; Esaú é Edom."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 9,
+      "versoes": {
+        "ARC": "Estas, pois, são as gerações de Esaú, pai dos edomeus, no monte de Seir:"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 10,
+      "versoes": {
+        "ARC": "Estes são os nomes dos filhos de Esaú: Elifaz, filho de Ada, mulher de Esaú; Reuel, filho de Basemate, mulher de Esaú."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 11,
+      "versoes": {
+        "ARC": "E os filhos de Elifaz foram: Temã, Omar, Zefô, Gatã e Quenaz."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 12,
+      "versoes": {
+        "ARC": "Timna era concubina de Elifaz, filho de Esaú, e teve de Elifaz a Amaleque. São esses os filhos de Ada, mulher de Esaú."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 13,
+      "versoes": {
+        "ARC": "Foram estes os filhos de Reuel: Naate e Zerá, Sama e Mizá. Foram esses os filhos de Basemate, mulher de Esaú."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 14,
+      "versoes": {
+        "ARC": "Estes foram os filhos de Aolíbama, filha de Ana, filha de Zibeão, mulher de Esaú: ela teve de Esaú Jeús, Jalão e Corá."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 15,
+      "versoes": {
+        "ARC": "São estes os chefes dos filhos de Esaú: dos filhos de Elifaz, o primogênito de Esaú, os chefes Temã, Omar, Zefô, Quenaz,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 16,
+      "versoes": {
+        "ARC": "Corá, Gatã e Amaleque. São esses os chefes que nasceram a Elifaz na terra de Edom; esses são os filhos de Ada."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 17,
+      "versoes": {
+        "ARC": "Estes são os filhos de Reuel, filho de Esaú: os chefes Naate, Zerá, Sama e Mizá; esses são os chefes que nasceram a Reuel na terra de Edom; esses são os filhos de Basemate, mulher de Esaú."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 18,
+      "versoes": {
+        "ARC": "Estes são os filhos de Aolíbama, mulher de Esaú: os chefes Jeús, Jalão e Corá; esses são os chefes que nasceram a líbama, filha de Ana, mulher de Esaú."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 19,
+      "versoes": {
+        "ARC": "Esses são os filhos de Esaú, e esses seus príncipes: ele é Edom."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 20,
+      "versoes": {
+        "ARC": "São estes os filhos de Seir, o horeu, moradores da terra: Lotã, Sobal, Zibeão, Anás,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 21,
+      "versoes": {
+        "ARC": "Disom, Eser e Disã; esses são os chefes dos horeus, filhos de Seir, na terra de Edom."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 22,
+      "versoes": {
+        "ARC": "Os filhos de Lotã foram: Hori e Hemã; e a irmã de Lotã era Timna."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 23,
+      "versoes": {
+        "ARC": "Estes são os filhos de Sobal: Alvã, Manaate, Ebal, Sefô e Onão."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 24,
+      "versoes": {
+        "ARC": "Estes são os filhos de Zibeão: Aías e Anás; este é o Anás que achou as fontes termais no deserto, quando apascentava os jumentos de Zibeão, seu pai."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 25,
+      "versoes": {
+        "ARC": "São estes os filhos de Ana: Disom e Aolíbama, filha de Ana."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 26,
+      "versoes": {
+        "ARC": "São estes os filhos de Disom: Hendã, Esbã, Itrã e Querã."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 27,
+      "versoes": {
+        "ARC": "Estes são os filhos de Eser: Bilã, Zaavã e Acã."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 28,
+      "versoes": {
+        "ARC": "Estes são os filhos de Disã: Uz e Arã."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 29,
+      "versoes": {
+        "ARC": "Estes são os chefes dos horeus: Lotã, Sobal, Zibeão, Anás,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 30,
+      "versoes": {
+        "ARC": "Disom, Eser e Disã; esses são os chefes dos horeus que governaram na terra de Seir."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 31,
+      "versoes": {
+        "ARC": "São estes os reis que reinaram na terra de Edom, antes que reinasse rei algum sobre os filhos de Israel."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 32,
+      "versoes": {
+        "ARC": "Reinou, pois, em Edom Belá, filho de Beor; e o nome da sua cidade era Dinabá."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 33,
+      "versoes": {
+        "ARC": "Morreu Belá; e Jobabe, filho de Zerá de Bozra, reinou em seu lugar."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 34,
+      "versoes": {
+        "ARC": "Morreu Jobabe; e Husão, da terra dos temanitas, reinou em seu lugar."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 35,
+      "versoes": {
+        "ARC": "Morreu Husão; e em seu lugar reinou Hadade, filho de Bedade, que feriu a Midiã no campo de Moabe; e o nome da sua cidade era Avite."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 36,
+      "versoes": {
+        "ARC": "Morreu Hadade; e Sâmela de Masreca reinou em seu lugar."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 37,
+      "versoes": {
+        "ARC": "Morreu Sâmela; e Saul de Reobote junto ao rio reinou em seu lugar."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 38,
+      "versoes": {
+        "ARC": "Morreu Saul; e Baal-Hanã, filho de Acbor, reinou em seu lugar."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 39,
+      "versoes": {
+        "ARC": "Morreu Baal-Hanã, filho de Acbor; e Hadar reinou em seu lugar; e o nome da sua cidade era Paú; e o nome de sua mulher era Meetabel, filha de Matrede, filha de Me-Zaabe."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 40,
+      "versoes": {
+        "ARC": "Estes são os nomes dos chefes dos filhos de Esaú, segundo as suas famílias, segundo os seus lugares, pelos seus nomes: os chefes Timna, Alva, Jetete,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 41,
+      "versoes": {
+        "ARC": "Aolíbama, Elá, Pinom,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 42,
+      "versoes": {
+        "ARC": "Quenaz, Temã, Mibzar,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 43,
+      "versoes": {
+        "ARC": "Magdiel e Irão; esses são os chefes de Edom, segundo as suas habitações, na terra ,da sua possessão. Este é Esaú, pai dos edomeus."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

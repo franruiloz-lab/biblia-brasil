@@ -1,0 +1,97 @@
+{
+  "livro": "proverbios",
+  "livroNome": "Provérbios",
+  "capitulo": 3,
+  "testamento": "AT",
+  "titulo": "Confia no Senhor de todo o teu coração",
+  "autor": "Salomão",
+  "versiculos": [
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "Confia no Senhor de todo o teu coração e não te estribes no teu próprio entendimento.",
+        "NVI-PT": "Confie no Senhor de todo o seu coração e não se apoie em seu próprio entendimento.",
+        "NTLH": "Confie no Senhor com todo o seu coração e não confie na sua própria inteligência.",
+        "NVT": "Confie no Senhor de todo o seu coração e não se apoie no seu próprio entendimento."
+      },
+      "temas": ["confianca", "fe", "sabedoria", "humildade"],
+      "versiculosRelacionados": ["proverbios/3/6", "isaias/55/8-9", "jeremias/17/7"],
+      "faq": [
+        {
+          "pergunta": "O que significa 'não te estribes no teu próprio entendimento' em Provérbios 3:5?",
+          "resposta": "O hebraico 'al-tishshan' vem de uma raiz que significa apoiar-se, encostar-se — a imagem é de alguém que se apoia em uma bengala ou parede. Salomão não diz que o entendimento humano é inútil (Provérbios inteiro celebra a razão e o discernimento). O problema é quando o entendimento humano se torna o apoio final, a autoridade última — quando a análise própria substitui a confiança em Deus. 'De todo o teu coração' (hebraico: 'bechol-libecha') é totalizante — não deixando espaço para um cantinho reservado à confiança em si mesmo. É uma questão de hierarquia: razão sob confiança, não confiança sob razão."
+        },
+        {
+          "pergunta": "Como confiar em Deus quando a situação exige uma decisão urgente?",
+          "resposta": "Provérbios 3:5-6 não é um convite à passividade, mas uma orientação sobre o ponto de partida das decisões. 'Confiar em Deus de todo o coração' é reconhecer, antes de qualquer análise, que Sua perspectiva é superior à sua. Isso se traduz em: (1) orar antes de decidir, não como ritual mas como ato real de dependência; (2) consultar a Palavra para entender os valores e princípios que devem guiar a decisão; (3) buscar conselho sábio (o próprio Provérbios valoriza isso — Pv 15:22); (4) então agir com o melhor discernimento disponível, reconhecendo que Deus pode redirecionar. A promessa do versículo 6 é que Ele endireitará os caminhos — corrigirá o rumo quando necessário."
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "Reconhece-o em todos os teus caminhos, e ele endireitará as tuas veredas.",
+        "NVI-PT": "Reconheça o Senhor em todos os seus caminhos, e ele endireitará as suas veredas.",
+        "NTLH": "Lembre-se do Senhor em tudo o que fizer, e ele lhe mostrará o caminho certo.",
+        "NVT": "Busque a orientação do Senhor em tudo o que fizer, e ele endireitará as suas veredas."
+      },
+      "temas": ["confianca", "orientacao", "providencia", "sabedoria"],
+      "versiculosRelacionados": ["salmos/37/5", "proverbios/16/9"],
+      "faq": [
+        {
+          "pergunta": "O que significa 'reconhece-o em todos os teus caminhos' em Provérbios 3:6?",
+          "resposta": "O hebraico 'da'ehu' (reconhece-o, conhece-o) é o mesmo verbo usado para descrever intimidade relacional — não apenas conhecimento intelectual sobre Deus. 'Em todos os teus caminhos' é abrangente: trabalho, relacionamentos, finanças, lazer, decisões grandes e pequenas. Salomão não faz distinção entre o sagrado e o secular — reconhecer a Deus é uma postura de vida inteira, não restrita a momentos de culto. A consequência — 'ele endireitará as tuas veredas' — usa a imagem de uma estrada sendo nivelada: não necessariamente um caminho sem obstáculos, mas um rumo claro onde antes havia confusão."
+        }
+      ]
+    },
+    {
+      "numero": 9,
+      "versoes": {
+        "ARC": "Honra ao Senhor com os teus bens e com as primícias de todos os teus rendimentos,",
+        "NVI-PT": "Honre o Senhor com os seus bens e com as primícias de toda a sua produção,",
+        "NTLH": "Honre o Senhor com a sua riqueza e com a primeira parte de tudo o que você ganhar.",
+        "NVT": "Honre o Senhor com os seus bens e com as primícias de toda a sua colheita."
+      },
+      "temas": ["generosidade", "mordomia", "adoracao", "financas"],
+      "versiculosRelacionados": ["malaquias/3/10", "2-corintios/9/7"],
+      "faq": []
+    },
+    {
+      "numero": 11,
+      "versoes": {
+        "ARC": "Filho meu, não rejeites a correção do Senhor nem te enfades com a sua repreensão.",
+        "NVI-PT": "Filho meu, não rejeite a disciplina do Senhor, nem se canse quando ele o repreende.",
+        "NTLH": "Filho meu, não rejeite a disciplina do Senhor nem fique aborrecido quando ele o corrigir.",
+        "NVT": "Filho meu, não rejeite a disciplina do Senhor, nem se aborreça quando ele o repreende."
+      },
+      "temas": ["disciplina", "humildade", "amor-de-deus", "carater"],
+      "versiculosRelacionados": ["hebreus/12/5-6", "apocalipse/3/19"],
+      "faq": []
+    },
+    {
+      "numero": 12,
+      "versoes": {
+        "ARC": "Porque o Senhor repreende aquele a quem ama, como o pai ao filho a quem quer bem.",
+        "NVI-PT": "porque o Senhor disciplina aquele que ama, como o pai disciplina o filho a quem quer bem.",
+        "NTLH": "porque o Senhor disciplina os que ama, como um pai faz com o filho de quem gosta.",
+        "NVT": "pois o Senhor disciplina aquele que ama, como o pai corrige o filho de quem se agrada."
+      },
+      "temas": ["disciplina", "amor-de-deus", "carater"],
+      "versiculosRelacionados": ["hebreus/12/6", "apocalipse/3/19"],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "Provérbios 3:5-6 — 'Confia no Senhor de todo o teu coração' — é um dos versículos mais buscados no Brasil em momentos de decisão e incerteza, com cerca de 25.000 buscas mensais. Em um país marcado por instabilidade econômica e insegurança, esses dois versículos funcionam como âncora para quem precisa decidir sem todas as respostas.",
+    "contexto": "Provérbios 3 faz parte da primeira grande seção do livro (capítulos 1-9), onde um pai instrui seu filho sobre a vida sábia. O capítulo 3 é uma das passagens mais densas em promessas práticas: confiança em Deus (v. 5-6), saúde (v. 7-8), prosperidade (v. 9-10), disciplina como amor (v. 11-12) e a descrição da Sabedoria como tesouro (v. 13-18). O tom é íntimo e paternal — não mandamentos religiosos, mas orientação de vida.",
+    "aplicacao": "Para o cristão brasileiro que enfrenta decisões — de carreira, relacionamento, saúde, finanças — Provérbios 3:5-6 oferece um princípio fundante: a orientação começa com a postura correta, não com a análise correta. Não é anti-intelectual (Provérbios celebra o estudo e o discernimento), mas estabelece a hierarquia: confiança em Deus precede e permeia toda a reflexão humana."
+  },
+  "versiculosDestaque": [5, 6],
+  "temas": ["confianca", "fe", "sabedoria", "orientacao", "providencia"],
+  "versiculosRelacionadosExternos": [
+    { "ref": "jeremias/29/11", "texto": "Jeremias 29:11 — Porque eu sei os planos que tenho para vocês" },
+    { "ref": "salmos/37/5", "texto": "Salmos 37:5 — Entrega o teu caminho ao Senhor" },
+    { "ref": "proverbios/16/9", "texto": "Provérbios 16:9 — O coração do homem planeja o seu caminho" },
+    { "ref": "isaias/55/8", "texto": "Isaías 55:8 — Porque os meus pensamentos não são os vossos pensamentos" }
+  ]
+}

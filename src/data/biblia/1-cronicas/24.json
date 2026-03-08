@@ -1,0 +1,297 @@
+{
+  "livro": "1-cronicas",
+  "livroNome": "1 Crônicas",
+  "capitulo": 24,
+  "testamento": "AT",
+  "titulo": "",
+  "autor": "Esdras (tradição)",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "As turmas dos filhos de Arão foram estas: os filhos de Arão: Nadabe, Abiú, Eleazar e Itamar."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "Mas Nadabe e Abiú morreram antes de seu pai, e não tiveram filhos; por isso Eleazar e Itamar exerciam o sacerdócio."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "E Davi, juntamente com Zadoque, dos filhos de Eleazar, e com Aimeleque, dos filhos de Itamar, os distribuiu segundo os deveres do seu serviço."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "E acharam-se mais chefes dentre os filhos de Eleazar do que dentre os filhos de Itamar; e assim foram distribuídos: dos filhos de Eleazar, chefes das casas paternas, dezesseis; e dos filhos de Itamar, segundo as suas casas paternas, oito."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "Assim foram distribuídos por sortes, tanto uns como os outros; porque havia príncipes do santuário e príncipes de Deus, tanto dentre os filhos de Eleazar, como dentre os filhos de Itamar."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "E os registrou Semaías, filho de Netanel, o escrivão dentre os levitas, diante do rei, dos príncipes, de Zadoque, o sacerdote, de Aimeleque, filho de Abiatar, e dos chefes das casas paternas entre os sacerdotes e entre os levitas, tomando-se uma casa paterna para Eleazar, e outra para Itamar."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "Assim a primeira sorte saiu a Jeoiaribe, a segunda a Jedaías,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "a terceira a Harim, a quarta a Seorim,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 9,
+      "versoes": {
+        "ARC": "a quinta a Malquias, a sexta a Miamim,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 10,
+      "versoes": {
+        "ARC": "a sétima a Hacoz, a oitava a Abias,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 11,
+      "versoes": {
+        "ARC": "a nona a Jesuá, a décima a Secanias,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 12,
+      "versoes": {
+        "ARC": "a undécima a Eliasibe, a duodécima a Jaquim,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 13,
+      "versoes": {
+        "ARC": "a décima terceira a Hupá, a décima quarta a Jesebeabe,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 14,
+      "versoes": {
+        "ARC": "a décima quinta a Bilga, a décima sexta a Imer,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 15,
+      "versoes": {
+        "ARC": "a décima sétima a Hezir, a décima oitava a Hapizes,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 16,
+      "versoes": {
+        "ARC": "a décima nona a Petaías, a vigésima a Jeezquel,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 17,
+      "versoes": {
+        "ARC": "a vigésima primeira a Jaquim, a vigésima segunda a Gamul,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 18,
+      "versoes": {
+        "ARC": "a vigésima terceira a Delaías, a vigésima quarta a Maazias."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 19,
+      "versoes": {
+        "ARC": "Esta foi a distribuição deles no seu serviço, para entrarem na casa do Senhor, segundo lhes fora ordenado por Arão, seu pai, como o Senhor Deus de Israel lhe tinha mandado."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 20,
+      "versoes": {
+        "ARC": "Do restante dos filhos de Levi: dos filhos de Anrão, Subael; dos filhos de Subael, Jedeías."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 21,
+      "versoes": {
+        "ARC": "Quanto a Reabias: dos filhos de Reabias, Issijá o chefe;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 22,
+      "versoes": {
+        "ARC": "dos izaritas, Selomote; dos filhos de Selomote, Jaate;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 23,
+      "versoes": {
+        "ARC": "dos filhos de Hebrom: Jerias o chefe, Amarias o segundo, Jaaziel o terceiro, Jecameão o quarto;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 24,
+      "versoes": {
+        "ARC": "dos filhos de Uziel, Mica; dos filhos de Mica, Samir;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 25,
+      "versoes": {
+        "ARC": "o irmão de Mica, Issijá; dos filhos de Issijá, Zacarias."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 26,
+      "versoes": {
+        "ARC": "Os filhos de Merári, Mali e Musi; dos filhos de Jaazias, Beno;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 27,
+      "versoes": {
+        "ARC": "os filhos de Merári: de Jaazias: Beno, Soão, Zacur e Ibri;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 28,
+      "versoes": {
+        "ARC": "de Mali, Eleazar; e este não teve filhos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 29,
+      "versoes": {
+        "ARC": "Quanto a Quis: dos filhos de Quis, Jerameel;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 30,
+      "versoes": {
+        "ARC": "e os filhos de Musi: Mali, Eder e Jerimote. Esses foram os filhos dos levitas, segundo as suas casas paternas."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 31,
+      "versoes": {
+        "ARC": "Estes também, como seus irmãos, os filhos de Arão, lançaram sortes diante do rei Davi, de Zadoque, de Aimeleque, e dos chefes das casas paternas entre os sacerdotes e entre os levitas; assim fizeram, tanto para o chefe de casa paterna, como para o seu irmão menor."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

@@ -1,0 +1,90 @@
+{
+  "livro": "salmos",
+  "livroNome": "Salmos",
+  "capitulo": 138,
+  "testamento": "AT",
+  "titulo": "",
+  "autor": "Davi e outros",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "Graças te dou de todo o meu coração; diante dos deuses a ti canto louvores."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "Inclino-me para o teu santo templo, e louvo o teu nome pela tua benignidade, e pela tua fidelidade; pois engrandeceste acima de tudo o teu nome e a tua palavra."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "No dia em que eu clamei, atendeste-me; alentaste-me, fortalecendo a minha alma."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "Todos os reis da terra de louvarão, ó Senhor, quando ouvirem as palavras da tua boca;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "e cantarão os caminhos do Senhor, pois grande é a glória do Senhor."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "Ainda que o Senhor é excelso, contudo atenta para o humilde; mas ao soberbo, conhece-o de longe."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "Embora eu ande no meio da angústia, tu me revivificas; contra a ira dos meus inimigos estendes a tua mão, e a tua destra me salva."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "O Senhor aperfeiçoará o que me diz respeito. A tua benignidade, ó Senhor, dura para sempre; não abandones as obras das tuas mãos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

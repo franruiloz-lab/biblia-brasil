@@ -1,0 +1,549 @@
+{
+  "livro": "joao",
+  "livroNome": "João",
+  "capitulo": 8,
+  "testamento": "NT",
+  "titulo": "",
+  "autor": "João (apóstolo)",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "Mas Jesus foi para o Monte das Oliveiras."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "Pela manhã cedo voltou ao templo, e todo o povo vinha ter com ele; e Jesus, sentando-se o ensinava."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "Então os escribas e fariseus trouxeram-lhe uma mulher apanhada em adultério; e pondo-a no meio,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "disseram-lhe: Mestre, esta mulher foi apanhada em flagrante adultério."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "Ora, Moisés nos ordena na lei que as tais sejam apedrejadas. Tu, pois, que dizes?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "Isto diziam eles, tentando-o, para terem de que o acusar. Jesus, porém, inclinando-se, começou a escrever no chão com o dedo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "Mas, como insistissem em perguntar-lhe, ergueu-se e disse-lhes: Aquele dentre vós que está sem pecado seja o primeiro que lhe atire uma pedra."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "E, tornando a inclinar-se, escrevia na terra."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 9,
+      "versoes": {
+        "ARC": "Quando ouviram isto foram saindo um a um, a começar pelos mais velhos, até os últimos; ficou só Jesus, e a mulher ali em pé."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 10,
+      "versoes": {
+        "ARC": "Então, erguendo-se Jesus e não vendo a ninguém senão a mulher, perguntou-lhe: Mulher, onde estão aqueles teus acusadores? Ninguém te condenou?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 11,
+      "versoes": {
+        "ARC": "Respondeu ela: Ninguém, Senhor. E disse-lhe Jesus: Nem eu te condeno; vai-te, e não peques mais."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 12,
+      "versoes": {
+        "ARC": "Então Jesus tornou a falar-lhes, dizendo: Eu sou a luz do mundo; quem me segue de modo algum andará em trevas, mas terá a luz da vida."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 13,
+      "versoes": {
+        "ARC": "Disseram-lhe, pois, os fariseus: Tu dás testemunho de ti mesmo; o teu testemunho não é verdadeiro."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 14,
+      "versoes": {
+        "ARC": "Respondeu-lhes Jesus: Ainda que eu dou testemunho de mim mesmo, o meu testemunho é verdadeiro; porque sei donde vim, e para onde vou; mas vós não sabeis donde venho, nem para onde vou."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 15,
+      "versoes": {
+        "ARC": "Vós julgais segundo a carne; eu a ninguém julgo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 16,
+      "versoes": {
+        "ARC": "E, mesmo que eu julgue, o meu juízo é verdadeiro; porque não sou eu só, mas eu e o Pai que me enviou."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 17,
+      "versoes": {
+        "ARC": "Ora, na vossa lei está escrito que o testemunho de dois homens é verdadeiro."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 18,
+      "versoes": {
+        "ARC": "Sou eu que dou testemunho de mim mesmo, e o Pai que me enviou, também dá testemunho de mim."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 19,
+      "versoes": {
+        "ARC": "Perguntavam-lhe, pois: Onde está teu pai? Jesus respondeu: Não me conheceis a mim, nem a meu Pai; se vós me conhecêsseis a mim, também conheceríeis a meu Pai."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 20,
+      "versoes": {
+        "ARC": "Essas palavras proferiu Jesus no lugar do tesouro, quando ensinava no templo; e ninguém o prendeu, porque ainda não era chegada a sua hora."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 21,
+      "versoes": {
+        "ARC": "Disse-lhes, pois, Jesus outra vez: Eu me retiro; buscar-me-eis, e morrereis no vosso pecado. Para onde eu vou, vós não podeis ir."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 22,
+      "versoes": {
+        "ARC": "Então diziam os judeus: Será que ele vai suicidar-se, pois diz: Para onde eu vou, vós não podeis ir?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 23,
+      "versoes": {
+        "ARC": "Disse-lhes ele: Vós sois de baixo, eu sou de cima; vós sois deste mundo, eu não sou deste mundo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 24,
+      "versoes": {
+        "ARC": "Por isso vos disse que morrereis em vossos pecados; porque, se não crerdes que eu sou, morrereis em vossos pecados."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 25,
+      "versoes": {
+        "ARC": "Perguntavam-lhe então: Quem és tu? Respondeu-lhes Jesus: Exatamente o que venho dizendo que sou."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 26,
+      "versoes": {
+        "ARC": "Muitas coisas tenho que dizer e julgar acerca de vós; mas aquele que me enviou é verdadeiro; e o que dele ouvi, isso falo ao mundo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 27,
+      "versoes": {
+        "ARC": "Eles não perceberam que lhes falava do Pai."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 28,
+      "versoes": {
+        "ARC": "Prosseguiu, pois, Jesus: Quando tiverdes levantado o Filho do homem, então conhecereis que eu sou, e que nada faço de mim mesmo; mas como o Pai me ensinou, assim falo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 29,
+      "versoes": {
+        "ARC": "E aquele que me enviou está comigo; não me tem deixado só; porque faço sempre o que é do seu agrado."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 30,
+      "versoes": {
+        "ARC": "Falando ele estas coisas, muitos creram nele."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 31,
+      "versoes": {
+        "ARC": "Dizia, pois, Jesus aos judeus que nele creram: Se vós permanecerdes na minha palavra, verdadeiramente sois meus discípulos;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 32,
+      "versoes": {
+        "ARC": "e conhecereis a verdade, e a verdade vos libertará."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 33,
+      "versoes": {
+        "ARC": "Responderam-lhe: Somos descendentes de Abraão, e nunca fomos escravos de ninguém; como dizes tu: Sereis livres?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 34,
+      "versoes": {
+        "ARC": "Replicou-lhes Jesus: Em verdade, em verdade vos digo que todo aquele que comete pecado é escravo do pecado."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 35,
+      "versoes": {
+        "ARC": "Ora, o escravo não fica para sempre na casa; o filho fica para sempre."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 36,
+      "versoes": {
+        "ARC": "Se, pois, o Filho vos libertar, verdadeiramente sereis livres."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 37,
+      "versoes": {
+        "ARC": "Bem sei que sois descendência de Abraão; contudo, procurais matar-me, porque a minha palavra não encontra lugar em vós."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 38,
+      "versoes": {
+        "ARC": "Eu falo do que vi junto de meu Pai; e vós fazeis o que também ouvistes de vosso pai."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 39,
+      "versoes": {
+        "ARC": "Responderam-lhe: Nosso pai é Abraão. Disse-lhes Jesus: Se sois filhos de Abraão, fazei as obras de Abraão."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 40,
+      "versoes": {
+        "ARC": "Mas agora procurais matar-me, a mim que vos falei a verdade que de Deus ouvi; isso Abraão não fez."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 41,
+      "versoes": {
+        "ARC": "Vós fazeis as obras de vosso pai. Replicaram-lhe eles: Nós não somos nascidos de prostituição; temos um Pai, que é Deus."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 42,
+      "versoes": {
+        "ARC": "Respondeu-lhes Jesus: Se Deus fosse o vosso Pai, vós me amaríeis, porque eu saí e vim de Deus; pois não vim de mim mesmo, mas ele me enviou."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 43,
+      "versoes": {
+        "ARC": "Por que não compreendeis a minha linguagem? é porque não podeis ouvir a minha palavra."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 44,
+      "versoes": {
+        "ARC": "Vós tendes por pai o Diabo, e quereis satisfazer os desejos de vosso pai; ele é homicida desde o princípio, e nunca se firmou na verdade, porque nele não há verdade; quando ele profere mentira, fala do que lhe é próprio; porque é mentiroso, e pai da mentira."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 45,
+      "versoes": {
+        "ARC": "Mas porque eu digo a verdade, não me credes."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 46,
+      "versoes": {
+        "ARC": "Quem dentre vós me convence de pecado? Se digo a verdade, por que não me credes?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 47,
+      "versoes": {
+        "ARC": "Quem é de Deus ouve as palavras de Deus; por isso vós não as ouvis, porque não sois de Deus."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 48,
+      "versoes": {
+        "ARC": "Responderam-lhe os judeus: Não dizemos com razão que és samaritano, e que tens demônio?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 49,
+      "versoes": {
+        "ARC": "Jesus respondeu: Eu não tenho demônio; antes honro a meu Pai, e vós me desonrais."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 50,
+      "versoes": {
+        "ARC": "Eu não busco a minha glória; há quem a busque, e julgue."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 51,
+      "versoes": {
+        "ARC": "Em verdade, em verdade vos digo que, se alguém guardar a minha palavra, nunca verá a morte."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 52,
+      "versoes": {
+        "ARC": "Disseram-lhe os judeus: Agora sabemos que tens demônios. Abraão morreu, e também os profetas; e tu dizes: Se alguém guardar a minha palavra, nunca provará a morte!"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 53,
+      "versoes": {
+        "ARC": "Porventura és tu maior do que nosso pai Abraão, que morreu? Também os profetas morreram; quem pretendes tu ser?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 54,
+      "versoes": {
+        "ARC": "Respondeu Jesus: Se eu me glorificar a mim mesmo, a minha glória não é nada; quem me glorifica é meu Pai, do qual vós dizeis que é o vosso Deus;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 55,
+      "versoes": {
+        "ARC": "e vós não o conheceis; mas eu o conheço; e se disser que não o conheço, serei mentiroso como vós; mas eu o conheço, e guardo a sua palavra."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 56,
+      "versoes": {
+        "ARC": "Abraão, vosso pai, exultou por ver o meu dia; viu-o, e alegrou-se."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 57,
+      "versoes": {
+        "ARC": "Disseram-lhe, pois, os judeus: Ainda não tens cinqüenta anos, e viste Abraão?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 58,
+      "versoes": {
+        "ARC": "Respondeu-lhes Jesus: Em verdade, em verdade vos digo que antes que Abraão existisse, eu sou."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 59,
+      "versoes": {
+        "ARC": "Então pegaram em pedras para lhe atirarem; mas Jesus ocultou-se, e saiu do templo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

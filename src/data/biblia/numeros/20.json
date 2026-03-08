@@ -1,0 +1,279 @@
+{
+  "livro": "numeros",
+  "livroNome": "Números",
+  "capitulo": 20,
+  "testamento": "AT",
+  "titulo": "",
+  "autor": "Moisés",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "Os filhos de Israel, a congregação toda, chegaram ao deserto de Zim no primeiro mês, e o povo ficou em Cades. Ali morreu Miriã, e ali foi sepultada."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "Ora, não havia água para a congregação; pelo que se ajuntaram contra Moisés e Arão."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "E o povo contendeu com Moisés, dizendo: Oxalá tivéssemos perecido quando pereceram nossos irmãos perante o Senhor!"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "Por que trouxestes a congregação do Senhor a este deserto, para que morramos aqui, nós e os nossos animais?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "E por que nos fizestes subir do Egito, para nos trazer a este mau lugar? lugar onde não há semente, nem figos, nem vides, nem romãs, nem mesmo água para beber."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "Então Moisés e Arão se foram da presença da assembléia até a porta da tenda da revelação, e se lançaram com o rosto em terra; e a glória do Senhor lhes apareceu."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "E o Senhor disse a Moisés:"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "Toma a vara, e ajunta a congregação, tu e Arão, teu irmão, e falai à rocha perante os seus olhos, que ela dê as suas águas. Assim lhes tirarás água da rocha, e darás a beber à congregação e aos seus animais."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 9,
+      "versoes": {
+        "ARC": "Moisés, pois, tomou a vara de diante do senhor, como este lhe ordenou."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 10,
+      "versoes": {
+        "ARC": "Moisés e Arão reuniram a assembléia diante da rocha, e Moisés disse-lhes: Ouvi agora, rebeldes! Porventura tiraremos água desta rocha para vós?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 11,
+      "versoes": {
+        "ARC": "Então Moisés levantou a mão, e feriu a rocha duas vezes com a sua vara, e saiu água copiosamente, e a congregação bebeu, e os seus animais."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 12,
+      "versoes": {
+        "ARC": "Pelo que o Senhor disse a Moisés e a Arão: Porquanto não me crestes a mim, para me santificardes diante dos filhos de Israel, por isso não introduzireis esta congregação na terra que lhes dei."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 13,
+      "versoes": {
+        "ARC": "Estas são as águas de Meribá, porque ali os filhos de Israel contenderam com o Senhor, que neles se santificou."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 14,
+      "versoes": {
+        "ARC": "De Cades, Moisés enviou mensageiros ao rei de Edom, dizendo: Assim diz teu irmão Israel: Tu sabes todo o trabalho que nos tem sobrevindo;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 15,
+      "versoes": {
+        "ARC": "como nossos pais desceram ao Egito, e nós no Egito habitamos muito tempo; e como os egípcios nos maltrataram, a nós e a nossos pais;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 16,
+      "versoes": {
+        "ARC": "e quando clamamos ao Senhor, ele ouviu a nossa voz, e mandou um anjo, e nos tirou do Egito; e eis que estamos em Cades, cidade na extremidade dos teus termos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 17,
+      "versoes": {
+        "ARC": "Deixa-nos, pois, passar pela tua terra; não passaremos pelos campos, nem pelas vinhas, nem beberemos a água dos poços; iremos pela estrada real, não nos desviando para a direita nem para a esquerda, até que tenhamos passado os teus termos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 18,
+      "versoes": {
+        "ARC": "Respondeu-lhe Edom: Não passaras por mim, para que eu não saia com a espada ao teu encontro."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 19,
+      "versoes": {
+        "ARC": "Os filhos de Israel lhe replicaram: Subiremos pela estrada real; e se bebermos das tuas águas, eu e o meu gado, darei o preço delas; sob condição de eu nada mais fazer, deixa-me somente passar a pé."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 20,
+      "versoes": {
+        "ARC": "Edom, porém, respondeu: Não passarás. E saiu-lhe ao encontro com muita gente e com mão forte."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 21,
+      "versoes": {
+        "ARC": "Assim recusou Edom deixar Israel passar pelos seus termos; pelo que Israel se desviou dele."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 22,
+      "versoes": {
+        "ARC": "Então partiram de Cades; e os filhos de Israel, a congregação toda, chegaram ao monte Hor."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 23,
+      "versoes": {
+        "ARC": "E falou o Senhor a Moisés e a Arão no monte Hor, nos termos da terra de Edom, dizendo:"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 24,
+      "versoes": {
+        "ARC": "Arão será recolhido a seu povo, porque não entrará na terra que dei aos filhos de Israel, porquanto fostes rebeldes contra a minha palavra no tocante às águas de Meribá."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 25,
+      "versoes": {
+        "ARC": "Toma a Arão e a Eleazar, seu filho, e faze-os subir ao monte Hor;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 26,
+      "versoes": {
+        "ARC": "e despe a Arão as suas vestes, e as veste a Eleazar, seu filho, porque Arão será recolhido, e morrerá ali."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 27,
+      "versoes": {
+        "ARC": "Fez, pois, Moisés como o Senhor lhe ordenara; e subiram ao monte Hor perante os olhos de toda a congregação."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 28,
+      "versoes": {
+        "ARC": "Moisés despiu a Arão as vestes, e as vestiu a Eleazar, seu filho; e morreu Arão ali sobre o cume do monte; e Moisés e Eleazar desceram do monte."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 29,
+      "versoes": {
+        "ARC": "Vendo, pois, toda a congregação que Arão era morto, chorou-o toda a casa de Israel por trinta dias."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

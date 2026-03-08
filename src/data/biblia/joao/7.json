@@ -1,0 +1,495 @@
+{
+  "livro": "joao",
+  "livroNome": "João",
+  "capitulo": 7,
+  "testamento": "NT",
+  "titulo": "",
+  "autor": "João (apóstolo)",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "Depois disto andava Jesus pela Galiléia; pois não queria andar pela Judéia, porque os judeus procuravam matá-lo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "Ora, estava próxima a festa dos judeus, a dos tabernáculos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "Disseram-lhe, então, seus irmãos: Retira-te daqui e vai para a Judéia, para que também os teus discípulos vejam as obras que fazes."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "Porque ninguém faz coisa alguma em oculto, quando procura ser conhecido. Já que fazes estas coisas, manifesta-te ao mundo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "Pois nem seus irmãos criam nele."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "Disse-lhes, então, Jesus: Ainda não é chegado o meu tempo; mas o vosso tempo sempre está presente."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "O mundo não vos pode odiar; mas ele me odeia a mim, porquanto dele testifico que as suas obras são más."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "Subi vós à festa; eu não subo ainda a esta festa, porque ainda não é chegado o meu tempo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 9,
+      "versoes": {
+        "ARC": "E, havendo-lhes dito isto, ficou na Galiléia."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 10,
+      "versoes": {
+        "ARC": "Mas quando seus irmãos já tinham subido à festa, então subiu ele também, não publicamente, mas como em secreto."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 11,
+      "versoes": {
+        "ARC": "Ora, os judeus o procuravam na festa, e perguntavam: Onde está ele?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 12,
+      "versoes": {
+        "ARC": "E era grande a murmuração a respeito dele entre as multidões. Diziam alguns: Ele é bom. Mas outros diziam: não, antes engana o povo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 13,
+      "versoes": {
+        "ARC": "Todavia ninguém falava dele abertamente, por medo dos judeus."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 14,
+      "versoes": {
+        "ARC": "Estando, pois, a festa já em meio, subiu Jesus ao templo e começou a ensinar."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 15,
+      "versoes": {
+        "ARC": "Então os judeus se admiravam, dizendo: Como sabe este letras, sem ter estudado?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 16,
+      "versoes": {
+        "ARC": "Respondeu-lhes Jesus: A minha doutrina não é minha, mas daquele que me enviou."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 17,
+      "versoes": {
+        "ARC": "Se alguém quiser fazer a vontade de Deus, há de saber se a doutrina é dele, ou se eu falo por mim mesmo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 18,
+      "versoes": {
+        "ARC": "Quem fala por si mesmo busca a sua própria glória; mas o que busca a glória daquele que o enviou, esse é verdadeiro, e não há nele injustiça."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 19,
+      "versoes": {
+        "ARC": "Não vos deu Moisés a lei? no entanto nenhum de vós cumpre a lei. Por que procurais matar-me?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 20,
+      "versoes": {
+        "ARC": "Respondeu a multidão: Tens demônio; quem procura matar-te?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 21,
+      "versoes": {
+        "ARC": "Replicou-lhes Jesus: Uma só obra fiz, e todos vós admirais por causa disto."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 22,
+      "versoes": {
+        "ARC": "Moisés vos ordenou a circuncisão {não que fosse de Moisés, mas dos pais}, e no sábado circuncidais um homem."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 23,
+      "versoes": {
+        "ARC": "Ora, se um homem recebe a circuncisão no sábado, para que a lei de Moisés não seja violada, como vos indignais contra mim, porque no sábado tornei um homem inteiramente são?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 24,
+      "versoes": {
+        "ARC": "Não julgueis pela aparência mas julgai segundo o reto juízo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 25,
+      "versoes": {
+        "ARC": "Diziam então alguns dos de Jerusalém: Não é este o que procuram matar?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 26,
+      "versoes": {
+        "ARC": "E eis que ele está falando abertamente, e nada lhe dizem. Será que as autoridades realmente o reconhecem como o Cristo?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 27,
+      "versoes": {
+        "ARC": "Entretanto sabemos donde este é; mas, quando vier o Cristo, ninguém saberá donde ele é."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 28,
+      "versoes": {
+        "ARC": "Jesus, pois, levantou a voz no templo e ensinava, dizendo: Sim, vós me conheceis, e sabeis donde sou; contudo eu não vim de mim mesmo, mas aquele que me enviou é verdadeiro, o qual vós não conheceis."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 29,
+      "versoes": {
+        "ARC": "Mas eu o conheço, porque dele venho, e ele me enviou."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 30,
+      "versoes": {
+        "ARC": "Procuravam, pois, prendê-lo; mas ninguém lhe deitou as mãos, porque ainda não era chegada a sua hora."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 31,
+      "versoes": {
+        "ARC": "Contudo muitos da multidão creram nele, e diziam: Será que o Cristo, quando vier, fará mais sinais do que este tem feito?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 32,
+      "versoes": {
+        "ARC": "Os fariseus ouviram a multidão murmurar estas coisas a respeito dele; e os principais sacerdotes e os fariseus mandaram guardas para o prenderem."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 33,
+      "versoes": {
+        "ARC": "Disse, pois, Jesus: Ainda um pouco de tempo estou convosco, e depois vou para aquele que me enviou."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 34,
+      "versoes": {
+        "ARC": "Vós me buscareis, e não me achareis; e onde eu estou, vós não podeis vir."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 35,
+      "versoes": {
+        "ARC": "Disseram, pois, os judeus uns aos outros: Para onde irá ele, que não o acharemos? Irá, porventura, à Dispersão entre os gregos, e ensinará os gregos?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 36,
+      "versoes": {
+        "ARC": "Que palavra é esta que disse: Buscar-me-eis, e não me achareis; e, Onde eu estou, vós não podeis vir?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 37,
+      "versoes": {
+        "ARC": "Ora, no seu último dia, o grande dia da festa, Jesus pôs-se em pé e clamou, dizendo: Se alguém tem sede, venha a mim e beba."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 38,
+      "versoes": {
+        "ARC": "Quem crê em mim, como diz a Escritura, do seu interior correrão rios de água viva."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 39,
+      "versoes": {
+        "ARC": "Ora, isto ele disse a respeito do Espírito que haviam de receber os que nele cressem; pois o Espírito ainda não fora dado, porque Jesus ainda não tinha sido glorificado."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 40,
+      "versoes": {
+        "ARC": "Então alguns dentre o povo, ouvindo essas palavras, diziam: Verdadeiramente este é o profeta."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 41,
+      "versoes": {
+        "ARC": "Outros diziam: Este é o Cristo; mas outros replicavam: Vem, pois, o Cristo da Galiléia?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 42,
+      "versoes": {
+        "ARC": "Não diz a Escritura que o Cristo vem da descendência de Davi, e de Belém, a aldeia donde era Davi?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 43,
+      "versoes": {
+        "ARC": "Assim houve uma dissensão entre o povo por causa dele."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 44,
+      "versoes": {
+        "ARC": "Alguns deles queriam prendê-lo; mas ninguém lhe pôs as mãos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 45,
+      "versoes": {
+        "ARC": "Os guardas, pois, foram ter com os principais dos sacerdotes e fariseus, e estes lhes perguntaram: Por que não o trouxestes?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 46,
+      "versoes": {
+        "ARC": "Responderam os guardas: Nunca homem algum falou assim como este homem."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 47,
+      "versoes": {
+        "ARC": "Replicaram-lhes, pois, os fariseus: Também vós fostes enganados?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 48,
+      "versoes": {
+        "ARC": "Creu nele porventura alguma das autoridades, ou alguém dentre os fariseus?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 49,
+      "versoes": {
+        "ARC": "Mas esta multidão, que não sabe a lei, é maldita."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 50,
+      "versoes": {
+        "ARC": "Nicodemos, um deles, que antes fora ter com Jesus, perguntou-lhes:"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 51,
+      "versoes": {
+        "ARC": "A nossa lei, porventura, julga um homem sem primeiro ouvi-lo e ter conhecimento do que ele faz?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 52,
+      "versoes": {
+        "ARC": "Responderam-lhe eles: És tu também da Galiléia? Examina e vê que da Galiléia não surge profeta."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 53,
+      "versoes": {
+        "ARC": "{E cada um foi para sua casa.}"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

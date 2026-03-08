@@ -1,0 +1,378 @@
+{
+  "livro": "exodo",
+  "livroNome": "Êxodo",
+  "capitulo": 25,
+  "testamento": "AT",
+  "titulo": "",
+  "autor": "Moisés",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "Então disse o Senhor a Moisés:"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "Fala aos filhos de Israel que me tragam uma oferta alçada; de todo homem cujo coração se mover voluntariamente, dele tomareis a minha oferta alçada."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "E esta é a oferta alçada que tomareis deles: ouro, prata, bronze,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "estofo azul, púrpura, carmesim, linho fino, pêlos de cabras,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "peles de carneiros tintas de vermelho, peles de golfinhos, madeira de acácia,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "azeite para a luz, especiarias para o óleo da unção e para o incenso aromático,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "pedras de ônix, e pedras de engaste para o éfode e para o peitoral."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "E me farão um santuário, para que eu habite no meio deles."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 9,
+      "versoes": {
+        "ARC": "Conforme a tudo o que eu te mostrar para modelo do tabernáculo, e para modelo de todos os seus móveis, assim mesmo o fareis."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 10,
+      "versoes": {
+        "ARC": "Também farão uma arca de madeira ,de acácia; o seu comprimento será de dois côvados e meio, e a sua largura de um côvado e meio, e de um côvado e meio a sua altura."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 11,
+      "versoes": {
+        "ARC": "E cobri-la-ás de ouro puro, por dentro e por fora a cobrirás; e farás sobre ela uma moldura de ouro ao redor;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 12,
+      "versoes": {
+        "ARC": "e fundirás para ela quatro argolas de ouro, que porás nos quatro cantos dela; duas argolas de um lado e duas do outro."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 13,
+      "versoes": {
+        "ARC": "Também farás varais de madeira de acácia, que cobrirás de ouro."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 14,
+      "versoes": {
+        "ARC": "Meterás os varais nas argolas, aos lados da arca, para se levar por eles a arca."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 15,
+      "versoes": {
+        "ARC": "Os varais permanecerão nas argolas da arca; não serão tirados dela."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 16,
+      "versoes": {
+        "ARC": "E porás na arca o testemunho, que eu te darei."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 17,
+      "versoes": {
+        "ARC": "Igualmente farás um propiciatório, de ouro puro; o seu comprimento será de dois côvados e meio, e a sua largura de um côvado e meio."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 18,
+      "versoes": {
+        "ARC": "Farás também dois querubins de ouro; de ouro batido os farás, nas duas extremidades do propiciatório."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 19,
+      "versoes": {
+        "ARC": "Farás um querubim numa extremidade e o outro querubim na outra extremidade; de uma só peça com o propiciatório fareis os querubins nas duas extremidades dele."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 20,
+      "versoes": {
+        "ARC": "Os querubins estenderão as suas asas por cima do propiciatório, cobrindo-o com as asas, tendo as faces voltadas um para o outro; as faces dos querubins estarão voltadas para o propiciatório."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 21,
+      "versoes": {
+        "ARC": "E porás o propiciatório em cima da arca; e dentro da arca porás o testemunho que eu te darei."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 22,
+      "versoes": {
+        "ARC": "E ali virei a ti, e de cima do propiciatório, do meio dos dois querubins que estão sobre a arca do testemunho, falarei contigo a respeito de tudo o que eu te ordenar no tocante aos filhos de Israel."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 23,
+      "versoes": {
+        "ARC": "Também farás uma mesa de madeira de acácia; o seu comprimento será de dois côvados, a sua largura de um côvado e a sua altura de um côvado e meio;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 24,
+      "versoes": {
+        "ARC": "cobri-la-ás de ouro puro, e lhe farás uma moldura de ouro ao redor."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 25,
+      "versoes": {
+        "ARC": "Também lhe farás ao redor uma guarnição de quatro dedos de largura, e ao redor na guarnição farás uma moldura de ouro."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 26,
+      "versoes": {
+        "ARC": "Também lhe farás quatro argolas de ouro, e porás as argolas nos quatro cantos, que estarão sobre os quatro pés."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 27,
+      "versoes": {
+        "ARC": "Junto da guarnição estarão as argolas, como lugares para os varais, para se levar a mesa."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 28,
+      "versoes": {
+        "ARC": "Farás, pois, estes varais de madeira de acácia, e os cobrirás de ouro; e levar-se-á por eles a mesa."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 29,
+      "versoes": {
+        "ARC": "Também farás os seus pratos, as suas colheres, os seus cântaros e as suas tigelas com que serão oferecidas as libações; de ouro puro os farás."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 30,
+      "versoes": {
+        "ARC": "E sobre a mesa porás os pães da o proposição perante mim para sempre."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 31,
+      "versoes": {
+        "ARC": "Também farás um candelabro de ouro puro; de ouro batido se fará o candelabro, tanto o seu pedestal como a sua haste; os seus copos, os seus cálices e as suas corolas formarão com ele uma só peça."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 32,
+      "versoes": {
+        "ARC": "E de seus lados sairão seis braços: três de um lado, e três do outro."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 33,
+      "versoes": {
+        "ARC": "Em um braço haverá três copos a modo de flores de amêndoa, com cálice e corola; também no outro braço três copos a modo de flores de amêndoa, com cálice e corola; assim se farão os seis braços que saem do candelabro."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 34,
+      "versoes": {
+        "ARC": "Mas na haste central haverá quatro copos a modo de flores de amêndoa, com os seus cálices e as suas corolas,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 35,
+      "versoes": {
+        "ARC": "e um cálice debaixo de dois braços, formando com a haste uma só peça; outro cálice debaixo de dois outros braços, de uma só peça com a haste; e ainda outro cálice debaixo de dois outros braços, de uma só peça com a haste; assim será para os seis braços que saem do candelabro."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 36,
+      "versoes": {
+        "ARC": "Os seus cálices e os seus braços formarão uma só peça com a haste; o todo será de obra batida de ouro puro."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 37,
+      "versoes": {
+        "ARC": "Também lhe farás sete lâmpadas, as quais se acenderão para alumiar defronte dele."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 38,
+      "versoes": {
+        "ARC": "Os seus espevitadores e os seus cinzeiros serão de ouro puro."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 39,
+      "versoes": {
+        "ARC": "De um talento de ouro puro se fará o candelabro, com todos estes utensílios."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 40,
+      "versoes": {
+        "ARC": "Atenta, pois, que os faças conforme o seu modelo, que te foi mostrado no monte."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

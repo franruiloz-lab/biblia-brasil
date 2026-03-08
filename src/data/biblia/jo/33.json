@@ -1,0 +1,315 @@
+{
+  "livro": "jo",
+  "livroNome": "Jó",
+  "capitulo": 33,
+  "testamento": "AT",
+  "titulo": "",
+  "autor": "Desconhecido",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "Ouve, pois, as minhas palavras, ó Jó, e dá ouvidos a todas as minhas declarações."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "Eis que já abri a minha boca; já falou a minha língua debaixo do meu paladar."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "As minhas palavras declaram a integridade do meu coração, e os meus lábios falam com sinceridade o que sabem."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "O Espírito de Deus me fez, e o sopro do Todo-Poderoso me dá vida."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "Se podes, responde-me; põe as tuas palavras em ordem diante de mim; apresenta-te."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "Eis que diante de Deus sou o que tu és; eu também fui formado do barro."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "Eis que não te perturbará nenhum medo de mim, nem será pesada sobre ti a minha mão."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "Na verdade tu falaste aos meus ouvidos, e eu ouvi a voz das tuas palavras. Dizias:"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 9,
+      "versoes": {
+        "ARC": "Limpo estou, sem transgressão; puro sou, e não há em mim iniqüidade."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 10,
+      "versoes": {
+        "ARC": "Eis que Deus procura motivos de inimizade contra mim, e me considera como o seu inimigo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 11,
+      "versoes": {
+        "ARC": "Põe no tronco os meus pés, e observa todas as minhas veredas."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 12,
+      "versoes": {
+        "ARC": "Eis que nisso não tens razão; eu te responderei; porque Deus e maior do que o homem."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 13,
+      "versoes": {
+        "ARC": "Por que razão contendes com ele por não dar conta dos seus atos?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 14,
+      "versoes": {
+        "ARC": "Pois Deus fala de um modo, e ainda de outro se o homem não lhe atende."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 15,
+      "versoes": {
+        "ARC": "Em sonho ou em visão de noite, quando cai sono profundo sobre os homens, quando adormecem na cama;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 16,
+      "versoes": {
+        "ARC": "então abre os ouvidos dos homens, e os atemoriza com avisos,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 17,
+      "versoes": {
+        "ARC": "para apartar o homem do seu desígnio, e esconder do homem a soberba;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 18,
+      "versoes": {
+        "ARC": "para reter a sua alma da cova, e a sua vida de passar pela espada."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 19,
+      "versoes": {
+        "ARC": "Também é castigado na sua cama com dores, e com incessante contenda nos seus ossos;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 20,
+      "versoes": {
+        "ARC": "de modo que a sua vida abomina o pão, e a sua alma a comida apetecível."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 21,
+      "versoes": {
+        "ARC": "Consome-se a sua carne, de maneira que desaparece, e os seus ossos, que não se viam, agora aparecem."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 22,
+      "versoes": {
+        "ARC": "A sua alma se vai chegando à cova, e a sua vida aos que trazem a morte."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 23,
+      "versoes": {
+        "ARC": "Se com ele, pois, houver um anjo, um intérprete, um entre mil, para declarar ao homem o que lhe é justo,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 24,
+      "versoes": {
+        "ARC": "então terá compaixão dele, e lhe dirá: Livra-o, para que não desça à cova; já achei resgate."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 25,
+      "versoes": {
+        "ARC": "Sua carne se reverdecerá mais do que na sua infância; e ele tornará aos dias da sua juventude."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 26,
+      "versoes": {
+        "ARC": "Deveras orará a Deus, que lhe será propício, e o fará ver a sua face com júbilo, e restituirá ao homem a sua justiça."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 27,
+      "versoes": {
+        "ARC": "Cantará diante dos homens, e dirá: Pequei, e perverti o direito, o que de nada me aproveitou."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 28,
+      "versoes": {
+        "ARC": "Mas Deus livrou a minha alma de ir para a cova, e a minha vida verá a luz."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 29,
+      "versoes": {
+        "ARC": "Eis que tudo isto Deus faz duas e três vezes para com o homem,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 30,
+      "versoes": {
+        "ARC": "para reconduzir a sua alma da cova, a fim de que seja iluminado com a luz dos viventes."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 31,
+      "versoes": {
+        "ARC": "Escuta, pois, ó Jó, ouve-me; cala-te, e eu falarei."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 32,
+      "versoes": {
+        "ARC": "Se tens alguma coisa que dizer, responde-me; fala, porque desejo justificar-te."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 33,
+      "versoes": {
+        "ARC": "Se não, escuta-me tu; cala-te, e ensinar-te-ei a sabedoria."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

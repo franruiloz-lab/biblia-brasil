@@ -1,0 +1,333 @@
+{
+  "livro": "numeros",
+  "livroNome": "Números",
+  "capitulo": 11,
+  "testamento": "AT",
+  "titulo": "",
+  "autor": "Moisés",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "Depois o povo tornou-se queixoso, falando o que era mau aos ouvidos do Senhor; e quando o Senhor o ouviu, acendeu-se a sua ira; o fogo do Senhor irrompeu entre eles, e devorou as extremidades do arraial."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "Então o povo clamou a Moisés, e Moisés orou ao Senhor, e o fogo se apagou."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "Pelo que se chamou aquele lugar Taberá, porquanto o fogo do Senhor se acendera entre eles."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "Ora, o vulgo que estava no meio deles veio a ter grande desejo; pelo que os filhos de Israel também tornaram a chorar, e disseram: Quem nos dará carne a comer?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "Lembramo-nos dos peixes que no Egito comíamos de graça, e dos pepinos, dos melões, dos porros, das cebolas e dos alhos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "Mas agora a nossa alma se seca; coisa nenhuma há senão este maná diante dos nossos olhos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "E era o maná como a semente do coentro, e a sua aparência como a aparência de bdélio."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "O povo espalhava-se e o colhia, e, triturando-o em moinhos ou pisando-o num gral, em panelas o cozia, e dele fazia bolos; e o seu sabor era como o sabor de azeite fresco."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 9,
+      "versoes": {
+        "ARC": "E, quando o orvalho descia de noite sobre o arraial, sobre ele descia também o maná."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 10,
+      "versoes": {
+        "ARC": "Então Moisés ouviu chorar o povo, todas as suas famílias, cada qual à porta da sua tenda; e a ira do Senhor grandemente se acendeu; e aquilo pareceu mal aos olhos de Moisés."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 11,
+      "versoes": {
+        "ARC": "Disse, pois, Moisés ao Senhor: Por que fizeste mal a teu servo, e por que não achei graça aos teus olhos, pois que puseste sobre mim o peso de todo este povo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 12,
+      "versoes": {
+        "ARC": "Concebi eu porventura todo este povo? dei-o eu à luz, para que me dissesses: Leva-o ao teu colo, como a ama leva a criança de peito, para a terra que com juramento prometeste a seus pais?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 13,
+      "versoes": {
+        "ARC": "Donde teria eu carne para dar a todo este povo? porquanto choram diante de mim, dizendo: Dá-nos carne a comer."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 14,
+      "versoes": {
+        "ARC": "Eu só não posso: levar a todo este povo, porque me é pesado demais."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 15,
+      "versoes": {
+        "ARC": "Se tu me hás de tratar assim, mata-me, peço-te, se tenho achado graça aos teus olhos; e não me deixes ver a minha miséria."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 16,
+      "versoes": {
+        "ARC": "Disse então o Senhor a Moisés: Ajunta-me setenta homens dos anciãos de Israel, que sabes serem os anciãos do povo e seus oficiais; e os trarás perante a tenda da revelação, para que estejam ali contigo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 17,
+      "versoes": {
+        "ARC": "Então descerei e ali falarei contigo, e tirarei do espírito que está sobre ti, e o porei sobre eles; e contigo levarão eles o peso do povo para que tu não o leves só."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 18,
+      "versoes": {
+        "ARC": "E dirás ao povo: Santificai-vos para amanhã, e comereis carne; porquanto chorastes aos ouvidos do Senhor, dizendo: Quem nos dará carne a comer? pois bem nos ia no Egito. Pelo que o Senhor vos dará carne, e comereis."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 19,
+      "versoes": {
+        "ARC": "Não comereis um dia, nem dois dias, nem cinco dias, nem dez dias, nem vinte dias;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 20,
+      "versoes": {
+        "ARC": "mas um mês inteiro, até vos sair pelas narinas, até que se vos torne coisa nojenta; porquanto rejeitastes ao Senhor, que está no meio de vós, e chorastes diante dele, dizendo: Por que saímos do Egito?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 21,
+      "versoes": {
+        "ARC": "Respondeu Moisés: Seiscentos mil homens de pé é este povo no meio do qual estou; todavia tu tens dito: Dar-lhes-ei carne, e comerão um mês inteiro."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 22,
+      "versoes": {
+        "ARC": "Matar-se-ão para eles rebanhos e gados, que lhes bastem? ou ajuntar-se-ão, para eles todos os peixes do mar, que lhes bastem?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 23,
+      "versoes": {
+        "ARC": "Pelo que replicou o Senhor a Moisés: Porventura tem-se encurtado a mão do Senhor? agora mesmo verás se a minha palavra se há de cumprir ou não."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 24,
+      "versoes": {
+        "ARC": "Saiu, pois, Moisés, e relatou ao povo as palavras do Senhor; e ajuntou setenta homens dentre os anciãos do povo e os colocou ao redor da tenda."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 25,
+      "versoes": {
+        "ARC": "Então o Senhor desceu: na nuvem, e lhe falou; e, tirando do espírito que estava sobre ele, pô-lo sobre aqueles setenta anciãos; e aconteceu que, quando o espírito repousou sobre eles profetizaram, mas depois nunca mais o fizeram."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 26,
+      "versoes": {
+        "ARC": "Mas no arraial ficaram dois homens; chamava-se um Eldade, e o outro Medade; e repousou sobre eles: o espírito, porquanto estavam entre os inscritos, ainda que não saíram para irem à tenda; e profetizavam no arraial."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 27,
+      "versoes": {
+        "ARC": "Correu, pois, um moço, e anunciou a Moisés: Eldade e Medade profetizaram no arraial."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 28,
+      "versoes": {
+        "ARC": "Então Josué, filho de Num, servidor de Moisés, um dos seus mancebos escolhidos, respondeu e disse: Meu Senhor Moisés, proíbe-lho."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 29,
+      "versoes": {
+        "ARC": "Moisés, porém, lhe disse: Tens tu ciúmes por mim? Oxalá que do povo do Senhor todos fossem profetas, que o Senhor pusesse o seu espírito sobre eles!"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 30,
+      "versoes": {
+        "ARC": "Depois Moisés se recolheu ao arraial, ele e os anciãos de Israel."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 31,
+      "versoes": {
+        "ARC": "Soprou, então, um vento da parte do Senhor e, do lado do mar, trouxe codornizes que deixou cair junto ao arraial quase caminho de um dia de um e de outro lado, à roda do arraial, a cerca de dois côvados da terra."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 32,
+      "versoes": {
+        "ARC": "Então o povo, levantando-se, colheu as codornizes por todo aquele dia e toda aquela noite, e por todo o dia seguinte; o que colheu menos, colheu dez hômeres. E as estenderam para si ao redor do arraial."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 33,
+      "versoes": {
+        "ARC": "Quando a carne ainda estava entre os seus dentes, antes que fosse mastigada, acendeu-se a ira do Senhor contra o povo, e feriu o Senhor ao povo com uma praga, mui grande."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 34,
+      "versoes": {
+        "ARC": "Pelo que se chamou aquele lugar Quibrote-Taavá, porquanto ali enterraram o povo que tivera o desejo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 35,
+      "versoes": {
+        "ARC": "De Quibrote-Taavá partiu o povo para Hazerote; e demorou-se em Hazerote."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

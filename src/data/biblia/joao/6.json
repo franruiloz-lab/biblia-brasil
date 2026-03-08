@@ -1,0 +1,657 @@
+{
+  "livro": "joao",
+  "livroNome": "João",
+  "capitulo": 6,
+  "testamento": "NT",
+  "titulo": "",
+  "autor": "João (apóstolo)",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "Depois disto partiu Jesus para o outro lado do mar da Galiléia, também chamado de Tiberíades."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "E seguia-o uma grande multidão, porque via os sinais que operava sobre os enfermos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "Subiu, pois, Jesus ao monte e sentou-se ali com seus discípulos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "Ora, a páscoa, a festa dos judeus, estava próxima."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "Então Jesus, levantando os olhos, e vendo que uma grande multidão vinha ter com ele, disse a Felipe: Onde compraremos pão, para estes comerem?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "Mas dizia isto para o experimentar; pois ele bem sabia o que ia fazer."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "Respondeu-lhe Felipe: Duzentos denários de pão não lhes bastam, para que cada um receba um pouco."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "Ao que lhe disse um dos seus discípulos, André, irmão de Simão Pedro:"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 9,
+      "versoes": {
+        "ARC": "Está aqui um rapaz que tem cinco pães de cevada e dois peixinhos; mas que é isto para tantos?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 10,
+      "versoes": {
+        "ARC": "Disse Jesus: Fazei reclinar-se o povo. Ora, naquele lugar havia muita relva. Reclinaram-se aí, pois, os homens em número de quase cinco mil."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 11,
+      "versoes": {
+        "ARC": "Jesus, então, tomou os pães e, havendo dado graças, repartiu-os pelos que estavam reclinados; e de igual modo os peixes, quanto eles queriam."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 12,
+      "versoes": {
+        "ARC": "E quando estavam saciados, disse aos seus discípulos: Recolhei os pedaços que sobejaram, para que nada se perca."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 13,
+      "versoes": {
+        "ARC": "Recolheram-nos, pois e encheram doze cestos de pedaços dos cinco pães de cevada, que sobejaram aos que haviam comido."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 14,
+      "versoes": {
+        "ARC": "Vendo, pois, aqueles homens o sinal que Jesus operara, diziam: este é verdadeiramente o profeta que havia de vir ao mundo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 15,
+      "versoes": {
+        "ARC": "Percebendo, pois, Jesus que estavam prestes a vir e levá-lo à força para o fazerem rei, tornou a retirar-se para o monte, ele sozinho."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 16,
+      "versoes": {
+        "ARC": "Ao cair da tarde, desceram os seus discípulos ao mar;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 17,
+      "versoes": {
+        "ARC": "e, entrando num barco, atravessavam o mar em direção a Cafarnaum; enquanto isso, escurecera e Jesus ainda não tinha vindo ter com eles;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 18,
+      "versoes": {
+        "ARC": "ademais, o mar se empolava, porque soprava forte vento."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 19,
+      "versoes": {
+        "ARC": "Tendo, pois, remado uns vinte e cinco ou trinta estádios, viram a Jesus andando sobre o mar e aproximando-se do barco; e ficaram atemorizados."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 20,
+      "versoes": {
+        "ARC": "Mas ele lhes disse: Sou eu; não temais."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 21,
+      "versoes": {
+        "ARC": "Então eles de boa mente o receberam no barco; e logo o barco chegou à terra para onde iam."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 22,
+      "versoes": {
+        "ARC": "No dia seguinte, a multidão que ficara no outro lado do mar, sabendo que não houvera ali senão um barquinho, e que Jesus não embarcara nele com seus discípulos, mas que estes tinham ido sós"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 23,
+      "versoes": {
+        "ARC": "{contudo, outros barquinhos haviam chegado a Tiberíades para perto do lugar onde comeram o pão, havendo o Senhor dado graças};"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 24,
+      "versoes": {
+        "ARC": "quando, pois, viram que Jesus não estava ali nem os seus discípulos, entraram eles também nos barcos, e foram a Cafarnaum, em busca de Jesus."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 25,
+      "versoes": {
+        "ARC": "E, achando-o no outro lado do mar, perguntaram-lhe: Rabi, quando chegaste aqui?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 26,
+      "versoes": {
+        "ARC": "Respondeu-lhes Jesus: Em verdade, em verdade vos digo que me buscais, não porque vistes sinais, mas porque comestes do pão e vos saciastes."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 27,
+      "versoes": {
+        "ARC": "Trabalhai, não pela comida que perece, mas pela comida que permanece para a vida eterna, a qual o Filho do homem vos dará; pois neste, Deus, o Pai, imprimiu o seu selo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 28,
+      "versoes": {
+        "ARC": "Pergutaram-lhe, pois: Que havemos de fazer para praticarmos as obras de Deus?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 29,
+      "versoes": {
+        "ARC": "Jesus lhes respondeu: A obra de Deus é esta: Que creiais naquele que ele enviou."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 30,
+      "versoes": {
+        "ARC": "Perguntaram-lhe, então: Que sinal, pois, fazes tu, para que o vejamos e te creiamos? Que operas tu?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 31,
+      "versoes": {
+        "ARC": "Nossos pais comeram o maná no deserto, como está escrito: Do céu deu-lhes pão a comer."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 32,
+      "versoes": {
+        "ARC": "Respondeu-lhes Jesus: Em verdade, em verdade vos digo: Não foi Moisés que vos deu o pão do céu; mas meu Pai vos dá o verdadeiro pão do céu."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 33,
+      "versoes": {
+        "ARC": "Porque o pão de Deus é aquele que desce do céu e dá vida ao mundo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 34,
+      "versoes": {
+        "ARC": "Disseram-lhe, pois: Senhor, dá-nos sempre desse pão."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 35,
+      "versoes": {
+        "ARC": "Declarou-lhes Jesus. Eu sou o pão da vida; aquele que vem a mim, de modo algum terá fome, e quem crê em mim jamais terá sede."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 36,
+      "versoes": {
+        "ARC": "Mas como já vos disse, vós me tendes visto, e contudo não credes."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 37,
+      "versoes": {
+        "ARC": "Todo o que o Pai me dá virá a mim; e o que vem a mim de maneira nenhuma o lançarei fora."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 38,
+      "versoes": {
+        "ARC": "Porque eu desci do céu, não para fazer a minha vontade, mas a vontade daquele que me enviou."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 39,
+      "versoes": {
+        "ARC": "E a vontade do que me enviou é esta: Que eu não perca nenhum de todos aqueles que me deu, mas que eu o ressuscite no último dia."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 40,
+      "versoes": {
+        "ARC": "Porquanto esta é a vontade de meu Pai: Que todo aquele que vê o Filho e crê nele, tenha a vida eterna; e eu o ressuscitarei no último dia."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 41,
+      "versoes": {
+        "ARC": "Murmuravam, pois, dele os judeus, porque dissera: Eu sou o pão que desceu do céu;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 42,
+      "versoes": {
+        "ARC": "e perguntavam: Não é Jesus, o filho de José, cujo pai e mãe nós conhecemos? Como, pois, diz agora: Desci do céu?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 43,
+      "versoes": {
+        "ARC": "Respondeu-lhes Jesus: Não murmureis entre vós."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 44,
+      "versoes": {
+        "ARC": "Ninguém pode vir a mim, se o Pai que me enviou não o trouxer; e eu o ressuscitarei no último dia."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 45,
+      "versoes": {
+        "ARC": "Está escrito nos profetas: E serão todos ensinados por Deus. Portanto todo aquele que do Pai ouviu e aprendeu vem a mim."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 46,
+      "versoes": {
+        "ARC": "Não que alguém tenha visto o Pai, senão aquele que é vindo de Deus; só ele tem visto o Pai."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 47,
+      "versoes": {
+        "ARC": "Em verdade, em verdade vos digo: Aquele que crê tem a vida eterna."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 48,
+      "versoes": {
+        "ARC": "Eu sou o pão da vida."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 49,
+      "versoes": {
+        "ARC": "Vossos pais comeram o maná no deserto e morreram."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 50,
+      "versoes": {
+        "ARC": "Este é o pão que desce do céu, para que o que dele comer não morra."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 51,
+      "versoes": {
+        "ARC": "Eu sou o pão vivo que desceu do céu; se alguém comer deste pão, viverá para sempre; e o pão que eu darei pela vida do mundo é a minha carne."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 52,
+      "versoes": {
+        "ARC": "Disputavam, pois, os judeus entre si, dizendo: Como pode este dar-nos a sua carne a comer?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 53,
+      "versoes": {
+        "ARC": "Disse-lhes Jesus: Em verdade, em verdade vos digo: Se não comerdes a carne do Filho do homem, e não beberdes o seu sangue, não tereis vida em vós mesmos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 54,
+      "versoes": {
+        "ARC": "Quem come a minha carne e bebe o meu sangue tem a vida eterna; e eu o ressuscitarei no último dia."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 55,
+      "versoes": {
+        "ARC": "Porque a minha carne verdadeiramente é comida, e o meu sangue verdadeiramente é bebida."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 56,
+      "versoes": {
+        "ARC": "Quem come a minha carne e bebe o meu sangue permanece em mim e eu nele."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 57,
+      "versoes": {
+        "ARC": "Assim como o Pai, que vive, me enviou, e eu vivo pelo Pai, assim, quem de mim se alimenta, também viverá por mim."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 58,
+      "versoes": {
+        "ARC": "Este é o pão que desceu do céu; não é como o caso de vossos pais, que comeram o maná e morreram; quem comer este pão viverá para sempre."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 59,
+      "versoes": {
+        "ARC": "Estas coisas falou Jesus quando ensinava na sinagoga em Cafarnaum."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 60,
+      "versoes": {
+        "ARC": "Muitos, pois, dos seus discípulos, ouvindo isto, disseram: Duro é este discurso; quem o pode ouvir?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 61,
+      "versoes": {
+        "ARC": "Mas, sabendo Jesus em si mesmo que murmuravam disto os seus discípulos, disse-lhes: Isto vos escandaliza?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 62,
+      "versoes": {
+        "ARC": "Que seria, pois, se vísseis subir o Filho do homem para onde primeiro estava?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 63,
+      "versoes": {
+        "ARC": "O espírito é o que vivifica, a carne para nada aproveita; as palavras que eu vos tenho dito são espírito e são vida."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 64,
+      "versoes": {
+        "ARC": "Mas há alguns de vós que não crêem. Pois Jesus sabia, desde o princípio, quem eram os que não criam, e quem era o que o havia de entregar."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 65,
+      "versoes": {
+        "ARC": "E continuou: Por isso vos disse que ninguém pode vir a mim, se pelo Pai lhe não for concedido."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 66,
+      "versoes": {
+        "ARC": "Por causa disso muitos dos seus discípulos voltaram para trás e não andaram mais com ele."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 67,
+      "versoes": {
+        "ARC": "Perguntou então Jesus aos doze: Quereis vós também retirar-vos?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 68,
+      "versoes": {
+        "ARC": "Respondeu-lhe Simão Pedro: Senhor, para quem iremos nós? Tu tens as palavras da vida eterna."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 69,
+      "versoes": {
+        "ARC": "E nós já temos crido e bem sabemos que tu és o Santo de Deus."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 70,
+      "versoes": {
+        "ARC": "Respondeu-lhes Jesus: Não vos escolhi a vós os doze? Contudo um de vós é o diabo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 71,
+      "versoes": {
+        "ARC": "Referia-se a Judas, filho de Simão Iscariotes; porque era ele o que o havia de entregar, sendo um dos doze."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

@@ -1,0 +1,297 @@
+{
+  "livro": "1-cronicas",
+  "livroNome": "1 Crônicas",
+  "capitulo": 25,
+  "testamento": "AT",
+  "titulo": "",
+  "autor": "Esdras (tradição)",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "Também Davi juntamente com os capitães do exército, separou para o serviço alguns dos filhos de Asafe, e de Hemã, e de Jedútum para profetizarem com harpas, com alaúdes, e com címbalos. Este foi o número dos homens que fizeram a obra: segundo o seu serviço:"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "dos filhos de Asafe: Zacur, José, Netanias e Asarela, filhos de Asafe, a cargo de Asafe, que profetizava sob as ordens do rei."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "De Jedútum os filhos de Jedútun: Gedalias, e Zeri, Jesaías, Hasabias e Matitias, seis, a cargo de seu pai, Jedútum que profetizava com a harpa, louvando ao Senhor e dando-lhe graças."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "De Hemã, os filhos de Hemã: Buquias, Matanias, Uziel, Sebuel, Jerimote, Hananias, Hanâni, Eliatá, Gidálti, e Românti-Ezer, Josbecasa, Malóti, Hotir e Maaziote."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "Todos estes foram filhos de Hemã, o vidente do rei, segundo a promessa de Deus de exaltá-lo. Deus dera a Hemã catorze filhos e três filhas."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "Todos estes estavam sob a direção de seu pai para a música na casa do Senhor, com címbalos, alaúdes e harpas para o serviço da casa de Deus. E Asafe, Jedútun e Hemã estavam sob as ordens do rei."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "Era o número deles, juntamente com seus irmãos instruídos em cantar ao Senhor, todos eles mestres, duzentos e oitenta e oito."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "E determinaram os seus cargos por sortes, todos igualmente, tanto o pequeno como o grande, assim o mestre como o discípulo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 9,
+      "versoes": {
+        "ARC": "A primeira sorte, que era de Asafe, saiu a José; a segunda a Gedalias, que com seus irmãos e filhos eram doze;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 10,
+      "versoes": {
+        "ARC": "a terceira a Zacur, seus filhos e irmãos, doze;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 11,
+      "versoes": {
+        "ARC": "a quarta a Izri, seus filhos e irmãos, doze;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 12,
+      "versoes": {
+        "ARC": "a quinta a Netanias, seus filhos e irmãos, doze;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 13,
+      "versoes": {
+        "ARC": "a sexta a Buquias, seus filhos e irmãos, doze;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 14,
+      "versoes": {
+        "ARC": "a sétima a Jesarela, seus filhos e irmãos, doze;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 15,
+      "versoes": {
+        "ARC": "a oitava a Jesaías, seus filhos e irmãos, doze;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 16,
+      "versoes": {
+        "ARC": "a nona a Matanias, seus filhos e irmãos, doze;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 17,
+      "versoes": {
+        "ARC": "a décima a Simei, seus filhos e irmãos, doze;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 18,
+      "versoes": {
+        "ARC": "a undécima a Azarel, seus filhos e irmãos, doze;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 19,
+      "versoes": {
+        "ARC": "a duodécima a Hasabias, seus filhos e irmãos, doze;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 20,
+      "versoes": {
+        "ARC": "a décima terceira a Subael, seus filhos: e irmãos, doze;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 21,
+      "versoes": {
+        "ARC": "a décima quarta a Matitias, seus filhos e irmãos, doze;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 22,
+      "versoes": {
+        "ARC": "a décima quinta a Jerimote, seus filhos e irmãos, doze;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 23,
+      "versoes": {
+        "ARC": "a décima sexta a Hananias, seus filhos e irmãos, doze;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 24,
+      "versoes": {
+        "ARC": "a décima sétima a Josbecasa, seus filhos e irmãos, doze;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 25,
+      "versoes": {
+        "ARC": "a décima oitava a Hanâni, seus filhos e irmãos, doze;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 26,
+      "versoes": {
+        "ARC": "a décima nona a Malóti, seus filhos e irmãos, doze;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 27,
+      "versoes": {
+        "ARC": "a vigésima a Eliatá, seus filhos e irmãos, doze;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 28,
+      "versoes": {
+        "ARC": "a vigésima primeira a Hotir, seus filhos e irmãos, doze;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 29,
+      "versoes": {
+        "ARC": "a vigésima segunda a Gidálti, seus filhos e irmãos, doze;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 30,
+      "versoes": {
+        "ARC": "a vigésima terceira a Maaziote, seus filhos e irmãos, doze;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 31,
+      "versoes": {
+        "ARC": "a vigésima quarta a Românti-Ezer, seus filhos e irmãos, doze."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

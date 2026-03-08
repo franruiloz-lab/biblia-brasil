@@ -1,0 +1,270 @@
+{
+  "livro": "salmos",
+  "livroNome": "Salmos",
+  "capitulo": 102,
+  "testamento": "AT",
+  "titulo": "",
+  "autor": "Davi e outros",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "Ó Senhor, ouve a minha oração, e chegue a ti o meu clamor."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "Não escondas de mim o teu rosto no dia da minha angústia; inclina para mim os teus ouvidos; no dia em que eu clamar, ouve-me depressa."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "Pois os meus dias se desvanecem como fumaça, e os meus ossos ardem como um tição."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "O meu coração está ferido e seco como a erva, pelo que até me esqueço de comer o meu pão."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "Por causa do meu doloroso gemer, os meus ossos se apegam à minha carne."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "Sou semelhante ao pelicano no deserto; cheguei a ser como a coruja das ruínas."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "Vigio, e tornei-me como um passarinho solitário no telhado."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "Os meus inimigos me afrontam todo o dia; os que contra mim se enfurecem, me amaldiçoam."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 9,
+      "versoes": {
+        "ARC": "Pois tenho comido cinza como pão, e misturado com lágrimas a minha bebida,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 10,
+      "versoes": {
+        "ARC": "por causa da tua indignação e da tua ira; pois tu me levantaste e me arrojaste de ti."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 11,
+      "versoes": {
+        "ARC": "Os meus dias são como a sombra que declina, e eu, como a erva, me vou secando."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 12,
+      "versoes": {
+        "ARC": "Mas tu, Senhor, estás entronizado para sempre, e o teu nome será lembrado por todas as gerações."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 13,
+      "versoes": {
+        "ARC": "Tu te levantarás e terás piedade de Sião; pois é o tempo de te compadeceres dela, sim, o tempo determinado já chegou."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 14,
+      "versoes": {
+        "ARC": "Porque os teus servos têm prazer nas pedras dela, e se compadecem do seu pó."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 15,
+      "versoes": {
+        "ARC": "As nações, pois, temerão o nome do Senhor, e todos os reis da terra a tua glória,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 16,
+      "versoes": {
+        "ARC": "quando o Senhor edificar a Sião, e na sua glória se manifestar,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 17,
+      "versoes": {
+        "ARC": "atendendo à oração do desamparado, e não desprezando a sua súplica."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 18,
+      "versoes": {
+        "ARC": "Escreva-se isto para a geração futura, para que um povo que está por vir louve ao Senhor."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 19,
+      "versoes": {
+        "ARC": "Pois olhou do alto do seu santuário; dos céus olhou o Senhor para a terra,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 20,
+      "versoes": {
+        "ARC": "para ouvir o gemido dos presos, para libertar os sentenciados à morte;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 21,
+      "versoes": {
+        "ARC": "a fim de que seja anunciado em Sião o nome do Senhor, e o seu louvor em Jerusalém,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 22,
+      "versoes": {
+        "ARC": "quando se congregarem os povos, e os reinos, para servirem ao Senhor."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 23,
+      "versoes": {
+        "ARC": "Ele abateu a minha força no caminho; abreviou os meus dias."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 24,
+      "versoes": {
+        "ARC": "Eu clamo: Deus meu, não me leves no meio dos meus dias, tu, cujos anos alcançam todas as gerações."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 25,
+      "versoes": {
+        "ARC": "Desde a antigüidade fundaste a terra; e os céus são obra das tuas mãos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 26,
+      "versoes": {
+        "ARC": "Eles perecerão, mas tu permanecerás; todos eles, como um vestido, envelhecerão; como roupa os mudarás, e ficarão mudados."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 27,
+      "versoes": {
+        "ARC": "Mas tu és o mesmo, e os teus anos não acabarão."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 28,
+      "versoes": {
+        "ARC": "Os filhos dos teus servos habitarão seguros, e a sua descendência ficará firmada diante de ti."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

@@ -1,0 +1,252 @@
+{
+  "livro": "tiago",
+  "livroNome": "Tiago",
+  "capitulo": 2,
+  "testamento": "NT",
+  "titulo": "",
+  "autor": "Tiago (irmão de Jesus)",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "Meus irmãos, não tenhais a fé em nosso Senhor Jesus Cristo, Senhor da glória, em acepção de pessoas."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "Porque, se entrar na vossa reunião algum homem com anel de ouro no dedo e com traje esplêndido, e entrar também algum pobre com traje sórdido."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "e atentardes para o que vem com traje esplêndido e lhe disserdes: Senta-te aqui num lugar de honra; e disserdes ao pobre: Fica em pé, ou senta-te abaixo do escabelo dos meus pés,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "não fazeis, porventura, distinção entre vós mesmos e não vos tornais juizes movidos de maus pensamentos?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "Ouvi, meus amados irmãos. Não escolheu Deus os que são pobres quanto ao mundo para fazê-los ricos na fé e herdeiros do reino que prometeu aos que o amam?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "Mas vós desonrastes o pobre. Porventura não são os ricos os que vos oprimem e os que vos arrastam aos tribunais?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "Não blasfemam eles o bom nome pelo qual sois chamados?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "Todavia, se estais cumprindo a lei real segundo a escritura: Amarás ao teu próximo como a ti mesmo, fazeis bem."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 9,
+      "versoes": {
+        "ARC": "Mas se fazeis acepção de pessoas, cometeis pecado, sendo por isso condenados pela lei como transgressores."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 10,
+      "versoes": {
+        "ARC": "Pois qualquer que guardar toda a lei, mas tropeçar em um só ponto, tem-se tornado culpado de todos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 11,
+      "versoes": {
+        "ARC": "Porque o mesmo que disse: Não adulterarás, também disse: Não matarás. Ora, se não cometes adultério, mas és homicida, te hás tornado transgressor da lei."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 12,
+      "versoes": {
+        "ARC": "Falai de tal maneira e de tal maneira procedei, como havendo de ser julgados pela lei da liberdade."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 13,
+      "versoes": {
+        "ARC": "Porque o juízo será sem misericórdia para aquele que não usou de misericórdia; a misericórdia triunfa sobre o juízo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 14,
+      "versoes": {
+        "ARC": "Que proveito há, meus irmãos se alguém disser que tem fé e não tiver obras? Porventura essa fé pode salvá-lo?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 15,
+      "versoes": {
+        "ARC": "Se um irmão ou uma irmã estiverem nus e tiverem falta de mantimento cotidiano,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 16,
+      "versoes": {
+        "ARC": "e algum de vós lhes disser: Ide em paz, aquentai-vos e fartai-vos; e não lhes derdes as coisas necessárias para o corpo, que proveito há nisso?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 17,
+      "versoes": {
+        "ARC": "Assim também a fé, se não tiver obras, é morta em si mesma."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 18,
+      "versoes": {
+        "ARC": "Mas dirá alguém: Tu tens fé, e eu tenho obras; mostra-me a tua fé sem as obras, e eu te mostrarei a minha fé pelas minhas obras."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 19,
+      "versoes": {
+        "ARC": "Crês tu que Deus é um só? Fazes bem; os demônios também o crêem, e estremecem."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 20,
+      "versoes": {
+        "ARC": "Mas queres saber, ó homem insensato, que a fé sem as obras é inútil?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 21,
+      "versoes": {
+        "ARC": "Porventura não foi pelas obras que nosso pai Abraão foi justificado quando ofereceu sobre o altar seu filho Isaque?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 22,
+      "versoes": {
+        "ARC": "Vês que a fé cooperou com as suas obras, e que pelas obras a fé foi aperfeiçoada."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 23,
+      "versoes": {
+        "ARC": "E se cumpriu a escritura que diz: E creu Abraão em Deus, e isso lhe foi imputado como justiça, e foi chamado amigo de Deus."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 24,
+      "versoes": {
+        "ARC": "Vedes então que é pelas obras que o homem é justificado, e não somente pela fé."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 25,
+      "versoes": {
+        "ARC": "E de igual modo não foi a meretriz Raabe também justificada pelas obras, quando acolheu os espias, e os fez sair por outro caminho?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 26,
+      "versoes": {
+        "ARC": "Porque, assim como o corpo sem o espírito está morto, assim também a fé sem obras é morta."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

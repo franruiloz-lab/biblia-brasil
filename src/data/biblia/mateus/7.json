@@ -1,0 +1,279 @@
+{
+  "livro": "mateus",
+  "livroNome": "Mateus",
+  "capitulo": 7,
+  "testamento": "NT",
+  "titulo": "",
+  "autor": "Mateus (apóstolo)",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "Não julgueis, para que não sejais julgados."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "Porque com o juízo com que julgais, sereis julgados; e com a medida com que medis vos medirão a vós."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "E por que vês o argueiro no olho do teu irmão, e não reparas na trave que está no teu olho?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "Ou como dirás a teu irmão: Deixa-me tirar o argueiro do teu olho, quando tens a trave no teu?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "Hipócrita! tira primeiro a trave do teu olho; e então verás bem para tirar o argueiro do olho do teu irmão."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "Não deis aos cães o que é santo, nem lanceis aos porcos as vossas pérolas, para não acontecer que as calquem aos pés e, voltando-se, vos despedacem."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "Pedí, e dar-se-vos-á; buscai, e achareis; batei e abrir-se-vos-á."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "Pois todo o que pede, recebe; e quem busca, acha; e ao que bate, abrir-se-lhe-á."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 9,
+      "versoes": {
+        "ARC": "Ou qual dentre vós é o homem que, se seu filho lhe pedir pão, lhe dará uma pedra?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 10,
+      "versoes": {
+        "ARC": "Ou, se lhe pedir peixe, lhe dará uma serpente?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 11,
+      "versoes": {
+        "ARC": "Se vós, pois, sendo maus, sabeis dar boas dádivas a vossos filhos, quanto mais vosso Pai, que está nos céus, dará boas coisas aos que lhas pedirem?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 12,
+      "versoes": {
+        "ARC": "Portanto, tudo o que vós quereis que os homens vos façam, fazei-lho também vós a eles; porque esta é a lei e os profetas."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 13,
+      "versoes": {
+        "ARC": "Entrai pela porta estreita; porque larga é a porta, e espaçoso o caminho que conduz à perdição, e muitos são os que entram por ela;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 14,
+      "versoes": {
+        "ARC": "e porque estreita é a porta, e apertado o caminho que conduz à vida, e poucos são os que a encontram."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 15,
+      "versoes": {
+        "ARC": "Guardai-vos dos falsos profetas, que vêm a vós disfarçados em ovelhas, mas interiormente são lobos devoradores."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 16,
+      "versoes": {
+        "ARC": "Pelos seus frutos os conhecereis. Colhem-se, porventura, uvas dos espinheiros, ou figos dos abrolhos?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 17,
+      "versoes": {
+        "ARC": "Assim, toda árvore boa produz bons frutos; porém a árvore má produz frutos maus."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 18,
+      "versoes": {
+        "ARC": "Uma árvore boa não pode dar maus frutos; nem uma árvore má dar frutos bons."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 19,
+      "versoes": {
+        "ARC": "Toda árvore que não produz bom fruto é cortada e lançada no fogo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 20,
+      "versoes": {
+        "ARC": "Portanto, pelos seus frutos os conhecereis."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 21,
+      "versoes": {
+        "ARC": "Nem todo o que me diz: Senhor, Senhor! entrará no reino dos céus, mas aquele que faz a vontade de meu Pai, que está nos céus."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 22,
+      "versoes": {
+        "ARC": "Muitos me dirão naquele dia: Senhor, Senhor, não profetizamos nós em teu nome? e em teu nome não expulsamos demônios? e em teu nome não fizemos muitos milagres?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 23,
+      "versoes": {
+        "ARC": "Então lhes direi claramente: Nunca vos conheci; apartai-vos de mim, vós que praticais a iniqüidade."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 24,
+      "versoes": {
+        "ARC": "Todo aquele, pois, que ouve estas minhas palavras e as põe em prática, será comparado a um homem prudente, que edificou a casa sobre a rocha."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 25,
+      "versoes": {
+        "ARC": "E desceu a chuva, correram as torrentes, sopraram os ventos, e bateram com ímpeto contra aquela casa; contudo não caiu, porque estava fundada sobre a rocha."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 26,
+      "versoes": {
+        "ARC": "Mas todo aquele que ouve estas minhas palavras, e não as põe em prática, será comparado a um homem insensato, que edificou a sua casa sobre a areia."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 27,
+      "versoes": {
+        "ARC": "E desceu a chuva, correram as torrentes, sopraram os ventos, e bateram com ímpeto contra aquela casa, e ela caiu; e grande foi a sua queda."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 28,
+      "versoes": {
+        "ARC": "Ao concluir Jesus este discurso, as multidões se maravilhavam da sua doutrina;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 29,
+      "versoes": {
+        "ARC": "porque as ensinava como tendo autoridade, e não como os escribas."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

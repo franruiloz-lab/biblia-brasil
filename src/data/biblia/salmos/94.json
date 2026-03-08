@@ -1,0 +1,225 @@
+{
+  "livro": "salmos",
+  "livroNome": "Salmos",
+  "capitulo": 94,
+  "testamento": "AT",
+  "titulo": "",
+  "autor": "Davi e outros",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "Ó Senhor, Deus da vingança, ó Deus da vingança, resplandece!"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "Exalta-te, ó juiz da terra! dá aos soberbos o que merecem."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "Até quando os ímpios, Senhor, até quando os ímpios exultarão?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "Até quando falarão, dizendo coisas arrogantes, e se gloriarão todos os que praticam a iniqüidade?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "Esmagam o teu povo, ó Senhor, e afligem a tua herança."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "Matam a viúva e o estrangeiro, e tiram a vida ao órfão."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "E dizem: O Senhor não vê; o Deus de Jacó não o percebe."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "Atendei, ó néscios, dentre o povo; e vós, insensatos, quando haveis de ser sábios?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 9,
+      "versoes": {
+        "ARC": "Aquele que fez ouvido, não ouvirá? ou aquele que formou o olho, não verá?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 10,
+      "versoes": {
+        "ARC": "Porventura aquele que disciplina as nações, não corrigirá? Aquele que instrui o homem no conhecimento,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 11,
+      "versoes": {
+        "ARC": "o Senhor, conhece os pensamentos do homem, que são vaidade."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 12,
+      "versoes": {
+        "ARC": "Bem-aventurado é o homem a quem tu repreendes, ó Senhor, e a quem ensinas a tua lei,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 13,
+      "versoes": {
+        "ARC": "para lhe dares descanso dos dias da adversidade, até que se abra uma cova para o ímpio."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 14,
+      "versoes": {
+        "ARC": "Pois o Senhor não rejeitará o seu povo, nem desamparará a sua herança."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 15,
+      "versoes": {
+        "ARC": "Mas o juízo voltará a ser feito com justiça, e hão de segui-lo todos os retos de coração."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 16,
+      "versoes": {
+        "ARC": "Quem se levantará por mim contra os malfeitores? quem se porá ao meu lado contra os que praticam a iniqüidade?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 17,
+      "versoes": {
+        "ARC": "Se o Senhor não tivesse sido o meu auxílio, já a minha alma estaria habitando no lugar do silêncio."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 18,
+      "versoes": {
+        "ARC": "Quando eu disse: O meu pé resvala; a tua benignidade, Senhor, me susteve."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 19,
+      "versoes": {
+        "ARC": "Quando os cuidados do meu coração se multiplicam, as tuas consolações recreiam a minha alma."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 20,
+      "versoes": {
+        "ARC": "Pode acaso associar-se contigo o trono de iniqüidade, que forja o mal tendo a lei por pretexto?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 21,
+      "versoes": {
+        "ARC": "Acorrem em tropel contra a vida do justo, e condenam o sangue inocente."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 22,
+      "versoes": {
+        "ARC": "Mas o Senhor tem sido o meu alto retiro, e o meu Deus a rocha do meu alto retiro, e o meu Deus a rocha do meu refúgio."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 23,
+      "versoes": {
+        "ARC": "Ele fará recair sobre eles a sua própria iniqüidade, e os destruirá na sua própria malícia; o Senhor nosso Deus os destruirá."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

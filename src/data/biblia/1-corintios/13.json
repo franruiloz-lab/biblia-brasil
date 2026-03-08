@@ -1,0 +1,114 @@
+{
+  "livro": "1-corintios",
+  "livroNome": "1 Coríntios",
+  "capitulo": 13,
+  "testamento": "NT",
+  "titulo": "O hino do amor",
+  "autor": "Paulo (apóstolo)",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "Ainda que eu falasse as línguas dos homens e dos anjos, e não tivesse amor, seria como o metal que soa ou como o sino que tine.",
+        "NVI-PT": "Se eu falar nas línguas dos homens e dos anjos, mas não tiver amor, serei como o bronze que soa ou como o címbalo que retine.",
+        "NTLH": "Se eu falar as línguas dos homens e dos anjos, mas não tiver amor, serei como instrumento de barulho, como sino desafinado.",
+        "NVT": "Se eu falar nas línguas dos homens e dos anjos, mas não tiver amor, serei como bronze que soa ou como címbalo que retine."
+      },
+      "temas": ["amor", "dons-espirituais", "prioridades"],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "O amor é sofredor, é benigno; o amor não é invejoso; o amor não trata com leviandade, não se ensoberbece,",
+        "NVI-PT": "O amor é paciente, é bondoso. O amor não inveja, não se vangloria, não se orgulha.",
+        "NTLH": "O amor é paciente e bondoso. O amor não é invejoso nem orgulhoso. Não é arrogante",
+        "NVT": "O amor é paciente, é bondoso; o amor não sente inveja; o amor não se vangloria, não é arrogante;"
+      },
+      "temas": ["amor", "paciencia", "bondade", "humildade"],
+      "versiculosRelacionados": [],
+      "faq": [
+        {
+          "pergunta": "Por que 1 Coríntios 13:4 começa com 'o amor é paciente'?",
+          "resposta": "Paulo não começa com os sentimentos do amor (alegria, emoção, paixão), mas com suas ações e atitudes — e a primeira é a paciência (grego: 'makrothymia', que significa 'demora para a ira'). Isso porque o amor real é testado não nos momentos fáceis, mas nos difíceis. A paciência é o amor em ação quando há razão para reagir diferente. Colocar a paciência em primeiro lugar é dizer: o amor verdadeiro persevera mesmo quando é custoso."
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "não se porta indecorosamente, não busca os seus interesses, não se irrita, não suspeita mal;",
+        "NVI-PT": "não age de forma inconveniente, não é egoísta, não se irrita com facilidade, não guarda rancor.",
+        "NTLH": "não faz coisas vergonhosas nem pensa só em si mesmo. Não se irrita com facilidade. Não guarda rancor.",
+        "NVT": "não se comporta de maneira inconveniente, não busca o seu próprio interesse, não se irrita com facilidade, não leva em conta o mal sofrido;"
+      },
+      "temas": ["amor", "perdao", "humildade", "relacionamentos"],
+      "versiculosRelacionados": [],
+      "faq": [
+        {
+          "pergunta": "O que significa 'não guarda rancor' em 1 Coríntios 13:5?",
+          "resposta": "A expressão grega 'ou logizetai to kakon' literalmente significa 'não faz registro do mal' — como um contador que não anota uma dívida. O amor não mantém um arquivo de ofensas passadas para usar como argumento futuro. Isso não significa que o amor é ingênuo ou que ignora o mal. Significa que ele não acumula ressentimento como capital emocional. Perdoar é precisamente isso: fechar o arquivo, não transferir a dívida para um novo livro-caixa."
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "tudo sofre, tudo crê, tudo espera, tudo suporta.",
+        "NVI-PT": "tudo sofre, tudo crê, tudo espera, tudo suporta.",
+        "NTLH": "O amor nunca desiste. O amor tem sempre confiança, sempre esperança e sempre perseverança.",
+        "NVT": "tudo suporta, tudo crê, tudo espera, tudo persevera."
+      },
+      "temas": ["amor", "perseveranca", "esperanca", "fe"],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "O amor jamais acaba; mas havendo profecias, serão aniquiladas; havendo línguas, cessarão; havendo ciência, será desfeita.",
+        "NVI-PT": "O amor jamais perece. As profecias desaparecerão, as línguas cessarão, o conhecimento passará.",
+        "NTLH": "O amor nunca acaba. As profecias vão terminar. O falar em línguas vai cessar. O conhecimento vai acabar.",
+        "NVT": "O amor jamais perece. As profecias desaparecerão, as línguas cessarão, o conhecimento passará."
+      },
+      "temas": ["amor", "eternidade", "permanencia"],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 13,
+      "versoes": {
+        "ARC": "Agora, pois, permanecem a fé, a esperança e o amor, estas três coisas; mas a maior destas é o amor.",
+        "NVI-PT": "Assim, permanecem agora estes três: fé, esperança e amor. O maior deles, porém, é o amor.",
+        "NTLH": "Assim, essas três coisas permanecem para sempre: a fé, a esperança e o amor. Mas a maior de todas é o amor.",
+        "NVT": "E agora permanecem estas três: fé, esperança e amor. Mas o maior delas é o amor."
+      },
+      "temas": ["amor", "fe", "esperanca", "eternidade"],
+      "versiculosRelacionados": ["1-joao/4/8", "romanos/8/38-39", "joao/3/16"],
+      "faq": [
+        {
+          "pergunta": "Por que o amor é 'o maior' em 1 Coríntios 13:13?",
+          "resposta": "Fé e esperança são necessárias agora, mas temporárias: quando chegarmos à presença plena de Deus, a fé se tornará visão e a esperança se tornará realidade. O amor, porém, é eterno — porque 'Deus é amor' (1 João 4:8) e Ele é eterno. O amor não termina quando o véu é removido; ele se intensifica. Portanto, investir em amor é investir na única coisa que permanece para sempre, tanto aqui quanto na eternidade."
+        },
+        {
+          "pergunta": "O que Paulo quis dizer com 'o amor' neste capítulo — é sentimento ou decisão?",
+          "resposta": "O grego usa 'agapé' — não 'eros' (amor romântico/passional) nem 'philia' (amor de amizade/afeição). Agapé é amor volitivo, que escolhe o bem do outro independentemente do sentimento presente. Por isso Paulo descreve o amor em termos de ações e decisões ('é paciente', 'não guarda rancor', 'suporta tudo') e não de emoções. Isso não exclui sentimentos — mas diz que o fundamento é uma escolha, não uma emoção. O amor pode ser ordenado ('amai uns aos outros') precisamente porque é uma decisão."
+        }
+      ]
+    }
+  ],
+  "explicacao": {
+    "introducao": "1 Coríntios 13 é conhecido como 'o hino do amor' — um dos textos mais citados em casamentos, pregações e cards de redes sociais do Brasil. Mas seu contexto original não é romântico: Paulo o escreveu para uma igreja dividida por rivalidades de dons espirituais. O capítulo é uma correção radical: de nada valem dons, eloquência e conhecimento sem amor.",
+    "contexto": "A igreja de Corinto era carismática e talentosa — mas também orgulhosa, dividida e conflituosa. Nos capítulos 12 e 14, Paulo discute os dons espirituais. No capítulo 13, ele interrompe para dizer: a prova de que os dons são de Deus é que eles são exercidos em amor. Sem amor, qualquer dom é apenas barulho (v. 1).",
+    "aplicacao": "Em relacionamentos, casamentos, amizades e comunidades de fé, 1 Coríntios 13 funciona como espelho: cada característica do amor (paciente, bondoso, não guarda rancor...) pode ser lida como uma pergunta — 'sou assim com as pessoas ao meu redor?' O capítulo não é um ideal inalcançável: é uma descrição de como Jesus amou — e uma convocação a seguir Seu exemplo."
+  },
+  "versiculosDestaque": [4, 7, 13],
+  "temas": ["amor", "relacionamentos", "perseveranca", "fe", "esperanca"],
+  "versiculosRelacionadosExternos": [
+    { "ref": "1-joao/4/8", "texto": "1 João 4:8 — Deus é amor" },
+    { "ref": "joao/3/16", "texto": "João 3:16 — Porque Deus amou o mundo" },
+    { "ref": "romanos/5/8", "texto": "Romanos 5:8 — Deus prova o seu amor" },
+    { "ref": "joao/13/34", "texto": "João 13:34 — Amem-se uns aos outros como eu os amei" }
+  ]
+}

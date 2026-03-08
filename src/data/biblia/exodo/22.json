@@ -1,0 +1,297 @@
+{
+  "livro": "exodo",
+  "livroNome": "Êxodo",
+  "capitulo": 22,
+  "testamento": "AT",
+  "titulo": "",
+  "autor": "Moisés",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "Se alguém furtar um boi {ou uma ovelha}, e o matar ou vender, por um boi pagará cinco bois, e por uma ovelha quatro ovelhas."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "Se o ladrão for achado a minar uma casa, e for ferido de modo que morra, o que o feriu não será réu de sangue;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "mas se o sol houver saído sobre o ladrão, o que o feriu será réu de sangue. O ladrão certamente dará indenização; se nada possuir, será então vendido por seu furto."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "Se o furto for achado vivo na sua mão, seja boi, ou jumento, ou ovelha, pagará ele o dobro."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "Se alguém fizer pastar o seu animal num campo ou numa vinha, e se soltar o seu animal e este pastar no campo de outrem, do melhor do seu próprio campo e do melhor da sua própria vinha fará restituição."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "Se alastrar um fogo e pegar nos espinhos, de modo que sejam destruídas as medas de trigo, ou a seara, ou o campo, aquele que acendeu o fogo certamente dará, indenização."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "Se alguém entregar ao seu próximo dinheiro, ou objetos, para guardar, e isso for furtado da casa desse homem, o ladrão, se for achado, pagará o dobro."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "Se o ladrão não for achado, então o dono da casa irá à presença dos juizes para se verificar se não meteu a mão nos bens do seu próximo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 9,
+      "versoes": {
+        "ARC": "Em todo caso de transgressão, seja a respeito de boi, ou de jumento, ou de ovelhas, ou de vestidos, ou de qualquer coisa perdida de que alguém disser que é sua, a causa de ambas as partes será levada perante os juízes; aquele a quem os juízes condenarem pagará o dobro ao seu próximo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 10,
+      "versoes": {
+        "ARC": "Se alguém entregar a seu próximo para guardar um jumento, ou boi, ou ovelha, ou outro qualquer animal, e este morrer, ou for aleijado, ou arrebatado, ninguém o vendo,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 11,
+      "versoes": {
+        "ARC": "então haverá o juramento do Senhor entre ambos, para ver se o guardador não meteu a mão nos bens do seu próximo; e o dono aceitará o juramento, e o outro não fará restituição."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 12,
+      "versoes": {
+        "ARC": "Se, porém, o animal lhe tiver sido furtado, fará restituirão ao seu dono."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 13,
+      "versoes": {
+        "ARC": "Se tiver sido dilacerado, trá-lo-á em testemunho disso; não dará indenização pelo dilacerado."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 14,
+      "versoes": {
+        "ARC": "Se alguém pedir emprestado a seu próximo algum animal, e este for danificado ou morrer, não estando presente o seu dono, certamente dará indenização;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 15,
+      "versoes": {
+        "ARC": "se o dono estiver presente, o outro não dará indenização; se tiver sido alugado, o aluguel responderá por qualquer dano."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 16,
+      "versoes": {
+        "ARC": "Se alguém seduzir uma virgem que não for desposada, e se deitar com ela, certamente pagará por ela o dote e a terá por mulher."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 17,
+      "versoes": {
+        "ARC": "Se o pai dela inteiramente recusar dar-lha, pagará ele em dinheiro o que for o dote das virgens."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 18,
+      "versoes": {
+        "ARC": "Não permitirás que viva uma feiticeira."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 19,
+      "versoes": {
+        "ARC": "Todo aquele que se deitar com animal, certamente será morto."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 20,
+      "versoes": {
+        "ARC": "Quem sacrificar a qualquer deus, a não ser tão-somente ao Senhor, será morto."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 21,
+      "versoes": {
+        "ARC": "Ao estrangeiro não maltratarás, nem o oprimirás; pois vós fostes estrangeiros na terra do Egito."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 22,
+      "versoes": {
+        "ARC": "A nenhuma viúva nem órfão afligireis."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 23,
+      "versoes": {
+        "ARC": "Se de algum modo os afligirdes, e eles clamarem a mim, eu certamente ouvirei o seu clamor;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 24,
+      "versoes": {
+        "ARC": "e a minha ira se acenderá, e vos matarei à espada; vossas mulheres ficarão viúvas, e vossos filhos órfãos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 25,
+      "versoes": {
+        "ARC": "Se emprestares dinheiro ao meu povo, ao pobre que está contigo, não te haverás com ele como credor; não lhe imporás juros."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 26,
+      "versoes": {
+        "ARC": "Ainda que chegues a tomar em penhor o vestido do teu próximo, lho restituirás antes do pôr do sol;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 27,
+      "versoes": {
+        "ARC": "porque é a única cobertura que tem; é o vestido da sua pele; em que se deitaria ele? Quando pois clamar a mim, eu o ouvirei, porque sou misericordioso."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 28,
+      "versoes": {
+        "ARC": "Aos juízes não maldirás, nem amaldiçoarás ao governador do teu povo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 29,
+      "versoes": {
+        "ARC": "Não tardarás em trazer ofertas da tua ceifa e dos teus lagares. O primogênito de teus filhos me darás."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 30,
+      "versoes": {
+        "ARC": "Assim farás com os teus bois e com as tuas ovelhas; sete dias ficará a cria com a mãe; ao oitavo dia ma darás."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 31,
+      "versoes": {
+        "ARC": "Ser-me-eis homens santos; portanto não comereis carne que por feras tenha sido despedaçada no campo; aos cães a lançareis."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

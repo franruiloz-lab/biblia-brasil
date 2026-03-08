@@ -1,0 +1,342 @@
+{
+  "livro": "exodo",
+  "livroNome": "Êxodo",
+  "capitulo": 21,
+  "testamento": "AT",
+  "titulo": "",
+  "autor": "Moisés",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "Estes são os estatutos que lhes proporás:"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "Se comprares um servo hebreu, seis anos servirá; mas ao sétimo sairá forro, de graça."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "Se entrar sozinho, sozinho sairá; se tiver mulher, então com ele sairá sua mulher."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "Se seu senhor lhe houver dado uma mulher e ela lhe houver dado filhos ou filhas, a mulher e os filhos dela serão de seu senhor e ele sairá sozinho."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "Mas se esse servo expressamente disser: Eu amo a meu senhor, a minha mulher e a meus filhos, não quero sair forro;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "então seu senhor o levará perante os juízes, e o fará chegar à porta, ou ao umbral da porta, e o seu senhor lhe furará a orelha com uma sovela; e ele o servirá para sempre."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "Se um homem vender sua filha para ser serva, ela não sairá como saem os servos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "Se ela não agradar ao seu senhor, de modo que não se despose com ela, então ele permitirá que seja resgatada; vendê-la a um povo estrangeiro, não o poderá fazer, visto ter usado de dolo para com ela."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 9,
+      "versoes": {
+        "ARC": "Mas se a desposar com seu filho, fará com ela conforme o direito de filhas."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 10,
+      "versoes": {
+        "ARC": "Se lhe tomar outra, não diminuirá e o mantimento daquela, nem o seu vestido, nem o seu direito conjugal."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 11,
+      "versoes": {
+        "ARC": "E se não lhe cumprir estas três obrigações, ela sairá de graça, sem dar dinheiro."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 12,
+      "versoes": {
+        "ARC": "Quem ferir a um homem, de modo que este morra, certamente será morto."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 13,
+      "versoes": {
+        "ARC": "Se, porém, lhe não armar ciladas, mas Deus lho entregar nas mãos, então te designarei um lugar, para onde ele fugirá."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 14,
+      "versoes": {
+        "ARC": "No entanto, se alguém se levantar deliberadamente contra seu próximo para o matar à traição, tirá-lo-ás do meu altar, para que morra."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 15,
+      "versoes": {
+        "ARC": "Quem ferir a seu pai, ou a sua mãe, certamente será morto."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 16,
+      "versoes": {
+        "ARC": "Quem furtar algum homem, e o vender, ou mesmo se este for achado na sua mão, certamente será morto."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 17,
+      "versoes": {
+        "ARC": "Quem amaldiçoar a seu pai ou a sua mãe, certamente será morto."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 18,
+      "versoes": {
+        "ARC": "Se dois homens brigarem e um ferir ao outro com pedra ou com o punho, e este não morrer, mas cair na cama,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 19,
+      "versoes": {
+        "ARC": "se ele tornar a levantar-se e andar fora sobre o seu bordão, então aquele que o feriu será absolvido; somente lhe pagará o tempo perdido e fará que ele seja completamente curado."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 20,
+      "versoes": {
+        "ARC": "Se alguém ferir a seu servo ou a sua serva com pau, e este morrer debaixo da sua mão, certamente será castigado;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 21,
+      "versoes": {
+        "ARC": "mas se sobreviver um ou dois dias, não será castigado; porque é dinheiro seu."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 22,
+      "versoes": {
+        "ARC": "Se alguns homens brigarem, e um ferir uma mulher grávida, e for causa de que aborte, não resultando, porém, outro dano, este certamente será multado, conforme o que lhe impuser o marido da mulher, e pagará segundo o arbítrio dos juízes;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 23,
+      "versoes": {
+        "ARC": "mas se resultar dano, então darás vida por vida,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 24,
+      "versoes": {
+        "ARC": "olho por olho, dente por dente, mão por mão, pé por pé,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 25,
+      "versoes": {
+        "ARC": "queimadura por queimadura, ferida por ferida, golpe por golpe."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 26,
+      "versoes": {
+        "ARC": "Se alguém ferir o olho do seu servo ou o olho da sua serva e o cegar, deixá-lo-á ir forro por causa do olho."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 27,
+      "versoes": {
+        "ARC": "Da mesma sorte se tirar o dente do seu servo ou o dente da sua serva, deixá-lo-á ir forro por causa do dente."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 28,
+      "versoes": {
+        "ARC": "Se um boi escornear um homem ou uma mulher e este morrer, certamente será apedrejado o boi e a sua carne não se comerá; mas o dono do boi será absolvido."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 29,
+      "versoes": {
+        "ARC": "Mas se o boi dantes era escorneador, e o seu dono, tendo sido disso advertido, não o guardou, o boi, matando homem ou mulher, será apedrejado, e também o seu dono será morto."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 30,
+      "versoes": {
+        "ARC": "Se lhe for imposto resgate, então dará como redenção da sua vida tudo quanto lhe for imposto;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 31,
+      "versoes": {
+        "ARC": "quer tenha o boi escorneado a um filho, quer a uma filha, segundo este julgamento lhe será feito."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 32,
+      "versoes": {
+        "ARC": "Se o boi escornear um servo, ou uma serva, dar-se-á trinta siclos de prata ao seu senhor, e o boi será apedrejado."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 33,
+      "versoes": {
+        "ARC": "Se alguém descobrir uma cova, ou se alguém cavar uma cova e não a cobrir, e nela cair um boi ou um jumento,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 34,
+      "versoes": {
+        "ARC": "o dono da cova dará indenização; pagá-la-á em dinheiro ao dono do animal morto, mas este será seu."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 35,
+      "versoes": {
+        "ARC": "Se o boi de alguém ferir de morte o boi do seu próximo, então eles venderão o boi vivo e repartirão entre si o dinheiro da venda, e o morto também dividirão entre si."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 36,
+      "versoes": {
+        "ARC": "Ou se for notório que aquele boi dantes era escorneador, e seu dono não o guardou, certamente pagará boi por boi, porém o morto será seu."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

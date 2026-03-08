@@ -1,0 +1,405 @@
+{
+  "livro": "1-reis",
+  "livroNome": "1 Reis",
+  "capitulo": 11,
+  "testamento": "AT",
+  "titulo": "",
+  "autor": "Jeremias (tradição)",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "Ora, o rei Salomão amou muitas mulheres estrangeiras, além da filha de Faraó: moabitas, amonitas, edomitas, sidônias e heteias,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "das nações de que o Senhor dissera aos filhos de Israel: Não ireis para elas, nem elas virão para vós; doutra maneira perverterão o vosso coração para seguirdes os seus deuses. A estas se apegou Salomão, levado pelo amor."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "Tinha ele setecentas mulheres, princesas, e trezentas concubinas; e suas mulheres lhe perverteram o coração."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "Pois sucedeu que, no tempo da velhice de Salomão, suas mulheres lhe perverteram o coração para seguir outros deuses; e seu coração já não era perfeito para com o Senhor seu Deus, como fora o de Davi, seu pai;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "Salomão seguiu a Astarete, deusa dos sidônios, e a Milcom, abominação dos amonitas."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "Assim fez Salomão o que era mau aos olhos do Senhor, e não perseverou em seguir, como fizera Davi, seu pai."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "Nesse tempo edificou Salomão um alto a Quemós, abominação dos moabitas, sobre e monte que está diante de Jerusalém, e a Moleque, abominação dos amonitas."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "E assim fez para todas as suas mulheres estrangeiras, as quais queimavam incenso e ofereciam sacrifícios a seus deuses."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 9,
+      "versoes": {
+        "ARC": "Pelo que o Senhor se indignou contra Salomão, porquanto e seu coração se desviara do Senhor Deus de Israel, o qual duas vezes lhe aparecera,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 10,
+      "versoes": {
+        "ARC": "e lhe ordenara expressamente que não seguisse a outros deuses. Ele, porém, não guardou o que o Senhor lhe ordenara."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 11,
+      "versoes": {
+        "ARC": "Disse, pois, o Senhor a Salomão: Porquanto houve isto em ti, que não guardaste a meu pacto e os meus estatutos que te ordenei, certamente rasgarei de ti este reino, e o darei a teu servo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 12,
+      "versoes": {
+        "ARC": "Contudo não o farei nos teus dias, por amor de Davi, teu pai; da mão de teu filho o rasgarei."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 13,
+      "versoes": {
+        "ARC": "Todavia não rasgarei o reino todo; mas uma tribo darei a teu filho, por amor de meu servo Davi, e por amor de Jerusalém, que escolhi."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 14,
+      "versoes": {
+        "ARC": "O Senhor levantou contra Salomão um adversário, Hadade, o edomeu; o qual era da estirpe real de Edom."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 15,
+      "versoes": {
+        "ARC": "Porque sucedeu que, quando Davi esteve em guerra contra Edom, tendo Jeabe, o chefe do exército, subido a enterrar os mortos, e ferido a todo varão em Edom"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 16,
+      "versoes": {
+        "ARC": "{porque Joabe ficou ali seis meses com todo o Israel, até que destruiu a todo varão em Edom},"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 17,
+      "versoes": {
+        "ARC": "Hadade, que era ainda menino, fugiu para o Egito com alguns edemeus, servos de seu pai."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 18,
+      "versoes": {
+        "ARC": "Levantando-se, pois, de Midiã, foram a Parã; e tomando consigo homens de Parã, foram ao Egito ter com Faraó, rei do Egito, o qual deu casa a Hadade, proveu-lhe a subsistência, e lhe deu terras."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 19,
+      "versoes": {
+        "ARC": "E Hadade caiu tanto em graça a Faraó, que este lhe deu por mulher a irmã de sua mulher, a irmã da rainha Tafnes."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 20,
+      "versoes": {
+        "ARC": "Ora, desta irmã de Tafnes nasceu a Hadade seu filho Genubate, a qual Tafnes criou na casa de Faraó, onde Genubate esteve entre os filhos de rei."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 21,
+      "versoes": {
+        "ARC": "Ouvindo, pois, Hadade no Egito que Davi adormecera com seus pais, e que Jeabe, chefe do exército, era morto, disse o Faraó: Deixa-me ir, para que eu volte à minha terra."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 22,
+      "versoes": {
+        "ARC": "Perguntou-lhe Faraó: Que te falta em minha companhia, que procuras partir para a tua terra? Respondeu ele: Nada; todavia, peço que me deixes ir."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 23,
+      "versoes": {
+        "ARC": "Deus levantou contra Salomão ainda outro adversário, Rezom, filho de Eliadá, que tinha fugido de seu senhor Hadadézer, rei de Zobá."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 24,
+      "versoes": {
+        "ARC": "Pois ele ajuntara a si homens, e se fizera capitão de uma tropa, quando Davi matou os de Zebá; e, indo-se para Damasco, habitaram ali; e fizeram-no rei em Damasco."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 25,
+      "versoes": {
+        "ARC": "E foi adversário de Israel por todos os dias de Salomão, e isto além do mal que Hadade fazia; detestava a Israel, e reinava sobre a Síria."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 26,
+      "versoes": {
+        "ARC": "Também Jeroboão, filho de Nebate, efrateu de Zeredá, servo de Salomão, cuja mãe era viúva, por nome Zeruá, levantou a mão contra o rei."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 27,
+      "versoes": {
+        "ARC": "E esta foi a causa por que levantou a mão contra o rei: Salomão tinha edificado a Milo, e cerrado a brecha da cidade de Davi, seu pai."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 28,
+      "versoes": {
+        "ARC": "Ora, Jeroboão era homem forte e valente; e vendo Salomão que este mancebo era laborioso, colocou-o sobre toda a carga imposta à casa de José."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 29,
+      "versoes": {
+        "ARC": "E sucedeu naquele tempo que, saindo Jeroboão de Jerusalém, o profeta Aías, o silonita, o encontrou no caminho; este se tinha vestido duma capa nova; e os dois estavam sós no campo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 30,
+      "versoes": {
+        "ARC": "Então Aías pegou na capa nova que tinha sobre si, e a rasgou em doze pedaços."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 31,
+      "versoes": {
+        "ARC": "E disse a Jeroboão: Toma estes dez pedaços para ti, porque assim diz e Senhor Deus de Israel: Eis que rasgarei o reino da mão de Salomão, e a ti darei dez tribos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 32,
+      "versoes": {
+        "ARC": "Ele, porém, terá uma tribo, por amor de Davi, meu servo, e por amor de Jerusalém, a cidade que escolhi dentre todas as tribos de Israel."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 33,
+      "versoes": {
+        "ARC": "Porque me deixaram, e se encurvaram a Astarote, deusa dos sidônios, a Quemés, deus dos moabitas, e a Milcom, deus dos amonitas; e não andaram pelos meus caminhos, para fazerem o que parece reto aos meus olhos, e para guardarem os meus estatutos e os meus preceitos, como o fez Davi, seu pai."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 34,
+      "versoes": {
+        "ARC": "Todavia não tomarei da sua mão o reino todo; mas deixá-lo-ei governar por todos os dias da sua vida, por amor de Davi, meu servo, a quem escolhi, o qual guardou os meus mandamentos e os meus estatutos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 35,
+      "versoes": {
+        "ARC": "Mas da mão de seu filho tomarei e reino e to darei a ti, isto é, as dez tribos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 36,
+      "versoes": {
+        "ARC": "Todavia a seu filho darei uma tribo, para que Davi, meu servo, sempre tenha uma lâmpada diante de mim em Jerusalém, a cidade que escolhi para ali pôr o meu nome."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 37,
+      "versoes": {
+        "ARC": "Então te tomarei, e reinarás sobre tudo o que desejar a tua alma, e serás rei sobre Israel."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 38,
+      "versoes": {
+        "ARC": "E há de ser que, se ouvires tudo o que eu te ordenar, e andares pelos meus caminhos, e fizeres o que é reto aos meus olhos, guardando os meus estatutos e os meus mandamentos, como o fez Davi, meu servo, eu serei contigo, e te edificarei uma casa firme, como o fiz para Davi, e te darei Israel."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 39,
+      "versoes": {
+        "ARC": "E por isso afligirei a descendência de Davi, todavia não para sempre."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 40,
+      "versoes": {
+        "ARC": "Pelo que Salomão procurou matar Jeroboão; porém este se levantou, e fugiu para o Egito, a ter com Sisaque, rei de Egito, onde esteve até a morte de Salomão."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 41,
+      "versoes": {
+        "ARC": "Quanto ao restante dos atos de Salomão, e a tudo o que ele fez, e à sua sabedoria, porventura não está escrito no livro dos atos de Salomão?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 42,
+      "versoes": {
+        "ARC": "O tempo que Salomão reinou em Jerusalém sobre todo o Israel foi quarenta anos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 43,
+      "versoes": {
+        "ARC": "E Salomão dormiu com seus pais, e foi sepultado na cidade de Davi, seu pai; e Roboão, seu filho, reinou em seu lugar."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

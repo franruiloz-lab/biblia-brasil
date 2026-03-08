@@ -1,0 +1,108 @@
+{
+  "livro": "salmos",
+  "livroNome": "Salmos",
+  "capitulo": 64,
+  "testamento": "AT",
+  "titulo": "",
+  "autor": "Davi e outros",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "Ouve, ó Deus, a minha voz na minha queixa; preserva a minha voz na minha queixa; preserva a minha vida do horror do inimigo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "Esconde-me do secreto conselho dos maus, e do ajuntamento dos que praticam a iniqüidade,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "os quais afiaram a sua língua como espada, e armaram por suas flechas palavras amargas."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "Para em lugares ocultos atirarem sobre o íntegro; disparam sobre ele repentinamente, e não temem."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "Firmam-se em mau intento; falam de armar laços secretamente, e dizem: Quem nos verá?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "Planejam iniqüidades; ocultam planos bem traçados; pois o íntimo e o coração do homem são inescrutáveis."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "Mas Deus disparará sobre eles uma seta, e de repente ficarão feridos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "Assim serão levados a tropeçar, por causa das suas próprias línguas; todos aqueles que os virem fugirão."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 9,
+      "versoes": {
+        "ARC": "E todos os homens temerão, e anunciarão a obra de Deus, e considerarão a obra de Deus, e considerarão prudentemente os seus feitos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 10,
+      "versoes": {
+        "ARC": "O justo se alegrará no Senhor e confiará nele, e todos os de coração reto cantarão louvores."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

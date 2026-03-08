@@ -1,0 +1,144 @@
+{
+  "livro": "proverbios",
+  "livroNome": "Provérbios",
+  "capitulo": 16,
+  "testamento": "AT",
+  "titulo": "Confiando em Deus nos planos",
+  "autor": "Salomão",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "Do homem são os preparativos do coração, mas do Senhor é a resposta da língua.",
+        "NVI-PT": "Os planos do coração pertencem ao homem, mas a resposta da língua vem do SENHOR.",
+        "NTLH": "O ser humano faz planos no seu coração, mas o SENHOR decide o que vai dizer.",
+        "NVT": "Os planos são formados no coração do homem, mas a resposta certa vem do SENHOR."
+      },
+      "temas": ["planos", "soberania-de-deus"],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "Todos os caminhos do homem são puros aos seus próprios olhos, mas o Senhor pesa os espíritos.",
+        "NVI-PT": "Todos os caminhos do homem lhe parecem certos, mas o SENHOR pesa os motivos.",
+        "NTLH": "Uma pessoa pode achar que o que faz está certo, mas o SENHOR examina seus pensamentos.",
+        "NVT": "Tudo que o homem faz parece bom a seus próprios olhos, mas o SENHOR examina os motivos."
+      },
+      "temas": ["soberania-de-deus", "humildade"],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "Consagra ao Senhor as tuas obras, e os teus pensamentos serão estabelecidos.",
+        "NVI-PT": "Consagre ao SENHOR tudo o que você faz, e os seus planos serão bem-sucedidos.",
+        "NTLH": "Peça a Deus que abençoe tudo o que você faz, e os seus planos vão dar certo.",
+        "NVT": "Entregue ao SENHOR tudo o que faz, e seus planos serão bem-sucedidos."
+      },
+      "temas": ["consagracao", "planos", "bencao", "confianca"],
+      "versiculosRelacionados": ["salmos/37/5", "mateus/6/33", "filipenses/4/6"],
+      "faq": [
+        {
+          "pergunta": "O que significa 'consagrar ao Senhor' em Provérbios 16:3?",
+          "resposta": "Consagrar significa entregar, dedicar, colocar sob o cuidado de Deus. Em Provérbios 16:3, 'consagrar as obras ao Senhor' é um ato intencional de reconhecer que Deus é o dono de tudo o que fazemos — nossos projetos, trabalhos, relacionamentos e planos. Não é simplesmente pedir a bênção de Deus, mas transferir a 'propriedade' dos nossos planos para Ele."
+        },
+        {
+          "pergunta": "Provérbios 16:3 garante que todos os nossos planos serão bem-sucedidos?",
+          "resposta": "A promessa é que os planos 'serão estabelecidos' — ou seja, que Deus os confirma e os conduz ao melhor resultado. Isso não significa que tudo sairá como imaginamos, mas que Deus levará nossos planos consagrados ao melhor desfecho possível, segundo Sua vontade. O sucesso aqui é definido por Deus, não pelas nossas expectativas."
+        },
+        {
+          "pergunta": "Como aplicar Provérbios 16:3 na vida prática?",
+          "resposta": "Praticamente, consagrar suas obras ao Senhor significa: (1) Orar antes de tomar decisões importantes; (2) Pedir orientação divina em cada projeto; (3) Reconhecer publicamente que é Deus quem guia; (4) Estar aberto a que Deus mude ou redirecione seus planos; (5) Trabalhar com excelência, sabendo que está fazendo para Deus e não para os homens."
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "O Senhor fez todas as coisas para os seus próprios fins; sim, até o ímpio para o dia do mal.",
+        "NVI-PT": "O SENHOR fez tudo para seu próprio propósito — até o ímpio para o dia do desastre.",
+        "NTLH": "O SENHOR criou tudo para um propósito, e até o malvado vai ter o castigo que merece.",
+        "NVT": "O SENHOR fez tudo com um propósito definido, até o perverso para o dia do mal."
+      },
+      "temas": ["soberania-de-deus", "proposito"],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "Todo soberbo de coração é abominação ao Senhor; pode ter certeza de que não ficará sem castigo.",
+        "NVI-PT": "O SENHOR abomina todo orgulhoso; pode ter certeza de que não ficará impune.",
+        "NTLH": "O SENHOR tem nojo de quem é orgulhoso. Pode ter certeza de que esse será punido.",
+        "NVT": "O SENHOR abomina os orgulhosos; certamente não ficarão impunes."
+      },
+      "temas": ["humildade", "orgulho"],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "Pela misericórdia e pela verdade se expiam os pecados, e pelo temor do Senhor os homens se afastam do mal.",
+        "NVI-PT": "Por meio do amor e da fidelidade, a iniquidade é expiada; mediante o temor do SENHOR o homem se afasta do mal.",
+        "NTLH": "Quando uma pessoa é fiel e amorosa, os seus pecados são perdoados. E quem respeita o SENHOR vai longe do mal.",
+        "NVT": "Pela misericórdia e pela fidelidade a iniquidade é expiada; pelo temor do SENHOR os homens se afastam do mal."
+      },
+      "temas": ["perdo", "temor-do-senhor"],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "Quando os caminhos do homem agradam ao Senhor, até os seus inimigos se reconciliam com ele.",
+        "NVI-PT": "Quando o SENHOR se agrada dos caminhos do homem, até os seus inimigos fazem as pazes com ele.",
+        "NTLH": "Quando o SENHOR aprova o que uma pessoa faz, até os seus inimigos vivem em paz com ela.",
+        "NVT": "Quando o SENHOR se agrada de alguém, até seus inimigos fazem as pazes com ele."
+      },
+      "temas": ["bencao", "paz"],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "Melhor é o pouco com justiça do que a abundância de rendimentos sem direito.",
+        "NVI-PT": "Melhor é o pouco com justiça do que grandes rendimentos sem direito.",
+        "NTLH": "É melhor ter pouco e ser honesto do que ganhar muito sendo desonesto.",
+        "NVT": "É melhor ter pouco com integridade do que grandes rendas com injustiça."
+      },
+      "temas": ["integridade", "justica"],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 9,
+      "versoes": {
+        "ARC": "O coração do homem planeja o seu caminho, mas o Senhor lhe dirige os passos.",
+        "NVI-PT": "O coração do homem traça o seu caminho, mas o SENHOR lhe dirige os passos.",
+        "NTLH": "O ser humano faz planos, mas quem decide o que vai acontecer é o SENHOR.",
+        "NVT": "O coração do homem planeja seus caminhos, mas o SENHOR dirige seus passos."
+      },
+      "temas": ["soberania-de-deus", "planos", "confianca"],
+      "versiculosRelacionados": ["proverbios/16/3", "jeremias/29/11"],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "Provérbios 16 é um capítulo central nos escritos de sabedoria de Salomão, tratando da soberania de Deus sobre os planos humanos. O versículo 3 — 'Consagre ao SENHOR tudo o que você faz, e os seus planos serão bem-sucedidos' — tornou-se uma das promessas mais buscadas no Brasil, com mais de 34.000 buscas mensais apenas no Google.",
+    "contexto": "Salomão escreveu Provérbios como um guia de sabedoria prática para a vida. No capítulo 16, o tema central é a relação entre os planos humanos e a soberania divina. O capítulo começa e termina com a mesma ideia: Deus está no controle, e a sabedoria humana deve se submeter à direção divina.",
+    "aplicacao": "Em um mundo de incertezas — econômicas, profissionais, relacionais — Provérbios 16:3 oferece uma âncora: consagre primeiro, planeje depois. Esta ordem importa. Antes de executar seus planos, entregue-os a Deus. Este ato de fé não é passividade, mas a base sobre a qual a excelência humana encontra direção divina."
+  },
+  "versiculosDestaque": [3, 9],
+  "temas": ["planos", "consagracao", "soberania-de-deus", "confianca"],
+  "versiculosRelacionadosExternos": [
+    { "ref": "salmos/37/5", "texto": "Salmos 37:5 — Entrega o teu caminho ao Senhor" },
+    { "ref": "jeremias/29/11", "texto": "Jeremias 29:11 — Planos de prosperidade e esperança" },
+    { "ref": "filipenses/4/6", "texto": "Filipenses 4:6 — Em nada estejais ansiosos" },
+    { "ref": "mateus/6/33", "texto": "Mateus 6:33 — Buscai primeiro o reino de Deus" }
+  ]
+}

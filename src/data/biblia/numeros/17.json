@@ -1,0 +1,135 @@
+{
+  "livro": "numeros",
+  "livroNome": "Números",
+  "capitulo": 17,
+  "testamento": "AT",
+  "titulo": "",
+  "autor": "Moisés",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "Então disse o Senhor a Moisés:"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "Fala aos filhos de Israel, e toma deles uma vara para cada casa paterna de todos os seus príncipes, segundo as casas de seus pais, doze varas; e escreve o nome de cada um sobre a sua vara."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "O nome de Arão escreverás sobre a vara de Levi; porque cada cabeça das casas de seus pais terá uma vara."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "E as porás na tenda da revelação, perante o testemunho, onde venho a vós."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "Então brotará a vara do homem que eu escolher; assim farei cessar as murmurações dos filhos de Israel contra mim, com que murmuram contra vós."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "Falou, pois, Moisés aos filhos de Israel, e todos os seus príncipes deram-lhe varas, cada príncipe uma, segundo as casas de seus pais, doze varas; e entre elas estava a vara de Arão."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "E Moisés depositou as varas perante o Senhor na tenda do testemunho."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "Sucedeu, pois, no dia seguinte, que Moisés entrou na tenda do testemunho, e eis que a vara de Arão, pela casa de Levi, brotara, produzira gomos, rebentara em flores e dera amêndoas maduras."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 9,
+      "versoes": {
+        "ARC": "Então Moisés trouxe todas as varas de diante do Senhor a todos os filhos de Israel; e eles olharam, e tomaram cada um a sua vara."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 10,
+      "versoes": {
+        "ARC": "Então o Senhor disse a Moisés: Torna a pôr a vara de Arão perante o testemunho, para se guardar por sinal contra os filhos rebeldes; para que possas fazer acabar as suas murmurações contra mim, a fim de que não morram."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 11,
+      "versoes": {
+        "ARC": "Assim fez Moisés; como lhe ordenara o Senhor, assim fez."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 12,
+      "versoes": {
+        "ARC": "Então disseram os filhos de Israel a Moisés: Eis aqui, nós expiramos, perecemos, todos nós perecemos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 13,
+      "versoes": {
+        "ARC": "Todo aquele que se aproximar, sim, todo o que se aproximar do tabernáculo do Senhor, morrerá; porventura pereceremos todos?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

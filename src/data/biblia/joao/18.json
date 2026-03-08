@@ -1,0 +1,378 @@
+{
+  "livro": "joao",
+  "livroNome": "João",
+  "capitulo": 18,
+  "testamento": "NT",
+  "titulo": "",
+  "autor": "João (apóstolo)",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "Tendo Jesus dito isto, saiu com seus discípulos para o outro lado do ribeiro de Cedrom, onde havia um jardim, e com eles ali entrou."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "Ora, Judas, que o traía, também conhecia aquele lugar, porque muitas vezes Jesus se reunira ali com os discípulos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "Tendo, pois, Judas tomado a corte e uns guardas da parte dos principais sacerdotes e fariseus, chegou ali com lanternas archotes e armas."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "Sabendo, pois, Jesus tudo o que lhe havia de suceder, adiantou-se e perguntou-lhes: A quem buscais?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "Responderam-lhe: A Jesus, o nazareno. Disse-lhes Jesus: Sou eu. E Judas, que o traía, também estava com eles."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "Quando Jesus lhes disse: Sou eu, recuaram, e caíram por terra."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "Tornou-lhes então a perguntar: A quem buscais? e responderam: A Jesus, o nazareno."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "Replicou-lhes Jesus: Já vos disse que sou eu; se, pois, é a mim que buscais, deixai ir estes;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 9,
+      "versoes": {
+        "ARC": "para que se cumprisse a palavra que dissera: Dos que me tens dado, nenhum deles perdi."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 10,
+      "versoes": {
+        "ARC": "Então Simão Pedro, que tinha uma espada, desembainhou-a e feriu o servo do sumo sacerdote, cortando-lhe a orelha direita. O nome do servo era Malco."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 11,
+      "versoes": {
+        "ARC": "Disse, pois, Jesus a Pedro: Mete a tua espada na bainha; não hei de beber o cálice que o Pai me deu?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 12,
+      "versoes": {
+        "ARC": "Então a escolta, e o comandante, e os guardas dos judeus prenderam a Jesus, e o maniataram."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 13,
+      "versoes": {
+        "ARC": "E conduziram-no primeiramente a Anás; pois era sogro de Caifás, sumo sacerdote naquele ano."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 14,
+      "versoes": {
+        "ARC": "Ora, Caifás era quem aconselhara aos judeus que convinha morrer um homem pelo povo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 15,
+      "versoes": {
+        "ARC": "Simão Pedro e outro discípulo seguiam a Jesus. Este discípulo era conhecido do sumo sacerdote, e entrou com Jesus no pátio do sumo sacerdote,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 16,
+      "versoes": {
+        "ARC": "enquanto Pedro ficava da parte de fora, à porta. Saiu, então, o outro discípulo que era conhecido do sumo sacerdote, falou à porteira, e levou Pedro para dentro."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 17,
+      "versoes": {
+        "ARC": "Então a porteira perguntou a Pedro: Não és tu também um dos discípulos deste homem? Respondeu ele: Não sou."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 18,
+      "versoes": {
+        "ARC": "Ora, estavam ali os servos e os guardas, que tinham acendido um braseiro e se aquentavam, porque fazia frio; e também Pedro estava ali em pé no meio deles, aquentando-se."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 19,
+      "versoes": {
+        "ARC": "Então o sumo sacerdote interrogou Jesus acerca dos seus discípulos e da sua doutrina."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 20,
+      "versoes": {
+        "ARC": "Respondeu-lhe Jesus: Eu tenho falado abertamente ao mundo; eu sempre ensinei nas sinagogas e no templo, onde todos os judeus se congregam, e nada falei em oculto."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 21,
+      "versoes": {
+        "ARC": "Por que me perguntas a mim? pergunta aos que me ouviram o que é que lhes falei; eis que eles sabem o que eu disse."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 22,
+      "versoes": {
+        "ARC": "E, havendo ele dito isso, um dos guardas que ali estavam deu uma bofetada em Jesus, dizendo: É assim que respondes ao sumo sacerdote?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 23,
+      "versoes": {
+        "ARC": "Respondeu-lhe Jesus: Se falei mal, dá testemunho do mal; mas, se bem, por que me feres?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 24,
+      "versoes": {
+        "ARC": "Então Anás o enviou, maniatado, a Caifás, o sumo sacerdote."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 25,
+      "versoes": {
+        "ARC": "E Simão Pedro ainda estava ali, aquentando-se. Perguntaram-lhe, pois: Não és também tu um dos seus discípulos? Ele negou, e disse: Não sou."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 26,
+      "versoes": {
+        "ARC": "Um dos servos do sumo sacerdote, parente daquele a quem Pedro cortara a orelha, disse: Não te vi eu no jardim com ele?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 27,
+      "versoes": {
+        "ARC": "Pedro negou outra vez, e imediatamente o galo cantou."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 28,
+      "versoes": {
+        "ARC": "Depois conduziram Jesus da presença de Caifás para o pretório; era de manhã cedo; e eles não entraram no pretório, para não se contaminarem, mas poderem comer a páscoa."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 29,
+      "versoes": {
+        "ARC": "Então Pilatos saiu a ter com eles, e perguntou: Que acusação trazeis contra este homem?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 30,
+      "versoes": {
+        "ARC": "Responderam-lhe: Se ele não fosse malfeitor, não to entregaríamos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 31,
+      "versoes": {
+        "ARC": "Disse-lhes, então, Pilatos: Tomai-o vós, e julgai-o segundo a vossa lei. Disseram-lhe os judeus: A nós não nos é lícito tirar a vida a ninguém."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 32,
+      "versoes": {
+        "ARC": "Isso foi para que se cumprisse a palavra que dissera Jesus, significando de que morte havia de morrer."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 33,
+      "versoes": {
+        "ARC": "Pilatos, pois, tornou a entrar no pretório, chamou a Jesus e perguntou-lhe: És tu o rei dos judeus?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 34,
+      "versoes": {
+        "ARC": "Respondeu Jesus: Dizes isso de ti mesmo, ou foram outros que to disseram de mim?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 35,
+      "versoes": {
+        "ARC": "Replicou Pilatos: Porventura sou eu judeu? O teu povo e os principais sacerdotes entregaram-te a mim; que fizeste?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 36,
+      "versoes": {
+        "ARC": "Respondeu Jesus: O meu reino não é deste mundo; se o meu reino fosse deste mundo, pelejariam os meus servos, para que eu não fosse entregue aos judeus; entretanto o meu reino não é daqui."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 37,
+      "versoes": {
+        "ARC": "Perguntou-lhe, pois, Pilatos: Logo tu és rei? Respondeu Jesus: Tu dizes que eu sou rei. Eu para isso nasci, e para isso vim ao mundo, a fim de dar testemunho da verdade. Todo aquele que é da verdade ouve a minha voz."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 38,
+      "versoes": {
+        "ARC": "Perguntou-lhe Pilatos: Que é a verdade? E dito isto, de novo saiu a ter com os judeus, e disse-lhes: Não acho nele crime algum."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 39,
+      "versoes": {
+        "ARC": "Tendes, porém, por costume que eu vos solte alguém por ocasião da páscoa; quereis, pois, que vos solte o rei dos judeus?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 40,
+      "versoes": {
+        "ARC": "Então todos tornaram a clamar dizendo: Este não, mas Barrabás. Ora, Barrabás era salteador."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

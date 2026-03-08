@@ -1,0 +1,81 @@
+{
+  "livro": "salmos",
+  "livroNome": "Salmos",
+  "capitulo": 142,
+  "testamento": "AT",
+  "titulo": "",
+  "autor": "Davi e outros",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "Com a minha voz clamo ao Senhor; com a minha voz ao Senhor suplico."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "Derramo perante ele a minha queixa; diante dele exponho a minha tribulação."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "Quando dentro de mim esmorece o meu espírito, então tu conheces a minha vereda; no caminho em que eu ando ocultaram-me um laço."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "Olha para a minha mão direita, e vê, pois não há quem me conheça; refúgio me faltou; ninguém se interessa por mim."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "A ti, ó Senhor, clamei; eu disse: Tu és o meu refúgio, o meu quinhão na terra dos viventes."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "Atende ao meu clamor, porque estou muito abatido; livra-me dos meus perseguidores, porque são mais fortes do que eu."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "Tira-me da prisão, para que eu louve o teu nome; os justos me rodearão, pois me farás muito bem."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

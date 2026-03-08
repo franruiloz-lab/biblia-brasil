@@ -1,0 +1,264 @@
+---
+import Base from '../../../../layouts/Base.astro';
+import Breadcrumb from '../../../../components/ui/Breadcrumb.astro';
+import VersiculosRelacionados from '../../../../components/biblia/VersiculosRelacionados.astro';
+import livros from '../../../../data/livros.json';
+
+export async function getStaticPaths() {
+  const paths = [];
+  const modules = import.meta.glob('../../../../data/biblia/**/*.json');
+
+  for (const [path, loader] of Object.entries(modules)) {
+    const parts = path.split('/');
+    const livroSlug = parts[parts.length - 2];
+    const capNum = parts[parts.length - 1].replace('.json', '');
+    const livroData = livros.find(l => l.slug === livroSlug);
+    if (!livroData) continue;
+
+    const data = await (loader as () => Promise<any>)();
+    const capData = data.default || data;
+
+    paths.push({
+      params: { livro: livroSlug, capitulo: capNum },
+      props: { livroData, capData }
+    });
+  }
+
+  return paths;
+}
+
+const { livroData, capData } = Astro.props;
+const { livro, capitulo } = Astro.params;
+
+const title = `${livroData.nome} ${capitulo} — Bíblia Sagrada Completa | Bíblia Brasil`;
+const description = capData.titulo
+  ? `${livroData.nome} capítulo ${capitulo}: "${capData.titulo}". Leia o capítulo completo em 4 versões (ARC, NVI, NTLH, NVT) com explicação e contexto.`
+  : `Leia ${livroData.nome} ${capitulo} completo em 4 versões (ARC, NVI, NTLH, NVT) com explicações e versículos relacionados.`;
+
+const versiculosDestaque = capData.versiculosDestaque || [];
+const breadcrumbs = [
+  { label: 'Início', href: '/' },
+  { label: 'A Bíblia', href: '/biblia' },
+  { label: livroData.nome, href: `/biblia/${livro}` },
+  { label: `Capítulo ${capitulo}` }
+];
+
+const schemaArticle = {
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": `${livroData.nome} ${capitulo} — ${capData.titulo || 'Bíblia Sagrada'}`,
+  "description": description,
+  "inLanguage": "pt-BR",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Bíblia Brasil",
+    "url": "https://bibliabrasil.com.br"
+  }
+};
+
+// Versão ativa padrão
+const versoesDisponiveis = ['ARC', 'NVI-PT', 'NTLH', 'NVT'];
+---
+
+<Base title={title} description={description} schema={schemaArticle}>
+  <div class="max-w-5xl mx-auto px-4 py-8">
+    <Breadcrumb items={breadcrumbs} />
+
+    <!-- Header do capítulo -->
+    <header class="mb-8">
+      <div class="ui-font text-sm font-semibold mb-2" style="color: var(--color-primary);">
+        {livroData.testamento === 'AT' ? 'Antigo Testamento' : 'Novo Testamento'} · {livroData.nome}
+      </div>
+      <h1 class="text-3xl md:text-4xl font-bold mb-2">
+        {livroData.nome} {capitulo}
+      </h1>
+      {capData.titulo && (
+        <p class="text-xl" style="color: var(--color-text-muted);">{capData.titulo}</p>
+      )}
+      {capData.autor && (
+        <p class="ui-font text-sm mt-2" style="color: var(--color-text-muted);">Autor: {capData.autor}</p>
+      )}
+    </header>
+
+    <div class="grid grid-cols-1 lg:grid-cols-[1fr_240px] gap-10">
+      <!-- Coluna principal: leitura do capítulo -->
+      <div>
+        <!-- Seletor de versão -->
+        <div class="flex flex-wrap gap-2 mb-6 ui-font sticky top-16 z-10 py-3" style="background-color: var(--color-bg);">
+          {versoesDisponiveis.map((v, i) => (
+            <button
+              class={`version-tab ${i === 0 ? 'active' : ''}`}
+              data-versao={v}
+              id={`cap-tab-${v}`}
+            >
+              {v === 'NVI-PT' ? 'NVI' : v}
+            </button>
+          ))}
+        </div>
+
+        <!-- Texto do capítulo -->
+        <div id="chapter-text">
+          {capData.versiculos?.map((v: any) => {
+            const isDestaque = versiculosDestaque.includes(v.numero);
+            return (
+              <div
+                class={`flex gap-4 mb-3 group rounded-lg px-2 py-1 transition-colors cursor-pointer versiculo-row ${isDestaque ? 'border-l-4 pl-3' : ''}`}
+                style={isDestaque ? `border-color: var(--color-primary)` : ''}
+                data-versiculo={v.numero}
+              >
+                <span
+                  class="ui-font text-xs font-bold mt-1.5 w-6 flex-shrink-0 text-right select-none"
+                  style="color: var(--color-text-muted);"
+                >
+                  {v.numero}
+                </span>
+                <div class="flex-1">
+                  {versoesDisponiveis.map((versao, i) => (
+                    <p
+                      class={`verse-text text-base leading-relaxed versao-texto ${i !== 0 ? 'hidden' : ''}`}
+                      data-versao={versao}
+                    >
+                      {v.versoes?.[versao] || v.versoes?.ARC}
+                    </p>
+                  ))}
+                  <div class="flex items-center gap-2 mt-1 opacity-0 group-hover:opacity-100 transition-opacity">
+                    <a
+                      href={`/biblia/${livro}/${capitulo}/${v.numero}`}
+                      class="ui-font text-xs hover:text-purple-600 transition-colors"
+                      style="color: var(--color-text-muted);"
+                    >
+                      Ver {livroData.nome} {capitulo}:{v.numero} →
+                    </a>
+                    {isDestaque && (
+                      <span class="badge text-xs">versículo destaque</span>
+                    )}
+                  </div>
+                </div>
+              </div>
+            );
+          })}
+        </div>
+
+        <!-- Explicação do capítulo -->
+        {capData.explicacao && (
+          <section class="mt-10 space-y-6" id="explicacao">
+            <h2 class="text-2xl font-bold">Sobre {livroData.nome} {capitulo}</h2>
+            {capData.explicacao.introducao && (
+              <div>
+                <h3 class="text-lg font-semibold mb-2">Introdução</h3>
+                <p class="prose-biblia text-base leading-relaxed" style="color: var(--color-text-muted);">
+                  {capData.explicacao.introducao}
+                </p>
+              </div>
+            )}
+            {capData.explicacao.contexto && (
+              <div>
+                <h3 class="text-lg font-semibold mb-2">Contexto histórico</h3>
+                <p class="prose-biblia text-base leading-relaxed" style="color: var(--color-text-muted);">
+                  {capData.explicacao.contexto}
+                </p>
+              </div>
+            )}
+            {capData.explicacao.aplicacao && (
+              <div>
+                <h3 class="text-lg font-semibold mb-2">Aplicação para hoje</h3>
+                <p class="prose-biblia text-base leading-relaxed" style="color: var(--color-text-muted);">
+                  {capData.explicacao.aplicacao}
+                </p>
+              </div>
+            )}
+          </section>
+        )}
+
+        <!-- Versículos relacionados -->
+        {capData.versiculosRelacionadosExternos?.length > 0 && (
+          <VersiculosRelacionados versiculos={capData.versiculosRelacionadosExternos} />
+        )}
+
+        <!-- Navegação entre capítulos -->
+        <nav class="flex justify-between mt-12 ui-font" aria-label="Navegação entre capítulos">
+          {Number(capitulo) > 1 && (
+            <a
+              href={`/biblia/${livro}/${Number(capitulo) - 1}`}
+              class="flex items-center gap-2 px-4 py-2 rounded-xl border transition-colors hover:border-purple-400"
+              style="border-color: var(--color-border);"
+            >
+              ← Capítulo {Number(capitulo) - 1}
+            </a>
+          )}
+          {Number(capitulo) < livroData.capitulos && (
+            <a
+              href={`/biblia/${livro}/${Number(capitulo) + 1}`}
+              class="flex items-center gap-2 px-4 py-2 rounded-xl border transition-colors hover:border-purple-400 ml-auto"
+              style="border-color: var(--color-border);"
+            >
+              Capítulo {Number(capitulo) + 1} →
+            </a>
+          )}
+        </nav>
+      </div>
+
+      <!-- Sidebar -->
+      <aside class="hidden lg:block">
+        <div class="sticky top-20 space-y-5">
+          <!-- Versículos destaque -->
+          {versiculosDestaque.length > 0 && (
+            <div class="rounded-xl p-4 border" style="border-color: var(--color-border); background-color: var(--color-bg-card);">
+              <h3 class="ui-font text-sm font-bold mb-3" style="color: var(--color-text);">Versículos em destaque</h3>
+              <ul class="space-y-1">
+                {versiculosDestaque.map((num: number) => (
+                  <li>
+                    <a
+                      href={`/biblia/${livro}/${capitulo}/${num}`}
+                      class="ui-font text-sm hover:text-purple-600 transition-colors block py-0.5"
+                      style="color: var(--color-text-muted);"
+                    >
+                      {livroData.nome} {capitulo}:{num}
+                    </a>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          )}
+
+          <!-- Info do livro -->
+          <div class="rounded-xl p-4 border" style="border-color: var(--color-border); background-color: var(--color-bg-card);">
+            <h3 class="ui-font text-sm font-bold mb-3" style="color: var(--color-text);">{livroData.nome}</h3>
+            <ul class="space-y-1 ui-font text-xs" style="color: var(--color-text-muted);">
+              <li>📖 {livroData.capitulos} capítulos</li>
+              <li>✝ {livroData.testamento === 'AT' ? 'Antigo Testamento' : 'Novo Testamento'}</li>
+              {capData.autor && <li>✍ {capData.autor}</li>}
+            </ul>
+            <a
+              href={`/biblia/${livro}`}
+              class="ui-font text-xs hover:text-purple-600 transition-colors block mt-3"
+              style="color: var(--color-primary);"
+            >
+              Ver todos os capítulos →
+            </a>
+          </div>
+        </div>
+      </aside>
+    </div>
+  </div>
+</Base>
+
+<script>
+  // Troca de versão no capítulo
+  const tabs = document.querySelectorAll('.version-tab[data-versao]');
+  tabs.forEach(tab => {
+    tab.addEventListener('click', () => {
+      const versao = (tab as HTMLElement).dataset.versao;
+
+      // Atualiza tabs
+      tabs.forEach(t => t.classList.remove('active'));
+      tab.classList.add('active');
+
+      // Mostra textos da versão correta
+      document.querySelectorAll('.versao-texto').forEach(el => {
+        const e = el as HTMLElement;
+        e.classList.toggle('hidden', e.dataset.versao !== versao);
+      });
+    });
+  });
+</script>

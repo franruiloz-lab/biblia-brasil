@@ -1,0 +1,450 @@
+{
+  "livro": "salmos",
+  "livroNome": "Salmos",
+  "capitulo": 106,
+  "testamento": "AT",
+  "titulo": "",
+  "autor": "Davi e outros",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "Louvai ao Senhor. Louvai ao Senhor, porque ele é bom; porque a sua benignidade dura para sempre."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "Quem pode referir os poderosos feitos do Senhor, ou anunciar todo o seu louvor?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "Bem-aventurados os que observam o direito, que praticam a justiça em todos os tempos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "Lembra-te de mim, Senhor, quando mostrares favor ao teu povo; visita-me com a tua salvação,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "para que eu veja a prosperidade dos teus escolhidos, para que me alegre com a alegria da tua nação, e me glorie juntamente com a tua herança."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "Nós pecamos, como nossos pais; cometemos a iniqüidade, andamos perversamente."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "Nossos pais não atentaram para as tuas maravilhas no Egito, não se lembraram da multidão das tuas benignidades; antes foram rebeldes contra o Altíssimo junto ao Mar Vermelho."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "Não obstante, ele os salvou por amor do seu nome, para fazer conhecido o seu poder."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 9,
+      "versoes": {
+        "ARC": "Pois repreendeu o Mar Vermelho e este se secou; e os fez caminhar pelos abismos como pelo deserto."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 10,
+      "versoes": {
+        "ARC": "Salvou-os da mão do adversário, livrou-os do poder do inimigo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 11,
+      "versoes": {
+        "ARC": "As águas, porém, cobriram os seus adversários; nem um só deles ficou."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 12,
+      "versoes": {
+        "ARC": "Então creram nas palavras dele e cantaram-lhe louvor."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 13,
+      "versoes": {
+        "ARC": "Cedo, porém, se esqueceram das suas obras; não esperaram pelo seu conselho;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 14,
+      "versoes": {
+        "ARC": "mas deixaram-se levar pela cobiça no deserto, e tentaram a Deus no ermo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 15,
+      "versoes": {
+        "ARC": "E ele lhes deu o que pediram, mas fê-los definhar de doença."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 16,
+      "versoes": {
+        "ARC": "Tiveram inveja de Moisés no acampamento, e de Arão, o santo do Senhor."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 17,
+      "versoes": {
+        "ARC": "Abriu-se a terra, e engoliu a Datã, e cobriu a companhia de Abirão;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 18,
+      "versoes": {
+        "ARC": "ateou-se um fogo no meio da congregação; e chama abrasou os ímpios."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 19,
+      "versoes": {
+        "ARC": "Fizeram um bezerro em Horebe, e adoraram uma imagem de fundição."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 20,
+      "versoes": {
+        "ARC": "Assim trocaram a sua glória pela figura de um boi que come erva."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 21,
+      "versoes": {
+        "ARC": "Esqueceram-se de Deus seu Salvador, que fizera grandes coisas no Egito,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 22,
+      "versoes": {
+        "ARC": "maravilhas na terra de Cam, coisas tremendas junto ao Mar Vermelho."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 23,
+      "versoes": {
+        "ARC": "Pelo que os teria destruído, como dissera, se Moisés, seu escolhido, não se tivesse interposto diante dele, para desviar a sua indignação, a fim de que não os destruísse."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 24,
+      "versoes": {
+        "ARC": "Também desprezaram a terra aprazível; não confiaram na sua promessa;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 25,
+      "versoes": {
+        "ARC": "antes murmuraram em suas tendas e não deram ouvidos à voz do Senhor."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 26,
+      "versoes": {
+        "ARC": "Pelo que levantou a sua mão contra eles, afirmando que os faria cair no deserto;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 27,
+      "versoes": {
+        "ARC": "que dispersaria também a sua descendência entre as nações, e os espalharia pelas terras."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 28,
+      "versoes": {
+        "ARC": "Também se apegaram a Baal-Peor, e comeram sacrifícios oferecidos aos mortos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 29,
+      "versoes": {
+        "ARC": "Assim o provocaram à ira com as suas ações; e uma praga rebentou entre eles."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 30,
+      "versoes": {
+        "ARC": "Então se levantou Finéias, que executou o juízo; e cessou aquela praga."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 31,
+      "versoes": {
+        "ARC": "E isto lhe foi imputado como justiça, de geração em geração, para sempre."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 32,
+      "versoes": {
+        "ARC": "Indignaram-no também junto às águas de Meribá, de sorte que sucedeu mal a Moisés por causa deles;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 33,
+      "versoes": {
+        "ARC": "porque amarguraram o seu espírito; e ele falou imprudentemente com seus lábios."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 34,
+      "versoes": {
+        "ARC": "Não destruíram os povos, como o Senhor lhes ordenara;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 35,
+      "versoes": {
+        "ARC": "antes se misturaram com as nações, e aprenderam as suas obras."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 36,
+      "versoes": {
+        "ARC": "Serviram aos seus ídolos, que vieram a ser-lhes um laço;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 37,
+      "versoes": {
+        "ARC": "sacrificaram seus filhos e suas filhas aos demônios;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 38,
+      "versoes": {
+        "ARC": "e derramaram sangue inocente, o sangue de seus filhos e de suas filhas, que eles sacrificaram aos ídolos de Canaã; e a terra foi manchada com sangue."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 39,
+      "versoes": {
+        "ARC": "Assim se contaminaram com as suas obras, e se prostituíram pelos seus feitos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 40,
+      "versoes": {
+        "ARC": "Pelo que se acendeu a ira do Senhor contra o seu povo, de modo que abominou a sua herança;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 41,
+      "versoes": {
+        "ARC": "entregou-os nas mãos das nações, e aqueles que os odiavam dominavam sobre eles."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 42,
+      "versoes": {
+        "ARC": "Os seus inimigos os oprimiram, e debaixo das mãos destes foram eles humilhados."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 43,
+      "versoes": {
+        "ARC": "Muitas vezes os livrou; mas eles foram rebeldes nos seus desígnios, e foram abatidos pela sua iniqüidade."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 44,
+      "versoes": {
+        "ARC": "Contudo, atentou para a sua aflição, quando ouviu o seu clamor;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 45,
+      "versoes": {
+        "ARC": "e a favor deles lembrou-se do seu pacto, e aplacou-se, segundo a abundância da sua benignidade."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 46,
+      "versoes": {
+        "ARC": "Por isso fez com que obtivessem compaixão da parte daqueles que os levaram cativos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 47,
+      "versoes": {
+        "ARC": "Salva-nos, Senhor, nosso Deus, e congrega-nos dentre as nações, para que louvemos o teu santo nome, e nos gloriemos no teu louvor."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 48,
+      "versoes": {
+        "ARC": "Bendito seja o Senhor, Deus de Israel, de eternidade em eternidade! E diga todo o povo: Amém. Louvai ao Senhor."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

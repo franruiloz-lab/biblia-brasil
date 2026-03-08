@@ -1,0 +1,99 @@
+{
+  "livro": "isaias",
+  "livroNome": "Isaías",
+  "capitulo": 31,
+  "testamento": "AT",
+  "titulo": "",
+  "autor": "Isaías",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "Ai dos que descem ao Egito a buscar socorro, e se estribam em cavalos, e têm confiança em carros, por serem muitos, e nos cavaleiros, por serem muito fortes; e não atentam para o Santo de Israel, e não buscam ao Senhor."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "Todavia também ele é sábio, e fará vir o mal, e não retirará as suas palavras; mas levantar-se-á contra a casa dos malfeitores, e contra a ajuda dos que praticam a iniqüidade."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "Ora os egípcios são homens, e não Deus; e os seus cavalos carne, e não espírito; e quando o Senhor estender a sua mão, tanto tropeçará quem dá auxílio, como cairá quem recebe auxílio, e todos juntamente serão consumidos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "Pois assim me diz o Senhor: Como o leão e o cachorro do leão rugem sobre a sua presa, e quando se convoca contra eles uma multidão de pastores não se espantam das suas vozes, nem se abstêm pelo seu alarido, assim o Senhor dos exércitos descerá, para pelejar sobre o monte Sião, e sobre o seu outeiro."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "Como aves quando adejam, assim o Senhor dos exércitos protegerá a Jerusalém; ele a protegerá e a livrará, e, passando, a salvará."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "Voltai-vos, filhos de Israel, para aquele contra quem vos tendes profundamente rebelado."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "Pois naquele dia cada um lançará fora os seus ídolos de prata, e os seus ídolos de ouro, que vos fabricaram as vossas mãos para pecardes."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "E o assírio cairá pela espada, não de varão; e a espada, não de homem, o consumirá; e fugirá perante a espada, e os seus mancebos serão sujeitos a trabalhos forçados."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 9,
+      "versoes": {
+        "ARC": "A sua rocha passará de medo, e os seus oficiais em pânico desertarão da bandeira, diz o Senhor, cujo fogo está em Sião e em Jerusalém sua fornalha."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

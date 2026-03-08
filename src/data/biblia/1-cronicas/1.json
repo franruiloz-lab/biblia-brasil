@@ -1,0 +1,504 @@
+{
+  "livro": "1-cronicas",
+  "livroNome": "1 Crônicas",
+  "capitulo": 1,
+  "testamento": "AT",
+  "titulo": "",
+  "autor": "Esdras (tradição)",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "Adão, Sete, Enos,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "Quenã, Maalalel, Jarede,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "Enoque, Matusalém, Lameque,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "Noé, Sem, Cam e Jafé."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "Os filhos de Jafé: Gomer, Magogue, Madai, Javã, Tubal, Meseque e Tiras."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "Os filhos de Gomer: Asquenaz, Rifate e Togarma."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "Os filhos de Javã: Elisá, Társis, Quitim e Dodanim."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "Os filhos de Cam: Cuche, Mizraim, Pute e Canaã."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 9,
+      "versoes": {
+        "ARC": "Os filhos de Cuche: Seba, Havilá, Sabtá, Raamá e Sabtecá; e os filhos de Raamá: Sebá e Dedã."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 10,
+      "versoes": {
+        "ARC": "Cuche foi pai de Ninrode, o qual foi o primeiro a ser poderoso na terra:"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 11,
+      "versoes": {
+        "ARC": "De Mizraim descenderam os ludeus, os anameus, os leabeus, os naftueus,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 12,
+      "versoes": {
+        "ARC": "os patrusins, os casluins {dos quais procederam os filisteus} e os caftoreus."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 13,
+      "versoes": {
+        "ARC": "Canaã foi pai de Sidom, seu primogênito, e de Hete,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 14,
+      "versoes": {
+        "ARC": "e dos jebuseus, dos amorreus, dos girgaseus,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 15,
+      "versoes": {
+        "ARC": "dos heveus, dos arqueus, dos sineus,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 16,
+      "versoes": {
+        "ARC": "dos arvadeus, dos zemareus e dos hamateus."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 17,
+      "versoes": {
+        "ARC": "Os filhos de Sem: Elão, Assur, Arfaxade, Lude, Arã, Uz, Hul, Geter e Meseque."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 18,
+      "versoes": {
+        "ARC": "Arfaxade foi pai de Selá; e Selá foi pai de Eber."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 19,
+      "versoes": {
+        "ARC": "A Eber nasceram dois filhos: o nome dum foi Pelegue, pois nos seus dias se repartiu a terra; e o nome do seu irmão foi Joctã."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 20,
+      "versoes": {
+        "ARC": "Joctã foi pai de Almodá, Selefe, Hazarmavé, Jerá,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 21,
+      "versoes": {
+        "ARC": "Hadorão, Uzal, Diclá,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 22,
+      "versoes": {
+        "ARC": "Ebal, Abimael, Sebá,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 23,
+      "versoes": {
+        "ARC": "Ofir, Havilá e Jobabe; todos esses foram filhos de Joctã."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 24,
+      "versoes": {
+        "ARC": "Sem, Arfaxade, Selá;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 25,
+      "versoes": {
+        "ARC": "Eber, Pelegue, Reú;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 26,
+      "versoes": {
+        "ARC": "Serugue, Naor, Tera;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 27,
+      "versoes": {
+        "ARC": "Abrão, que é Abraão."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 28,
+      "versoes": {
+        "ARC": "Os filhos de Abraão: Isaque e Ismael."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 29,
+      "versoes": {
+        "ARC": "Estas são as suas gerações: o primogênito de Ismael, Nebaiote; depois Quedar, Adbeel, Mibsão,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 30,
+      "versoes": {
+        "ARC": "Misma, Dumá, Massá, Hadade, Tema,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 31,
+      "versoes": {
+        "ARC": "Jetur, Nafis e Quedemá; esses foram os filhos de Ismael."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 32,
+      "versoes": {
+        "ARC": "Quanto aos filhos de Quetura, concubina de Abraão, esta deu à luz Zinrã, Jocsã, Medã, Midiã, Isbaque e Suá. Os filhos de Jocsã foram Sebá e Dedã."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 33,
+      "versoes": {
+        "ARC": "Os filhos de Midiã: Efá, Efer, Hanoque, Abidá e Eldá; todos esses foram filhos de Quetura."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 34,
+      "versoes": {
+        "ARC": "Abraão foi pai de Isaque. Os filhos de Isaque: Esaú e Israel."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 35,
+      "versoes": {
+        "ARC": "Os filhos de Esaú: Elifaz, Reuel, Jeús, Jalão e Corá."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 36,
+      "versoes": {
+        "ARC": "Os filhos de Elifaz: Temã, Omar, Zefi, Gatã, Quenaz, Timna e Amaleque."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 37,
+      "versoes": {
+        "ARC": "Os filhos de Reuel: Naate, Zerá, Samá e Mizá."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 38,
+      "versoes": {
+        "ARC": "Os filhos de Seir: Lotã, Sobal, Zibeão, Anás, Disom, Eser e Disã."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 39,
+      "versoes": {
+        "ARC": "Os filhos de Lotã: Hori, e Homã; e a irmã de Lotã foi Timna."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 40,
+      "versoes": {
+        "ARC": "Os filhos de Sobal: Aliã, Manaate, Ebal, Sefi e Onã. Os filhos de Zibeão: Aías e Anás."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 41,
+      "versoes": {
+        "ARC": "Anás foi pai de Disom. Os filhos de Disom: Hanrão, Esbã, Itrã e Querã."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 42,
+      "versoes": {
+        "ARC": "Os filhos de Eser: Bilã, Zaavã e Jaacã. Os filhos de Disã: Uz e Arã."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 43,
+      "versoes": {
+        "ARC": "Estes foram os reis que reinaram na terra de Edom, antes que houvesse rei sobre os filhos de Israel: Belá, filho de Beor; e era o nome da sua cidade Dinabá."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 44,
+      "versoes": {
+        "ARC": "Morreu Belá, e reinou em seu lugar Jobabe, filho de Zerá, de Bozra."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 45,
+      "versoes": {
+        "ARC": "Morreu Jobabe, e reinou em seu lugar Husão, da terra dos temanitas."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 46,
+      "versoes": {
+        "ARC": "Morreu Husão, e reinou em seu lugar Hadade, filho de Bedade, que derrotou os midianitas no campo de Moabe; e era o nome da sua cidade Avite."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 47,
+      "versoes": {
+        "ARC": "Morreu Hadade, e reinou em seu lugar Sâmela, de Masreca."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 48,
+      "versoes": {
+        "ARC": "Morreu Sâmela, e reinou em seu lugar Saul, de Reobote junto ao rio."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 49,
+      "versoes": {
+        "ARC": "Morreu Saul, e reinou em seu lugar Baal-Ranã, filho de Acbor."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 50,
+      "versoes": {
+        "ARC": "Morreu Baal-Hanã, e Hadade reinou em seu lugar; e era o nome da sua cidade Paí. O nome de sua mulher era Meetabel, filha de Matrede, filha de Me-Zaabe."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 51,
+      "versoes": {
+        "ARC": "E morreu Hadade. Os príncipes de Edom foram: o príncipe Timna, o príncipe Aliá, o príncipe Jetete,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 52,
+      "versoes": {
+        "ARC": "o príncipe Aolíbama, o príncipe Elá, o príncipe Pinom,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 53,
+      "versoes": {
+        "ARC": "o príncipe Quenaz, o príncipe Temã, o príncipe Mibzar,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 54,
+      "versoes": {
+        "ARC": "o príncipe Magdiel, o príncipe lrã. Estes foram os príncipes de Edom."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

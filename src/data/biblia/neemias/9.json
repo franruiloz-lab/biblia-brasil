@@ -1,0 +1,360 @@
+{
+  "livro": "neemias",
+  "livroNome": "Neemias",
+  "capitulo": 9,
+  "testamento": "AT",
+  "titulo": "",
+  "autor": "Neemias / Esdras",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "Ora, no dia vinte e quatro desse mês, se ajuntaram os filhos de Israel em jejum, vestidos de sacos e com terra sobre as cabeças."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "E os da linhagem de Israel se apartaram de todos os estrangeiros, puseram-se em pé e confessaram os seus pecados e as iniquidades de seus pais."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "E, levantando-se no seu lugar, leram no livro da lei do Senhor seu Deus, uma quarta parte do dia; e outra quarta parte fizeram confissão, e adoraram ao Senhor seu Deus."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "Então Jesuá, Bani, Cadmiel, Sebanias, Buni, Serebias, Bani e Quenâni se puseram em pé sobre os degraus dos levitas, e clamaram em alta voz ao Senhor seu Deus."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "E os levitas Jesuá, Cadmiel, Bani, Hasabnéias, Serebias, Hodias, Sebanias e Petaías disseram: Levantai-vos, bendizei ao Senhor vosso Deus de eternidade em eternidade. Bendito seja o teu glorioso nome, que está exaltado sobre toda benção e louvor."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "Tu, só tu, és Senhor; tu fizeste o céu e o céu dos céus, juntamente com todo o seu exército, a terra e tudo quanto nela existe, os mares e tudo quanto neles já, e tu os conservas a todos, e o exército do céu te adora."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "Tu és o Senhor, o Deus que elegeste a Abrão, e o tiraste de Ur dos caldeus, e lhe puseste por nome Abraão;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "e achaste o seu coração fiel perante ti, e fizeste com ele o pacto de que darias à sua descendência a terra dos cananeus, dos heteus, dos amorreus, dos perizeus, dos jebuseus e dos girgaseus; e tu cumpriste as tuas palavras, pois és justo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 9,
+      "versoes": {
+        "ARC": "Também viste a aflição de nossos pais no Egito, e ouviste o seu clamor junto ao Mar Vermelho;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 10,
+      "versoes": {
+        "ARC": "e o operaste sinais e prodígios contra Faraó; e contra todos os seus servos, e contra todo o povo da sua terra; pois sabias com que soberba eles os haviam tratado;  e assim adquiriste renome, como hoje se vê."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 11,
+      "versoes": {
+        "ARC": "Fendente o mar diante deles, de modo que passaram pelo meio do mar, em seco; e lançaste os seus perseguidores nas profundezas, como uma pedra nas águas impetuosas."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 12,
+      "versoes": {
+        "ARC": "Além disso tu os guiaste de dia por uma coluna de nuvem e de noite por uma coluna de fogo, para os alumiares no caminho por onde haviam de ir."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 13,
+      "versoes": {
+        "ARC": "Desceste sobre o monte Sinai, do céu falaste com eles, e lhes deste juízos retos e leis verdadeiras, bons estatutos e mandamentos;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 14,
+      "versoes": {
+        "ARC": "o teu santo sábado lhes fizeste conhecer; e lhes ordenaste mandamentos e estatutos e uma lei, por intermédio de teu servo Moisés."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 15,
+      "versoes": {
+        "ARC": "Do céu lhes deste pão quando tiveram fome, e da rocha fizeste brotar água quando tiveram sede; e lhes ordenaste que entrassem para possuir a terra que com juramento lhes havias prometido dar."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 16,
+      "versoes": {
+        "ARC": "Eles, porém, os nossos pais, se houveram soberbamente e endureceram a cerviz, e não deram ouvidos aos teus mandamentos,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 17,
+      "versoes": {
+        "ARC": "recusando ouvir-te e não se lembrando das tuas maravilhas, que fizeste no meio deles; antes endureceram a cerviz e, na sua rebeldia, levantaram um chefe, a fim de voltarem para sua servidão.  Tu, porém, és um Deus pronto para perdoar, clemente e misericordioso, tardio em irar-te e grande em beneficência, e não os abandonaste."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 18,
+      "versoes": {
+        "ARC": "Ainda mesmo quando eles fizeram para si um bezerro de fundição, e disseram: Este é o teu Deus, que te tirou do Egito, e cometeram grandes blasfêmias,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 19,
+      "versoes": {
+        "ARC": "todavia tu, pela multidão das tuas misericórdias, não os abandonaste no deserto. A coluna de nuvem não se apartou deles de dia, para os guiar pelo caminho, nem a coluna de fogo de noite, para lhes alumiar o caminho por onde haviam de ir."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 20,
+      "versoes": {
+        "ARC": "Também lhes deste o teu bom espírito para os ensinar, e o teu maná não retiraste da tua boca, e água lhes deste quando tiveram sede."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 21,
+      "versoes": {
+        "ARC": "Sim, por quarenta anos os sustentaste no deserto; não lhes faltou coisa alguma;  a sua roupa não envelheceu, e o seus pés não se incharam."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 22,
+      "versoes": {
+        "ARC": "Além disso lhes deste reinos e povos, que lhes repartiste em porções; assim eles possuíram a terra de Siom, a saber;  a terra do rei de Hesbom, e a terra de Ogue, rei de Basã."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 23,
+      "versoes": {
+        "ARC": "Outrossim mulplicaste os seus filhos como as estrelas do céu, e os introduziste na terra de que tinhas dito a seus pais que nela entrariam para a possuírem."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 24,
+      "versoes": {
+        "ARC": "Os filhos, pois, entraram e possuíram a terra; e abateste perante eles, os moradores da terra, os cananeus, e lhos entregaste nas mãos, como também os seus reis, e os povos da terra, para fazerem deles conforme a sua vontade."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 25,
+      "versoes": {
+        "ARC": "Tomaram cidades fortificadas e uma terra fértil, e possuíram casas cheias de toda sorte de coisas boas, cisternas cavadas, vinhas e olivais, e árvores frutíferas em abundância; comeram, pois, fartaram-se e engordaram, e viveram em delícias, pela tua grande bondade."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 26,
+      "versoes": {
+        "ARC": "Não obstante foram desobedientes, e se rebelaram contra ti; lançaram a tua lei para trás das costas, e mataram os teus profetas que protestavam contra eles para que voltassem a ti; assim cometeram grandes provocações."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 27,
+      "versoes": {
+        "ARC": "Pelo que os entregaste nas mãos dos seus adversários, que os afligiram; mas no templo da sua angústia, quando eles clamaram a ti, tu os ouviste do céu; e segundo a multidão das tuas misericórdias lhes deste libertadores que os libertaram das mãos de seus adversários."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 28,
+      "versoes": {
+        "ARC": "Mas, tendo alcançado repouso, tornavam a fazer o mal diante de ti,; portanto tu os deixavas nas mãos dos seus inimigos, de modo que estes dominassem sobre eles; todavia quando eles voltavam e clamavam a ti, tu os ouvias do céu, e segundo a tua misericórdia os livraste muitas vezes;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 29,
+      "versoes": {
+        "ARC": "e testemunhaste contra eles, para os fazerdes voltar para a tua lei; contudo eles se houveram soberbamente, e não deram ouvidos aos teus mandamentos, mas pecaram contra os teus juízos, pelos quais viverá o homem que os cumprir; viraram o ombro, endureceram a cerviz e não quiseram ouvir."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 30,
+      "versoes": {
+        "ARC": "Não obstante, por muitos anos os aturaste, e testemunhaste contra eles pelo teu Espírito, por intermédio dos teus profetas; todavia eles não quiseram dar ouvidos; pelo que os entregaste nas mãos dos povos de outras terras."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 31,
+      "versoes": {
+        "ARC": "Contudo pela tua grande misericórdia não os destruíste de todo, nem os abandonaste, porque és um Deus clemente e misericordioso."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 32,
+      "versoes": {
+        "ARC": "Agora, pois, ó nosso Deus, Deus grande, poderoso e temível, que guardas o pacto e a beneficência, não tenhas em pouca conta toda a aflição que nos alcançou a nós, a nossos reis, a nossos príncipes, a nossos sacerdotes, a nossos profetas, a nossos pais e a todo o teu povo, desde os dias dos reis da Assíria até o dia de hoje."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 33,
+      "versoes": {
+        "ARC": "Tu, porém, és justo em tudo quanto tem vindo sobre nós; pois tu fielmente procedeste, mas nós perversamente."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 34,
+      "versoes": {
+        "ARC": "Os nossos reis, os nossos príncipes, os nossos sacerdotes, e os nossos pais não têm guardado a tua lei, nem têm dado ouvidos aos teus mandamentos e aos teus testemunhos, com que testificaste contra eles."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 35,
+      "versoes": {
+        "ARC": "Porque eles, no seu reino, na muita abundância de bens que lhes deste, na terra espaçosa e fértil que puseste diante deles, não te serviram, nem se converteram de suas más obras."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 36,
+      "versoes": {
+        "ARC": "Eis que hoje somo escravos; e quanto à terra que deste a nossos pais, para comerem o seu fruto e o seu bem, eis que somos escravos nela."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 37,
+      "versoes": {
+        "ARC": "E ela multiplica os seus produtos para os reis que puseste sobre nós por causa dos nossos pecados; também eles dominam sobre os nossos corpos e sobre o nosso gado como bem lhes apraz, e estamos em grande angústia."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 38,
+      "versoes": {
+        "ARC": "Contudo, por causa de tudo isso firmamos um pacto e o escrevemos; e selam-no os nossos príncipes, os nossos levitas e os nossos sacerdotes."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

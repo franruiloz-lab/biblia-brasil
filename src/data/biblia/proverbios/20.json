@@ -1,0 +1,288 @@
+{
+  "livro": "proverbios",
+  "livroNome": "Provérbios",
+  "capitulo": 20,
+  "testamento": "AT",
+  "titulo": "",
+  "autor": "Salomão e outros",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "O vinho é escarnecedor, e a bebida forte alvoroçadora; e todo aquele que neles errar não e sábio."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "Como o bramido do leão é o terror do rei; quem o provoca a ira peca contra a sua própria vida."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "Honroso é para o homem o desviar-se de questões; mas todo insensato se entremete nelas."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "O preguiçoso não lavra no outono; pelo que mendigará na sega, e nada receberá."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "Como águas profundas é o propósito no coração do homem; mas o homem inteligente o descobrirá."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "Muitos há que proclamam a sua própria bondade; mas o homem fiel, quem o achará?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "O justo anda na sua integridade; bem-aventurados serão os seus filhos depois dele."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "Assentando-se o rei no trono do juízo, com os seus olhos joeira a todo malfeitor."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 9,
+      "versoes": {
+        "ARC": "Quem pode dizer: Purifiquei o meu coração, limpo estou de meu pecado?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 10,
+      "versoes": {
+        "ARC": "O peso fraudulento e a medida falsa são abominação ao Senhor, tanto uma como outra coisa."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 11,
+      "versoes": {
+        "ARC": "Até a criança se dá a conhecer pelas suas ações, se a sua conduta é pura e reta."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 12,
+      "versoes": {
+        "ARC": "O ouvido que ouve, e o olho que vê, o Senhor os fez a ambos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 13,
+      "versoes": {
+        "ARC": "Não ames o sono, para que não empobreças; abre os teus olhos, e te fartarás de pão."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 14,
+      "versoes": {
+        "ARC": "Nada vale, nada vale, diz o comprador; mas, depois de retirar-se, então se gaba."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 15,
+      "versoes": {
+        "ARC": "Há ouro e abundância de pedras preciosas; mas os lábios do conhecimento são jóia de grande valor."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 16,
+      "versoes": {
+        "ARC": "Tira a roupa àquele que fica por fiador do estranho; e toma penhor daquele que se obriga por estrangeiros."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 17,
+      "versoes": {
+        "ARC": "Suave é ao homem o pão da mentira; mas depois a sua boca se enche de pedrinhas."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 18,
+      "versoes": {
+        "ARC": "Os projetos se confirmam pelos conselhos; assim, pois, com prudência faze a guerra."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 19,
+      "versoes": {
+        "ARC": "O que anda mexericando revela segredos; pelo que não te metas com quem muito abre os seus lábios."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 20,
+      "versoes": {
+        "ARC": "O que amaldiçoa a seu pai ou a sua mãe, apagar-se-lhe-á a sua lâmpada nas, mais densas trevas."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 21,
+      "versoes": {
+        "ARC": "A herança que no princípio é adquirida às pressas, não será abençoada no seu fim."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 22,
+      "versoes": {
+        "ARC": "Não digas: vingar-me-ei do mal; espera pelo Senhor e ele te livrará."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 23,
+      "versoes": {
+        "ARC": "Pesos fraudulentos são abomináveis ao Senhor; e balanças enganosas não são boas."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 24,
+      "versoes": {
+        "ARC": "Os passos do homem são dirigidos pelo Senhor; como, pois, poderá o homem entender o seu caminho?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 25,
+      "versoes": {
+        "ARC": "Laço é para o homem dizer precipitadamente: É santo; e, feitos os votos, então refletir."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 26,
+      "versoes": {
+        "ARC": "O rei sábio joeira os ímpios e faz girar sobre eles a roda."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 27,
+      "versoes": {
+        "ARC": "O espírito do homem é a lâmpada do Senhor, a qual esquadrinha todo o mais íntimo do coração."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 28,
+      "versoes": {
+        "ARC": "A benignidade e a verdade guardam o rei; e com a benignidade sustém ele o seu trono."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 29,
+      "versoes": {
+        "ARC": "A glória dos jovens é a sua força; e a beleza dos velhos são as cãs."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 30,
+      "versoes": {
+        "ARC": "Os açoites que ferem purificam do mal; e as feridas penetram até o mais íntimo do corpo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

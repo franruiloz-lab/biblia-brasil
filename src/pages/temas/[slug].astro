@@ -1,0 +1,118 @@
+---
+import Base from '../../layouts/Base.astro';
+import Breadcrumb from '../../components/ui/Breadcrumb.astro';
+import temas from '../../data/temas.json';
+
+export function getStaticPaths() {
+  return temas.map(tema => ({
+    params: { slug: tema.slug },
+    props: { tema }
+  }));
+}
+
+const { tema } = Astro.props;
+
+const title = `Versículos sobre ${tema.nome} — Bíblia Sagrada | Bíblia Brasil`;
+const description = tema.descricao + ` Leia em ARC, NVI, NTLH e NVT com explicação e contexto.`;
+
+const schemaFAQ = {
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": `Versículos sobre ${tema.nome}`,
+  "description": description,
+  "url": `https://bibliabrasil.com.br/temas/${tema.slug}`,
+  "inLanguage": "pt-BR"
+};
+
+const breadcrumbs = [
+  { label: 'Início', href: '/' },
+  { label: 'Temas', href: '/temas' },
+  { label: tema.nome }
+];
+
+// Parse ref para obter livro/cap/ver
+function parseRef(ref: string) {
+  const parts = ref.split('/');
+  return {
+    livro: parts[0],
+    capitulo: parts[1],
+    versiculo: parts[2],
+    href: `/biblia/${ref}`
+  };
+}
+
+// Outros temas para navegação
+const outrosTemas = temas.filter(t => t.slug !== tema.slug).slice(0, 4);
+---
+
+<Base title={title} description={description} schema={schemaFAQ}>
+  <div class="max-w-5xl mx-auto px-4 py-8">
+    <Breadcrumb items={breadcrumbs} />
+
+    <header class="mb-10">
+      <div class="text-4xl mb-3">{tema.icone}</div>
+      <h1 class="text-3xl md:text-4xl font-bold mb-3">Versículos sobre {tema.nome}</h1>
+      <p class="text-lg max-w-2xl" style="color: var(--color-text-muted);">
+        {tema.descricao}
+      </p>
+    </header>
+
+    <!-- Grid de versículos -->
+    <div class="space-y-5 mb-14">
+      {tema.versiculos.map((v, i) => {
+        const parsed = parseRef(v.ref);
+        return (
+          <article
+            class="rounded-2xl p-6 border transition-all hover:border-purple-300"
+            style="border-color: var(--color-border); background-color: var(--color-bg-card);"
+          >
+            <div class="flex items-start justify-between gap-4 mb-3">
+              <a
+                href={parsed.href}
+                class="ui-font text-sm font-bold hover:text-purple-600 transition-colors"
+                style="color: var(--color-primary);"
+              >
+                {parsed.livro.charAt(0).toUpperCase() + parsed.livro.slice(1).replace(/-/g, ' ')} {parsed.capitulo}:{parsed.versiculo}
+              </a>
+              <span class="ui-font text-xs px-2 py-1 rounded-lg flex-shrink-0" style="background-color: var(--color-verse-bg); color: var(--color-text-muted);">
+                NVI
+              </span>
+            </div>
+            <blockquote class="text-lg leading-relaxed italic mb-4" style="color: var(--color-text);">
+              "{v.texto}"
+            </blockquote>
+            <a
+              href={parsed.href}
+              class="ui-font text-sm font-semibold hover:opacity-80 transition-opacity inline-flex items-center gap-1"
+              style="color: var(--color-primary);"
+            >
+              Ver versículo completo com 4 versões e explicação →
+            </a>
+          </article>
+        );
+      })}
+    </div>
+
+    <!-- Outros temas -->
+    <section>
+      <h2 class="text-xl font-bold mb-5">Outros temas</h2>
+      <div class="grid grid-cols-2 md:grid-cols-4 gap-3">
+        {outrosTemas.map(t => (
+          <a
+            href={`/temas/${t.slug}`}
+            class="flex items-center gap-3 p-4 rounded-xl border transition-all hover:border-purple-400"
+            style="border-color: var(--color-border); background-color: var(--color-bg-card);"
+          >
+            <span class="text-2xl">{t.icone}</span>
+            <span class="text-sm font-semibold" style="color: var(--color-text);">{t.nome}</span>
+          </a>
+        ))}
+      </div>
+      <div class="mt-4">
+        <a href="/temas" class="ui-font text-sm hover:text-purple-600 transition-colors" style="color: var(--color-primary);">
+          Ver todos os temas →
+        </a>
+      </div>
+    </section>
+  </div>
+</Base>

@@ -1,0 +1,135 @@
+{
+  "livro": "cantares",
+  "livroNome": "Cantares",
+  "capitulo": 6,
+  "testamento": "AT",
+  "titulo": "",
+  "autor": "Salomão",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "Para onde foi o teu amado, ó tu, a mais formosa entre as mulheres? para onde se retirou o teu amado, a fim de que o busquemos juntamente contigo?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "O meu amado desceu ao seu jardim, aos canteiros de bálsamo, para apascentar o rebanho nos jardins e para colher os lírios."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "Eu sou do meu amado, e o meu amado é meu; ele apascenta o rebanho entre os lírios."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "Formosa és, amada minha, como Tirza, aprazível como Jerusalém, imponente como um exército com bandeiras."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "Desvia de mim os teus olhos, porque eles me perturbam. O teu cabelo é como o rebanho de cabras que descem pelas colinas de Gileade."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "0s teus dentes são como o rebanho de ovelhas que sobem do lavadouro, e das quais cada uma tem gêmeos, e nenhuma delas é desfilhada."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "As tuas faces são como as metades de uma romã, por detrás do teu véu."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "Há sessenta rainhas, oitenta concubinas, e virgens sem número."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 9,
+      "versoes": {
+        "ARC": "Mas uma só é a minha pomba, a minha imaculada; ela e a única de sua mãe, a escolhida da que a deu à luz. As filhas viram-na e lhe chamaram bem-aventurada; viram-na as rainhas e as concubinas, e louvaram-na."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 10,
+      "versoes": {
+        "ARC": "Quem é esta que aparece como a alva do dia, formosa como a lua, brilhante como o sol, imponente como um exército com bandeiras?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 11,
+      "versoes": {
+        "ARC": "Desci ao jardim das nogueiras, para ver os renovos do vale, para ver se floresciam as vides e se as romanzeiras estavam em flor."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 12,
+      "versoes": {
+        "ARC": "Antes de eu o sentir, pôs-me a minha alma nos carros do meu nobre povo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 13,
+      "versoes": {
+        "ARC": "Volta, volta, ó Sulamita; volta, volta, para que nós te vejamos. Por que quereis olhar para a Sulamita como para a dança de Maanaim?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

@@ -1,0 +1,198 @@
+{
+  "livro": "salmos",
+  "livroNome": "Salmos",
+  "capitulo": 49,
+  "testamento": "AT",
+  "titulo": "",
+  "autor": "Davi e outros",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "Ouvi isto, vós todos os povos; inclinai os ouvidos, todos os habitantes do mundo,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "quer humildes quer grandes, tanto ricos como pobres."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "A minha boca falará a sabedoria, e a meditação do meu coração será de entendimento."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "Inclinarei os meus ouvidos a uma parábola; decifrarei o meu enigma ao som da harpa."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "Por que temeria eu nos dias da adversidade, ao cercar-me a iniqüidade dos meus perseguidores,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "dos que confiam nos seus bens e se gloriam na multidão das suas riquezas?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "Nenhum deles de modo algum pode remir a seu irmão, nem por ele dar um resgate a Deus,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "{pois a redenção da sua vida é caríssima, de sorte que os seus recursos não dariam;}"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 9,
+      "versoes": {
+        "ARC": "para que continuasse a viver para sempre, e não visse a cova."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 10,
+      "versoes": {
+        "ARC": "Sim, ele verá que até os sábios morrem, que perecem igualmente o néscio e o estúpido, e deixam a outros os seus bens."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 11,
+      "versoes": {
+        "ARC": "O pensamento íntimo deles é que as suas casas são perpétuas e as suas habitações de geração em geração; dão às suas terras os seus próprios nomes."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 12,
+      "versoes": {
+        "ARC": "Mas o homem, embora esteja em honra, não permanece; antes é como os animais que perecem."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 13,
+      "versoes": {
+        "ARC": "Este é o destino dos que confiam em si mesmos; o fim dos que se satisfazem com as suas próprias palavras."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 14,
+      "versoes": {
+        "ARC": "Como ovelhas são arrebanhados ao Seol; a morte os pastoreia; ao romper do dia os retos terão domínio sobre eles; e a sua formosura se consumirá no Seol, que lhes será por habitação."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 15,
+      "versoes": {
+        "ARC": "Mas Deus remirá a minha alma do poder do Seol, pois me receberá."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 16,
+      "versoes": {
+        "ARC": "Não temas quando alguém se enriquece, quando a glória da sua casa aumenta."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 17,
+      "versoes": {
+        "ARC": "Pois, quando morrer, nada levará consigo; a sua glória não descerá após ele."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 18,
+      "versoes": {
+        "ARC": "Ainda que ele, enquanto vivo, se considera feliz e os homens o louvam quando faz o bem a si mesmo,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 19,
+      "versoes": {
+        "ARC": "ele irá ter com a geração de seus pais; eles nunca mais verão a luz"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 20,
+      "versoes": {
+        "ARC": "Mas o homem, embora esteja em honra, não permanece; antes é como os animais que perecem."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

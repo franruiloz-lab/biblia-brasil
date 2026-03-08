@@ -1,0 +1,89 @@
+{
+  "livro": "isaias",
+  "livroNome": "Isaías",
+  "capitulo": 40,
+  "testamento": "AT",
+  "titulo": "Os que esperam no Senhor renovarão as suas forças",
+  "autor": "Isaías",
+  "versiculos": [
+    {
+      "numero": 28,
+      "versoes": {
+        "ARC": "Não sabes tu, ou não ouviste, que o Deus eterno, o Senhor, o Criador das extremidades da terra, não se cansa nem se fatiga? Não há perscrutação do seu entendimento.",
+        "NVI-PT": "Você não sabe? Não ouviu? O SENHOR é o Deus eterno, o Criador das extremidades da terra. Ele não se cansa nem se fatiga; o seu entendimento é insondável.",
+        "NTLH": "Você não sabe? Nunca ouviu dizer? O SENHOR é o Deus eterno; ele criou a terra inteira. Ele nunca se cansa nem perde as forças; não há limite para a sua sabedoria.",
+        "NVT": "Você não sabe? Nunca ouviu? O SENHOR é o Deus eterno, o Criador de toda a terra. Ele nunca se cansa nem perde as forças; seu entendimento é insondável."
+      },
+      "temas": ["soberania-de-deus", "forca", "criacao", "eterno"],
+      "versiculosRelacionados": ["isaias/40/31", "salmos/121/3-4"],
+      "faq": []
+    },
+    {
+      "numero": 29,
+      "versoes": {
+        "ARC": "Ele dá força ao cansado e multiplica as forças ao que não tem nenhum vigor.",
+        "NVI-PT": "Ele dá força ao cansado e multiplica o vigor do que está sem forças.",
+        "NTLH": "Ele dá forças aos cansados e aumenta o vigor dos que estão sem energia.",
+        "NVT": "Ele dá força ao cansado e vigor ao que está sem forças."
+      },
+      "temas": ["forca", "renovacao", "cansaco", "provisao"],
+      "versiculosRelacionados": ["isaias/40/31", "mateus/11/28", "filipenses/4/13"],
+      "faq": [
+        {
+          "pergunta": "Deus dá força ao cansado — como isso funciona na prática?",
+          "resposta": "Isaías 40:29 não descreve uma injeção mágica de energia, mas um processo de transferência — o Deus que nunca se cansa (v. 28) repassa sua força ao humano esgotado. Isso acontece principalmente pela espera (v. 31): quando paramos de depender apenas de nossa própria reserva e nos voltamos para Deus em oração, meditação na Palavra e descanso confiante, acessamos uma fonte que não se esgota. É o princípio de '2 Coríntios 12:10: quando sou fraco, então sou forte.'"
+        }
+      ]
+    },
+    {
+      "numero": 30,
+      "versoes": {
+        "ARC": "Os jovens se cansarão e se fatigarão, e os moços cairão;",
+        "NVI-PT": "Até os jovens se cansam e se fatigam, e os moços tropeçam e caem.",
+        "NTLH": "Mesmo os jovens ficam cansados e exaustos; mesmo o mais forte tropeça e cai.",
+        "NVT": "Até os jovens se cansam e se fatigam, e os jovens fortes tropeçam e caem;"
+      },
+      "temas": ["cansaco", "fraqueza-humana", "limitacao"],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 31,
+      "versoes": {
+        "ARC": "mas os que esperam no Senhor renovarão as suas forças, subirão com asas como águias; correrão, e não se cansarão; caminharão, e não se fatigarão.",
+        "NVI-PT": "mas os que esperam no SENHOR renovam as suas forças. Voam alto como águias; correm e não se cansam, caminham e não se fatigam.",
+        "NTLH": "mas os que confiam no SENHOR renovam as suas forças. Eles voam como se tivessem asas de águia; correm e não ficam cansados; caminham e não ficam exaustos.",
+        "NVT": "mas os que esperam no SENHOR renovarão as suas forças; subirão com asas como águias; correrão e não se cansarão; caminharão e não se fatigarão."
+      },
+      "temas": ["forca", "renovacao", "esperanca", "aguia", "perseveranca", "confianca"],
+      "versiculosRelacionados": ["salmos/46/1", "filipenses/4/13", "mateus/11/28"],
+      "faq": [
+        {
+          "pergunta": "O que significa 'esperar no Senhor' em Isaías 40:31?",
+          "resposta": "A palavra hebraica é 'qavah' — que não significa esperar passivamente, como quem espera o ônibus. Vem da raiz de 'torcer, entrelaçar' — como fibras que se entrelaçam para formar uma corda mais forte. Esperar no Senhor é entrelaçar sua vida com a Dele, depositando sua confiança ativamente nEle enquanto a situação ainda não mudou. É o oposto da ansiedade (que tenta controlar) e da resignação (que desiste) — é confiança ativa em meio à espera."
+        },
+        {
+          "pergunta": "Por que a imagem da águia em Isaías 40:31?",
+          "resposta": "A águia não voa apenas batendo as asas — ela usa as correntes de ar quente (térmicas) para subir sem esforço, planeando a alturas que outras aves não alcançam. É uma imagem de eficiência e elevação: não o esforço frenético do pardal batendo as asas constantemente, mas a entrega às correntes que sustentam. Para o crente, essas correntes são o Espírito de Deus — quando dependemos dEle em vez de depender apenas de nosso esforço, somos sustentados e elevados de formas que a força própria nunca alcançaria."
+        },
+        {
+          "pergunta": "Por que o versículo termina com 'caminharão' depois de 'voarem' e 'correrem'?",
+          "resposta": "Há uma progressão inversa proposital: voar → correr → caminhar. O ponto alto parece ser voar, mas o mais difícil é caminhar — a rotina diária fiel, sem espetáculo, quando não há crise nem euforia. Muitos conseguem voar nos momentos de avivamento e correr nas fases de entusiasmo, mas manter a fidelidade no caminhar ordinário é o maior teste. A promessa final — 'caminharão e não se fatigarão' — é a mais prática e a mais necessária para a maioria das pessoas."
+        }
+      ]
+    }
+  ],
+  "explicacao": {
+    "introducao": "Isaías 40:31 — 'os que esperam no SENHOR renovarão as suas forças' — é um dos versículos de renovação mais amados da Bíblia brasileira, com mais de 8.000 buscas mensais. A imagem das águias, o contraste entre o cansaço humano e a força de Deus, e a promessa de renovação fazem deste versículo um recurso espiritual para momentos de esgotamento, desânimo e burnout.",
+    "contexto": "Isaías 40 marca uma virada no livro: os primeiros 39 capítulos são de alerta e julgamento; do capítulo 40 em diante, começa uma seção de consolo ('Consolai, consolai o meu povo' — v. 1). Deus instrui o profeta a reconfortar um Israel cansado, desiludido e próximo do cativeiro. O argumento do consolo começa com quem Deus é (v. 12-28) e culmina no que Ele faz pelos cansados (v. 29-31).",
+    "aplicacao": "Em uma geração marcada pelo burnout, pela exaustão digital e pela pressão constante de desempenho, Isaías 40:31 oferece um caminho alternativo: não mais esforço, mas melhor fonte. A renovação prometida não vem de férias, de motivação ou de disciplina — vem da espera confiante nAquele que nunca se cansa. É uma declaração contra a cultura da produtividade a qualquer custo: há uma força disponível que não depende do nosso reservatório pessoal."
+  },
+  "versiculosDestaque": [29, 31],
+  "temas": ["forca", "renovacao", "cansaco", "esperanca", "confianca", "soberania-de-deus"],
+  "versiculosRelacionadosExternos": [
+    { "ref": "salmos/46/1", "texto": "Salmos 46:1 — Deus é o nosso refúgio e força" },
+    { "ref": "mateus/11/28", "texto": "Mateus 11:28 — Venham a mim todos os que estão cansados" },
+    { "ref": "filipenses/4/13", "texto": "Filipenses 4:13 — Posso fazer todas as coisas por meio de Cristo" },
+    { "ref": "2-corintios/12/9", "texto": "2 Coríntios 12:9 — O meu poder se aperfeiçoa na fraqueza" }
+  ]
+}

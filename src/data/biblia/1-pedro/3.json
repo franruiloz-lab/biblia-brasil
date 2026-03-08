@@ -1,0 +1,216 @@
+{
+  "livro": "1-pedro",
+  "livroNome": "1 Pedro",
+  "capitulo": 3,
+  "testamento": "NT",
+  "titulo": "",
+  "autor": "Pedro (apóstolo)",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "Semelhantemente vós, mulheres, sede submissas a vossos maridos; para que também, se alguns deles não obedecem à palavra, sejam ganhos sem palavra pelo procedimento de suas mulheres,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "considerando o vosso procedimento casto e com temor."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "Não seja o seu adorno o enfeite exterior dos cabelos entrançados, das guarnições de renda de ouro ou da compostura dos vestidos,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "mas seja o homem que está escondido no coração, no vestido incorruptível de um espírito manso e tranqüilo, que é de grande estima diante de Deus."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "Pois assim se adornavam também noutro tempo as santas mulheres que esperavam em Deus, estando sujeitas a seus maridos,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "como Sara obedeceu a Abraão, chamando-lhe senhor, da qual vos tornais filhas, se fazeis o bem e não temeis perturbação alguma."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "Igualmente vós, maridos, vivei com elas segundo a ciência, como sendo vaso mulheril mais fraco, dando-lhes honra como a herdeiras juntamente convosco da graça da vida, para que as vossas orações não sejam impedidas."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "Finalmente, sede todos de um mesmo sentimento, compassivos, cheios de amor fraternal, misericordiosos, humildes,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 9,
+      "versoes": {
+        "ARC": "não retribuindo mal por mal, nem injúria por injúria; mas, pelo contrário, bendizendo, porque para isto fostes chamados, a fim de que recebais bênção por herança."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 10,
+      "versoes": {
+        "ARC": "Pois: Quem quer amar a vida E ver os dias bons, Refreie a sua língua do mal E os seus lábios não falem engano,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 11,
+      "versoes": {
+        "ARC": "Aparte-se do mal, e faça o bem, Busque a paz e vá após dela;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 12,
+      "versoes": {
+        "ARC": "Porque os olhos do Senhor estão sobre os justos E os seus ouvidos atentos às súplicas deles, Mas o rosto do Senhor está sobre os que fazem o mal."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 13,
+      "versoes": {
+        "ARC": "Quem é o que vos fará mal, se fordes zelosos do bem?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 14,
+      "versoes": {
+        "ARC": "Mas também, se padecerdes por amor da justiça, bem-aventurados sereis; e não temais as suas ameaças, nem vos turbeis;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 15,
+      "versoes": {
+        "ARC": "antes santificai em vossos corações a Cristo como Senhor; e estai sempre preparados para responder com mansidão e temor a todo aquele que vos pedir a razão da esperança que há em vós;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 16,
+      "versoes": {
+        "ARC": "tendo uma boa consciência, para que, naquilo em que falam mal de vós, fiquem confundidos os que vituperam o vosso bom procedimento em Cristo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 17,
+      "versoes": {
+        "ARC": "Porque melhor é sofrerdes fazendo o bem, se a vontade de Deus assim o quer, do que fazendo o mal."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 18,
+      "versoes": {
+        "ARC": "Porque também Cristo morreu uma só vez pelos pecados, o justo pelos injustos, para levar-nos a Deus; sendo, na verdade, morto na carne, mas vivificado no espírito;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 19,
+      "versoes": {
+        "ARC": "no qual também foi, e pregou aos espíritos em prisão;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 20,
+      "versoes": {
+        "ARC": "os quais noutro tempo foram rebeldes, quando a longanimidade de Deus esperava, nos dias de Noé, enquanto se preparava a arca; na qual poucas, isto é, oito almas se salvaram através da água,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 21,
+      "versoes": {
+        "ARC": "que também agora, por uma verdadeira figura-o batismo, vos salva, o qual não é o despojamento da imundícia da carne, mas a indagação de uma boa consciência para com Deus, pela ressurreição de Jesus Cristo,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 22,
+      "versoes": {
+        "ARC": "que está à destra de Deus, tendo subido ao céu; havendo-se-lhe sujeitado os anjos, e as autoridades, e as potestades."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

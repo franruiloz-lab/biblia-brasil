@@ -1,0 +1,549 @@
+{
+  "livro": "lucas",
+  "livroNome": "Lucas",
+  "capitulo": 12,
+  "testamento": "NT",
+  "titulo": "",
+  "autor": "Lucas (médico)",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "Ajuntando-se entretanto muitos milhares de pessoas, de sorte que se atropelavam uns aos outros, começou Jesus a dizer primeiro aos seus discípulos: Acautelai-vos do fermento dos fariseus, que é a hipocrisia."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "Mas nada há encoberto, que não haja de ser descoberto; nem oculto, que não haja de ser conhecido."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "Porquanto tudo o que em trevas dissestes, à luz será ouvido; e o que falaste ao ouvido no gabinete, dos eirados será apregoado."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "Digo-vos, amigos meus: Não temais os que matam o corpo, e depois disso nada mais podem fazer."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "Mas eu vos mostrarei a quem é que deveis temer; temei aquele que, depois de matar, tem poder para lançar no inferno; sim, digo, a esse temei."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "Não se vendem cinco passarinhos por dois asses? E nenhum deles está esquecido diante de Deus."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "Mas até os cabelos da vossa cabeça estão todos contados. Não temais, pois mais valeis vós do que muitos passarinhos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "E digo-vos que todo aquele que me confessar diante dos homens, também o Filho do homem o confessará diante dos anjos de Deus;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 9,
+      "versoes": {
+        "ARC": "mas quem me negar diante dos homens, será negado diante dos anjos de Deus."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 10,
+      "versoes": {
+        "ARC": "E a todo aquele que proferir uma palavra contra o Filho do homem, isso lhe será perdoado; mas ao que blasfemar contra o Espírito Santo, não lhe será perdoado."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 11,
+      "versoes": {
+        "ARC": "Quando, pois, vos levarem às sinagogas, aos magistrados e às autoridades, não estejais solícitos de como ou do que haveis de responder, nem do que haveis de dizer."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 12,
+      "versoes": {
+        "ARC": "Porque o Espírito Santo vos ensinará na mesma hora o que deveis dizer."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 13,
+      "versoes": {
+        "ARC": "Disse-lhe alguém dentre a multidão: Mestre, dize a meu irmão que reparte comigo a herança."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 14,
+      "versoes": {
+        "ARC": "Mas ele lhe respondeu: Homem, quem me constituiu a mim juiz ou repartidor entre vós?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 15,
+      "versoes": {
+        "ARC": "E disse ao povo: Acautelai-vos e guardai-vos de toda espécie de cobiça; porque a vida do homem não consiste na abundância das coisas que possui."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 16,
+      "versoes": {
+        "ARC": "Propôs-lhes então uma parábola, dizendo: O campo de um homem rico produzira com abundância;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 17,
+      "versoes": {
+        "ARC": "e ele arrazoava consigo, dizendo: Que farei? Pois não tenho onde recolher os meus frutos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 18,
+      "versoes": {
+        "ARC": "Disse então: Farei isto: derribarei os meus celeiros e edificarei outros maiores, e ali recolherei todos os meus cereais e os meus bens;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 19,
+      "versoes": {
+        "ARC": "e direi à minha alma: Alma, tens em depósito muitos bens para muitos anos; descansa, come, bebe, regala-te."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 20,
+      "versoes": {
+        "ARC": "Mas Deus lhe disse: Insensato, esta noite te pedirão a tua alma; e o que tens preparado, para quem será?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 21,
+      "versoes": {
+        "ARC": "Assim é aquele que para si ajunta tesouros, e não é rico para com Deus."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 22,
+      "versoes": {
+        "ARC": "E disse aos seus discípulos: Por isso vos digo: Não estejais ansiosos quanto à vossa vida, pelo que haveis de comer, nem quanto ao corpo, pelo que haveis de vestir."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 23,
+      "versoes": {
+        "ARC": "Pois a vida é mais do que o alimento, e o corpo mais do que o vestuário."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 24,
+      "versoes": {
+        "ARC": "Considerai os corvos, que não semeiam nem ceifam; não têm despensa nem celeiro; contudo, Deus os alimenta. Quanto mais não valeis vós do que as aves!"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 25,
+      "versoes": {
+        "ARC": "Ora, qual de vós, por mais ansioso que esteja, pode acrescentar um côvado à sua estatura?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 26,
+      "versoes": {
+        "ARC": "Porquanto, se não podeis fazer nem as coisas mínimas, por que estais ansiosos pelas outras?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 27,
+      "versoes": {
+        "ARC": "Considerai os lírios, como crescem; não trabalham, nem fiam; contudo vos digo que nem mesmo Salomão, em toda a sua glória, se vestiu como um deles."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 28,
+      "versoes": {
+        "ARC": "Se, pois, Deus assim veste a erva que hoje está no campo e amanhã é lançada no forno, quanto mais vós, homens de pouca fé?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 29,
+      "versoes": {
+        "ARC": "Não procureis, pois, o que haveis de comer, ou o que haveis de beber, e não andeis preocupados."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 30,
+      "versoes": {
+        "ARC": "Porque a todas estas coisas os povos do mundo procuram; mas vosso Pai sabe que precisais delas."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 31,
+      "versoes": {
+        "ARC": "Buscai antes o seu reino, e estas coisas vos serão acrescentadas."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 32,
+      "versoes": {
+        "ARC": "Não temas, ó pequeno rebanho! porque a vosso Pai agradou dar-vos o reino."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 33,
+      "versoes": {
+        "ARC": "Vendei o que possuís, e dai esmolas. Fazei para vós bolsas que não envelheçam; tesouro nos céus que jamais acabe, aonde não chega ladrão e a traça não rói."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 34,
+      "versoes": {
+        "ARC": "Porque, onde estiver o vosso tesouro, aí estará também o vosso coração."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 35,
+      "versoes": {
+        "ARC": "Estejam cingidos os vossos lombos e acesas as vossas candeias;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 36,
+      "versoes": {
+        "ARC": "e sede semelhantes a homens que esperam o seu senhor, quando houver de voltar das bodas, para que, quando vier e bater, logo possam abrir-lhe."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 37,
+      "versoes": {
+        "ARC": "Bem-aventurados aqueles servos, aos quais o senhor, quando vier, achar vigiando! Em verdade vos digo que se cingirá, e os fará reclinar-se à mesa e, chegando-se, os servirá."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 38,
+      "versoes": {
+        "ARC": "Quer venha na segunda vigília, quer na terceira, bem-aventurados serão eles, se assim os achar."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 39,
+      "versoes": {
+        "ARC": "Sabei, porém, isto: se o dono da casa soubesse a que hora havia de vir o ladrão, vigiaria e não deixaria minar a sua casa."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 40,
+      "versoes": {
+        "ARC": "Estai vós também apercebidos; porque, numa hora em que não penseis, virá o Filho do homem."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 41,
+      "versoes": {
+        "ARC": "Então Pedro perguntou: Senhor, dizes essa parábola a nós, ou também a todos?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 42,
+      "versoes": {
+        "ARC": "Respondeu o Senhor: Qual é, pois, o mordomo fiel e prudente, que o Senhor porá sobre os seus servos, para lhes dar a tempo a ração?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 43,
+      "versoes": {
+        "ARC": "Bem-aventurado aquele servo a quem o seu senhor, quando vier, achar fazendo assim."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 44,
+      "versoes": {
+        "ARC": "Em verdade vos digo que o porá sobre todos os seus bens."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 45,
+      "versoes": {
+        "ARC": "Mas, se aquele servo disser em teu coração: O meu senhor tarda em vir; e começar a espancar os criados e as criadas, e a comer, a beber e a embriagar-se,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 46,
+      "versoes": {
+        "ARC": "virá o senhor desse servo num dia em que não o espera, e numa hora de que não sabe, e cortá-lo-á pelo meio, e lhe dará a sua parte com os infiéis."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 47,
+      "versoes": {
+        "ARC": "O servo que soube a vontade do seu senhor, e não se aprontou, nem fez conforme a sua vontade, será castigado com muitos açoites;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 48,
+      "versoes": {
+        "ARC": "mas o que não a soube, e fez coisas que mereciam castigo, com poucos açoites será castigado. Daquele a quem muito é dado, muito se lhe requererá; e a quem muito é confiado, mais ainda se lhe pedirá."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 49,
+      "versoes": {
+        "ARC": "Vim lançar fogo à terra; e que mais quero, se já está aceso?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 50,
+      "versoes": {
+        "ARC": "Há um batismo em que hei de ser batizado; e como me angustio até que venha a cumprir-se!"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 51,
+      "versoes": {
+        "ARC": "Cuidais vós que vim trazer paz à terra? Não, eu vos digo, mas antes dissensão:"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 52,
+      "versoes": {
+        "ARC": "pois daqui em diante estarão cinco pessoas numa casa divididas, três contra duas, e duas contra três;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 53,
+      "versoes": {
+        "ARC": "estarão divididos: pai contra filho, e filho contra pai; mãe contra filha, e filha contra mãe; sogra contra nora, e nora contra sogra."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 54,
+      "versoes": {
+        "ARC": "Dizia também às multidões: Quando vedes subir uma nuvem do ocidente, logo dizeis: Lá vem chuva; e assim sucede;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 55,
+      "versoes": {
+        "ARC": "e quando vedes soprar o vento sul dizeis; Haverá calor; e assim sucede."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 56,
+      "versoes": {
+        "ARC": "Hipócritas, sabeis discernir a face da terra e do céu; como não sabeis então discernir este tempo?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 57,
+      "versoes": {
+        "ARC": "E por que não julgais também por vós mesmos o que é justo?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 58,
+      "versoes": {
+        "ARC": "Quando, pois, vais com o teu adversário ao magistrado, procura fazer as pazes com ele no caminho; para que não suceda que ele te arraste ao juiz, e o juiz te entregue ao meirinho, e o meirinho te lance na prisão"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 59,
+      "versoes": {
+        "ARC": "Digo-te que não sairás dali enquanto não pagares o derradeiro lepto."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

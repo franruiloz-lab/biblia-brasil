@@ -1,0 +1,207 @@
+{
+  "livro": "jo",
+  "livroNome": "Jó",
+  "capitulo": 7,
+  "testamento": "AT",
+  "titulo": "",
+  "autor": "Desconhecido",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "Porventura não tem o homem duro serviço sobre a terra? E não são os seus dias como os do jornaleiro?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "Como o escravo que suspira pela sombra, e como o jornaleiro que espera pela sua paga,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "assim se me deram meses de escassez, e noites de aflição se me ordenaram."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "Havendo-me deitado, digo: Quando me levantarei? Mas comprida é a noite, e farto-me de me revolver na cama até a alva."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "A minha carne se tem vestido de vermes e de torrões de pó; a minha pele endurece, e torna a rebentar-se."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "Os meus dias são mais velozes do que a lançadeira do tecelão, e chegam ao fim sem esperança."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "Lembra-te de que a minha vida é um sopro; os meus olhos não tornarão a ver o bem."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "Os olhos dos que agora me vêem não me verão mais; os teus olhos estarão sobre mim, mas não serei mais."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 9,
+      "versoes": {
+        "ARC": "Tal como a nuvem se desfaz e some, aquele que desce à sepultura nunca tornará a subir."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 10,
+      "versoes": {
+        "ARC": "Nunca mais tornará à sua casa, nem o seu lugar o conhecerá mais."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 11,
+      "versoes": {
+        "ARC": "Por isso não reprimirei a minha boca; falarei na angústia do meu espírito, queixar-me-ei na amargura da minha alma."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 12,
+      "versoes": {
+        "ARC": "Sou eu o mar, ou um monstro marinho, para que me ponhas uma guarda?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 13,
+      "versoes": {
+        "ARC": "Quando digo: Confortar-me-á a minha cama, meu leito aliviará a minha queixa,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 14,
+      "versoes": {
+        "ARC": "então me espantas com sonhos, e com visões me atemorizas;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 15,
+      "versoes": {
+        "ARC": "de modo que eu escolheria antes a estrangulação, e a morte do que estes meus ossos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 16,
+      "versoes": {
+        "ARC": "A minha vida abomino; não quero viver para sempre; retira-te de mim, pois os meus dias são vaidade."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 17,
+      "versoes": {
+        "ARC": "Que é o homem, para que tanto o engrandeças, e ponhas sobre ele o teu pensamento,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 18,
+      "versoes": {
+        "ARC": "e cada manhã o visites, e cada momento o proves?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 19,
+      "versoes": {
+        "ARC": "Até quando não apartarás de mim a tua vista, nem me largarás, até que eu possa engolir a minha saliva?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 20,
+      "versoes": {
+        "ARC": "Se peco, que te faço a ti, ó vigia dos homens? Por que me fizeste alvo dos teus dardos? Por que a mim mesmo me tornei pesado?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 21,
+      "versoes": {
+        "ARC": "Por que me não perdoas a minha transgressão, e não tiras a minha iniqüidade? Pois agora me deitarei no pó; tu me buscarás, porém eu não serei mais."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

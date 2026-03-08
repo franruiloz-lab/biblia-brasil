@@ -1,0 +1,234 @@
+{
+  "livro": "salmos",
+  "livroNome": "Salmos",
+  "capitulo": 31,
+  "testamento": "AT",
+  "titulo": "",
+  "autor": "Davi e outros",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "Em ti, Senhor, me refugio; nunca seja eu envergonhado; livra-me pela tua justiça!"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "Inclina para mim os teus ouvidos, livra-me depressa! Sê para mim uma rocha de refúgio, uma casa de defesa que me salve!"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "Porque tu és a minha rocha e a minha fortaleza; pelo que, por amor do teu nome, guia-me e encaminha-me."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "Tira-me do laço que me armaram, pois tu és o meu refúgio."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "Nas tuas mãos entrego o meu espírito; tu me remiste, ó Senhor, Deus da verdade."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "Odeias aqueles que atentam para ídolos vãos; eu, porém, confio no Senhor."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "Eu me alegrarei e regozijarei na tua benignidade, pois tens visto a minha aflição. Tens conhecido as minhas angústias,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "e não me entregaste nas mãos do inimigo; puseste os meus pés num lugar espaçoso."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 9,
+      "versoes": {
+        "ARC": "Tem compaixão de mim, ó Senhor, porque estou angustiado; consumidos estão de tristeza os meus olhos, a minha alma e o meu corpo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 10,
+      "versoes": {
+        "ARC": "Pois a minha vida está gasta de tristeza, e os meus anos de suspiros; a minha força desfalece por causa da minha iniqüidade, e os meus ossos se consomem."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 11,
+      "versoes": {
+        "ARC": "Por causa de todos os meus adversários tornei-me em opróbrio, sim, sobremodo o sou para os meus vizinhos, e horror para os meus conhecidos; os que me vêem na rua fogem de mim."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 12,
+      "versoes": {
+        "ARC": "Sou esquecido como um morto de quem não há memória; sou como um vaso quebrado."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 13,
+      "versoes": {
+        "ARC": "Pois tenho ouvido a difamação de muitos, terror por todos os lados; enquanto juntamente conspiravam contra mim, maquinaram tirar-me a vida."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 14,
+      "versoes": {
+        "ARC": "Mas eu confio em ti, ó Senhor; e digo: Tu és o meu Deus."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 15,
+      "versoes": {
+        "ARC": "Os meus dias estão nas tuas mãos; livra-me das mãos dos meus inimigos e dos que me perseguem."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 16,
+      "versoes": {
+        "ARC": "Faze resplandecer o teu rosto sobre o teu servo; salva-me por tua bondade."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 17,
+      "versoes": {
+        "ARC": "Não seja eu envergonhado, ó Senhor, porque te invoco; envergonhados sejam os ímpios, emudeçam no Seol."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 18,
+      "versoes": {
+        "ARC": "Emudeçam os lábios mentirosos, que falam insolentemente contra o justo, com arrogância e com desprezo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 19,
+      "versoes": {
+        "ARC": "Oh! quão grande é a tua bondade, que guardaste para os que te temem, a qual na presença dos filhos dos homens preparaste para aqueles que em ti se refugiam!"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 20,
+      "versoes": {
+        "ARC": "No abrigo da tua presença tu os escondes das intrigas dos homens; em um pavilhão os ocultas da contenda das línguas."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 21,
+      "versoes": {
+        "ARC": "Bendito seja o Senhor, pois fez maravilhosa a sua bondade para comigo numa cidade sitiada."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 22,
+      "versoes": {
+        "ARC": "Eu dizia no meu espanto: Estou cortado de diante dos teus olhos; não obstante, tu ouviste as minhas súplicas quando eu a ti clamei."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 23,
+      "versoes": {
+        "ARC": "Amai ao Senhor, vós todos os que sois seus santos; o Senhor guarda os fiéis, e retribui abundantemente ao que usa de soberba."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 24,
+      "versoes": {
+        "ARC": "Esforçai-vos, e fortaleça-se o vosso coração, vós todos os que esperais no Senhor."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

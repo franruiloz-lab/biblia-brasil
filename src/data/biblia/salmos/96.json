@@ -1,0 +1,135 @@
+{
+  "livro": "salmos",
+  "livroNome": "Salmos",
+  "capitulo": 96,
+  "testamento": "AT",
+  "titulo": "",
+  "autor": "Davi e outros",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "Cantai ao Senhor um cântico novo, cantai ao Senhor, todos os moradores da terra."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "Cantai ao Senhor, bendizei o seu nome; anunciai de dia em dia a sua salvação."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "Anunciai entre as nações a sua glória, entre todos os povos as suas maravilhas."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "Porque grande é o Senhor, e digno de ser louvado; ele é mais temível do que todos os deuses."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "Porque todos os deuses dos povos são ídolos; mas o Senhor fez os céus."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "Glória e majestade estão diante dele, força e formosura no seu santuário."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "Tributai ao Senhor, ó famílias dos povos, tributai ao Senhor glória e força."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "Tributai ao Senhor a glória devida ao seu nome; trazei oferendas, e entrai nos seus átrios."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 9,
+      "versoes": {
+        "ARC": "Adorai ao Senhor vestidos de trajes santos; tremei diante dele, todos os habitantes da terra."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 10,
+      "versoes": {
+        "ARC": "Dizei entre as nações: O Senhor reina; ele firmou o mundo, de modo que não pode ser abalado. Ele julgará os povos com retidão."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 11,
+      "versoes": {
+        "ARC": "Alegrem-se os céus, e regozije-se a terra; brame o mar e a sua plenitude."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 12,
+      "versoes": {
+        "ARC": "Exulte o campo, e tudo o que nele há; então cantarão de júbilo todas as árvores do bosque"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 13,
+      "versoes": {
+        "ARC": "diante do Senhor, porque ele vem, porque vem julgar a terra: julgará o mundo com justiça e os povos com a sua fidelidade."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

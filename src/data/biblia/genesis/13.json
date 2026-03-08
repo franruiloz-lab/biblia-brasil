@@ -1,0 +1,180 @@
+{
+  "livro": "genesis",
+  "livroNome": "Gênesis",
+  "capitulo": 13,
+  "testamento": "AT",
+  "titulo": "",
+  "autor": "Moisés",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "Subiu, pois, Abrão do Egito para o Negebe, levando sua mulher e tudo o que tinha, e Ló o acompanhava."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "Abrão era muito rico em gado, em prata e em ouro."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "Nas suas jornadas subiu do Negebe para Betel, até o lugar onde outrora estivera a sua tenda, entre Betel e Ai,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "até o lugar do altar, que dantes ali fizera; e ali invocou Abrão o nome do Senhor."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "E também Ló, que ia com Abrão, tinha rebanhos, gado e tendas."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "Ora, a terra não podia sustentá-los, para eles habitarem juntos; porque os seus bens eram muitos; de modo que não podiam habitar juntos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "Pelo que houve contenda entre os pastores do gado de Abrão, e os pastores do gado de Ló. E nesse tempo os cananeus e os perizeus habitavam na terra."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "Disse, pois, Abrão a Ló: Ora, não haja contenda entre mim e ti, e entre os meus pastores e os teus pastores, porque somos irmãos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 9,
+      "versoes": {
+        "ARC": "Porventura não está toda a terra diante de ti? Rogo-te que te apartes de mim. Se tu escolheres a esquerda, irei para a direita; e se a direita escolheres, irei eu para a esquerda."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 10,
+      "versoes": {
+        "ARC": "Então Ló levantou os olhos, e viu toda a planície do Jordão, que era toda bem regada {antes de haver o Senhor destruído Sodoma e Gomorra}, e era como o jardim do Senhor, como a terra do Egito, até chegar a Zoar."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 11,
+      "versoes": {
+        "ARC": "E Ló escolheu para si toda a planície do Jordão, e partiu para o oriente; assim se apartaram um do outro."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 12,
+      "versoes": {
+        "ARC": "Habitou Abrão na terra de Canaã, e Ló habitou nas cidades da planície, e foi armando as suas tendas até chegar a Sodoma."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 13,
+      "versoes": {
+        "ARC": "Ora, os homens de Sodoma eram maus e grandes pecadores contra o Senhor."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 14,
+      "versoes": {
+        "ARC": "E disse o Senhor a Abrão, depois que Ló se apartou dele: Levanta agora os olhos, e olha desde o lugar onde estás, para o norte, para o sul, para o oriente e para o oriente;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 15,
+      "versoes": {
+        "ARC": "porque toda esta terra que vês, te hei de dar a ti, e à tua descendência, para sempre."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 16,
+      "versoes": {
+        "ARC": "E farei a tua descendência como o pó da terra; de maneira que se puder ser contado o pó da terra, então também poderá ser contada a tua descendência."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 17,
+      "versoes": {
+        "ARC": "Levanta-te, percorre esta terra, no seu comprimento e na sua largura; porque a darei a ti."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 18,
+      "versoes": {
+        "ARC": "Então mudou Abrão as suas tendas, e foi habitar junto dos carvalhos de Manre, em Hebrom; e ali edificou um altar ao Senhor."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

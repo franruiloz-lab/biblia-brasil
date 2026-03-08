@@ -1,0 +1,495 @@
+{
+  "livro": "lucas",
+  "livroNome": "Lucas",
+  "capitulo": 24,
+  "testamento": "NT",
+  "titulo": "",
+  "autor": "Lucas (médico)",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "Mas já no primeiro dia da semana, bem de madrugada, foram elas ao sepulcro, levando as especiarias que tinham preparado."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "E acharam a pedra revolvida do sepulcro."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "Entrando, porém, não acharam o corpo do Senhor Jesus."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "E, estando elas perplexas a esse respeito, eis que lhes apareceram dois varões em vestes resplandecentes;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "e ficando elas atemorizadas e abaixando o rosto para o chão, eles lhes disseram: Por que buscais entre os mortos aquele que vive?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "Ele não está aqui, mas ressurgiu. Lembrai-vos de como vos falou, estando ainda na Galiléia."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "dizendo: Importa que o Filho do homem seja entregue nas mãos de homens pecadores, e seja crucificado, e ao terceiro dia ressurja."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "Lembraram-se, então, das suas palavras;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 9,
+      "versoes": {
+        "ARC": "e, voltando do sepulcro, anunciaram todas estas coisas aos onze e a todos os demais."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 10,
+      "versoes": {
+        "ARC": "E eram Maria Madalena, e Joana, e Maria, mãe de Tiago; também as outras que estavam com elas relataram estas coisas aos apóstolos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 11,
+      "versoes": {
+        "ARC": "E pareceram-lhes como um delírio as palavras das mulheres e não lhes deram crédito."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 12,
+      "versoes": {
+        "ARC": "Mas Pedro, levantando-se, correu ao sepulcro; e, abaixando-se, viu somente os panos de linho; e retirou-se, admirando consigo o que havia acontecido."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 13,
+      "versoes": {
+        "ARC": "Nesse mesmo dia, iam dois deles para uma aldeia chamada Emaús, que distava de Jerusalém sessenta estádios;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 14,
+      "versoes": {
+        "ARC": "e iam comentando entre si tudo aquilo que havia sucedido."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 15,
+      "versoes": {
+        "ARC": "Enquanto assim comentavam e discutiam, o próprio Jesus se aproximou, e ia com eles;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 16,
+      "versoes": {
+        "ARC": "mas os olhos deles estavam como que fechados, de sorte que não o reconheceram."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 17,
+      "versoes": {
+        "ARC": "Então ele lhes perguntou: Que palavras são essas que, caminhando, trocais entre vós? Eles então pararam tristes."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 18,
+      "versoes": {
+        "ARC": "E um deles, chamado Cleopas, respondeu-lhe: És tu o único peregrino em Jerusalém que não soube das coisas que nela têm sucedido nestes dias?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 19,
+      "versoes": {
+        "ARC": "Ao que ele lhes perguntou: Quais? Disseram-lhe: As que dizem respeito a Jesus, o nazareno, que foi profeta, poderoso em obras e palavras diante de Deus e de todo o povo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 20,
+      "versoes": {
+        "ARC": "e como os principais sacerdotes e as nossas autoridades e entregaram para ser condenado à morte, e o crucificaram."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 21,
+      "versoes": {
+        "ARC": "Ora, nós esperávamos que fosse ele quem havia de remir Israel; e, além de tudo isso, é já hoje o terceiro dia desde que essas coisas aconteceram."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 22,
+      "versoes": {
+        "ARC": "Verdade é, também, que algumas mulheres do nosso meio nos encheram de espanto; pois foram de madrugada ao sepulcro"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 23,
+      "versoes": {
+        "ARC": "e, não achando o corpo dele voltaram, declarando que tinham tido uma visão de anjos que diziam estar ele vivo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 24,
+      "versoes": {
+        "ARC": "Além disso, alguns dos que estavam conosco foram ao sepulcro, e acharam ser assim como as mulheres haviam dito; a ele, porém, não o viram."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 25,
+      "versoes": {
+        "ARC": "Então ele lhes disse: ó néscios, e tardos de coração para crerdes tudo o que os profetas disseram!"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 26,
+      "versoes": {
+        "ARC": "Porventura não importa que o Cristo padecesse essas coisas e entrasse na sua glória?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 27,
+      "versoes": {
+        "ARC": "E, começando por Moisés, e por todos os profetas, explicou-lhes o que dele se achava em todas as Escrituras."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 28,
+      "versoes": {
+        "ARC": "Quando se aproximaram da aldeia para onde iam, ele fez como quem ia para mais longe."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 29,
+      "versoes": {
+        "ARC": "Eles, porém, o constrangeram, dizendo: Fica conosco; porque é tarde, e já declinou o dia. E entrou para ficar com eles."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 30,
+      "versoes": {
+        "ARC": "Estando com eles à mesa, tomou o pão e o abençoou; e, partindo-o, lho dava."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 31,
+      "versoes": {
+        "ARC": "Abriram-se-lhes então os olhos, e o reconheceram; nisto ele desapareceu de diante deles."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 32,
+      "versoes": {
+        "ARC": "E disseram um para o outro: Porventura não se nos abrasava o coração, quando pelo caminho nos falava, e quando nos abria as Escrituras?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 33,
+      "versoes": {
+        "ARC": "E na mesma hora levantaram-se e voltaram para Jerusalém, e encontraram reunidos os onze e os que estavam com eles,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 34,
+      "versoes": {
+        "ARC": "os quais diziam: Realmente o Senhor ressurgiu, e apareceu a Simão."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 35,
+      "versoes": {
+        "ARC": "Então os dois contaram o que acontecera no caminho, e como se lhes fizera conhecer no partir do pão."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 36,
+      "versoes": {
+        "ARC": "Enquanto ainda falavam nisso, o próprio Jesus se apresentou no meio deles, e disse-lhes: Paz seja convosco."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 37,
+      "versoes": {
+        "ARC": "Mas eles, espantados e atemorizados, pensavam que viam algum espírito."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 38,
+      "versoes": {
+        "ARC": "Ele, porém, lhes disse: Por que estais perturbados? e por que surgem dúvidas em vossos corações?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 39,
+      "versoes": {
+        "ARC": "Olhai as minhas mãos e os meus pés, que sou eu mesmo; apalpai-me e vede; porque um espírito não tem carne nem ossos, como percebeis que eu tenho."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 40,
+      "versoes": {
+        "ARC": "E, dizendo isso, mostrou-lhes as mãos e os pés."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 41,
+      "versoes": {
+        "ARC": "Não acreditando eles ainda por causa da alegria, e estando admirados, perguntou-lhes Jesus: Tendes aqui alguma coisa que comer?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 42,
+      "versoes": {
+        "ARC": "Então lhe deram um pedaço de peixe assado,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 43,
+      "versoes": {
+        "ARC": "o qual ele tomou e comeu diante deles."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 44,
+      "versoes": {
+        "ARC": "Depois lhe disse: São estas as palavras que vos falei, estando ainda convosco, que importava que se cumprisse tudo o que de mim estava escrito na Lei de Moisés, nos Profetas e nos Salmos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 45,
+      "versoes": {
+        "ARC": "Então lhes abriu o entendimento para compreenderem as Escrituras;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 46,
+      "versoes": {
+        "ARC": "e disse-lhes: Assim está escrito que o Cristo padecesse, e ao terceiro dia ressurgisse dentre os mortos;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 47,
+      "versoes": {
+        "ARC": "e que em seu nome se pregasse o arrependimento para remissão dos pecados, a todas as nações, começando por Jerusalém."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 48,
+      "versoes": {
+        "ARC": "Vós sois testemunhas destas coisas."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 49,
+      "versoes": {
+        "ARC": "E eis que sobre vós envio a promessa de meu Pai; ficai porém, na cidade, até que do alto sejais revestidos de poder."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 50,
+      "versoes": {
+        "ARC": "Então os levou fora, até Betânia; e levantando as mãos, os abençoou."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 51,
+      "versoes": {
+        "ARC": "E aconteceu que, enquanto os abençoava, apartou-se deles; e foi elevado ao céu."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 52,
+      "versoes": {
+        "ARC": "E, depois de o adorarem, voltaram com grande júbilo para Jerusalém;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 53,
+      "versoes": {
+        "ARC": "e estavam continuamente no templo, bendizendo a Deus."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

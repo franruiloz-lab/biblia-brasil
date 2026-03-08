@@ -1,0 +1,342 @@
+{
+  "livro": "salmos",
+  "livroNome": "Salmos",
+  "capitulo": 69,
+  "testamento": "AT",
+  "titulo": "",
+  "autor": "Davi e outros",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "Salva-me, ó Deus, pois as águas me sobem até o pescoço."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "Atolei-me em profundo lamaçal, onde não se pode firmar o pé; entrei na profundeza das águas, onde a corrente me submerge."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "Estou cansado de clamar; secou-se-me a garganta; os meus olhos desfalecem de esperar por meu Deus."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "Aqueles que me odeiam sem causa são mais do que os cabelos da minha cabeça; poderosos são aqueles que procuram destruir-me, que me atacam com mentiras; por isso tenho de restituir o que não extorqui."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "Tu, ó Deus, bem conheces a minha estultícia, e as minhas culpas não são ocultas."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "Não sejam envergonhados por minha causa aqueles que esperam em ti, ó Senhor Deus dos exércitos; não sejam confundidos por minha causa aqueles que te buscam, ó Deus de Israel."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "Porque por amor de ti tenho suportado afrontas; a confusão me cobriu o rosto."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "Tornei-me como um estranho para os meus irmãos, e um desconhecido para os filhos de minha mãe."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 9,
+      "versoes": {
+        "ARC": "Pois o zelo da tua casa me devorou, e as afrontas dos que te afrontam caíram sobre mim."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 10,
+      "versoes": {
+        "ARC": "Quando chorei e castiguei com jejum a minha alma, isto se me tornou em afrontas."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 11,
+      "versoes": {
+        "ARC": "Quando me vesti de cilício, fiz-me para eles um provérbio."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 12,
+      "versoes": {
+        "ARC": "Aqueles que se sentem à porta falam de mim; e sou objeto das cantigas dos bêbedos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 13,
+      "versoes": {
+        "ARC": "Eu, porém, faço a minha oração a ti, ó Senhor, em tempo aceitável; ouve-me, ó Deus, segundo a grandeza da tua benignidade, segundo a fidelidade da tua salvação."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 14,
+      "versoes": {
+        "ARC": "Tira-me do lamaçal, e não me deixes afundar; seja eu salvo dos meus inimigos, e das profundezas das águas."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 15,
+      "versoes": {
+        "ARC": "Não me submerja a corrente das águas e não me trague o abismo, nem cerre a cova a sua boca sobre mim."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 16,
+      "versoes": {
+        "ARC": "Ouve-me, Senhor, pois grande é a tua benignidade; volta-te para mim segundo a tua muitíssima compaixão."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 17,
+      "versoes": {
+        "ARC": "Não escondas o teu rosto do teu servo; ouve-me depressa, pois estou angustiado."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 18,
+      "versoes": {
+        "ARC": "Aproxima-te da minha alma, e redime-a; resgata-me por causa dos meus inimigos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 19,
+      "versoes": {
+        "ARC": "Tu conheces o meu opróbrio, a minha vergonha, e a minha ignomínia; diante de ti estão todos os meus adversários."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 20,
+      "versoes": {
+        "ARC": "Afrontas quebrantaram-me o coração, e estou debilitado. Esperei por alguém que tivesse compaixão, mas não houve nenhum; e por consoladores, mas não os achei."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 21,
+      "versoes": {
+        "ARC": "Deram-me fel por mantimento, e na minha sede me deram a beber vinagre."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 22,
+      "versoes": {
+        "ARC": "Torne-se a sua mesa diante deles em laço, e sejam-lhes as suas ofertas pacíficas uma armadilha."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 23,
+      "versoes": {
+        "ARC": "Obscureçam-se-lhes os olhos, para que não vejam, e faze com que os seus lombos tremam constantemente."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 24,
+      "versoes": {
+        "ARC": "Derrama sobre eles a tua indignação, e apanhe-os o ardor da tua ira."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 25,
+      "versoes": {
+        "ARC": "Fique desolada a sua habitação, e não haja quem habite nas suas tendas."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 26,
+      "versoes": {
+        "ARC": "Pois perseguem a quem afligiste, e aumentam a dor daqueles a quem feriste."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 27,
+      "versoes": {
+        "ARC": "Acrescenta iniqüidade à iniqüidade deles, e não encontrem eles absolvição na tua justiça."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 28,
+      "versoes": {
+        "ARC": "Sejam riscados do livro da vida, e não sejam inscritos com os justos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 29,
+      "versoes": {
+        "ARC": "Eu, porém, estou aflito e triste; a tua salvação, ó Deus, me ponha num alto retiro."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 30,
+      "versoes": {
+        "ARC": "Louvarei o nome de Deus com um cântico, e engrandecê-lo-ei com ação de graças."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 31,
+      "versoes": {
+        "ARC": "Isto será mais agradável ao Senhor do que um boi, ou um novilho que tem pontas e unhas."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 32,
+      "versoes": {
+        "ARC": "Vejam isto os mansos, e se alegrem; vós que buscais a Deus reviva o vosso coração."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 33,
+      "versoes": {
+        "ARC": "Porque o Senhor ouve os necessitados, e não despreza os seus, embora sejam prisioneiros."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 34,
+      "versoes": {
+        "ARC": "Louvem-no os céus e a terra, os mares e tudo quanto neles se move."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 35,
+      "versoes": {
+        "ARC": "Porque Deus salvará a Sião, e edificará as cidades de Judá, e ali habitarão os seus servos e a possuirão."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 36,
+      "versoes": {
+        "ARC": "E herdá-la-á a descendência de seus servos, e os que amam o seu nome habitarão nela."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

@@ -1,0 +1,279 @@
+{
+  "livro": "romanos",
+  "livroNome": "Romanos",
+  "capitulo": 2,
+  "testamento": "NT",
+  "titulo": "",
+  "autor": "Paulo (apóstolo)",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "Portanto, és inescusável, ó homem, qualquer que sejas, quando julgas, porque te condenas a ti mesmo naquilo em que julgas a outro; pois tu que julgas, praticas o mesmo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "E bem sabemos que o juízo de Deus é segundo a verdade, contra os que tais coisas praticam."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "E tu, ó homem, que julgas os que praticam tais coisas, cuidas que, fazendo-as tu, escaparás ao juízo de Deus?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "Ou desprezas tu as riquezas da sua benignidade, e paciência e longanimidade, ignorando que a benignidade de Deus te conduz ao arrependimento?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "Mas, segundo a tua dureza e teu coração impenitente, entesouras ira para ti no dia da ira e da revelação do justo juízo de Deus,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "que retribuirá a cada um segundo as suas obras;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "a saber: a vida eterna aos que, com perseverança em favor o bem, procuram glória, e honra e incorrupção;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "mas ira e indignação aos que são contenciosos, e desobedientes à iniqüidade;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 9,
+      "versoes": {
+        "ARC": "tribulação e angústia sobre a alma de todo homem que pratica o mal, primeiramente do judeu, e também do grego;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 10,
+      "versoes": {
+        "ARC": "glória, porém, e honra e paz a todo aquele que pratica o bem, primeiramente ao judeu, e também ao grego;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 11,
+      "versoes": {
+        "ARC": "pois para com Deus não há acepção de pessoas."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 12,
+      "versoes": {
+        "ARC": "Porque todos os que sem lei pecaram, sem lei também perecerão; e todos os que sob a lei pecaram, pela lei serão julgados."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 13,
+      "versoes": {
+        "ARC": "Pois não são justos diante de Deus os que só ouvem a lei; mas serão justificados os que praticam a lei"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 14,
+      "versoes": {
+        "ARC": "{porque, quando os gentios, que não têm lei, fazem por natureza as coisas da lei, eles, embora não tendo lei, para si mesmos são lei."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 15,
+      "versoes": {
+        "ARC": "pois mostram a obra da lei escrita em seus corações, testificando juntamente a sua consciência e os seus pensamentos, quer acusando-os, quer defendendo-os},"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 16,
+      "versoes": {
+        "ARC": "no dia em que Deus há de julgar os segredos dos homens, por Cristo Jesus, segundo o meu evangelho."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 17,
+      "versoes": {
+        "ARC": "Mas se tu és chamado judeu, e repousas na lei, e te glorias em Deus;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 18,
+      "versoes": {
+        "ARC": "e conheces a sua vontade e aprovas as coisas excelentes, sendo instruído na lei;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 19,
+      "versoes": {
+        "ARC": "e confias que és guia dos cegos, luz dos que estão em trevas,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 20,
+      "versoes": {
+        "ARC": "instruidor dos néscios, mestre de crianças, que tens na lei a forma da ciência e da verdade;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 21,
+      "versoes": {
+        "ARC": "tu, pois, que ensinas a outrem, não te ensinas a ti mesmo? Tu, que pregas que não se deve furtar, furtas?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 22,
+      "versoes": {
+        "ARC": "Tu, que dizes que não se deve cometer adultério, adulteras? Tu, que abominas os ídolos, roubas os templos?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 23,
+      "versoes": {
+        "ARC": "Tu, que te glorias na lei, desonras a Deus pela transgressão da lei?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 24,
+      "versoes": {
+        "ARC": "Assim pois, por vossa causa, o nome de Deus é blasfemado entre os gentios, como está escrito."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 25,
+      "versoes": {
+        "ARC": "Porque a circuncisão é, na verdade, proveitosa, se guardares a lei; mas se tu és transgressor da lei, a tua circuncisão tem-se tornado em incircuncisão."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 26,
+      "versoes": {
+        "ARC": "Se, pois, a incircuncisão guardar os preceitos da lei, porventura a incircuncisão não será reputada como circuncisão?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 27,
+      "versoes": {
+        "ARC": "E a incircuncisão que por natureza o é, se cumpre a lei, julgará a ti, que com a letra e a circuncisão és transgressor da lei."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 28,
+      "versoes": {
+        "ARC": "Porque não é judeu o que o é exteriormente, nem é circuncisão a que o é exteriormente na carne."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 29,
+      "versoes": {
+        "ARC": "Mas é judeu aquele que o é interiormente, e circuncisão é a do coração, no espírito, e não na letra; cujo louvor não provém dos homens, mas de Deus."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

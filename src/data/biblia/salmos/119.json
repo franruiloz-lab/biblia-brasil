@@ -1,0 +1,1602 @@
+{
+  "livro": "salmos",
+  "livroNome": "Salmos",
+  "capitulo": 119,
+  "testamento": "AT",
+  "titulo": "",
+  "autor": "Davi e outros",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "Bem-aventurados os que trilham com integridade o seu caminho, os que andam na lei do Senhor!"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "Bem-aventurados os que guardam os seus testemunhos, que o buscam de todo o coração,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "que não praticam iniqüidade, mas andam nos caminhos dele!"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "Tu ordenaste os teus preceitos, para que fossem diligentemente observados."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "Oxalá sejam os meus caminhos dirigidos de maneira que eu observe os teus estatutos!"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "Então não ficarei confundido, atentando para todos os teus mandamentos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "Louvar-te-ei com retidão de coração, quando tiver aprendido as tuas retas ordenanças."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "Observarei os teus estatutos; não me desampares totalmente!"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 9,
+      "versoes": {
+        "ARC": "Como purificará o jovem o seu caminho? Observando-o de acordo com a tua palavra."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 10,
+      "versoes": {
+        "ARC": "De todo o meu coração tenho te buscado; não me deixes desviar dos teus mandamentos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 11,
+      "versoes": {
+        "ARC": "Escondi a tua palavra no meu coração, para não pecar contra ti."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 12,
+      "versoes": {
+        "ARC": "Bendito és tu, ó Senhor; ensina-me os teus estatutos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 13,
+      "versoes": {
+        "ARC": "Com os meus lábios declaro todas as ordenanças da tua boca."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 14,
+      "versoes": {
+        "ARC": "Regozijo-me no caminho dos teus testemunhos, tanto como em todas as riquezas."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 15,
+      "versoes": {
+        "ARC": "Em teus preceitos medito, e observo os teus caminhos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 16,
+      "versoes": {
+        "ARC": "Deleitar-me-ei nos teus estatutos; não me esquecerei da tua palavra."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 17,
+      "versoes": {
+        "ARC": "Faze bem ao teu servo, para que eu viva; assim observarei a tua palavra."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 18,
+      "versoes": {
+        "ARC": "Desvenda os meus olhos, para que eu veja as maravilhas da tua lei."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 19,
+      "versoes": {
+        "ARC": "Sou peregrino na terra; não escondas de mim os teus mandamentos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 20,
+      "versoes": {
+        "ARC": "A minha alma se consome de anelos por tuas ordenanças em todo o tempo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 21,
+      "versoes": {
+        "ARC": "Tu repreendeste os soberbos, os malditos, que se desviam dos teus mandamentos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 22,
+      "versoes": {
+        "ARC": "Tira de sobre mim o opróbrio e o desprezo, pois tenho guardado os teus testemunhos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 23,
+      "versoes": {
+        "ARC": "Príncipes sentaram-se e falavam contra mim, mas o teu servo meditava nos teus estatutos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 24,
+      "versoes": {
+        "ARC": "Os teus testemunhos são o meu prazer e os meus conselheiros."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 25,
+      "versoes": {
+        "ARC": "A minha alma apega-se ao pó; vivifica-me segundo a tua palavra."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 26,
+      "versoes": {
+        "ARC": "Meus caminhos te descrevi, e tu me ouviste; ensina-me os teus estatutos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 27,
+      "versoes": {
+        "ARC": "Faze-me entender o caminho dos teus preceitos; assim meditarei nas tuas maravilhas."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 28,
+      "versoes": {
+        "ARC": "A minha alma se consome de tristeza; fortalece-me segundo a tua palavra."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 29,
+      "versoes": {
+        "ARC": "Desvia de mim o caminho da falsidade, e ensina-me benignidade a tua lei."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 30,
+      "versoes": {
+        "ARC": "Escolhi o caminho da fidelidade; diante de mim pus as tuas ordenanças."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 31,
+      "versoes": {
+        "ARC": "Apego-me aos teus testemunhos, ó Senhor; não seja eu envergonhado."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 32,
+      "versoes": {
+        "ARC": "Percorrerei o caminho dos teus mandamentos, quando dilatares o meu coração."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 33,
+      "versoes": {
+        "ARC": "Ensina-me, ó Senhor, o caminho dos teus estatutos, e eu o guardarei até o fim."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 34,
+      "versoes": {
+        "ARC": "Dá-me entendimento, para que eu guarde a tua lei, e a observe de todo o meu coração."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 35,
+      "versoes": {
+        "ARC": "Faze-me andar na vereda dos teus mandamentos, porque nela me comprazo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 36,
+      "versoes": {
+        "ARC": "Inclina o meu coração para os teus testemunhos, e não para a cobiça."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 37,
+      "versoes": {
+        "ARC": "Desvia os meus olhos de contemplarem a vaidade, e vivifica-me no teu caminho."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 38,
+      "versoes": {
+        "ARC": "Confirma a tua promessa ao teu servo, que se inclina ao teu temor."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 39,
+      "versoes": {
+        "ARC": "Desvia de mim o opróbrio que temo, pois as tuas ordenanças são boas."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 40,
+      "versoes": {
+        "ARC": "Eis que tenho anelado os teus preceitos; vivifica-me por tua justiça."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 41,
+      "versoes": {
+        "ARC": "Venha também sobre mim a tua benignidade, ó Senhor, e a tua salvação, segundo a tua palavra."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 42,
+      "versoes": {
+        "ARC": "Assim terei o que responder ao que me afronta, pois confio na tua palavra."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 43,
+      "versoes": {
+        "ARC": "De minha boca não tires totalmente a palavra da verdade, pois tenho esperado nos teus juízos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 44,
+      "versoes": {
+        "ARC": "Assim observarei de contínuo a tua lei, para sempre e eternamente;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 45,
+      "versoes": {
+        "ARC": "e andarei em liberdade, pois tenho buscado os teus preceitos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 46,
+      "versoes": {
+        "ARC": "Falarei dos teus testemunhos perante os reis, e não me envergonharei."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 47,
+      "versoes": {
+        "ARC": "Deleitar-me-ei em teus mandamentos, que eu amo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 48,
+      "versoes": {
+        "ARC": "Também levantarei as minhas mãos para os teus mandamentos, que amo, e meditarei nos teus estatutos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 49,
+      "versoes": {
+        "ARC": "Lembra-te da palavra dada ao teu servo, na qual me fizeste esperar."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 50,
+      "versoes": {
+        "ARC": "Isto é a minha consolação na minha angústia, que a tua promessa me vivifica."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 51,
+      "versoes": {
+        "ARC": "Os soberbos zombaram grandemente de mim; contudo não me desviei da tua lei."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 52,
+      "versoes": {
+        "ARC": "Lembro-me dos teus juízos antigos, ó Senhor, e assim me consolo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 53,
+      "versoes": {
+        "ARC": "Grande indignação apoderou-se de mim, por causa dos ímpios que abandonam a tua lei."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 54,
+      "versoes": {
+        "ARC": "Os teus estatutos têm sido os meus cânticos na casa da minha peregrinação."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 55,
+      "versoes": {
+        "ARC": "De noite me lembrei do teu nome, ó Senhor, e observei a tua lei."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 56,
+      "versoes": {
+        "ARC": "Isto me sucedeu, porque tenho guardado os teus preceitos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 57,
+      "versoes": {
+        "ARC": "O Senhor é o meu quinhão; prometo observar as tuas palavras."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 58,
+      "versoes": {
+        "ARC": "De todo o meu coração imploro o teu favor; tem piedade de mim, segundo a tua palavra."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 59,
+      "versoes": {
+        "ARC": "Quando considero os meus caminhos, volto os meus pés para os teus testemunhos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 60,
+      "versoes": {
+        "ARC": "Apresso-me sem detença a observar os teus mandamentos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 61,
+      "versoes": {
+        "ARC": "Enleiam-me os laços dos ímpios; mas eu não me esqueço da tua lei."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 62,
+      "versoes": {
+        "ARC": "À meia-noite me levanto para dar-te graças, por causa dos teus retos juízos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 63,
+      "versoes": {
+        "ARC": "Companheiro sou de todos os que te temem, e dos que guardam os teus preceitos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 64,
+      "versoes": {
+        "ARC": "A terra, ó Senhor, está cheia da tua benignidade; ensina-me os teus estatutos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 65,
+      "versoes": {
+        "ARC": "Tens usado de bondade para com o teu servo, Senhor, segundo a tua palavra."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 66,
+      "versoes": {
+        "ARC": "Ensina-me bom juízo e ciência, pois creio nos teus mandamentos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 67,
+      "versoes": {
+        "ARC": "Antes de ser afligido, eu me extraviava; mas agora guardo a tua palavra."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 68,
+      "versoes": {
+        "ARC": "Tu és bom e fazes o bem; ensina-me os teus estatutos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 69,
+      "versoes": {
+        "ARC": "Os soberbos forjam mentiras contra mim; mas eu de todo o coração guardo os teus preceitos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 70,
+      "versoes": {
+        "ARC": "Torna-se-lhes insensível o coração como a gordura; mas eu me deleito na tua lei."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 71,
+      "versoes": {
+        "ARC": "Foi-me bom ter sido afligido, para que aprendesse os teus estatutos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 72,
+      "versoes": {
+        "ARC": "Melhor é para mim a lei da tua boca do que milhares de ouro e prata."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 73,
+      "versoes": {
+        "ARC": "As tuas mãos me fizeram e me formaram; dá-me entendimento para que aprenda os teus mandamentos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 74,
+      "versoes": {
+        "ARC": "Os que te temem me verão e se alegrarão, porque tenho esperado na tua palavra."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 75,
+      "versoes": {
+        "ARC": "Bem sei eu, ó Senhor, que os teus juízos são retos, e que em tua fidelidade me afligiste."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 76,
+      "versoes": {
+        "ARC": "Sirva, pois, a tua benignidade para me consolar, segundo a palavra que deste ao teu servo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 77,
+      "versoes": {
+        "ARC": "Venham sobre mim as tuas ternas misericórdias, para que eu viva, pois a tua lei é o meu deleite."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 78,
+      "versoes": {
+        "ARC": "Envergonhados sejam os soberbos, por me haverem subvertido sem causa; mas eu meditarei nos teus preceitos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 79,
+      "versoes": {
+        "ARC": "Voltem-se para mim os que te temem, para que conheçam os teus testemunhos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 80,
+      "versoes": {
+        "ARC": "Seja perfeito o meu coração nos teus estatutos, para que eu não seja envergonhado."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 81,
+      "versoes": {
+        "ARC": "Desfalece a minha alma, aguardando a tua salvação; espero na tua palavra."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 82,
+      "versoes": {
+        "ARC": "Os meus olhos desfalecem, esperando por tua promessa, enquanto eu pergunto: Quando me consolarás tu?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 83,
+      "versoes": {
+        "ARC": "Pois tornei-me como odre na fumaça, mas não me esqueci dos teus estatutos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 84,
+      "versoes": {
+        "ARC": "Quantos serão os dias do teu servo? Até quando não julgarás aqueles que me perseguem?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 85,
+      "versoes": {
+        "ARC": "Abriram covas para mim os soberbos, que não andam segundo a tua lei."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 86,
+      "versoes": {
+        "ARC": "Todos os teus mandamentos são fiéis. Sou perseguido injustamente; ajuda-me!"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 87,
+      "versoes": {
+        "ARC": "Quase que me consumiram sobre a terra, mas eu não deixei os teus preceitos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 88,
+      "versoes": {
+        "ARC": "Vivifica-me segundo a tua benignidade, para que eu guarde os testemunhos da tua boca."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 89,
+      "versoes": {
+        "ARC": "Para sempre, ó Senhor, a tua palavra está firmada nos céus."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 90,
+      "versoes": {
+        "ARC": "A tua fidelidade estende-se de geração a geração; tu firmaste a terra, e firme permanece."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 91,
+      "versoes": {
+        "ARC": "Conforme a tua ordenança, tudo se mantém até hoje, porque todas as coisas te obedecem."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 92,
+      "versoes": {
+        "ARC": "Se a tua lei não fora o meu deleite, então eu teria perecido na minha angústia."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 93,
+      "versoes": {
+        "ARC": "Nunca me esquecerei dos teus preceitos, pois por eles me tens vivificado."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 94,
+      "versoes": {
+        "ARC": "Sou teu, salva-me; pois tenho buscado os teus preceitos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 95,
+      "versoes": {
+        "ARC": "Os ímpios me espreitam para me destruírem, mas eu atento para os teus testemunhos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 96,
+      "versoes": {
+        "ARC": "A toda perfeição vi limite, mas o teu mandamento é ilimitado."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 97,
+      "versoes": {
+        "ARC": "Oh! quanto amo a tua lei! ela é a minha meditação o dia todo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 98,
+      "versoes": {
+        "ARC": "O teu mandamento me faz mais sábio do que meus inimigos, pois está sempre comigo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 99,
+      "versoes": {
+        "ARC": "Tenho mais entendimento do que todos os meus mestres, porque os teus testemunhos são a minha meditação."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 100,
+      "versoes": {
+        "ARC": "Sou mais entendido do que os velhos, porque tenho guardado os teus preceitos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 101,
+      "versoes": {
+        "ARC": "Retenho os meus pés de todo caminho mau, a fim de observar a tua palavra."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 102,
+      "versoes": {
+        "ARC": "Não me aperto das tuas ordenanças, porque és tu quem me instrui."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 103,
+      "versoes": {
+        "ARC": "Oh! quão doces são as tuas palavras ao meu paladar! mais doces do que o mel à minha boca."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 104,
+      "versoes": {
+        "ARC": "Pelos teus preceitos alcanço entendimento, pelo que aborreço toda vereda de falsidade."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 105,
+      "versoes": {
+        "ARC": "Lâmpada para os meus pés é a tua palavra, e luz para o meu caminho."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 106,
+      "versoes": {
+        "ARC": "Fiz juramento, e o confirmei, de guardar as tuas justas ordenanças."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 107,
+      "versoes": {
+        "ARC": "Estou aflitíssimo; vivifica-me, ó Senhor, segundo a tua palavra."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 108,
+      "versoes": {
+        "ARC": "Aceita, Senhor, eu te rogo, as oferendas voluntárias da minha boca, e ensina-me as tuas ordenanças."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 109,
+      "versoes": {
+        "ARC": "Estou continuamente em perigo de vida; todavia não me esqueço da tua lei."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 110,
+      "versoes": {
+        "ARC": "Os ímpios me armaram laço, contudo não me desviei dos teus preceitos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 111,
+      "versoes": {
+        "ARC": "Os teus testemunhos são a minha herança para sempre, pois são eles o gozo do meu coração."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 112,
+      "versoes": {
+        "ARC": "Inclino o meu coração a cumprir os teus estatutos, para sempre, até o fim."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 113,
+      "versoes": {
+        "ARC": "Aborreço a duplicidade, mas amo a tua lei."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 114,
+      "versoes": {
+        "ARC": "Tu és o meu refúgio e o meu escudo; espero na tua palavra."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 115,
+      "versoes": {
+        "ARC": "Apartai-vos de mim, malfeitores, para que eu guarde os mandamentos do meu Deus."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 116,
+      "versoes": {
+        "ARC": "Ampara-me conforme a tua palavra, para que eu viva; e não permitas que eu seja envergonhado na minha esperança."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 117,
+      "versoes": {
+        "ARC": "Sustenta-me, e serei salvo, e de contínuo terei respeito aos teus estatutos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 118,
+      "versoes": {
+        "ARC": "Desprezas todos os que se desviam dos teus estatutos, pois a astúcia deles é falsidade."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 119,
+      "versoes": {
+        "ARC": "Deitas fora, como escória, todos os ímpios da terra; pelo que amo os teus testemunhos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 120,
+      "versoes": {
+        "ARC": "Arrepia-se-me a carne com temor de ti, e tenho medo dos teus juízos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 121,
+      "versoes": {
+        "ARC": "Tenho praticado a retidão e a justiça; não me abandones aos meus opressores."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 122,
+      "versoes": {
+        "ARC": "Fica por fiador do teu servo para o bem; não me oprimem os soberbos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 123,
+      "versoes": {
+        "ARC": "Os meus olhos desfalecem à espera da tua salvação e da promessa da tua justiça."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 124,
+      "versoes": {
+        "ARC": "Trata com o teu servo segundo a tua benignidade, e ensina-me os teus estatutos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 125,
+      "versoes": {
+        "ARC": "Sou teu servo; dá-me entendimento, para que eu conheça os teus testemunhos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 126,
+      "versoes": {
+        "ARC": "É tempo de agires, ó Senhor, pois eles violaram a tua lei."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 127,
+      "versoes": {
+        "ARC": "Pelo que amo os teus mandamentos mais do que o ouro, sim, mais do que o ouro fino."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 128,
+      "versoes": {
+        "ARC": "Por isso dirijo os meus passos por todos os teus preceitos, e aborreço toda vereda de falsidade."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 129,
+      "versoes": {
+        "ARC": "Maravilhosos são os teus testemunhos, por isso a minha alma os guarda."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 130,
+      "versoes": {
+        "ARC": "A exposição das tuas palavras dá luz; dá entendimento aos simples."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 131,
+      "versoes": {
+        "ARC": "Abro a minha boca e arquejo, pois estou anelante pelos teus mandamentos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 132,
+      "versoes": {
+        "ARC": "Volta-te para mim, e compadece-te de mim, conforme usas para com os que amam o teu nome."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 133,
+      "versoes": {
+        "ARC": "Firma os meus passos na tua palavra; e não se apodere de mim iniqüidade alguma."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 134,
+      "versoes": {
+        "ARC": "Resgata-me da opressão do homem; assim guardarei os teus preceitos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 135,
+      "versoes": {
+        "ARC": "Faze resplandecer o teu rosto sobre o teu servo, e ensina-me os teus estatutos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 136,
+      "versoes": {
+        "ARC": "Os meus olhos derramam rios de lágrimas, porque os homens não guardam a tua lei."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 137,
+      "versoes": {
+        "ARC": "Justo és, ó Senhor, e retos são os teus juízos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 138,
+      "versoes": {
+        "ARC": "Ordenaste os teus testemunhos com retidão, e com toda a fidelidade."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 139,
+      "versoes": {
+        "ARC": "O meu zelo me consome, porque os meus inimigos se esquecem da tua palavra."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 140,
+      "versoes": {
+        "ARC": "A tua palavra é fiel a toda prova, por isso o teu servo a ama."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 141,
+      "versoes": {
+        "ARC": "Pequeno sou e desprezado, mas não me esqueço dos teus preceitos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 142,
+      "versoes": {
+        "ARC": "A tua justiça é justiça eterna, e a tua lei é a verdade."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 143,
+      "versoes": {
+        "ARC": "Tribulação e angústia se apoderaram de mim; mas os teus mandamentos são o meu prazer."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 144,
+      "versoes": {
+        "ARC": "Justos são os teus testemunhos para sempre; dá-me entendimento, para que eu viva."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 145,
+      "versoes": {
+        "ARC": "Clamo de todo o meu coração; atende-me, Senhor! Eu guardarei os teus estatutos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 146,
+      "versoes": {
+        "ARC": "A ti clamo; salva-me, para que guarde os teus testemunhos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 147,
+      "versoes": {
+        "ARC": "Antecipo-me à alva da manhã e clamo; aguardo com esperança as tuas palavras."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 148,
+      "versoes": {
+        "ARC": "Os meus olhos se antecipam às vigílias da noite, para que eu medite na tua palavra."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 149,
+      "versoes": {
+        "ARC": "Ouve a minha voz, segundo a tua benignidade; vivifica-me, ó Senhor, segundo a tua justiça."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 150,
+      "versoes": {
+        "ARC": "Aproximam-se os que me perseguem maliciosamente; andam afastados da tua lei."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 151,
+      "versoes": {
+        "ARC": "Tu estás perto, Senhor, e todos os teus mandamentos são verdade."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 152,
+      "versoes": {
+        "ARC": "Há muito sei eu dos teus testemunhos que os fundaste para sempre."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 153,
+      "versoes": {
+        "ARC": "Olha para a minha aflição, e livra-me, pois não me esqueço da tua lei."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 154,
+      "versoes": {
+        "ARC": "Pleiteia a minha causa, e resgata-me; vivifica-me segundo a tua palavra."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 155,
+      "versoes": {
+        "ARC": "A salvação está longe dos ímpios, pois não buscam os teus estatutos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 156,
+      "versoes": {
+        "ARC": "Muitas são, Senhor, as tuas misericórdias; vivifica-me segundo os teus juízos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 157,
+      "versoes": {
+        "ARC": "Muitos são os meus perseguidores e os meus adversários, mas não me desvio dos teus testemunhos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 158,
+      "versoes": {
+        "ARC": "Vi os pérfidos, e me afligi, porque não guardam a tua palavra."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 159,
+      "versoes": {
+        "ARC": "Considera como amo os teus preceitos; vivifica-me, Senhor, segundo a tua benignidade."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 160,
+      "versoes": {
+        "ARC": "A soma da tua palavra é a verdade, e cada uma das tuas justas ordenanças dura para sempre."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 161,
+      "versoes": {
+        "ARC": "Príncipes me perseguem sem causa, mas o meu coração teme as tuas palavras."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 162,
+      "versoes": {
+        "ARC": "Regozijo-me com a tua palavra, como quem acha grande despojo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 163,
+      "versoes": {
+        "ARC": "Odeio e abomino a falsidade; amo, porém, a tua lei."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 164,
+      "versoes": {
+        "ARC": "Sete vezes no dia te louvo pelas tuas justas ordenanças."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 165,
+      "versoes": {
+        "ARC": "Muita paz têm os que amam a tua lei, e não há nada que os faça tropeçar."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 166,
+      "versoes": {
+        "ARC": "Espero, Senhor, na tua salvação, e cumpro os teus mandamentos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 167,
+      "versoes": {
+        "ARC": "A minha alma observa os teus testemunhos; amo-os extremamente."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 168,
+      "versoes": {
+        "ARC": "Observo os teus preceitos e os teus testemunhos, pois todos os meus caminhos estão diante de ti."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 169,
+      "versoes": {
+        "ARC": "Chegue a ti o meu clamor, ó Senhor; dá-me entendimento conforme a tua palavra."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 170,
+      "versoes": {
+        "ARC": "Chegue à tua presença a minha súplica; livra-me segundo a tua palavra."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 171,
+      "versoes": {
+        "ARC": "Profiram louvor os meus lábios, pois me ensinas os teus estatutos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 172,
+      "versoes": {
+        "ARC": "Celebre a minha língua a tua palavra, pois todos os teus mandamentos são justos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 173,
+      "versoes": {
+        "ARC": "Esteja pronta a tua mão para me socorrer, pois escolhi os teus preceitos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 174,
+      "versoes": {
+        "ARC": "Anelo por tua salvação, ó Senhor; a tua lei é o meu prazer."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 175,
+      "versoes": {
+        "ARC": "Que minha alma viva, para que te louve; ajudem-me as tuas ordenanças."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 176,
+      "versoes": {
+        "ARC": "Desgarrei-me como ovelha perdida; busca o teu servo, pois não me esqueço dos teus mandamentos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

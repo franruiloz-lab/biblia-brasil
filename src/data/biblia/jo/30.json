@@ -1,0 +1,297 @@
+{
+  "livro": "jo",
+  "livroNome": "Jó",
+  "capitulo": 30,
+  "testamento": "AT",
+  "titulo": "",
+  "autor": "Desconhecido",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "Mas agora zombam de mim os de menos idade do que eu, cujos pais teria eu desdenhado de pôr com os cães do meu rebanho."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "Pois de que me serviria a força das suas mãos, homens nos quais já pereceu o vigor?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "De míngua e fome emagrecem; andam roendo pelo deserto, lugar de ruínas e desolação."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "Apanham malvas junto aos arbustos, e o seu mantimento são as raízes dos zimbros."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "São expulsos do meio dos homens, que gritam atrás deles, como atrás de um ladrão."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "Têm que habitar nos desfiladeiros sombrios, nas cavernas da terra e dos penhascos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "Bramam entre os arbustos, ajuntam-se debaixo das urtigas."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "São filhos de insensatos, filhos de gente sem nome; da terra foram enxotados."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 9,
+      "versoes": {
+        "ARC": "Mas agora vim a ser a sua canção, e lhes sirvo de provérbio."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 10,
+      "versoes": {
+        "ARC": "Eles me abominam, afastam-se de mim, e no meu rosto não se privam de cuspir."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 11,
+      "versoes": {
+        "ARC": "Porquanto Deus desatou a minha corda e me humilhou, eles sacudiram de si o freio perante o meu rosto."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 12,
+      "versoes": {
+        "ARC": "À direita levanta-se gente vil; empurram os meus pés, e contra mim erigem os seus caminhos de destruição."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 13,
+      "versoes": {
+        "ARC": "Estragam a minha vereda, promovem a minha calamidade; não há quem os detenha."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 14,
+      "versoes": {
+        "ARC": "Vêm como por uma grande brecha, por entre as ruínas se precipitam."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 15,
+      "versoes": {
+        "ARC": "Sobrevieram-me pavores; é perseguida a minha honra como pelo vento; e como nuvem passou a minha felicidade."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 16,
+      "versoes": {
+        "ARC": "E agora dentro de mim se derrama a minha alma; os dias da aflição se apoderaram de mim."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 17,
+      "versoes": {
+        "ARC": "De noite me são traspassados os ossos, e o mal que me corrói não descansa."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 18,
+      "versoes": {
+        "ARC": "Pela violência do mal está desfigurada a minha veste; como a gola da minha túnica, me aperta."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 19,
+      "versoes": {
+        "ARC": "Ele me lançou na lama, e fiquei semelhante ao pó e à cinza."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 20,
+      "versoes": {
+        "ARC": "Clamo a ti, e não me respondes; ponho-me em pé, e não atentas para mim."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 21,
+      "versoes": {
+        "ARC": "Tornas-te cruel para comigo; com a força da tua mão me persegues."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 22,
+      "versoes": {
+        "ARC": "Levantas-me sobre o vento, fazes-me cavalgar sobre ele, e dissolves-me na tempestade."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 23,
+      "versoes": {
+        "ARC": "Pois eu sei que me levarás à morte, e à casa do ajuntamento destinada a todos os viventes."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 24,
+      "versoes": {
+        "ARC": "Contudo não estende a mão quem está a cair? ou não clama por socorro na sua calamidade?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 25,
+      "versoes": {
+        "ARC": "Não chorava eu sobre aquele que estava aflito? ou não se angustiava a minha alma pelo necessitado?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 26,
+      "versoes": {
+        "ARC": "Todavia aguardando eu o bem, eis que me veio o mal, e esperando eu a luz, veio a escuridão."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 27,
+      "versoes": {
+        "ARC": "As minhas entranhas fervem e não descansam; os dias da aflição me surpreenderam."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 28,
+      "versoes": {
+        "ARC": "Denegrido ando, mas não do sol; levanto-me na congregação, e clamo por socorro."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 29,
+      "versoes": {
+        "ARC": "Tornei-me irmão dos chacais, e companheiro dos avestruzes."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 30,
+      "versoes": {
+        "ARC": "A minha pele enegrece e se me cai, e os meus ossos estão queimados do calor."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 31,
+      "versoes": {
+        "ARC": "Pelo que se tornou em pranto a minha harpa, e a minha flauta em voz dos que choram."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

@@ -1,0 +1,441 @@
+{
+  "livro": "atos",
+  "livroNome": "Atos",
+  "capitulo": 2,
+  "testamento": "NT",
+  "titulo": "",
+  "autor": "Lucas (médico)",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "Ao cumprir-se o dia de Pentecostes, estavam todos reunidos no mesmo lugar."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "De repente veio do céu um ruído, como que de um vento impetuoso, e encheu toda a casa onde estavam sentados."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "E lhes apareceram umas línguas como que de fogo, que se distribuíam, e sobre cada um deles pousou uma."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "E todos ficaram cheios do Espírito Santo, e começaram a falar noutras línguas, conforme o Espírito lhes concedia que falassem."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "Habitavam então em Jerusalém judeus, homens piedosos, de todas as nações que há debaixo do céu."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "Ouvindo-se, pois, aquele ruído, ajuntou-se a multidão; e estava confusa, porque cada um os ouvia falar na sua própria língua."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "E todos pasmavam e se admiravam, dizendo uns aos outros: Pois quê! não são galileus todos esses que estão falando?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "Como é, pois, que os ouvimos falar cada um na própria língua em que nascemos?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 9,
+      "versoes": {
+        "ARC": "Nós, partos, medos, e elamitas; e os que habitamos a Mesopotâmia, a Judéia e a Capadócia, o Ponto e a Ásia,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 10,
+      "versoes": {
+        "ARC": "a Frígia e a Panfília, o Egito e as partes da Líbia próximas a Cirene, e forasteiros romanos, tanto judeus como prosélitos,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 11,
+      "versoes": {
+        "ARC": "cretenses e árabes-ouvímo-los em nossas línguas, falar das grandezas de Deus."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 12,
+      "versoes": {
+        "ARC": "E todos pasmavam e estavam perplexos, dizendo uns aos outros: Que quer dizer isto?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 13,
+      "versoes": {
+        "ARC": "E outros, zombando, diziam: Estão cheios de mosto."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 14,
+      "versoes": {
+        "ARC": "Então Pedro, pondo-se em pé com os onze, levantou a voz e disse-lhes: Varões judeus e todos os que habitais em Jerusalém, seja-vos isto notório, e escutai as minhas palavras."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 15,
+      "versoes": {
+        "ARC": "Pois estes homens não estão embriagados, como vós pensais, visto que é apenas a terceira hora do dia."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 16,
+      "versoes": {
+        "ARC": "Mas isto é o que foi dito pelo profeta Joel:"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 17,
+      "versoes": {
+        "ARC": "E acontecerá nos últimos dias, diz o Senhor, que derramarei do meu Espírito sobre toda a carne; e os vossos filhos e as vossas filhas profetizarão, os vossos mancebos terão visões, os vossos anciãos terão sonhos;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 18,
+      "versoes": {
+        "ARC": "e sobre os meus servos e sobre as minhas servas derramarei do meu Espírito naqueles dias, e eles profetizarão."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 19,
+      "versoes": {
+        "ARC": "E mostrarei prodígios em cima no céu; e sinais embaixo na terra, sangue, fogo e vapor de fumaça."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 20,
+      "versoes": {
+        "ARC": "O sol se converterá em trevas, e a lua em sangue, antes que venha o grande e glorioso dia do Senhor."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 21,
+      "versoes": {
+        "ARC": "E acontecerá que todo aquele que invocar o nome do Senhor será salvo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 22,
+      "versoes": {
+        "ARC": "Varões israelitas, escutai estas palavras: A Jesus, o nazareno, varão aprovado por Deus entre vós com milagres, prodígios e sinais, que Deus por ele fez no meio de vós, como vós mesmos bem sabeis;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 23,
+      "versoes": {
+        "ARC": "a este, que foi entregue pelo determinado conselho e presciência de Deus, vós matastes, crucificando-o pelas mãos de iníquos;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 24,
+      "versoes": {
+        "ARC": "ao qual Deus ressuscitou, rompendo os grilhões da morte, pois não era possível que fosse retido por ela."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 25,
+      "versoes": {
+        "ARC": "Porque dele fala Davi: Sempre via diante de mim o Senhor, porque está à minha direita, para que eu não seja abalado;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 26,
+      "versoes": {
+        "ARC": "por isso se alegrou o meu coração, e a minha língua exultou; e além disso a minha carne há de repousar em esperança;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 27,
+      "versoes": {
+        "ARC": "pois não deixarás a minha alma no inferno, nem permitirás que o teu Santo veja a corrupção;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 28,
+      "versoes": {
+        "ARC": "fizeste-me conhecer os caminhos da vida; encher-me-ás de alegria na tua presença."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 29,
+      "versoes": {
+        "ARC": "Irmãos, seja-me permitido dizer-vos livremente acerca do patriarca Davi, que ele morreu e foi sepultado, e entre nós está até hoje a sua sepultura."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 30,
+      "versoes": {
+        "ARC": "Sendo, pois, ele profeta, e sabendo que Deus lhe havia prometido com juramento que faria sentar sobre o seu trono um dos seus descendentes,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 31,
+      "versoes": {
+        "ARC": "prevendo isto, Davi falou da ressurreição de Cristo, que a sua alma não foi deixada no inferno, nem a sua carne viu a corrupção."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 32,
+      "versoes": {
+        "ARC": "Ora, a este Jesus, Deus ressuscitou, do que todos nós somos testemunhas."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 33,
+      "versoes": {
+        "ARC": "De sorte que, exaltado pela destra de Deus, e tendo recebido do Pai a promessa do Espírito Santo, derramou isto que vós agora vedes e ouvis."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 34,
+      "versoes": {
+        "ARC": "Porque Davi não subiu aos céus, mas ele próprio declara: Disse o Senhor ao meu Senhor: Assenta-te à minha direita,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 35,
+      "versoes": {
+        "ARC": "até que eu ponha os teus inimigos por escabelo de teus pés."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 36,
+      "versoes": {
+        "ARC": "Saiba pois com certeza toda a casa de Israel que a esse mesmo Jesus, a quem vós crucificastes, Deus o fez Senhor e Cristo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 37,
+      "versoes": {
+        "ARC": "E, ouvindo eles isto, compungiram-se em seu coração, e perguntaram a Pedro e aos demais apóstolos: Que faremos, irmãos?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 38,
+      "versoes": {
+        "ARC": "Pedro então lhes respondeu: Arrependei-vos, e cada um de vós seja batizado em nome de Jesus Cristo, para remissão de vossos pecados; e recebereis o dom do Espírito Santo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 39,
+      "versoes": {
+        "ARC": "Porque a promessa vos pertence a vós, a vossos filhos, e a todos os que estão longe: a quantos o Senhor nosso Deus chamar."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 40,
+      "versoes": {
+        "ARC": "E com muitas outras palavras dava testemunho, e os exortava, dizendo: salvai-vos desta geração perversa."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 41,
+      "versoes": {
+        "ARC": "De sorte que foram batizados os que receberam a sua palavra; e naquele dia agregaram-se quase três mil almas;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 42,
+      "versoes": {
+        "ARC": "e perseveravam na doutrina dos apóstolos e na comunhão, no partir do pão e nas orações."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 43,
+      "versoes": {
+        "ARC": "Em cada alma havia temor, e muitos prodígios e sinais eram feitos pelos apóstolos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 44,
+      "versoes": {
+        "ARC": "Todos os que criam estavam unidos e tinham tudo em comum."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 45,
+      "versoes": {
+        "ARC": "E vendiam suas propriedades e bens e os repartiam por todos, segundo a necessidade de cada um."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 46,
+      "versoes": {
+        "ARC": "E, perseverando unânimes todos os dias no templo, e partindo o pão em casa, comiam com alegria e singeleza de coração,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 47,
+      "versoes": {
+        "ARC": "louvando a Deus, e caindo na graça de todo o povo. E cada dia acrescentava-lhes o Senhor os que iam sendo salvos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

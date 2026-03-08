@@ -1,0 +1,135 @@
+{
+  "livro": "salmos",
+  "livroNome": "Salmos",
+  "capitulo": 21,
+  "testamento": "AT",
+  "titulo": "",
+  "autor": "Davi e outros",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "Na tua força, ó Senhor, o rei se alegra; e na tua salvação quão grandemente se regozija!"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "Concedeste-lhe o desejo do seu coração, e não lhe negaste a petição dos seus lábios."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "Pois o proveste de bênçãos excelentes; puseste-lhe na cabeça uma coroa de ouro fino."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "Vida te pediu, e lha deste, longura de dias para sempre e eternamente."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "Grande é a sua glória pelo teu socorro; de honra e de majestade o revestes."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "Sim, tu o fazes para sempre abençoado; tu o enches de gozo na tua presença."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "Pois o rei confia no Senhor; e pela bondade do Altíssimo permanecerá inabalável."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "A tua mão alcançará todos os teus inimigos, a tua destra alcançará todos os que te odeiam."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 9,
+      "versoes": {
+        "ARC": "Tu os farás qual fornalha ardente quando vieres; o Senhor os consumirá na sua indignação, e o fogo os devorará."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 10,
+      "versoes": {
+        "ARC": "A sua prole destruirás da terra, e a sua descendência dentre os filhos dos homens."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 11,
+      "versoes": {
+        "ARC": "Pois intentaram o mal contra ti; maquinaram um ardil, mas não prevalecerão."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 12,
+      "versoes": {
+        "ARC": "Porque tu os porás em fuga; contra os seus rostos assestarás o teu arco."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 13,
+      "versoes": {
+        "ARC": "Exalta-te, Senhor, na tua força; então cantaremos e louvaremos o teu poder."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

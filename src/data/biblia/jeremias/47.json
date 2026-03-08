@@ -1,0 +1,81 @@
+{
+  "livro": "jeremias",
+  "livroNome": "Jeremias",
+  "capitulo": 47,
+  "testamento": "AT",
+  "titulo": "",
+  "autor": "Jeremias",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "A palavra do Senhor que veio a Jeremias, o profeta, acerca dos filisteus, antes que Faraó ferisse a Gaza."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "Assim diz o Senhor: Eis que do Norte se levantam as águas, e tornar-se-ão em torrente trasbordante, e alagarão a terra e quanto há nela, a cidade e os que nela habitam; os homens clamarão, e todos os habitantes da terra uivarão,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "ao ruído estrepitoso das unhas dos seus fortes cavalos, ao barulho de seus carros, ao estrondo das suas rodas; os pais não atendem aos filhos, por causa da fraqueza das mãos,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "por causa do dia que vem para destruir a todos os filisteus, para cortar de Tiro e de Sidom todo o resto que os socorra; pois o Senhor destruirá os filisteus, o resto da ilha de Caftor."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "A calvície é vinda sobre Gaza; foi desarraigada Asquelom, bem como o resto do seu vale; até quando te sarjarás?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "Ah espada do Senhor! até quando deixarás de repousar? volta para a tua bainha; descansa, e aquieta-te."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "Como podes estar quieta, se o Senhor te deu uma ordem? Contra Asquelom, e contra o litoral, é que ele a enviou."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

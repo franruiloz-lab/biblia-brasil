@@ -1,0 +1,297 @@
+{
+  "livro": "romanos",
+  "livroNome": "Romanos",
+  "capitulo": 3,
+  "testamento": "NT",
+  "titulo": "",
+  "autor": "Paulo (apóstolo)",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "Que vantagem, pois, tem o judeu? ou qual a utilidade da circuncisão?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "Muita, em todo sentido; primeiramente, porque lhe foram confiados os oráculos de Deus."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "Pois quê? Se alguns foram infiéis, porventura a sua infidelidade anulará a fidelidade de Deus?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "De modo nenhum; antes seja Deus verdadeiro, e todo homem mentiroso; como está escrito: Para que sejas justificado em tuas palavras, e venças quando fores julgado."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "E, se a nossa injustiça prova a justiça de Deus, que diremos? Acaso Deus, que castiga com ira, é injusto? {Falo como homem.}"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "De modo nenhum; do contrário, como julgará Deus o mundo?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "Mas, se pela minha mentira abundou mais a verdade de Deus para sua glória, por que sou eu ainda julgado como pecador?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "E por que não dizemos: Façamos o mal para que venha o bem?-como alguns caluniosamente afirmam que dizemos; a condenação dos quais é justa."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 9,
+      "versoes": {
+        "ARC": "Pois quê? Somos melhores do que eles? De maneira nenhuma, pois já demonstramos que, tanto judeus como gregos, todos estão debaixo do pecado;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 10,
+      "versoes": {
+        "ARC": "como está escrito: Não há justo, nem sequer um."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 11,
+      "versoes": {
+        "ARC": "Não há quem entenda; não há quem busque a Deus."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 12,
+      "versoes": {
+        "ARC": "Todos se extraviaram; juntamente se fizeram inúteis. Não há quem faça o bem, não há nem um só."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 13,
+      "versoes": {
+        "ARC": "A sua garganta é um sepulcro aberto; com as suas línguas tratam enganosamente; peçonha de áspides está debaixo dos seus lábios;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 14,
+      "versoes": {
+        "ARC": "a sua boca está cheia de maldição e amargura."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 15,
+      "versoes": {
+        "ARC": "Os seus pés são ligeiros para derramar sangue."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 16,
+      "versoes": {
+        "ARC": "Nos seus caminhos há destruição e miséria;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 17,
+      "versoes": {
+        "ARC": "e não conheceram o caminho da paz."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 18,
+      "versoes": {
+        "ARC": "Não há temor de Deus diante dos seus olhos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 19,
+      "versoes": {
+        "ARC": "Ora, nós sabemos que tudo o que a lei diz, aos que estão debaixo da lei o diz, para que se cale toda boca e todo o mundo fique sujeito ao juízo de Deus;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 20,
+      "versoes": {
+        "ARC": "porquanto pelas obras da lei nenhum homem será justificado diante dele; pois o que vem pela lei é o pleno conhecimento do pecado."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 21,
+      "versoes": {
+        "ARC": "Mas agora, sem lei, tem-se manifestado a justiça de Deus, que é atestada pela lei e pelos profetas;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 22,
+      "versoes": {
+        "ARC": "isto é, a justiça de Deus pela fé em Jesus Cristo para todos os que crêem; pois não há distinção."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 23,
+      "versoes": {
+        "ARC": "Porque todos pecaram e destituídos estão da glória de Deus;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 24,
+      "versoes": {
+        "ARC": "sendo justificados gratuitamente pela sua graça, mediante a redenção que há em Cristo Jesus,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 25,
+      "versoes": {
+        "ARC": "ao qual Deus propôs como propiciação, pela fé, no seu sangue, para demonstração da sua justiça por ter ele na sua paciência, deixado de lado os delitos outrora cometidos;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 26,
+      "versoes": {
+        "ARC": "para demonstração da sua justiça neste tempo presente, para que ele seja justo e também justificador daquele que tem fé em Jesus."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 27,
+      "versoes": {
+        "ARC": "Onde está logo a jactância? Foi excluída. Por que lei? Das obras? Não; mas pela lei da fé."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 28,
+      "versoes": {
+        "ARC": "concluímos pois que o homem é justificado pela fé sem as obras da lei."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 29,
+      "versoes": {
+        "ARC": "É porventura Deus somente dos judeus? Não é também dos gentios? Também dos gentios, certamente,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 30,
+      "versoes": {
+        "ARC": "se é que Deus é um só, que pela fé há de justificar a circuncisão, e também por meio da fé a incircuncisão."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 31,
+      "versoes": {
+        "ARC": "Anulamos, pois, a lei pela fé? De modo nenhum; antes estabelecemos a lei."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

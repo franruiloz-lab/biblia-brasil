@@ -1,0 +1,666 @@
+{
+  "livro": "marcos",
+  "livroNome": "Marcos",
+  "capitulo": 14,
+  "testamento": "NT",
+  "titulo": "",
+  "autor": "João Marcos",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "Ora, dali a dois dias era a páscoa e a festa dos pães ázimos; e os principais sacerdotes e os escribas andavam buscando como prender Jesus a traição, para o matarem."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "Pois eles diziam: Não durante a festa, para que não haja tumulto entre o povo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "Estando ele em Betânia, reclinado à mesa em casa de Simão, o leproso, veio uma mulher que trazia um vaso de alabastro cheio de bálsamo de nardo puro, de grande preço; e, quebrando o vaso, derramou-lhe sobre a cabeça o bálsamo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "Mas alguns houve que em si mesmos se indignaram e disseram: Para que se fez este desperdício do bálsamo?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "Pois podia ser vendido por mais de trezentos denários que se dariam aos pobres. E bramavam contra ela."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "Jesus, porém, disse: Deixai-a; por que a molestais? Ela praticou uma boa ação para comigo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "Porquanto os pobres sempre os tendes convosco e, quando quiserdes, podeis fazer-lhes bem; a mim, porém, nem sempre me tendes."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "ela fez o que pode; antecipou-se a ungir o meu corpo para a sepultura."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 9,
+      "versoes": {
+        "ARC": "Em verdade vos digo que, em todo o mundo, onde quer que for pregado o evangelho, também o que ela fez será contado para memória sua."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 10,
+      "versoes": {
+        "ARC": "Então Judas Iscariotes, um dos doze, foi ter com os principais sacerdotes para lhes entregar Jesus."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 11,
+      "versoes": {
+        "ARC": "Ouvindo-o eles, alegraram-se, e prometeram dar-lhe dinheiro. E buscava como o entregaria em ocasião oportuna."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 12,
+      "versoes": {
+        "ARC": "Ora, no primeiro dia dos pães ázimos, quando imolavam a páscoa, disseram-lhe seus discípulos: Aonde queres que vamos fazer os preparativos para comeres a páscoa?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 13,
+      "versoes": {
+        "ARC": "Enviou, pois, dois dos seus discípulos, e disse-lhes: Ide à cidade, e vos sairá ao encontro um homem levando um cântaro de água; seguí-o;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 14,
+      "versoes": {
+        "ARC": "e, onde ele entrar, dizei ao dono da casa: O Mestre manda perguntar: Onde está o meu aposento em que hei de comer a páscoa com os meus discípulos?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 15,
+      "versoes": {
+        "ARC": "E ele vos mostrará um grande cenáculo mobiliado e pronto; aí fazei-nos os preparativos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 16,
+      "versoes": {
+        "ARC": "Partindo, pois, os discípulos, foram à cidade, onde acharam tudo como ele lhes dissera, e prepararam a páscoa."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 17,
+      "versoes": {
+        "ARC": "Ao anoitecer chegou ele com os doze."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 18,
+      "versoes": {
+        "ARC": "E, quando estavam reclinados à mesa e comiam, disse Jesus: Em verdade vos digo que um de vós, que comigo come, há de trair-me."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 19,
+      "versoes": {
+        "ARC": "Ao que eles começaram a entristecer-se e a perguntar-lhe um após outro: Porventura sou eu?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 20,
+      "versoes": {
+        "ARC": "Respondeu-lhes: É um dos doze, que mete comigo a mão no prato."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 21,
+      "versoes": {
+        "ARC": "Pois o Filho do homem vai, conforme está escrito a seu respeito; mas ai daquele por quem o Filho do homem é traído! bom seria para esse homem se não houvera nascido."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 22,
+      "versoes": {
+        "ARC": "Enquanto comiam, Jesus tomou pão e, abençoando-o, o partiu e deu-lho, dizendo: Tomai; isto é o meu corpo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 23,
+      "versoes": {
+        "ARC": "E tomando um cálice, rendeu graças e deu-lho; e todos beberam dele."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 24,
+      "versoes": {
+        "ARC": "E disse-lhes: Isto é o meu sangue, o sangue do pacto, que por muitos é derramado."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 25,
+      "versoes": {
+        "ARC": "Em verdade vos digo que não beberei mais do fruto da videira, até aquele dia em que o beber, novo, no reino de Deus."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 26,
+      "versoes": {
+        "ARC": "E, tendo cantado um hino, saíram para o Monte das Oliveiras."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 27,
+      "versoes": {
+        "ARC": "Disse-lhes então Jesus: Todos vós vos escandalizareis; porque escrito está: Ferirei o pastor, e as ovelhas se dispersarão."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 28,
+      "versoes": {
+        "ARC": "Todavia, depois que eu ressurgir, irei adiante de vós para a Galiléia."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 29,
+      "versoes": {
+        "ARC": "Ao que Pedro lhe disse: Ainda que todos se escandalizem, nunca, porém, eu."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 30,
+      "versoes": {
+        "ARC": "Replicou-lhe Jesus: Em verdade te digo que hoje, nesta noite, antes que o galo cante duas vezes, três vezes tu me negarás."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 31,
+      "versoes": {
+        "ARC": "Mas ele repetia com veemência: Ainda que me seja necessário morrer contigo, de modo nenhum te negarei. Assim também diziam todos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 32,
+      "versoes": {
+        "ARC": "Então chegaram a um lugar chamado Getsêmani, e disse Jesus a seus discípulos: Sentai-vos aqui, enquanto eu oro."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 33,
+      "versoes": {
+        "ARC": "E levou consigo a Pedro, a Tiago e a João, e começou a ter pavor e a angustiar-se;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 34,
+      "versoes": {
+        "ARC": "e disse-lhes: A minha alma está triste até a morte; ficai aqui e vigiai."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 35,
+      "versoes": {
+        "ARC": "E adiantando-se um pouco, prostrou-se em terra; e orava para que, se fosse possível, passasse dele aquela hora."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 36,
+      "versoes": {
+        "ARC": "E dizia: Aba, Pai, tudo te é possível; afasta de mim este cálice; todavia não seja o que eu quero, mas o que tu queres."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 37,
+      "versoes": {
+        "ARC": "Voltando, achou-os dormindo; e disse a Pedro: Simão, dormes? não pudeste vigiar uma hora?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 38,
+      "versoes": {
+        "ARC": "Vigiai e orai, para que não entreis em tentação; o espírito, na verdade, está pronto, mas a carne é fraca."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 39,
+      "versoes": {
+        "ARC": "Retirou-se de novo e orou, dizendo as mesmas palavras."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 40,
+      "versoes": {
+        "ARC": "E voltando outra vez, achou-os dormindo, porque seus olhos estavam carregados; e não sabiam o que lhe responder."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 41,
+      "versoes": {
+        "ARC": "Ao voltar pela terceira vez, disse-lhes: Dormi agora e descansai.-Basta; é chegada a hora. Eis que o Filho do homem está sendo entregue nas mãos dos pecadores."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 42,
+      "versoes": {
+        "ARC": "Levantai-vos, vamo-nos; eis que é chegado aquele que me trai."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 43,
+      "versoes": {
+        "ARC": "E logo, enquanto ele ainda falava, chegou Judas, um dos doze, e com ele uma multidão com espadas e varapaus, vinda da parte dos principais sacerdotes, dos escribas e dos anciãos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 44,
+      "versoes": {
+        "ARC": "Ora, o que o traía lhes havia dado um sinal, dizendo: Aquele que eu beijar, esse é; prendei-o e levai-o com segurança."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 45,
+      "versoes": {
+        "ARC": "E, logo que chegou, aproximando-se de Jesus, disse: Rabi! E o beijou."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 46,
+      "versoes": {
+        "ARC": "Ao que eles lhes lançaram as mãos, e o prenderam."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 47,
+      "versoes": {
+        "ARC": "Mas um dos que ali estavam, puxando da espada, feriu o servo do sumo sacerdote e cortou-lhe uma orelha."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 48,
+      "versoes": {
+        "ARC": "Disse-lhes Jesus: Saístes com espadas e varapaus para me prender, como a um salteador?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 49,
+      "versoes": {
+        "ARC": "Todos os dias estava convosco no templo, a ensinar, e não me prendestes; mas isto é para que se cumpram as Escrituras."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 50,
+      "versoes": {
+        "ARC": "Nisto, todos o deixaram e fugiram."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 51,
+      "versoes": {
+        "ARC": "Ora, seguia-o certo jovem envolto em um lençol sobre o corpo nu; e o agarraram."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 52,
+      "versoes": {
+        "ARC": "Mas ele, largando o lençol, fugiu despido."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 53,
+      "versoes": {
+        "ARC": "Levaram Jesus ao sumo sacerdote, e ajuntaram-se todos os principais sacerdotes, os anciãos e os escribas."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 54,
+      "versoes": {
+        "ARC": "E Pedro o seguiu de longe até dentro do pátio do sumo sacerdote, e estava sentado com os guardas, aquentando-se ao fogo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 55,
+      "versoes": {
+        "ARC": "Os principais sacerdotes testemunho contra Jesus para o matar, e não o achavam."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 56,
+      "versoes": {
+        "ARC": "Porque contra ele muitos depunham falsamente, mas os testemunhos não concordavam."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 57,
+      "versoes": {
+        "ARC": "Levantaram-se por fim alguns que depunham falsamente contra ele, dizendo:"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 58,
+      "versoes": {
+        "ARC": "Nós o ouvimos dizer: Eu destruirei este santuário, construído por mãos de homens, e em três dias edificarei outro, não feito por mãos de homens."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 59,
+      "versoes": {
+        "ARC": "E nem assim concordava o seu testemunho."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 60,
+      "versoes": {
+        "ARC": "Levantou-se então o sumo sacerdote no meio e perguntou a Jesus: Não respondes coisa alguma? Que é que estes depõem conta ti?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 61,
+      "versoes": {
+        "ARC": "Ele, porém, permaneceu calado, e nada respondeu. Tornou o sumo sacerdote a interrogá-lo, perguntando-lhe: És tu o Cristo, o Filho do Deus bendito?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 62,
+      "versoes": {
+        "ARC": "Respondeu Jesus: Eu o sou; e vereis o Filho do homem assentado à direita do Poder e vindo com as nuvens do céu."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 63,
+      "versoes": {
+        "ARC": "Então o sumo sacerdote, rasgando as suas vestes, disse: Para que precisamos ainda de testemunhas?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 64,
+      "versoes": {
+        "ARC": "Acabais de ouvir a blasfêmia; que vos parece? E todos o condenaram como réu de morte."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 65,
+      "versoes": {
+        "ARC": "E alguns começaram a cuspir nele, e a cobrir-lhe o rosto, e a dar-lhe socos, e a dizer-lhe: Profetiza. E os guardas receberam-no a bofetadas."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 66,
+      "versoes": {
+        "ARC": "Ora, estando Pedro em baixo, no átrio, chegou uma das criadas do sumo sacerdote"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 67,
+      "versoes": {
+        "ARC": "e, vendo a Pedro, que se estava aquentando, encarou-o e disse: Tu também estavas com o nazareno, esse Jesus."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 68,
+      "versoes": {
+        "ARC": "Mas ele o negou, dizendo: Não sei nem compreendo o que dizes. E saiu para o alpendre."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 69,
+      "versoes": {
+        "ARC": "E a criada, vendo-o, começou de novo a dizer aos que ali estavam: Esse é um deles."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 70,
+      "versoes": {
+        "ARC": "Mas ele o negou outra vez. E pouco depois os que ali estavam disseram novamente a Pedro: Certamente tu és um deles; pois és também galileu."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 71,
+      "versoes": {
+        "ARC": "Ele, porém, começou a praguejar e a jurar: Não conheço esse homem de quem falais."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 72,
+      "versoes": {
+        "ARC": "Nesse instante o galo cantou pela segunda vez. E Pedro lembrou-se da palavra que lhe dissera Jesus: Antes que o galo cante duas vezes, três vezes me negarás. E caindo em si, começou a chorar."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

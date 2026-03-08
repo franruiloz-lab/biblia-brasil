@@ -1,0 +1,162 @@
+{
+  "livro": "jo",
+  "livroNome": "Jó",
+  "capitulo": 17,
+  "testamento": "AT",
+  "titulo": "",
+  "autor": "Desconhecido",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "O meu espírito está quebrantado, os meus dias se extinguem, a sepultura me está preparada!"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "Deveras estou cercado de zombadores, e os meus olhos contemplam a sua provocação!"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "Dá-me, peço-te, um penhor, e sê o meu fiador para contigo; quem mais há que me dê a mão?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "Porque aos seus corações encobriste o entendimento, pelo que não os exaltarás."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "Quem entrega os seus amigos como presa, os olhos de seus filhos desfalecerão."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "Mas a mim me pôs por motejo dos povos; tornei-me como aquele em cujo rosto se cospe."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "De mágoa se escureceram os meus olhos, e todos os meus membros são como a sombra."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "Os retos pasmam disso, e o inocente se levanta contra o ímpio."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 9,
+      "versoes": {
+        "ARC": "Contudo o justo prossegue no seu caminho e o que tem mãos puras vai crescendo em força."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 10,
+      "versoes": {
+        "ARC": "Mas tornai vós todos, e vinde, e sábio nenhum acharei entre vós."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 11,
+      "versoes": {
+        "ARC": "Os meus dias passaram, malograram-se os meus propósitos, as aspirações do meu coração."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 12,
+      "versoes": {
+        "ARC": "Trocam a noite em dia; dizem que a luz está perto das trevas."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 13,
+      "versoes": {
+        "ARC": "Se eu olhar o Seol como a minha casa, se nas trevas estender a minha cama,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 14,
+      "versoes": {
+        "ARC": "se eu clamar à cova: Tu és meu pai; e aos vermes: Vós sois minha mãe e minha irmã;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 15,
+      "versoes": {
+        "ARC": "onde está então a minha esperança? Sim, a minha esperança, quem a poderá ver?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 16,
+      "versoes": {
+        "ARC": "Acaso descerá comigo até os ferrolhos do Seol? Descansaremos juntos no pó?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

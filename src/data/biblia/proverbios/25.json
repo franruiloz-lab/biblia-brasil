@@ -1,0 +1,270 @@
+{
+  "livro": "proverbios",
+  "livroNome": "Provérbios",
+  "capitulo": 25,
+  "testamento": "AT",
+  "titulo": "",
+  "autor": "Salomão e outros",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "Também estes são provérbios de Salomão, os quais transcreveram os homens de Ezequias, rei de Judá."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "A glória de Deus é encobrir as coisas; mas a glória dos reis é esquadrinhá-las."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "Como o céu na sua altura, e como a terra na sua profundidade, assim o coração dos reis é inescrutável."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "Tira da prata a escória, e sairá um vaso para o fundidor."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "Tira o ímpio da presença do rei, e o seu trono se firmará na justiça."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "Não reclames para ti honra na presença do rei, nem te ponhas no lugar dos grandes;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "porque melhor é que te digam: Sobe, para aqui; do que seres humilhado perante o príncipe."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "O que os teus olhos viram, não te apresses a revelar, para depois, ao fim, não saberes o que hás de fazer, podendo-te confundir o teu próximo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 9,
+      "versoes": {
+        "ARC": "Pleiteia a tua causa com o teu próximo mesmo; e não reveles o segredo de outrem;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 10,
+      "versoes": {
+        "ARC": "para que não te desonre aquele que o ouvir, não se apartando de ti a infâmia."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 11,
+      "versoes": {
+        "ARC": "Como maçãs de ouro em salvas de prata, assim é a palavra dita a seu tempo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 12,
+      "versoes": {
+        "ARC": "Como pendentes de ouro e gargantilhas de ouro puro, assim é o sábio repreensor para o ouvido obediente."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 13,
+      "versoes": {
+        "ARC": "Como o frescor de neve no tempo da sega, assim é o mensageiro fiel para com os que o enviam, porque refrigera o espírito dos seus senhores."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 14,
+      "versoes": {
+        "ARC": "como nuvens e ventos que não trazem chuva, assim é o homem que se gaba de dádivas que não fez."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 15,
+      "versoes": {
+        "ARC": "Pela longanimidade se persuade o príncipe, e a língua branda quebranta os ossos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 16,
+      "versoes": {
+        "ARC": "Se achaste mel, come somente o que te basta, para que porventura não te fartes dele, e o venhas a vomitar."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 17,
+      "versoes": {
+        "ARC": "Põe raramente o teu pé na casa do teu próximo, para que não se enfade de ti, e te aborreça."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 18,
+      "versoes": {
+        "ARC": "Malho, e espada, e flecha aguda é o homem que levanta falso testemunho contra o seu próximo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 19,
+      "versoes": {
+        "ARC": "Como dente quebrado, e pé deslocado, é a confiança no homem desleal, no dia da angústia."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 20,
+      "versoes": {
+        "ARC": "O que entoa canções ao coração aflito é como aquele que despe uma peça de roupa num dia de frio, e como vinagre sobre a chaga."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 21,
+      "versoes": {
+        "ARC": "Se o teu inimigo tiver fome, dá-lhe pão para comer, e se tiver sede, dá-lhe água para beber;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 22,
+      "versoes": {
+        "ARC": "porque assim lhe amontoarás brasas sobre a cabeça, e o Senhor te recompensará."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 23,
+      "versoes": {
+        "ARC": "O vento norte traz chuva, e a língua caluniadora, o rosto irado."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 24,
+      "versoes": {
+        "ARC": "Melhor é morar num canto do eirado, do que com a mulher rixosa numa casa ampla."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 25,
+      "versoes": {
+        "ARC": "Como água fresca para o homem sedento, tais são as boas-novas de terra remota."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 26,
+      "versoes": {
+        "ARC": "Como fonte turva, e manancial poluído, assim é o justo que cede lugar diante do ímpio."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 27,
+      "versoes": {
+        "ARC": "comer muito mel não é bom; não multipliques, pois, as palavras de lisonja."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 28,
+      "versoes": {
+        "ARC": "Como a cidade derribada, que não tem muros, assim é o homem que não pode conter o seu espírito."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

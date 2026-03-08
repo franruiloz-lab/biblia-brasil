@@ -1,0 +1,108 @@
+{
+  "livro": "salmos",
+  "livroNome": "Salmos",
+  "capitulo": 75,
+  "testamento": "AT",
+  "titulo": "",
+  "autor": "Davi e outros",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "Damos-te graças, ó Deus, damos-te graças, pois o teu nome está perto; os que invocam o teu nome anunciam as tuas maravilhas."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "Quando chegar o tempo determinado, julgarei retamente."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "Dissolve-se a terra e todos os seus moradores, mas eu lhe fortaleci as colunas."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "Digo eu aos arrogantes: Não sejais arrogantes; e aos ímpios: Não levanteis a fronte;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "não levanteis ao alto a vossa fronte, nem faleis com arrogância."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "Porque nem do oriente, nem do ocidente, nem do deserto vem a exaltação."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "Mas Deus é o que julga; a um abate, e a outro exalta."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "Porque na mão do Senhor há um cálice, cujo vinho espuma, cheio de mistura, do qual ele dá a beber; certamente todos os ímpios da terra sorverão e beberão as suas fezes."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 9,
+      "versoes": {
+        "ARC": "Mas, quanto a mim, exultarei para sempre, cantarei louvores ao Deus de Jacó."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 10,
+      "versoes": {
+        "ARC": "E quebrantarei todas as forças dos ímpios, mas as forças dos justos serão exaltadas."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

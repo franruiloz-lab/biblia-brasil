@@ -1,0 +1,234 @@
+{
+  "livro": "1-cronicas",
+  "livroNome": "1 Crônicas",
+  "capitulo": 3,
+  "testamento": "AT",
+  "titulo": "",
+  "autor": "Esdras (tradição)",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "Estes foram os filhos de Davi que lhe nasceram em Hebrom: o primogênito Amnom, de Ainoã, a jizreelita; o segundo Daniel, de Abigail, a carmelita;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "O terceiro Absalão, filho de Maacá, filha de Talmai, rei de Gesur; o quarto Adonias, filho de Hagite;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "O quinto Sefatias, de Abital; o sexto Itreão, de Eglá, sua mulher."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "Seis lhe nasceram em Hebrom, onde reinou sete anos e seis meses; e reinou trinta e três anos em Jerusalém."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "Estes lhe nasceram em Jerusalém: Siméia, Sobabe, Natã e Salomão; estes quatro lhe nasceram de Bate-Sua, filha de Amiel."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "Nasceram-lhe mais: Ibar, Elisama, Elifelete,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "Nogá, Nefegue, Jafia,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "Elisama, Eliadá e Elifelete, nove."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 9,
+      "versoes": {
+        "ARC": "Todos estes foram filhos de Davi, afora os filhos das concubinas; e Tamar foi irmã deles."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 10,
+      "versoes": {
+        "ARC": "Filho de Salomão foi Roboão, de quem foi filho Abias, de quem foi filho Asa, de quem foi filho Jeosafá,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 11,
+      "versoes": {
+        "ARC": "de quem foi filho Jorão, de quem foi filho Acazias, de quem foi filho Joás,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 12,
+      "versoes": {
+        "ARC": "de quem foi filho Amazias, de quem foi filho Jotão,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 13,
+      "versoes": {
+        "ARC": "de quem foi filho Acaz, de quem foi filho Ezequias, de quem foi filho Manassés,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 14,
+      "versoes": {
+        "ARC": "de quem foi filho Amom, e de quem foi filho Josias."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 15,
+      "versoes": {
+        "ARC": "Os filhos de Josias: o primogênito Joanã, o segundo Jeoiaquim, o terceiro Zedequias, o quarto Salum."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 16,
+      "versoes": {
+        "ARC": "Os filhos de Jeoiaquim: Jeconias, seu filho, e Zedequias, seu filho."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 17,
+      "versoes": {
+        "ARC": "Os filhos de Jeconias, o deportado: Sealtiel, seu filho,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 18,
+      "versoes": {
+        "ARC": "Malquirão, Pedaías, Senazar, Jecamias, Hosama e Nedabias."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 19,
+      "versoes": {
+        "ARC": "Os filhos de Pedaías: Zorobabel e Simei; e os filhos de Zorobabel: Mesulão e Hananias, e Selomite, irmã destes;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 20,
+      "versoes": {
+        "ARC": "e Hasubá, Oel, Berequias, Hasadias e Jusabe-Hesede, cinco."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 21,
+      "versoes": {
+        "ARC": "Hananias foi pai de Pelatias; Pelatias de Jesaías; Jesaías de Refaías; Refaías de Arnã; Arnã de Obadias; e Obadias de Secanias."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 22,
+      "versoes": {
+        "ARC": "Os filhos de Secanias: Semaías e os filhos deste: Hatus, Igal, Bariá, Nearias e Safate, seis."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 23,
+      "versoes": {
+        "ARC": "Os filhos de Nearias: Elioenai, Ezequias e Azricão, três."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 24,
+      "versoes": {
+        "ARC": "E os filhos de Elioenai: Hodavias, Eliasibe, Pelaías, Acube, Joanã, Delaías e Anani, sete."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

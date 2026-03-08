@@ -1,0 +1,117 @@
+{
+  "livro": "salmos",
+  "livroNome": "Salmos",
+  "capitulo": 121,
+  "testamento": "AT",
+  "titulo": "O Senhor é o teu guarda",
+  "autor": "Desconhecido (Cântico dos degraus)",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "Levanto os meus olhos para os montes, de onde me vem o socorro.",
+        "NVI-PT": "Elevo os meus olhos para os montes — de onde me vem o socorro?",
+        "NTLH": "Olho para os montes; de onde virá o meu socorro?",
+        "NVT": "Elevo os olhos para os montes — de onde virá meu socorro?"
+      },
+      "temas": ["confianca", "socorro", "fe", "dependencia-de-deus"],
+      "versiculosRelacionados": ["salmos/121/2", "salmos/46/1", "salmos/34/19"],
+      "faq": [
+        {
+          "pergunta": "Por que o salmista levanta os olhos para os montes em Salmos 121:1?",
+          "resposta": "O versículo é frequentemente mal interpretado como se os montes fossem a fonte do socorro. Mas o versículo 1 é na verdade uma pergunta retórica — 'de onde me vem o socorro?' — e a resposta vem imediatamente no versículo 2: 'do SENHOR, que fez os céus e a terra.' Os montes eram locais de perigo para viajantes (emboscadas, animais) e também onde pagãos construíam seus altares. O salmista olha para eles e pergunta: será que meu socorro vem de algum desses poderes? E responde: não — vem do Criador de tudo, maior que qualquer montanha."
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "O meu socorro vem do Senhor, que fez os céus e a terra.",
+        "NVI-PT": "Meu socorro vem do Senhor, o criador dos céus e da terra.",
+        "NTLH": "O meu socorro vem do Senhor, que fez o céu e a terra.",
+        "NVT": "Meu socorro vem do Senhor, o criador dos céus e da terra."
+      },
+      "temas": ["socorro", "criacao", "fe", "confianca"],
+      "versiculosRelacionados": ["genesis/1/1", "salmos/46/1"],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "Não permitirá que o teu pé seja movido; não dormitará o que te guarda.",
+        "NVI-PT": "Ele não deixará vacilar o seu pé; o seu guarda não dormirá.",
+        "NTLH": "Ele não deixará que você tropece; o seu guardião não dormirá.",
+        "NVT": "Ele não deixará vacilar o seu pé; o seu guardião não dormitará."
+      },
+      "temas": ["protecao", "cuidado-de-deus", "seguranca"],
+      "versiculosRelacionados": ["proverbios/3/23-24", "salmos/91/11-12"],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "Eis que não dormitará nem dormirá o guarda de Israel.",
+        "NVI-PT": "De fato, não dormitará nem dormirá o guarda de Israel.",
+        "NTLH": "O guardião de Israel não descansa nem dorme.",
+        "NVT": "O guardião de Israel jamais dormitará nem dormirá."
+      },
+      "temas": ["protecao", "fidelidade-de-deus", "seguranca"],
+      "versiculosRelacionados": ["isaias/27/3", "salmos/121/3"],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "O Senhor é o que te guarda; o Senhor é a tua sombra à tua mão direita.",
+        "NVI-PT": "O Senhor é o teu guarda; o Senhor é a tua sombra à tua mão direita.",
+        "NTLH": "O Senhor é o seu guardião, o Senhor é a sombra que está à sua direita.",
+        "NVT": "O Senhor é o teu guarda; o Senhor é a tua sombra à tua mão direita."
+      },
+      "temas": ["protecao", "presenca-de-deus", "cuidado-de-deus"],
+      "versiculosRelacionados": ["salmos/91/1", "isaias/41/10"],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "O Senhor te guardará de todo o mal; ele guardará a tua alma.",
+        "NVI-PT": "O Senhor o livrará de todo mal; ele guardará a sua vida.",
+        "NTLH": "O Senhor te guardará de todo mal; ele guardará a tua alma.",
+        "NVT": "O Senhor o guardará de todo mal; ele guardará a sua vida."
+      },
+      "temas": ["protecao", "salvacao", "cuidado-de-deus"],
+      "versiculosRelacionados": ["salmos/23/4", "2-tessalonicenses/3/3"],
+      "faq": [
+        {
+          "pergunta": "O que significa 'o Senhor te guardará de todo o mal' em Salmos 121:7?",
+          "resposta": "A promessa não é de ausência de dificuldades, mas de guarda integral da alma — o 'nefesh' hebraico, que é o ser mais profundo, a essência da pessoa. Salmos 121 foi um 'Cântico dos Degraus' — cantado pelos peregrinos subindo a Jerusalém para as festas, uma jornada que tinha perigos reais: estradas traiçoeiras, sol escaldante, bandidos. O salmista não promete um caminho sem riscos, mas um Guardião que não dorme, não descansa e protege o que é mais precioso — não necessariamente o corpo, mas a vida com Deus. Esta distinção é importante: a fé não é garantia de ausência de dor, mas de presença constante do que cuida."
+        }
+      ]
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "O Senhor guardará a tua saída e a tua entrada, desde agora e para sempre.",
+        "NVI-PT": "O Senhor guardará a sua saída e a sua entrada, desde agora e para sempre.",
+        "NTLH": "O Senhor guardará você em tudo o que você fizer, agora e para sempre.",
+        "NVT": "O Senhor guardará sua saída e sua entrada, desde agora e para todo o sempre."
+      },
+      "temas": ["protecao", "fidelidade-de-deus", "cuidado-de-deus", "eternidade"],
+      "versiculosRelacionados": ["deuteronomio/28/6", "salmos/121/7"],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "Salmos 121 é um dos salmos mais amados do mundo — em português, 'Levanto os olhos para os montes' acumula cerca de 8.000 buscas mensais no Brasil. É um poema de apenas 8 versículos que atravessa toda a experiência humana de incerteza com uma resposta simples: o Guardião de Israel não dorme.",
+    "contexto": "Salmos 121 faz parte dos 'Cânticos dos Degraus' (Salmos 120-134) — hinos cantados pelos peregrinos israelitas enquanto subiam os degraus do Templo em Jerusalém ou em procissão durante as festas anuais. A jornada até Jerusalém era literalmente perigosa: montanhas, sol inclemente, estradas desconhecidas. O salmo funcionava como oração de confiança durante essa jornada — e por extensão, na jornada de toda a vida.",
+    "aplicacao": "Salmos 121 é o salmo perfeito para momentos de transição e incerteza: mudança de cidade, início de emprego, viagem, diagnóstico médico, decisão importante. A estrutura do salmo é um diálogo — a pergunta da ansiedade ('de onde vem o socorro?') e a resposta da fé ('do Senhor, que fez os céus e a terra'). O final é abrangente: 'a tua saída e a tua entrada, agora e para sempre' — não apenas um momento específico, mas toda a vida, em sua totalidade."
+  },
+  "versiculosDestaque": [1, 2, 7, 8],
+  "temas": ["protecao", "confianca", "cuidado-de-deus", "fidelidade-de-deus", "seguranca"],
+  "versiculosRelacionadosExternos": [
+    { "ref": "salmos/23/1", "texto": "Salmos 23:1 — O Senhor é o meu pastor" },
+    { "ref": "salmos/91/1", "texto": "Salmos 91:1 — Aquele que habita no esconderijo do Altíssimo" },
+    { "ref": "isaias/41/10", "texto": "Isaías 41:10 — Não temas, porque eu sou contigo" },
+    { "ref": "filipenses/4/6-7", "texto": "Filipenses 4:6-7 — Em nada estejais ansiosos" }
+  ]
+}

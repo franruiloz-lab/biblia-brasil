@@ -1,0 +1,108 @@
+{
+  "livro": "salmos",
+  "livroNome": "Salmos",
+  "capitulo": 146,
+  "testamento": "AT",
+  "titulo": "",
+  "autor": "Davi e outros",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "Louvai ao Senhor. Ó minha alma, louva ao Senhor."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "Louvarei ao Senhor durante a minha vida; cantarei louvores ao meu Deus enquanto viver."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "Não confieis em príncipes, nem em filho de homem, em quem não há auxílio."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "Sai-lhe o espírito, e ele volta para a terra; naquele mesmo dia perecem os seus pensamentos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "Bem-aventurado aquele que tem o Deus de Jacó por seu auxílio, e cuja esperança está no Senhor seu Deus"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "que fez os céus e a terra, o mar e tudo quanto neles há, e que guarda a verdade para sempre;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "que faz justiça aos oprimidos, que dá pão aos famintos. O Senhor solta os encarcerados;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "o Senhor abre os olhos aos cegos; o Senhor levanta os abatidos; o Senhor ama os justos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 9,
+      "versoes": {
+        "ARC": "O Senhor preserva os peregrinos; ampara o órfão e a viúva; mas transtorna o caminho dos ímpios."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 10,
+      "versoes": {
+        "ARC": "O Senhor reinará eternamente: o teu Deus, ó Sião, reinará por todas as gerações. Louvai ao Senhor!"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

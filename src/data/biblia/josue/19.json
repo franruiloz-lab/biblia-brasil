@@ -1,0 +1,477 @@
+{
+  "livro": "josue",
+  "livroNome": "Josué",
+  "capitulo": 19,
+  "testamento": "AT",
+  "titulo": "",
+  "autor": "Josué",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "Saiu a segunda sorte a Simeão, isto é, à tribo dos filhos de Simeão, segundo as suas famílias; e foi a sua herança no meio da herança dos filhos de Judá."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "Tiveram, pois, na sua herança: Berseba, Seba, Molada,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "Hazar-Sual, Balá, Ezem,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "Eltolade, Betul, Horma,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "Ziclague, Bete-Marcabote, Hazar-Susa,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "Bete-Lebaote e Saruém; treze cidades e as suas aldeias."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "Aim, Rimom, Eter e Asã; quatro cidades e as suas aldeias;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "e todas as aldeias que havia em redor dessas cidades, até Baalate-Ber, que é Ramá do sul. Essa é a herança da tribo dos filhos de Simeão, segundo as suas famílias."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 9,
+      "versoes": {
+        "ARC": "Ora, do quinhão dos filhos de Judá tirou-se a herança dos filhos de Simeão, porquanto a porção dos filhos de Judá era demasiadamente grande para eles; pelo que os filhos de Simeão receberam herança no meio da herança deles."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 10,
+      "versoes": {
+        "ARC": "Surgiu a terceira sorte aos filhos de Zebulom, segundo as suas famílias. Vai o termo da sua herança até Saride;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 11,
+      "versoes": {
+        "ARC": "sobe para o ocidente até Marala, estende-se até Dabesete, e chega até o ribeiro que está defronte de Jocneão;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 12,
+      "versoes": {
+        "ARC": "de Saride vira para o oriente, para o nascente do sol, até o termo de Quislote-Tabor, estende-se a Daberate, e vai subindo a Jafia;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 13,
+      "versoes": {
+        "ARC": "dali passa para o oriente a Gate-Hefer, a Ete-Cazim, chegando a Rimom-Metoar e virando-se para Neá;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 14,
+      "versoes": {
+        "ARC": "vira ao norte para Hanatom, e chega ao vale de Iftael;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 15,
+      "versoes": {
+        "ARC": "e Catate, Naalal, Sinrom, Idala e Belém; doze cidades e as suas aldeias."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 16,
+      "versoes": {
+        "ARC": "Essa é a herança dos filhos de Zebulom, segundo as suas famílias, essas cidades e as suas aldeias."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 17,
+      "versoes": {
+        "ARC": "A quarta sorte saiu aos filhos de Issacar, segundo as suas famílias."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 18,
+      "versoes": {
+        "ARC": "Vai o seu termo até Jizreel, Quesulote, Suném."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 19,
+      "versoes": {
+        "ARC": "Hafaraim, Siom, Anaarate,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 20,
+      "versoes": {
+        "ARC": "Rabite, Quisiom, Abes,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 21,
+      "versoes": {
+        "ARC": "Remete, En-Ganim, En-Hada e Bete-Pazez,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 22,
+      "versoes": {
+        "ARC": "estendendo-se este termo até Tabor, Saazima e Bete-Semes; e vai terminar no Jordão; dezesseis cidades e as suas aldeias."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 23,
+      "versoes": {
+        "ARC": "Essa é a herança da tribo dos filhos de Issacar, segundo as suas famílias, essas cidades e as suas aldeias."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 24,
+      "versoes": {
+        "ARC": "Saiu a quinta sorte à tribo dos filhos de Aser, segundo as suas famílias."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 25,
+      "versoes": {
+        "ARC": "O seu termo inclui Helcate, Hali, Bétem, Acsafe,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 26,
+      "versoes": {
+        "ARC": "Alameleque, Amade e Misal; estende-se para o ocidente até Carmelo e Sior-Libnate;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 27,
+      "versoes": {
+        "ARC": "vira para o nascente do sol a Bete-Dagom; chega a Zebulom e ao vale de Iftael para o norte, até Bete-Emeque e Neiel; estende-se pela esquerda até Cabul,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 28,
+      "versoes": {
+        "ARC": "Ebrom, Reobe, Hamom e Caná, até a grande Sidom;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 29,
+      "versoes": {
+        "ARC": "vira para Ramá, e para a cidade fortificada de Tiro, desviando-se então para Hosa, donde vai até o mar; Maalabe, Aczibe,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 30,
+      "versoes": {
+        "ARC": "Umá, Afeca e Reobe; ao todo, vinte e duas cidades e as suas aldeias."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 31,
+      "versoes": {
+        "ARC": "Essa é a herança da tribo dos filhos de Aser, segundo as suas famílias, essas cidades e as suas aldeias."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 32,
+      "versoes": {
+        "ARC": "Saiu a sexta sorte aos filhos de Naftali, segundo as suas famílias."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 33,
+      "versoes": {
+        "ARC": "Vai o seu termo desde Helefe e desde o carvalho em Zaananim, e Adâmi-Nequebe e Jabneel, até Lacum, terminando no Jordão;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 34,
+      "versoes": {
+        "ARC": "vira para o ocidente até Aznote-Tabor, e dali passa a Hucoque; chega a Zebulom, da banda do sul, e a Aser, da banda do ocidente, e a Judá, à margem do Jordão, para o oriente."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 35,
+      "versoes": {
+        "ARC": "E são as cidades fortificadas: Zidim, Zer, Hamate, Racate, Quinerete,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 36,
+      "versoes": {
+        "ARC": "Adama, Ramá, Hazor,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 37,
+      "versoes": {
+        "ARC": "Quedes, Edrei, En-Hazor,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 38,
+      "versoes": {
+        "ARC": "Irom, Migdal-El, Horem, Bete-Anate e Bete-Semes; dezenove cidades e as suas aldeias."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 39,
+      "versoes": {
+        "ARC": "Essa é a herança da tribo dos filhos de Naftali, segundo as suas famílias, essas cidades e as suas aldeias."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 40,
+      "versoes": {
+        "ARC": "A sétima sorte saiu à tribo dos filhos de Dã, segundo as suas famílias."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 41,
+      "versoes": {
+        "ARC": "O termo da sua herança inclui: Zorá, Estaol, Ir-Semes,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 42,
+      "versoes": {
+        "ARC": "Saalabim, Aijalom, Itla,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 43,
+      "versoes": {
+        "ARC": "Elom, Timnate, Ecrom,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 44,
+      "versoes": {
+        "ARC": "Elteque, Gibetom, Baalate,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 45,
+      "versoes": {
+        "ARC": "Jeúde, Bene-Beraque, Gate-Rimom,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 46,
+      "versoes": {
+        "ARC": "Me-Jarcom e Racom, com o território defronte de Jope."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 47,
+      "versoes": {
+        "ARC": "Saiu, porém, pequena o território dos filhos de Dã; pelo que os filhos de Dã subiram, pelejaram contra Lesem e a tomaram; feriram-na ao fio da espada, tomaram posse dela e habitaram-na; e a Lesem chamaram Dã, conforme o nome de Dã, seu pai."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 48,
+      "versoes": {
+        "ARC": "Essa é a herança da tribo dos filhos de Dã, segundo as suas famílias, essas cidades e as suas aldeias."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 49,
+      "versoes": {
+        "ARC": "Tendo os filhos de Israel acabado de repartir a terra em herança segundo os seus termos, deram a Josué, filho de Num, herança no meio deles."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 50,
+      "versoes": {
+        "ARC": "Segundo a ordem do Senhor lhe deram a cidade que pediu, Timnate-Sera, na região montanhosa de Efraim; e ele reedificou a cidade, e habitou nela."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 51,
+      "versoes": {
+        "ARC": "Essas são as heranças que Eleazar, o sacerdote, e Josué, filho de Num, e os cabeças das casas paternas nas tribos dos filhos de Israel repartiram em herança por sorte em Siló, perante o Senhor, à porta da tenda da revelação. E assim acabaram de repartir a terra."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

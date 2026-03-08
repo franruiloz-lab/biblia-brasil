@@ -1,0 +1,223 @@
+---
+import Base from '../layouts/Base.astro';
+import Breadcrumb from '../components/ui/Breadcrumb.astro';
+import livros from '../data/livros.json';
+
+const title = 'Buscar na Bíblia — Bíblia Brasil';
+const description = 'Busque versículos, livros e temas na Bíblia Sagrada em português. Acesse qualquer versículo da Bíblia rapidamente.';
+
+const breadcrumbs = [
+  { label: 'Início', href: '/' },
+  { label: 'Buscar' }
+];
+
+// Build a lightweight search index from all available chapter data
+const modules = import.meta.glob('../data/biblia/**/*.json');
+const searchIndex: Array<{
+  ref: string;
+  livroNome: string;
+  capitulo: number;
+  versiculo: number;
+  texto: string;
+  href: string;
+}> = [];
+
+for (const [path, loader] of Object.entries(modules)) {
+  const parts = path.split('/');
+  const livroSlug = parts[parts.length - 2];
+  const data = await (loader as () => Promise<any>)();
+  const capData = data.default || data;
+
+  if (capData.versiculos) {
+    for (const v of capData.versiculos) {
+      if (v.versoes?.NVI_PT || v.versoes?.['NVI-PT'] || v.versoes?.ARC) {
+        const texto = v.versoes?.['NVI-PT'] || v.versoes?.NVI_PT || v.versoes?.ARC || '';
+        searchIndex.push({
+          ref: `${livroSlug}/${capData.capitulo}/${v.numero}`,
+          livroNome: capData.livroNome,
+          capitulo: capData.capitulo,
+          versiculo: v.numero,
+          texto: texto.substring(0, 150),
+          href: `/biblia/${livroSlug}/${capData.capitulo}/${v.numero}`
+        });
+      }
+    }
+  }
+}
+
+// Suggested searches
+const sugestoes = [
+  { texto: 'O Senhor é o meu pastor', href: '/biblia/salmos/23/1' },
+  { texto: 'Porque Deus amou o mundo', href: '/biblia/joao/3/16' },
+  { texto: 'Consagre ao SENHOR tudo', href: '/biblia/proverbios/16/3' },
+  { texto: 'O menor se tornará mil', href: '/biblia/isaias/60/22' },
+  { texto: 'Venham a mim os cansados', href: '/biblia/mateus/11/28' },
+  { texto: 'Bênção Aarônica', href: '/biblia/numeros/6/24' },
+];
+---
+
+<Base title={title} description={description}>
+  <div class="max-w-3xl mx-auto px-4 py-8">
+    <Breadcrumb items={breadcrumbs} />
+
+    <header class="mb-8">
+      <h1 class="text-3xl md:text-4xl font-bold mb-3">Buscar na Bíblia</h1>
+      <p style="color: var(--color-text-muted);">Busque por palavras-chave, livro ou referência (ex: João 3:16)</p>
+    </header>
+
+    <!-- Search input -->
+    <div class="relative mb-8">
+      <input
+        type="search"
+        id="search-input"
+        placeholder="Digite palavras-chave ou referência (ex: salmos 23, amor, esperança...)"
+        class="w-full px-5 py-4 text-base rounded-2xl outline-none ui-font border-2 focus:border-purple-400 transition-colors"
+        style="background-color: var(--color-bg-card); color: var(--color-text); border-color: var(--color-border);"
+        autocomplete="off"
+      />
+      <span class="absolute right-4 top-1/2 -translate-y-1/2 text-xl pointer-events-none">🔍</span>
+    </div>
+
+    <!-- Results container -->
+    <div id="search-results" class="hidden space-y-4 mb-10"></div>
+
+    <!-- No results message -->
+    <div id="no-results" class="hidden text-center py-8" style="color: var(--color-text-muted);">
+      <div class="text-4xl mb-3">📖</div>
+      <p class="ui-font">Nenhum resultado encontrado. Tente outras palavras.</p>
+    </div>
+
+    <!-- Initial state -->
+    <div id="initial-state">
+      <!-- Sugestões -->
+      <section class="mb-8">
+        <h2 class="text-lg font-bold mb-4">Buscas sugeridas</h2>
+        <div class="flex flex-wrap gap-2">
+          {sugestoes.map(s => (
+            <a
+              href={s.href}
+              class="px-4 py-2 rounded-xl border ui-font text-sm transition-all hover:border-purple-400"
+              style="border-color: var(--color-border); background-color: var(--color-bg-card); color: var(--color-text-muted);"
+            >
+              {s.texto}
+            </a>
+          ))}
+        </div>
+      </section>
+
+      <!-- Browse by book -->
+      <section>
+        <h2 class="text-lg font-bold mb-4">Ir direto para um livro</h2>
+        <div class="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-6 gap-2">
+          {livros.slice(0, 24).map(livro => (
+            <a
+              href={`/biblia/${livro.slug}`}
+              class="flex flex-col items-center p-3 rounded-xl border text-center transition-all hover:border-purple-400"
+              style="border-color: var(--color-border); background-color: var(--color-bg-card);"
+            >
+              <span class="ui-font text-xs font-bold mb-1" style="color: var(--color-primary);">{livro.abrev}</span>
+              <span class="text-xs leading-tight" style="color: var(--color-text-muted);">{livro.nome}</span>
+            </a>
+          ))}
+        </div>
+        <a href="/biblia" class="inline-block mt-3 ui-font text-sm hover:text-purple-600 transition-colors" style="color: var(--color-primary);">
+          Ver todos os 66 livros →
+        </a>
+      </section>
+    </div>
+  </div>
+</Base>
+
+<script define:vars={{ searchIndex }}>
+  const input = document.getElementById('search-input');
+  const resultsContainer = document.getElementById('search-results');
+  const noResults = document.getElementById('no-results');
+  const initialState = document.getElementById('initial-state');
+
+  // Check URL param on load
+  const urlParams = new URLSearchParams(window.location.search);
+  const queryParam = urlParams.get('q');
+  if (queryParam) {
+    input.value = queryParam;
+    performSearch(queryParam);
+  }
+
+  let debounceTimer;
+  input.addEventListener('input', () => {
+    clearTimeout(debounceTimer);
+    debounceTimer = setTimeout(() => {
+      performSearch(input.value.trim());
+    }, 200);
+  });
+
+  function performSearch(query) {
+    if (!query || query.length < 2) {
+      resultsContainer.classList.add('hidden');
+      noResults.classList.add('hidden');
+      initialState.classList.remove('hidden');
+      return;
+    }
+
+    initialState.classList.add('hidden');
+
+    const q = query.toLowerCase();
+
+    // Try to detect book reference pattern (e.g. "joão 3:16", "jo 3 16", "salmos 23")
+    const refMatch = query.match(/^([a-zA-ZáéíóúâêîôûãõàèìòùçñÁÉÍÓÚÂÊÎÔÛÃÕÀÈÌÒÙÇÑ\s\d-]+?)\s+(\d+)(?:[:\s](\d+))?$/i);
+
+    let results = [];
+
+    if (refMatch) {
+      // Reference search
+      const bookQuery = refMatch[1].toLowerCase().trim();
+      const capQuery = parseInt(refMatch[2]);
+      const verQuery = refMatch[3] ? parseInt(refMatch[3]) : null;
+
+      results = searchIndex.filter(item => {
+        const livroMatch = item.livroNome.toLowerCase().includes(bookQuery) ||
+                           item.ref.split('/')[0].includes(bookQuery.replace(/\s/g, ''));
+        const capMatch = item.capitulo === capQuery;
+        const verMatch = verQuery ? item.versiculo === verQuery : true;
+        return livroMatch && capMatch && verMatch;
+      });
+    } else {
+      // Text search
+      results = searchIndex.filter(item =>
+        item.texto.toLowerCase().includes(q) ||
+        item.livroNome.toLowerCase().includes(q)
+      );
+    }
+
+    displayResults(results, query);
+  }
+
+  function displayResults(results, query) {
+    if (results.length === 0) {
+      resultsContainer.classList.add('hidden');
+      noResults.classList.remove('hidden');
+      return;
+    }
+
+    noResults.classList.add('hidden');
+    resultsContainer.classList.remove('hidden');
+
+    const limited = results.slice(0, 20);
+    resultsContainer.innerHTML = `
+      <p class="ui-font text-sm mb-4" style="color: var(--color-text-muted);">
+        ${results.length} resultado${results.length !== 1 ? 's' : ''} para "<strong>${query}</strong>"
+        ${results.length > 20 ? ' (mostrando os primeiros 20)' : ''}
+      </p>
+      ${limited.map(r => `
+        <a href="${r.href}" class="block rounded-xl p-4 border transition-all hover:border-purple-400 hover:shadow-sm"
+           style="border-color: var(--color-border); background-color: var(--color-bg-card);">
+          <div class="ui-font text-xs font-bold mb-1" style="color: var(--color-primary);">
+            ${r.livroNome} ${r.capitulo}:${r.versiculo}
+          </div>
+          <p class="text-sm leading-relaxed italic" style="color: var(--color-text);">
+            "${r.texto}${r.texto.length >= 150 ? '...' : ''}"
+          </p>
+        </a>
+      `).join('')}
+    `;
+  }
+</script>

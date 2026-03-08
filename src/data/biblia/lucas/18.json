@@ -1,0 +1,405 @@
+{
+  "livro": "lucas",
+  "livroNome": "Lucas",
+  "capitulo": 18,
+  "testamento": "NT",
+  "titulo": "",
+  "autor": "Lucas (médico)",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "Contou-lhes também uma parábola sobre o dever de orar sempre, e nunca desfalecer."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "dizendo: Havia em certa cidade um juiz que não temia a Deus, nem respeitava os homens."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "Havia também naquela mesma cidade uma viúva que ia ter com ele, dizendo: Faze-me justiça contra o meu adversário."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "E por algum tempo não quis atendê-la; mas depois disse consigo: Ainda que não temo a Deus, nem respeito os homens,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "todavia, como esta viúva me incomoda, hei de fazer-lhe justiça, para que ela não continue a vir molestar-me."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "Prosseguiu o Senhor: Ouvi o que diz esse juiz injusto."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "E não fará Deus justiça aos seus escolhidos, que dia e noite clamam a ele, já que é longânimo para com eles?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "Digo-vos que depressa lhes fará justiça. Contudo quando vier o Filho do homem, porventura achará fé na terra?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 9,
+      "versoes": {
+        "ARC": "Propôs também esta parábola a uns que confiavam em si mesmos, crendo que eram justos, e desprezavam os outros:"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 10,
+      "versoes": {
+        "ARC": "Dois homens subiram ao templo para orar; um fariseu, e o outro publicano."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 11,
+      "versoes": {
+        "ARC": "O fariseu, de pé, assim orava consigo mesmo: ó Deus, graças te dou que não sou como os demais homens, roubadores, injustos, adúlteros, nem ainda com este publicano."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 12,
+      "versoes": {
+        "ARC": "Jejuo duas vezes na semana, e dou o dízimo de tudo quanto ganho."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 13,
+      "versoes": {
+        "ARC": "Mas o publicano, estando em pé de longe, nem ainda queria levantar os olhos ao céu, mas batia no peito, dizendo: ó Deus, sê propício a mim, o pecador!"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 14,
+      "versoes": {
+        "ARC": "Digo-vos que este desceu justificado para sua casa, e não aquele; porque todo o que a si mesmo se exaltar será humilhado; mas o que a si mesmo se humilhar será exaltado."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 15,
+      "versoes": {
+        "ARC": "Traziam-lhe também as crianças, para que as tocasse; mas os discípulos, vendo isso, os repreendiam."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 16,
+      "versoes": {
+        "ARC": "Jesus, porém, chamando-as para si, disse: Deixai vir a mim as crianças, e não as impeçais, porque de tais é o reino de Deus."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 17,
+      "versoes": {
+        "ARC": "Em verdade vos digo que, qualquer que não receber o reino de Deus como criança, de modo algum entrará nele."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 18,
+      "versoes": {
+        "ARC": "E perguntou-lhe um dos principais: Bom Mestre, que hei de fazer para herdar a vida eterna?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 19,
+      "versoes": {
+        "ARC": "Respondeu-lhe Jesus: Por que me chamas bom? Ninguém é bom, senão um, que é Deus."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 20,
+      "versoes": {
+        "ARC": "Sabes os mandamentos: Não adulterarás; não matarás; não furtarás; não dirás falso testemunho; honra a teu pai e a tua mãe."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 21,
+      "versoes": {
+        "ARC": "Replicou o homem: Tudo isso tenho guardado desde a minha juventude."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 22,
+      "versoes": {
+        "ARC": "Quando Jesus ouviu isso, disse-lhe: Ainda te falta uma coisa; vende tudo quanto tens e reparte-o pelos pobres, e terás um tesouro no céu; e vem, segue-me."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 23,
+      "versoes": {
+        "ARC": "Mas, ouvindo ele isso, encheu-se de tristeza; porque era muito rico."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 24,
+      "versoes": {
+        "ARC": "E Jesus, vendo-o assim, disse: Quão dificilmente entrarão no reino de Deus os que têm riquezas!"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 25,
+      "versoes": {
+        "ARC": "Pois é mais fácil um camelo passar pelo fundo duma agulha, do que entrar um rico no reino de Deus."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 26,
+      "versoes": {
+        "ARC": "Então os que ouviram isso disseram: Quem pode, então, ser salvo?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 27,
+      "versoes": {
+        "ARC": "Respondeu-lhes: As coisas que são impossíveis aos homens são possíveis a Deus."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 28,
+      "versoes": {
+        "ARC": "Disse-lhe Pedro: Eis que nós deixamos tudo, e te seguimos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 29,
+      "versoes": {
+        "ARC": "Respondeu-lhes Jesus: Em verdade vos digo que ninguém há que tenha deixado casa, ou mulher, ou irmãos, ou pais, ou filhos, por amor do reino de Deus,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 30,
+      "versoes": {
+        "ARC": "que não haja de receber no presente muito mais, e no mundo vindouro a vida eterna."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 31,
+      "versoes": {
+        "ARC": "Tomando Jesus consigo os doze, disse-lhes: Eis que subimos a Jerusalém e se cumprirá no filho do homem tudo o que pelos profetas foi escrito;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 32,
+      "versoes": {
+        "ARC": "pois será entregue aos gentios, e escarnecido, injuriado e cuspido;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 33,
+      "versoes": {
+        "ARC": "e depois de o açoitarem, o matarão; e ao terceiro dia ressurgirá."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 34,
+      "versoes": {
+        "ARC": "Mas eles não entenderam nada disso; essas palavras lhes eram obscuras, e não percebiam o que lhes dizia."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 35,
+      "versoes": {
+        "ARC": "Ora, quando ele ia chegando a Jericó, estava um cego sentado junto do caminho, mendigando."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 36,
+      "versoes": {
+        "ARC": "Este, pois, ouvindo passar a multidão, perguntou que era aquilo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 37,
+      "versoes": {
+        "ARC": "Disseram-lhe que Jesus, o nazareno, ia passando."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 38,
+      "versoes": {
+        "ARC": "Então ele se pôs a clamar, dizendo: Jesus, Filho de Davi, tem compaixão de mim!"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 39,
+      "versoes": {
+        "ARC": "E os que iam à frente repreendiam-no, para que se calasse; ele, porém, clamava ainda mais: Filho de Davi, tem compaixão de mim!"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 40,
+      "versoes": {
+        "ARC": "Parou, pois, Jesus, e mandou que lho trouxessem. Tendo ele chegado, perguntou-lhe:"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 41,
+      "versoes": {
+        "ARC": "Que queres que te faça? Respondeu ele: Senhor, que eu veja."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 42,
+      "versoes": {
+        "ARC": "Disse-lhe Jesus: Vê; a tua fé te salvou."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 43,
+      "versoes": {
+        "ARC": "Imediatamente recuperou a vista, e o foi seguindo, gloficando a Deus. E todo o povo, vendo isso, dava louvores a Deus."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

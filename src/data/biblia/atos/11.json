@@ -1,0 +1,288 @@
+{
+  "livro": "atos",
+  "livroNome": "Atos",
+  "capitulo": 11,
+  "testamento": "NT",
+  "titulo": "",
+  "autor": "Lucas (médico)",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "Ora, ouviram os apóstolos e os irmãos que estavam na Judéia que também os gentios haviam recebido a palavra de Deus."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "E quando Pedro subiu a Jerusalém, disputavam com ele os que eram da circuncisão,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "dizendo: Entraste em casa de homens incircuncisos e comeste com eles."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "Pedro, porém, começou a fazer-lhes uma exposição por ordem, dizendo:"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "Estava eu orando na cidade de Jope, e em êxtase tive uma visão; descia um objeto, como se fosse um grande lençol, sendo baixado do céu pelas quatro pontas, e chegou perto de mim."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "E, fitando nele os olhos, o contemplava, e vi quadrúpedes da terra, feras, répteis e aves do céu."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "Ouvi também uma voz que me dizia: Levanta-te, Pedro, mata e come."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "Mas eu respondi: De modo nenhum, Senhor, pois nunca em minha boca entrou coisa alguma comum e imunda."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 9,
+      "versoes": {
+        "ARC": "Mas a voz respondeu-me do céu segunda vez: Não chames tu comum ao que Deus purificou."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 10,
+      "versoes": {
+        "ARC": "Sucedeu isto por três vezes; e tudo tornou a recolher-se ao céu."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 11,
+      "versoes": {
+        "ARC": "E eis que, nesse momento, pararam em frente à casa onde estávamos três homens que me foram enviados de Cesaréia."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 12,
+      "versoes": {
+        "ARC": "Disse-me o Espírito que eu fosse com eles, sem hesitar; e também estes seis irmãos foram comigo e entramos na casa daquele homem."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 13,
+      "versoes": {
+        "ARC": "E ele nos contou como vira em pé em sua casa o anjo, que lhe dissera: Envia a Jope e manda chamar a Simão, que tem por sobrenome Pedro,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 14,
+      "versoes": {
+        "ARC": "o qual te dirá palavras pelas quais serás salvo, tu e toda a tua casa."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 15,
+      "versoes": {
+        "ARC": "Logo que eu comecei a falar, desceu sobre eles o Espírito Santo, como também sobre nós no princípio."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 16,
+      "versoes": {
+        "ARC": "Lembrei-me então da palavra do Senhor, como disse: João, na verdade, batizou com água; mas vós sereis batizados no Espírito Santo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 17,
+      "versoes": {
+        "ARC": "Portanto, se Deus lhes deu o mesmo dom que dera também a nós, ao crermos no Senhor Jesus Cristo, quem era eu, para que pudesse resistir a Deus?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 18,
+      "versoes": {
+        "ARC": "Ouvindo eles estas coisas, apaziguaram-se e glorificaram a Deus, dizendo: Assim, pois, Deus concedeu também aos gentios o arrependimento para a vida."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 19,
+      "versoes": {
+        "ARC": "Aqueles, pois, que foram dispersos pela tribulação suscitada por causa de Estêvão, passaram até a Fenícia, Chipre e Antioquia, não anunciando a ninguém a palavra, senão somente aos judeus."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 20,
+      "versoes": {
+        "ARC": "Havia, porém, entre eles alguns cíprios e cirenenses, os quais, entrando em Antioquia, falaram também aos gregos, anunciando o Senhor Jesus."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 21,
+      "versoes": {
+        "ARC": "E a mão do Senhor era com eles, e grande número creu e se converteu ao Senhor."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 22,
+      "versoes": {
+        "ARC": "Chegou a notícia destas coisas aos ouvidos da igreja em Jerusalém; e enviaram Barnabé a Antioquia;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 23,
+      "versoes": {
+        "ARC": "o qual, quando chegou e viu a graça de Deus, se alegrou, e exortava a todos a perseverarem no Senhor com firmeza de coração;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 24,
+      "versoes": {
+        "ARC": "porque era homem de bem, e cheio do Espírito Santo e de fé. E muita gente se uniu ao Senhor."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 25,
+      "versoes": {
+        "ARC": "Partiu, pois, Barnabé para Tarso, em busca de Saulo;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 26,
+      "versoes": {
+        "ARC": "e tendo-o achado, o levou para Antioquia. E durante um ano inteiro reuniram-se naquela igreja e instruíram muita gente; e em Antioquia os discípulos pela primeira vez foram chamados cristãos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 27,
+      "versoes": {
+        "ARC": "Naqueles dias desceram profetas de Jerusalém para Antioquia;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 28,
+      "versoes": {
+        "ARC": "e levantando-se um deles, de nome Ágabo, dava a entender pelo Espírito, que haveria uma grande fome por todo o mundo, a qual ocorreu no tempo de Cláudio."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 29,
+      "versoes": {
+        "ARC": "E os discípulos resolveram mandar, cada um conforme suas posses, socorro aos irmãos que habitavam na Judéia;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 30,
+      "versoes": {
+        "ARC": "o que eles com efeito fizeram, enviando-o aos anciãos por mão de Barnabé e Saulo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

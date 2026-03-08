@@ -1,0 +1,91 @@
+{
+  "livro": "joao",
+  "livroNome": "João",
+  "capitulo": 3,
+  "testamento": "NT",
+  "titulo": "O novo nascimento e o amor de Deus",
+  "autor": "João (apóstolo)",
+  "versiculos": [
+    {
+      "numero": 16,
+      "versoes": {
+        "ARC": "Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito, para que todo aquele que nele crê não pereça, mas tenha a vida eterna.",
+        "NVI-PT": "Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito, para que todo aquele que nele crê não pereça, mas tenha a vida eterna.",
+        "NTLH": "Pois Deus amou o mundo de tal maneira que deu o seu único Filho, para que todo aquele que nele crer não morra, mas tenha a vida eterna.",
+        "NVT": "Pois Deus amou o mundo de tal maneira que deu o seu Filho único, para que todo aquele que nele crer não pereça, mas tenha a vida eterna."
+      },
+      "temas": ["amor-de-deus", "salvacao", "fe", "vida-eterna", "graca"],
+      "versiculosRelacionados": ["romanos/5/8", "1-joao/4/9-10", "efesios/2/8-9"],
+      "faq": [
+        {
+          "pergunta": "Por que João 3:16 é chamado de 'o Evangelho em miniatura'?",
+          "resposta": "Martinho Lutero chamou João 3:16 de 'a Bíblia em miniatura' porque ele contém o núcleo completo do Evangelho em uma única frase: o motivo (amor de Deus), a ação (deu Seu Filho), a condição (crer), o perigo evitado (perder-se) e o resultado (vida eterna). É a síntese mais perfeita da mensagem cristã já escrita — por isso é o versículo mais memorizado e mais traduzido da história humana."
+        },
+        {
+          "pergunta": "O que significa 'Deus amou o mundo de tal maneira' em João 3:16?",
+          "resposta": "A expressão 'de tal maneira' (grego: 'houtós') não descreve apenas a intensidade do amor, mas a forma como ele se expressou — com uma ação concreta e extraordinária: dar o Filho. O amor de Deus não é um sentimento abstrato, mas um ato histórico. E 'o mundo' (kosmos) inclui toda a humanidade sem distinção — não apenas os judeus, não apenas os bons, mas todos os seres humanos em sua condição de perdidos."
+        },
+        {
+          "pergunta": "O que significa 'não pereça' em João 3:16?",
+          "resposta": "A palavra grega é 'apollymi' — destruição, ruína, perda definitiva. Jesus não está falando de aniquilação (deixar de existir), mas de separação eterna de Deus, que é a fonte de toda vida e bem. 'Não perecer' é o contraste direto com 'ter vida eterna' — as duas realidades possíveis para cada ser humano. O amor de Deus em Cristo é a ponte entre essas duas realidades."
+        },
+        {
+          "pergunta": "O que é a 'vida eterna' em João 3:16?",
+          "resposta": "No Evangelho de João, 'vida eterna' (zoé aiónios) não é apenas duração infinita — é uma qualidade de vida. É a vida de Deus mesmo, participada pelo crente já no presente (João 17:3: 'E a vida eterna é esta: que te conheçam a ti, o único Deus verdadeiro'). Quem crê em Jesus já tem vida eterna agora (João 5:24: 'passou da morte para a vida') — a eternidade começa no momento da fé."
+        },
+        {
+          "pergunta": "O que significa 'crer' em João 3:16 — como é essa fé?",
+          "resposta": "O grego usa 'pisteuón' — o particípio presente de 'pisteuo', que indica uma ação contínua, não apenas um evento pontual. Crer não é simplesmente acreditar que Jesus existiu ou concordar com doutrinas, mas confiar nele continuamente — entregar a vida, depositar a confiança. É a diferença entre acreditar que um avião pode voar e embarcar nele. A fé bíblica é o embarque, não apenas a crença teórica."
+        }
+      ]
+    },
+    {
+      "numero": 17,
+      "versoes": {
+        "ARC": "Porque Deus enviou o seu Filho ao mundo, não para que condenasse o mundo, mas para que o mundo fosse salvo por ele.",
+        "NVI-PT": "Pois Deus não enviou o seu Filho ao mundo para condenar o mundo, mas para salvá-lo por meio dele.",
+        "NTLH": "Pois Deus não enviou o seu Filho ao mundo para julgar o mundo, mas para salvar o mundo por meio dele.",
+        "NVT": "Pois Deus não enviou o seu Filho ao mundo para condenar o mundo, mas para que o mundo fosse salvo por intermédio dele."
+      },
+      "temas": ["salvacao", "graca", "misericordia", "amor-de-deus"],
+      "versiculosRelacionados": ["joao/3/16", "lucas/19/10"],
+      "faq": [
+        {
+          "pergunta": "O que João 3:17 nos diz sobre o propósito de Jesus vir ao mundo?",
+          "resposta": "Jesus não veio como juiz, mas como Salvador. Esta é uma distinção teológica crucial: a condenação já existe pelo pecado (v. 18), mas o propósito da vinda de Jesus foi resgatar, não executar a sentença. Isso define o caráter do Evangelho: não é uma mensagem de condenação, mas de salvação. O julgamento virá, mas o coração da missão de Jesus é salvar — e isso deve moldar como comunicamos o Evangelho."
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "Jesus respondeu e disse-lhe: Em verdade, em verdade te digo que se alguém não nascer de novo, não pode ver o reino de Deus.",
+        "NVI-PT": "Jesus respondeu: Eu lhe asseguro que ninguém pode ver o Reino de Deus se não nascer de novo.",
+        "NTLH": "Jesus respondeu: Eu garanto a você: quem não nascer de novo não pode entrar no Reino de Deus.",
+        "NVT": "Jesus respondeu: Eu lhe digo a verdade: ninguém pode ver o Reino de Deus a menos que nasça de novo."
+      },
+      "temas": ["novo-nascimento", "conversao", "espirito-santo", "salvacao"],
+      "versiculosRelacionados": ["joao/3/16", "tito/3/5", "2-corintios/5/17"],
+      "faq": [
+        {
+          "pergunta": "O que significa 'nascer de novo' em João 3:3?",
+          "resposta": "A expressão grega 'gennethenai anóthen' pode significar tanto 'nascer de novo' quanto 'nascer do alto' — e provavelmente João intende os dois sentidos. Nicodemos entendeu literalmente ('como pode um homem nascer sendo velho?') mas Jesus falava de um novo começo espiritual: o Espírito Santo que gera uma nova vida no ser humano. É a transformação radical da natureza interior — não reforma moral, mas nova criação (2 Coríntios 5:17)."
+        }
+      ]
+    }
+  ],
+  "explicacao": {
+    "introducao": "João 3:16 é possivelmente o versículo mais famoso da Bíblia em todo o mundo — e no Brasil não é diferente, com dezenas de milhares de buscas mensais. Em uma única frase, ele contém o Evangelho completo: o amor de Deus, o sacrifício do Filho, a condição da fé e a promessa da vida eterna. É o versículo que aparece em estádios de futebol, tatuagens, cartazes e conversas de evangelismo há séculos.",
+    "contexto": "João 3 relata o encontro noturno entre Jesus e Nicodemos, um fariseu e membro do Sinédrio — o mais alto tribunal judaico. Nicodemos vem de noite (talvez por medo de ser visto), reconhece que Jesus é de Deus, mas não compreende o Evangelho. Jesus aproveita o encontro para revelar o coração do plano de Deus: a nova vida pelo Espírito (v. 3-8) e o amor de Deus expresso na doação do Filho (v. 16).",
+    "teologia": "João 3:16 é a síntese da teologia joanina: Deus é amor (1 João 4:8), e esse amor se revelou historicamente na encarnação e morte do Filho. A salvação é pela fé — não por obras, não por pertencimento étnico, não por mérito — mas pela confiança em Cristo. É o versículo que mais claramente expressa a doutrina evangélica central: graça pela fé.",
+    "aplicacao": "Para o brasileiro de hoje, João 3:16 é o ponto de partida de toda jornada de fé. É o versículo que crianças aprendem na escola dominical, que jovens usam para evangelizar amigos, que adultos voltam nos momentos de dúvida. Mais do que um versículo para memorizar, é um convite a responder: você crê? Você confia no Filho que Deus deu?"
+  },
+  "versiculosDestaque": [16, 17],
+  "temas": ["amor-de-deus", "salvacao", "fe", "vida-eterna", "graca", "novo-nascimento"],
+  "versiculosRelacionadosExternos": [
+    { "ref": "romanos/5/8", "texto": "Romanos 5:8 — Deus prova o seu amor: Cristo morreu por nós" },
+    { "ref": "efesios/2/8-9", "texto": "Efésios 2:8-9 — Pela graça sois salvos, mediante a fé" },
+    { "ref": "1-joao/4/9", "texto": "1 João 4:9 — Nisso se manifestou o amor de Deus" },
+    { "ref": "romanos/8/38-39", "texto": "Romanos 8:38-39 — Nada nos separará do amor de Deus" }
+  ]
+}

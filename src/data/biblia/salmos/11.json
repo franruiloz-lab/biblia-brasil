@@ -1,0 +1,81 @@
+{
+  "livro": "salmos",
+  "livroNome": "Salmos",
+  "capitulo": 11,
+  "testamento": "AT",
+  "titulo": "",
+  "autor": "Davi e outros",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "No Senhor confio. Como, pois, me dizeis: Foge para o monte, como um pássaro?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "Pois eis que os ímpios armam o arco, põem a sua flecha na corda, para atirarem, às ocultas, aos retos de coração."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "Quando os fundamentos são destruídos, que pode fazer o justo?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "O Senhor está no seu santo templo, o trono do Senhor está nos céus; os seus olhos contemplam, as suas pálpebras provam os filhos dos homens."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "O Senhor prova o justo e o ímpio; a sua alma odeia ao que ama a violência."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "Sobre os ímpios fará chover brasas de fogo e enxofre; um vento abrasador será a porção do seu copo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "Porque o Senhor é justo; ele ama a justiça; os retos, pois, verão o seu rosto."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

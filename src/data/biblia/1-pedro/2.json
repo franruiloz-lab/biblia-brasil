@@ -1,0 +1,243 @@
+{
+  "livro": "1-pedro",
+  "livroNome": "1 Pedro",
+  "capitulo": 2,
+  "testamento": "NT",
+  "titulo": "",
+  "autor": "Pedro (apóstolo)",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "Deixando, pois, toda a malícia, todo o engano, e fingimentos, e invejas, e toda a maledicência,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "desejai, como meninos recém-nascidos, o leite racional, sem dolo, para que por ele cresçais para a salvação,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "se é que já provastes que o Senhor é benigno."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "e, chegando-vos para ele, pedra viva, rejeitada, na verdade, pelos homens, mas, para com Deus eleita e preciosa,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "sois vós também quais pedras vivas, edificados como casa espiritual para serdes um sacerdócio santo, a fim de oferecerdes sacrifícios espirituais, aceitáveis a Deus por Jesus Cristo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "Por isso é que se acha na Escritura: Eis que ponho em Sião a principal pedra angular, eleita e preciosa, E aquele que nele crê, não será envergonhado."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "Para vós, portanto, que credes é a honra; mas para aqueles que descrêem, A pedra que os edificadores rejeitaram, Esta foi posta como a pedra angular"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "e Como uma pedra de tropeço e uma rocha de escândalo; porque tropeçam na palavra, sendo desobedientes, para o que também foram postos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 9,
+      "versoes": {
+        "ARC": "Mas vós sois a geração eleita, o sacerdócio real, a nação santa, o povo todo seu para que proclameis as grandezas daquele que vos chamou das trevas para a sua maravilhosa luz,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 10,
+      "versoes": {
+        "ARC": "vós que em outro tempo éreis não povo, mas agora sois povo de Deus, vós que não havíeis alcançado misericórdia, mas agora a tendes alcançado."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 11,
+      "versoes": {
+        "ARC": "Amados, rogo-vos como peregrinos e forasteiros, que vos abstenhais dos desejos carnais, que combatem contra a alma,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 12,
+      "versoes": {
+        "ARC": "tendo o vosso procedimento bom entre os gentios, a fim de que, naquilo em que murmuram de vós como de malfeitores, considerando-vos pelas vossas obras, glorifiquem a Deus no dia da visitação."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 13,
+      "versoes": {
+        "ARC": "Sujeitai-vos a toda autoridade humana por amor do Senhor, quer ao rei, como soberano,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 14,
+      "versoes": {
+        "ARC": "quer seja ao rei como supremo, quer seja aos governadores, como enviados por ele para castigo dos malfeitores e para louvor dos que fazem o bem."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 15,
+      "versoes": {
+        "ARC": "Porque assim é a vontade de Deus, que, fazendo o bem, façais emudecer a ignorância dos homens imprudentes,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 16,
+      "versoes": {
+        "ARC": "como livres, e não tendo a vossa liberdade para capa da malícia, mas como servos de Deus."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 17,
+      "versoes": {
+        "ARC": "Honrai a todos, amai a irmandade, temei a Deus, respeitai ao rei."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 18,
+      "versoes": {
+        "ARC": "Servos, sede sujeitos com todo o temor a vossos senhores, não somente aos bons e moderados, mas também aos perversos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 19,
+      "versoes": {
+        "ARC": "Pois isto é agradável, se alguém, por ser cônscio de Deus, suporta tristezas, padecendo injustamente."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 20,
+      "versoes": {
+        "ARC": "Pois que glória é, se sofreis com paciência, quando cometeis pecado, e sois por isso esbofeteados? mas se sofreis com paciência, quando fazeis o bem e por isso padeceis, isto é agradável a Deus."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 21,
+      "versoes": {
+        "ARC": "Pois para isto fostes chamados, porquanto também Cristo padeceu por vós, deixando-vos exemplo, para que sigais as suas pisadas."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 22,
+      "versoes": {
+        "ARC": "Ele não cometeu pecado, nem tão pouco foi achado engano na sua boca,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 23,
+      "versoes": {
+        "ARC": "sendo injuriado, não injuriava, padecendo, não ameaçava, mas entregava-se àquele que julga justamente,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 24,
+      "versoes": {
+        "ARC": "levando ele próprio os nossos pecados em seu corpo sobre o madeiro, a fim de que, mortos aos pecados, vivamos à justiça. Por suas feridas fostes sarados."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 25,
+      "versoes": {
+        "ARC": "Pois éreis desgarrados como ovelhas, mas agora vos haveis convertido ao Pastor e Bispo das vossas almas."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

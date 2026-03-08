@@ -1,0 +1,106 @@
+{
+  "livro": "numeros",
+  "livroNome": "Números",
+  "capitulo": 6,
+  "testamento": "AT",
+  "titulo": "A Bênção Sacerdotal de Arão",
+  "autor": "Moisés",
+  "versiculos": [
+    {
+      "numero": 22,
+      "versoes": {
+        "ARC": "O Senhor disse a Moisés:",
+        "NVI-PT": "O SENHOR disse a Moisés:",
+        "NTLH": "O SENHOR falou a Moisés:",
+        "NVT": "O SENHOR disse a Moisés:"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 23,
+      "versoes": {
+        "ARC": "Fala a Arão e a seus filhos, dizendo: Assim abençoareis os filhos de Israel; dir-lhes-eis:",
+        "NVI-PT": "\"Diga a Arão e a seus filhos: Assim abençoareis os israelitas. Digam-lhes:",
+        "NTLH": "\"Fale com Arão e com os seus filhos e diga-lhes que abençoem o povo de Israel com as seguintes palavras:",
+        "NVT": "\"Fala a Arão e a seus filhos: Assim abençoareis os israelitas, dizendo-lhes:"
+      },
+      "temas": ["bencao"],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 24,
+      "versoes": {
+        "ARC": "O Senhor te abençoe e te guarde;",
+        "NVI-PT": "O SENHOR o abençoe e o guarde;",
+        "NTLH": "'Que o SENHOR te abençoe e te proteja;",
+        "NVT": "O SENHOR te abençoe e te guarde;"
+      },
+      "temas": ["bencao", "protecao", "cuidado-de-deus"],
+      "versiculosRelacionados": ["salmos/121/7-8", "filipenses/4/7"],
+      "faq": [
+        {
+          "pergunta": "O que significa 'O Senhor te abençoe e te guarde' em Números 6:24?",
+          "resposta": "Esta é a primeira parte da famosa Bênção Aarônica ou Bênção Sacerdotal. 'Abençoe' (em hebraico, 'barakekha') vem da raiz 'barak', que significa prosperar, enriquecer, favorecer. 'Guarde' (em hebraico, 'yishmerekha') vem de 'shamar', que significa guardar, proteger, velar. Juntos, estes verbos expressam tanto a provisão (bênção) quanto a segurança (guarda) que Deus concede ao Seu povo."
+        },
+        {
+          "pergunta": "A Bênção de Números 6:24-26 ainda é válida hoje para os cristãos?",
+          "resposta": "Sim. Embora originalmente ordenada para Arão e seus filhos abençoarem Israel, a Bênção Aarônica expressa a natureza e o caráter imutável de Deus para com Seu povo. No Novo Testamento, a bênção é ainda mais rica, pois através de Jesus Cristo — nosso Sumo Sacerdote — todo crente tem acesso direto a esta proteção e favor divinos."
+        },
+        {
+          "pergunta": "Por que a Bênção Aarônica tem três partes?",
+          "resposta": "Os três versículos (24, 25, 26) formam uma estrutura tripla progressiva: primeiro a bênção material e proteção (v. 24), depois o favor e a graça divina (v. 25), e finalmente a paz — shalom — como dom supremo (v. 26). O número três na cultura hebraica também evoca a perfeição e plenitude. É uma bênção completa que cobre toda a dimensão da vida humana."
+        }
+      ]
+    },
+    {
+      "numero": 25,
+      "versoes": {
+        "ARC": "o Senhor faça resplandecer o seu rosto sobre ti e tenha misericórdia de ti;",
+        "NVI-PT": "o SENHOR faça resplandecer o seu rosto sobre você e lhe conceda graça;",
+        "NTLH": "que o SENHOR olhe para você com bondade e seja misericordioso com você;",
+        "NVT": "O SENHOR faça resplandecer o seu rosto sobre ti e seja gracioso para contigo;"
+      },
+      "temas": ["graca", "misericordia", "bencao"],
+      "versiculosRelacionados": [],
+      "faq": [
+        {
+          "pergunta": "O que significa 'fazer resplandecer o rosto' em Números 6:25?",
+          "resposta": "Na cultura hebraica, 'fazer resplandecer o rosto' (em hebraico, 'yaer panav') é uma expressão de favor, atenção e aprovação. É como quando uma pessoa sorri para você — o rosto iluminado comunica alegria, aceitação e presença. Deus, ao fazer resplandecer Seu rosto sobre nós, está expressando Sua aprovação e Sua atenção especial sobre nossa vida."
+        }
+      ]
+    },
+    {
+      "numero": 26,
+      "versoes": {
+        "ARC": "o Senhor sobre ti levante o seu rosto e te dê a paz.",
+        "NVI-PT": "o SENHOR volte o seu rosto para você e lhe dê a paz.\"",
+        "NTLH": "que o SENHOR olhe para você com favor e lhe dê a paz.'",
+        "NVT": "O SENHOR volte o seu rosto para ti e te conceda a paz.\""
+      },
+      "temas": ["paz", "shalom", "bencao"],
+      "versiculosRelacionados": ["filipenses/4/7", "joao/14/27"],
+      "faq": [
+        {
+          "pergunta": "O que é a 'paz' que Deus concede em Números 6:26?",
+          "resposta": "A palavra hebraica é 'shalom', que vai muito além da ausência de conflito. Shalom significa completude, integridade, prosperidade, bem-estar total — em todos os aspectos da vida: saúde, relacionamentos, propósito e harmonia com Deus. É a paz que 'excede todo entendimento' (Filipenses 4:7), uma paz interior que o mundo não pode dar nem tirar."
+        }
+      ]
+    }
+  ],
+  "explicacao": {
+    "introducao": "Números 6:24-26, conhecida como a Bênção Aarônica ou Bênção Sacerdotal, é uma das passagens mais antigas e mais queridas de toda a Bíblia. Com mais de 25.000 buscas mensais no Brasil, é a bênção mais pesquisada pelos brasileiros. Ela foi ordenada diretamente por Deus a Moisés, para que Arão e seus filhos a pronunciassem sobre o povo de Israel — e ecoa até hoje em igrejas de todo o mundo.",
+    "contexto": "Esta bênção foi dada no contexto da organização do povo de Israel no deserto, pouco após a construção do Tabernáculo. Deus estava estabelecendo os rituais sagrados que ordenariam a vida do Seu povo. A bênção sacerdotal era parte central do culto — uma declaração formal do favor divino sobre o povo.",
+    "significado": "Cada linha da bênção aprofunda a anterior. A primeira (v. 24) fala de provisão e segurança. A segunda (v. 25) fala de favor e graça. A terceira (v. 26) culmina com shalom — a paz perfeita de Deus. É uma progressão do exterior para o interior: da proteção física, passando pelo favor pessoal, até a paz profunda do ser.",
+    "aplicacao": "Hoje, ao declarar esta bênção sobre alguém — filho, cônjuge, amigo — você está fazendo exatamente o que Deus ordenou que Arão fizesse: pronunciar o favor divino sobre uma pessoa. Há poder em declarar as palavras de Deus. Esta bênção, pronunciada com fé, é mais do que palavras — é uma declaração do coração de Deus para com as pessoas que você ama."
+  },
+  "versiculosDestaque": [24, 25, 26],
+  "temas": ["bencao", "protecao", "graca", "paz", "shalom"],
+  "versiculosRelacionadosExternos": [
+    { "ref": "salmos/121/7-8", "texto": "Salmos 121:7-8 — O SENHOR te guardará de todo mal" },
+    { "ref": "filipenses/4/7", "texto": "Filipenses 4:7 — A paz de Deus que excede todo entendimento" },
+    { "ref": "joao/14/27", "texto": "João 14:27 — Deixo-vos a paz, a minha paz vos dou" }
+  ]
+}

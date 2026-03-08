@@ -1,0 +1,306 @@
+{
+  "livro": "genesis",
+  "livroNome": "Gênesis",
+  "capitulo": 10,
+  "testamento": "AT",
+  "titulo": "",
+  "autor": "Moisés",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "Estas, pois, são as gerações dos filhos de Noé: Sem, Cam e Jafé, aos quais nasceram filhos depois do dilúvio."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "Os filhos de Jafé: Gomer, Magogue, Madai, Javã, Tubal, Meseque e Tiras."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "Os filhos de Gomer: Asquenaz, Rifate e Togarma."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "Os filhos de Javã: Elisá, Társis, Quitim e Dodanim."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "Por estes foram repartidas as ilhas das nações nas suas terras, cada qual segundo a sua língua, segundo as suas famílias, entre as suas nações."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "Os filhos de Cam: Cuche, Mizraim, Pute e Canaã."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "Os filhos de Cuche: Seba, Havilá, Sabtá, Raamá e Sabtecá; e os filhos de Raamá são Sebá e Dedã."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "Cuche também gerou a Ninrode, o qual foi o primeiro a ser poderoso na terra."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 9,
+      "versoes": {
+        "ARC": "Ele era poderoso caçador diante do Senhor; pelo que se diz: Como Ninrode, poderoso caçador diante do Senhor."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 10,
+      "versoes": {
+        "ARC": "O princípio do seu reino foi Babel, Ereque, Acade e Calné, na terra de Sinar."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 11,
+      "versoes": {
+        "ARC": "Desta mesma terra saiu ele para a Assíria e edificou Nínive, Reobote-Ir, Calá,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 12,
+      "versoes": {
+        "ARC": "e Résem entre Nínive e Calá {esta é a grande cidade}."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 13,
+      "versoes": {
+        "ARC": "Mizraim gerou a Ludim, Anamim, Leabim, Naftuim,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 14,
+      "versoes": {
+        "ARC": "Patrusim, Casluim {donde saíram os filisteus} e Caftorim."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 15,
+      "versoes": {
+        "ARC": "Canaã gerou a Sidom, seu primogênito, e Hete,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 16,
+      "versoes": {
+        "ARC": "e ao jebuseu, o amorreu, o girgaseu,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 17,
+      "versoes": {
+        "ARC": "o heveu, o arqueu, o sineu,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 18,
+      "versoes": {
+        "ARC": "o arvadeu, o zemareu e o hamateu. Depois se espalharam as famílias dos cananeus."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 19,
+      "versoes": {
+        "ARC": "Foi o termo dos cananeus desde Sidom, em direção a Gerar, até Gaza; e daí em direção a Sodoma, Gomorra, Admá e Zeboim, até Lasa."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 20,
+      "versoes": {
+        "ARC": "São esses os filhos de Cam segundo as suas famílias, segundo as suas línguas, em suas terras, em suas nações."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 21,
+      "versoes": {
+        "ARC": "A Sem, que foi o pai de todos os filhos de Eber e irmão mais velho de Jafé, a ele também nasceram filhos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 22,
+      "versoes": {
+        "ARC": "Os filhos de Sem foram: Elão, Assur, Arfaxade, Lude e Arão."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 23,
+      "versoes": {
+        "ARC": "Os filhos de Arão: Uz, Hul, Geter e Más."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 24,
+      "versoes": {
+        "ARC": "Arfaxade gerou a Selá; e Selá gerou a Eber."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 25,
+      "versoes": {
+        "ARC": "A Eber nasceram dois filhos: o nome de um foi Pelegue, porque nos seus dias foi dividida a terra; e o nome de seu irmão foi Joctã."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 26,
+      "versoes": {
+        "ARC": "Joctã gerou a Almodá, Selefe, Hazarmavé, Jerá,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 27,
+      "versoes": {
+        "ARC": "Hadorão, Usal, Dicla,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 28,
+      "versoes": {
+        "ARC": "Obal, Abimael, Sebá,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 29,
+      "versoes": {
+        "ARC": "Ofir, Havilá e Jobabe: todos esses foram filhos de Joctã."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 30,
+      "versoes": {
+        "ARC": "E foi a sua habitação desde Messa até Sefar, montanha do oriente."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 31,
+      "versoes": {
+        "ARC": "Esses são os filhos de Sem segundo as suas famílias, segundo as suas línguas, em suas terras, segundo as suas nações."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 32,
+      "versoes": {
+        "ARC": "Essas são as famílias dos filhos de Noé segundo as suas gerações, em suas nações; e delas foram disseminadas as nações na terra depois do dilúvio."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

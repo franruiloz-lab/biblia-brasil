@@ -1,0 +1,100 @@
+---
+import VersiculoLayout from '../../../../layouts/Versiculo.astro';
+import livros from '../../../../data/livros.json';
+
+export async function getStaticPaths() {
+  const paths = [];
+
+  for (const livro of livros) {
+    // Tenta carregar dados do livro
+    let capitulosData: Record<string, any> = {};
+    try {
+      // Importação dinâmica dos capítulos disponíveis
+      const modules = import.meta.glob('../../../../data/biblia/**/*.json');
+      for (const [path, loader] of Object.entries(modules)) {
+        const parts = path.split('/');
+        const livroSlug = parts[parts.length - 2];
+        const capNum = parts[parts.length - 1].replace('.json', '');
+
+        if (livroSlug === livro.slug) {
+          const data = await (loader as () => Promise<any>)();
+          capitulosData[capNum] = data.default || data;
+        }
+      }
+    } catch {
+      continue;
+    }
+
+    for (const [capNum, capData] of Object.entries(capitulosData)) {
+      if (!capData.versiculos) continue;
+      for (const versiculo of capData.versiculos) {
+        if (!versiculo.versoes?.ARC) continue;
+        paths.push({
+          params: {
+            livro: livro.slug,
+            capitulo: capNum,
+            versiculo: String(versiculo.numero),
+          },
+          props: {
+            livroData: livro,
+            capData,
+            versiculoData: versiculo,
+          }
+        });
+      }
+    }
+  }
+
+  return paths;
+}
+
+const { livroData, capData, versiculoData } = Astro.props;
+const { livro, capitulo, versiculo } = Astro.params;
+
+const referencia = `${livroData.nome} ${capitulo}:${versiculo}`;
+
+// Contexto: pega versículos antes e depois na ARC
+const todosVersiculos = capData.versiculos || [];
+const idx = todosVersiculos.findIndex((v: any) => v.numero === versiculoData.numero);
+const antes = todosVersiculos.slice(Math.max(0, idx - 2), idx).map((v: any) => ({
+  numero: v.numero,
+  texto: v.versoes?.ARC || ''
+})).filter((v: any) => v.texto);
+const depois = todosVersiculos.slice(idx + 1, idx + 3).map((v: any) => ({
+  numero: v.numero,
+  texto: v.versoes?.ARC || ''
+})).filter((v: any) => v.texto);
+
+// Coleta FAQs do versículo E do capítulo (para versículos com FAQ no próprio capítulo)
+const faqItems = versiculoData.faq || [];
+
+// Explicação: usa intro do capítulo se for versículo destaque
+const isDestaque = (capData.versiculosDestaque || []).includes(versiculoData.numero);
+const explicacaoIntro = isDestaque ? capData.explicacao?.introducao : undefined;
+---
+
+<VersiculoLayout
+  livroNome={livroData.nome}
+  livroSlug={livroData.slug}
+  capitulo={Number(capitulo)}
+  versiculoNumero={versiculoData.numero}
+  referencia={referencia}
+  versoesTexto={versiculoData.versoes}
+  versoesRelacionados={capData.versiculosRelacionadosExternos || []}
+  faqItems={faqItems}
+  temas={versiculoData.temas || []}
+  explicacaoIntro={explicacaoIntro}
+  contextoPassagem={{ antes, depois }}
+>
+  <!-- Slot de explicação adicional (gerado dinamicamente por livro/capítulo) -->
+  {isDestaque && capData.explicacao && (
+    <Fragment slot="explicacao">
+      {capData.explicacao.contexto && (
+        <p>{capData.explicacao.contexto}</p>
+      )}
+      {capData.explicacao.aplicacao && (
+        <p>{capData.explicacao.aplicacao}</p>
+      )}
+    </Fragment>
+  )}
+</VersiculoLayout>

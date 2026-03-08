@@ -1,0 +1,146 @@
+---
+interface Versoes {
+  ARC: string;
+  'NVI-PT': string;
+  NTLH: string;
+  NVT: string;
+}
+
+interface Props {
+  versoes: Versoes;
+  referencia: string; // ex: "Salmos 91:1"
+}
+
+const { versoes, referencia } = Astro.props;
+
+const versoesInfo = [
+  { id: 'ARC', nome: 'ARC', nomeCompleto: 'Almeida Revisada e Corrigida', cor: '#7C3AED' },
+  { id: 'NVI-PT', nome: 'NVI', nomeCompleto: 'Nova Versão Internacional', cor: '#0369A1' },
+  { id: 'NTLH', nome: 'NTLH', nomeCompleto: 'Nova Tradução na Linguagem de Hoje', cor: '#065F46' },
+  { id: 'NVT', nome: 'NVT', nomeCompleto: 'Nova Versão Transformadora', cor: '#92400E' },
+];
+
+const componentId = `vc-${Math.random().toString(36).slice(2, 7)}`;
+---
+
+<div class="versoes-comparacao" id={componentId}>
+  <!-- Tabs de versão -->
+  <div class="flex flex-wrap gap-2 mb-4 ui-font">
+    {versoesInfo.map((v, i) => (
+      <button
+        class={`version-tab ${i === 0 ? 'active' : ''}`}
+        data-versao={v.id}
+        data-target={componentId}
+        title={v.nomeCompleto}
+      >
+        {v.nome}
+      </button>
+    ))}
+    <button
+      class="version-tab ml-auto"
+      data-versao="todas"
+      data-target={componentId}
+      title="Ver todas as versões juntas"
+    >
+      Comparar todas
+    </button>
+  </div>
+
+  <!-- Versículos individuais (visíveis um por vez) -->
+  {versoesInfo.map((v, i) => (
+    <div
+      class={`versao-panel ${i !== 0 ? 'hidden' : ''}`}
+      data-versao={v.id}
+    >
+      <blockquote class="verse-card relative">
+        <p class="verse-text mb-3">"{versoes[v.id as keyof Versoes]}"</p>
+        <footer class="flex items-center justify-between flex-wrap gap-2">
+          <cite class="ui-font text-sm font-semibold not-italic" style={`color: ${v.cor}`}>
+            {referencia} — {v.nomeCompleto}
+          </cite>
+          <div class="flex gap-2">
+            <button
+              class="btn-share btn-copy copy-btn"
+              data-text={`"${versoes[v.id as keyof Versoes]}" — ${referencia} (${v.nomeCompleto})`}
+              aria-label="Copiar versículo"
+            >
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <rect x="9" y="9" width="13" height="13" rx="2" ry="2"/>
+                <path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/>
+              </svg>
+              Copiar
+            </button>
+            <a
+              href={`https://api.whatsapp.com/send?text=${encodeURIComponent(`"${versoes[v.id as keyof Versoes]}" — ${referencia} (${v.nomeCompleto})`)}`}
+              target="_blank"
+              rel="noopener noreferrer"
+              class="btn-share btn-whatsapp"
+              aria-label="Compartilhar no WhatsApp"
+            >
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor">
+                <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/>
+              </svg>
+              WhatsApp
+            </a>
+          </div>
+        </footer>
+      </blockquote>
+    </div>
+  ))}
+
+  <!-- Painel "Comparar todas" -->
+  <div class="versao-panel hidden" data-versao="todas">
+    <div class="grid gap-3 md:grid-cols-2">
+      {versoesInfo.map((v) => (
+        <div class="p-4 rounded-xl border" style="border-color: var(--color-border); background-color: var(--color-bg-card);">
+          <div class="ui-font text-xs font-bold mb-2 uppercase tracking-wide" style={`color: ${v.cor}`}>
+            {v.nome} — {v.nomeCompleto}
+          </div>
+          <p class="verse-text text-base leading-relaxed">
+            "{versoes[v.id as keyof Versoes]}"
+          </p>
+        </div>
+      ))}
+    </div>
+    <p class="ui-font text-xs mt-3 text-center" style="color: var(--color-text-muted);">
+      Referência: {referencia}
+    </p>
+  </div>
+</div>
+
+<script>
+  // Tabs de versão
+  document.querySelectorAll('.version-tab').forEach((tab) => {
+    tab.addEventListener('click', () => {
+      const versao = (tab as HTMLElement).dataset.versao;
+      const targetId = (tab as HTMLElement).dataset.target;
+      const container = document.getElementById(targetId!);
+      if (!container) return;
+
+      // Atualiza tabs
+      container.querySelectorAll('.version-tab').forEach(t => t.classList.remove('active'));
+      tab.classList.add('active');
+
+      // Mostra painel correto
+      container.querySelectorAll('.versao-panel').forEach(panel => {
+        const p = panel as HTMLElement;
+        p.classList.toggle('hidden', p.dataset.versao !== versao);
+      });
+    });
+  });
+
+  // Copiar versículo
+  document.querySelectorAll('.copy-btn').forEach((btn) => {
+    btn.addEventListener('click', async () => {
+      const text = (btn as HTMLElement).dataset.text || '';
+      try {
+        await navigator.clipboard.writeText(text);
+        const original = btn.innerHTML;
+        btn.innerHTML = '✓ Copiado!';
+        setTimeout(() => { btn.innerHTML = original; }, 2000);
+      } catch {
+        // fallback silencioso
+      }
+    });
+  });
+</script>

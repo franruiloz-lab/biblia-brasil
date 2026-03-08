@@ -1,0 +1,288 @@
+{
+  "livro": "deuteronomio",
+  "livroNome": "Deuteronômio",
+  "capitulo": 22,
+  "testamento": "AT",
+  "titulo": "",
+  "autor": "Moisés",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "Se vires extraviado o boi ou a ovelha de teu irmão, não te desviarás deles; sem falta os reconduzirás a teu irmão."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "E se teu irmão não estiver perto de ti ou não o conheceres, levá-los-ás para tua casa e ficarão contigo até que teu irmão os venha procurar; então lhes restituirás."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "Assim farás também com o seu jumento, bem como com as suas vestes, e com toda coisa que teu irmão tiver perdido e tu achares; não te poderás desviar deles."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "Se vires o jumento ou o boi de teu irmão caídos no caminho, não te desviarás deles; sem falta o ajudarás a levantá-los."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "Não haverá traje de homem na mulher, e não vestirá o homem vestido de mulher, porque qualquer que faz isto é abominação ao Senhor teu Deus."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "Se encontrares pelo caminho, numa árvore ou no chão, um ninho de ave com passarinhos ou ovos, e a mãe posta sobre os passarinhos, ou sobre os ovos, não temerás a mãe com os filhotes;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "sem falta deixarás ir a mãe, porém os filhotes poderás tomar; para que te vá bem, e para que prolongues os teus dias."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "Quando edificares uma casa nova, farás no terraço um parapeito, para que não tragas sangue sobre a tua casa, se alguém dali cair."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 9,
+      "versoes": {
+        "ARC": "Não semearás a tua vinha de duas espécies de semente, para que não fique sagrado todo o produto, tanto da semente que semeares como do fruto da vinha."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 10,
+      "versoes": {
+        "ARC": "Não lavrarás com boi e jumento juntamente."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 11,
+      "versoes": {
+        "ARC": "Não te vestirás de estofo misturado, de lã e linho juntamente."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 12,
+      "versoes": {
+        "ARC": "Porás franjas nos quatro cantos da tua manta, com que te cobrires."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 13,
+      "versoes": {
+        "ARC": "Se um homem tomar uma mulher por esposa, e, tendo coabitado com ela, vier a desprezá-la,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 14,
+      "versoes": {
+        "ARC": "e lhe atribuir coisas escandalosas, e contra ela divulgar má fama, dizendo: Tomei esta mulher e, quando me cheguei a ela, não achei nela os sinais da virgindade;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 15,
+      "versoes": {
+        "ARC": "então o pai e a mãe da moça tomarão os sinais da virgindade da moça, e os levarão aos anciãos da cidade, à porta;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 16,
+      "versoes": {
+        "ARC": "e o pai da moça dirá aos anciãos: Eu dei minha filha por mulher a este homem, e agora ele a despreza,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 17,
+      "versoes": {
+        "ARC": "e eis que lhe atribuiu coisas escandalosas, dizendo: Não achei na tua filha os sinais da virgindade; porém eis aqui os sinais da virgindade de minha filha. E eles estenderão a roupa diante dos anciãos da cidade."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 18,
+      "versoes": {
+        "ARC": "Então os anciãos daquela cidade, tomando o homem, o castigarão,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 19,
+      "versoes": {
+        "ARC": "e, multando-o em cem siclos de prata, os darão ao pai da moça, porquanto divulgou má fama sobre uma virgem de Israel. Ela ficará sendo sua mulher, e ele por todos os seus dias não poderá repudiá-la."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 20,
+      "versoes": {
+        "ARC": "Se, porém, esta acusação for confirmada, não se achando na moça os sinais da virgindade,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 21,
+      "versoes": {
+        "ARC": "levarão a moça à porta da casa de seu pai, e os homens da sua cidade a apedrejarão até que morra; porque fez loucura em Israel, prostituindo-se na casa de seu pai. Assim exterminarás o mal do meio de ti."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 22,
+      "versoes": {
+        "ARC": "Se um homem for encontrado deitado com mulher que tenha marido, morrerão ambos, o homem que se tiver deitado com a mulher, e a mulher. Assim exterminarás o mal de Israel."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 23,
+      "versoes": {
+        "ARC": "Se houver moça virgem desposada e um homem a achar na cidade, e se deitar com ela,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 24,
+      "versoes": {
+        "ARC": "trareis ambos à porta daquela cidade, e os apedrejareis até que morram: a moça, porquanto não gritou na cidade, e o homem, porquanto humilhou a mulher do seu próximo. Assim exterminarás o mal do meio de ti."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 25,
+      "versoes": {
+        "ARC": "Mas se for no campo que o homem achar a moça que é desposada, e o homem a forçar, e se deitar com ela, morrerá somente o homem que se deitou com ela;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 26,
+      "versoes": {
+        "ARC": "porém, à moça não farás nada. Não há na moça pecado digno de morte; porque, como no caso de um homem que se levanta contra o seu próximo e lhe tira a vida, assim é este caso;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 27,
+      "versoes": {
+        "ARC": "pois ele a achou no campo; a moça desposada gritou, mas não houve quem a livrasse. em juízo, entre sangue"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 28,
+      "versoes": {
+        "ARC": "Se um homem achar uma moça virgem não desposada e, pegando nela, deitar-se com ela, e forem apanhados,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 29,
+      "versoes": {
+        "ARC": "o homem que se deitou com a moça dará ao pai dela cinqüenta siclos de prata, e porquanto a humilhou, ela ficará sendo sua mulher; não a poderá repudiar por todos os seus dias."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 30,
+      "versoes": {
+        "ARC": "Nenhum homem tomará a mulher de seu pai, e não levantará a cobertura de seu pai."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

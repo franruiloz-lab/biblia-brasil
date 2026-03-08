@@ -1,0 +1,468 @@
+{
+  "livro": "marcos",
+  "livroNome": "Marcos",
+  "capitulo": 9,
+  "testamento": "NT",
+  "titulo": "",
+  "autor": "João Marcos",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "Disse-lhes mais: Em verdade vos digo que, dos que aqui estão, alguns há que de modo nenhum provarão a morte até que vejam o reino de Deus já chegando com poder."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "Seis dias depois tomou Jesus consigo a Pedro, a Tiago, e a João, e os levou à parte sós, a um alto monte; e foi transfigurado diante deles;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "as suas vestes tornaram-se resplandecentes, extremamente brancas, tais como nenhum lavandeiro sobre a terra as poderia branquear."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "E apareceu-lhes Elias com Moisés, e falavam com Jesus."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "Pedro, tomando a palavra, disse a Jesus: Mestre, bom é estarmos aqui; façamos, pois, três cabanas, uma para ti, outra para Moisés, e outra para Elias."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "Pois não sabia o que havia de dizer, porque ficaram atemorizados."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "Nisto veio uma nuvem que os cobriu, e dela saiu uma voz que dizia: Este é o meu Filho amado; a ele ouvi."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "De repente, tendo olhado em redor, não viram mais a ninguém consigo, senão só a Jesus."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 9,
+      "versoes": {
+        "ARC": "Enquanto desciam do monte, ordenou-lhes que a ninguém contassem o que tinham visto, até que o Filho do homem ressurgisse dentre os mortos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 10,
+      "versoes": {
+        "ARC": "E eles guardaram o caso em segredo, indagando entre si o que seria o ressurgir dentre os mortos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 11,
+      "versoes": {
+        "ARC": "Então lhe perguntaram: Por que dizem os escribas que é necessário que Elias venha primeiro?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 12,
+      "versoes": {
+        "ARC": "Respondeu-lhes Jesus: Na verdade Elias havia de vir primeiro, a restaurar todas as coisas; e como é que está escrito acerca do Filho do homem que ele deva padecer muito a ser aviltado?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 13,
+      "versoes": {
+        "ARC": "Digo-vos, porém, que Elias já veio, e fizeram-lhe tudo quanto quiseram, como dele está escrito."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 14,
+      "versoes": {
+        "ARC": "Quando chegaram aonde estavam os discípulos, viram ao redor deles uma grande multidão, e alguns escribas a discutirem com eles."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 15,
+      "versoes": {
+        "ARC": "E logo toda a multidão, vendo a Jesus, ficou grandemente surpreendida; e correndo todos para ele, o saudavam."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 16,
+      "versoes": {
+        "ARC": "Perguntou ele aos escribas: Que é que discutis com eles?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 17,
+      "versoes": {
+        "ARC": "Respondeu-lhe um dentre a multidão: Mestre, eu te trouxe meu filho, que tem um espírito mudo;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 18,
+      "versoes": {
+        "ARC": "e este, onde quer que o apanha, convulsiona-o, de modo que ele espuma, range os dentes, e vai definhando; e eu pedi aos teus discípulos que o expulsassem, e não puderam."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 19,
+      "versoes": {
+        "ARC": "Ao que Jesus lhes respondeu: ó geração incrédula! até quando estarei convosco? até quando vos hei de suportar? Trazei-mo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 20,
+      "versoes": {
+        "ARC": "Então lho trouxeram; e quando ele viu a Jesus, o espírito imediatamente o convulsionou; e o endemoninhado, caindo por terra, revolvia-se espumando."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 21,
+      "versoes": {
+        "ARC": "E perguntou Jesus ao pai dele: Há quanto tempo sucede-lhe isto? Respondeu ele: Desde a infância;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 22,
+      "versoes": {
+        "ARC": "e muitas vezes o tem lançado no fogo, e na água, para o destruir; mas se podes fazer alguma coisa, tem compaixão de nós e ajuda-nos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 23,
+      "versoes": {
+        "ARC": "Ao que lhe disse Jesus: Se podes!-tudo é possível ao que crê."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 24,
+      "versoes": {
+        "ARC": "Imediatamente o pai do menino, clamando, {com lágrimas} disse: Creio! Ajuda a minha incredulidade."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 25,
+      "versoes": {
+        "ARC": "E Jesus, vendo que a multidão, correndo, se aglomerava, repreendeu o espírito imundo, dizendo: Espírito mudo e surdo, eu te ordeno: Sai dele, e nunca mais entres nele."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 26,
+      "versoes": {
+        "ARC": "E ele, gritando, e agitando-o muito, saiu; e ficou o menino como morto, de modo que a maior parte dizia: Morreu."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 27,
+      "versoes": {
+        "ARC": "Mas Jesus, tomando-o pela mão, o ergueu; e ele ficou em pé."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 28,
+      "versoes": {
+        "ARC": "E quando entrou em casa, seus discípulos lhe perguntaram à parte: Por que não pudemos nós expulsá-lo?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 29,
+      "versoes": {
+        "ARC": "Respondeu-lhes: Esta casta não sai de modo algum, salvo à força de oração {e jejum.}"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 30,
+      "versoes": {
+        "ARC": "Depois, tendo partido dali, passavam pela Galiléia, e ele não queria que ninguém o soubesse;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 31,
+      "versoes": {
+        "ARC": "porque ensinava a seus discípulos, e lhes dizia: O Filho do homem será entregue nas mãos dos homens, que o matarão; e morto ele, depois de três dias ressurgirá."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 32,
+      "versoes": {
+        "ARC": "Mas eles não entendiam esta palavra, e temiam interrogá-lo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 33,
+      "versoes": {
+        "ARC": "Chegaram a Cafarnaum. E estando ele em casa, perguntou-lhes: Que estáveis discutindo pelo caminho?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 34,
+      "versoes": {
+        "ARC": "Mas eles se calaram, porque pelo caminho haviam discutido entre si qual deles era o maior."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 35,
+      "versoes": {
+        "ARC": "E ele, sentando-se, chamou os doze e lhes disse: se alguém quiser ser o primeiro, será o derradeiro de todos e o servo de todos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 36,
+      "versoes": {
+        "ARC": "Então tomou uma criança, pô-la no meio deles e, abraçando-a, disse-lhes:"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 37,
+      "versoes": {
+        "ARC": "Qualquer que em meu nome receber uma destas crianças, a mim me recebe; e qualquer que me recebe a mim, recebe não a mim mas àquele que me enviou."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 38,
+      "versoes": {
+        "ARC": "Disse-lhe João: Mestre, vimos um homem que em teu nome expulsava demônios, e nós lho proibimos, porque não nos seguia."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 39,
+      "versoes": {
+        "ARC": "Jesus, porém, respondeu: Não lho proibais; porque ninguém há que faça milagre em meu nome e possa logo depois falar mal de mim;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 40,
+      "versoes": {
+        "ARC": "pois quem não é contra nós, é por nós."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 41,
+      "versoes": {
+        "ARC": "Porquanto qualquer que vos der a beber um copo de água em meu nome, porque sois de Cristo, em verdade vos digo que de modo algum perderá a sua recompensa."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 42,
+      "versoes": {
+        "ARC": "Mas qualquer que fizer tropeçar um destes pequeninos que crêem em mim, melhor lhe fora que se lhe pendurasse ao pescoço uma pedra de moinho, e que fosse lançado no mar."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 43,
+      "versoes": {
+        "ARC": "E se a tua mão te fizer tropeçar, corta-a; melhor é entrares na vida aleijado, do que, tendo duas mãos, ires para o inferno, para o fogo que nunca se apaga."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 44,
+      "versoes": {
+        "ARC": "{onde o seu verme não morre, e o fogo não se apaga.}"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 45,
+      "versoes": {
+        "ARC": "Ou, se o teu pé te fizer tropeçar, corta-o; melhor é entrares coxo na vida, do que, tendo dois pés, seres lançado no inferno."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 46,
+      "versoes": {
+        "ARC": "{onde o seu verme não morre, e o fogo não se apaga.}"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 47,
+      "versoes": {
+        "ARC": "Ou, se o teu olho te fizer tropeçar, lança-o fora; melhor é entrares no reino de Deus com um só olho, do que, tendo dois olhos, seres lançado no inferno."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 48,
+      "versoes": {
+        "ARC": "onde o seu verme não morre, e o fogo não se apaga."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 49,
+      "versoes": {
+        "ARC": "Porque cada um será salgado com fogo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 50,
+      "versoes": {
+        "ARC": "Bom é o sal; mas, se o sal se tornar insípido, com que o haveis de temperar? Tende sal em vós mesmos, e guardai a paz uns com os outros."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

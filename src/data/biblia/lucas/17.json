@@ -1,0 +1,351 @@
+{
+  "livro": "lucas",
+  "livroNome": "Lucas",
+  "capitulo": 17,
+  "testamento": "NT",
+  "titulo": "",
+  "autor": "Lucas (médico)",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "Disse Jesus a seus discípulos: É impossível que não venham tropeços, mas ai daquele por quem vierem!"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "Melhor lhe fora que se lhe pendurasse ao pescoço uma pedra de moinho e fosse lançado ao mar, do que fazer tropeçar um destes pequeninos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "Tende cuidado de vós mesmos; se teu irmão pecar, repreende-o; e se ele se arrepender, perdoa-lhe."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "Mesmo se pecar contra ti sete vezes no dia, e sete vezes vier ter contigo, dizendo: Arrependo-me; tu lhe perdoarás."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "Disseram então os apóstolos ao Senhor: Aumenta-nos a fé."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "Respondeu o Senhor: Se tivésseis fé como um grão de mostarda, diríeis a esta amoreira: Desarraiga-te, e planta-te no mar; e ela vos obedeceria."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "Qual de vós, tendo um servo a lavrar ou a apascentar gado, lhe dirá, ao voltar ele do campo: chega-te já, e reclina-te à mesa?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "Não lhe dirá antes: Prepara-me a ceia, e cinge-te, e serve-me, até que eu tenha comido e bebido, e depois comerás tu e beberás?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 9,
+      "versoes": {
+        "ARC": "Porventura agradecerá ao servo, porque este fez o que lhe foi mandado?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 10,
+      "versoes": {
+        "ARC": "Assim também vós, quando fizerdes tudo o que vos for mandado, dizei: Somos servos inúteis; fizemos somente o que devíamos fazer."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 11,
+      "versoes": {
+        "ARC": "E aconteceu que, indo ele a Jerusalém, passava pela divisa entre a Samária e a Galiléia."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 12,
+      "versoes": {
+        "ARC": "Ao entrar em certa aldeia, saíram-lhe ao encontro dez leprosos, os quais pararam de longe,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 13,
+      "versoes": {
+        "ARC": "e levantaram a voz, dizendo: Jesus, Mestre, tem compaixão de nós!"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 14,
+      "versoes": {
+        "ARC": "Ele, logo que os viu, disse-lhes: Ide, e mostrai-vos aos sacerdotes. E aconteceu que, enquanto iam, ficaram limpos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 15,
+      "versoes": {
+        "ARC": "Um deles, vendo que fora curado, voltou glorificando a Deus em alta voz;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 16,
+      "versoes": {
+        "ARC": "e prostrou-se com o rosto em terra aos pés de Jesus, dando-lhe graças; e este era samaritano."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 17,
+      "versoes": {
+        "ARC": "Perguntou, pois, Jesus: Não foram limpos os dez? E os nove, onde estão?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 18,
+      "versoes": {
+        "ARC": "Não se achou quem voltasse para dar glória a Deus, senão este estrangeiro?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 19,
+      "versoes": {
+        "ARC": "E disse-lhe: Levanta-te, e vai; a tua fé te salvou."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 20,
+      "versoes": {
+        "ARC": "Sendo Jesus interrogado pelos fariseus sobre quando viria o reino de Deus, respondeu-lhes: O reino de Deus não vem com aparência exterior;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 21,
+      "versoes": {
+        "ARC": "nem dirão: Ei-lo aqui! ou: Ei-lo ali! pois o reino de Deus está dentro de vós."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 22,
+      "versoes": {
+        "ARC": "Então disse aos discípulos: Dias virão em que desejareis ver um dos dias do Filho do homem, e não o vereis."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 23,
+      "versoes": {
+        "ARC": "Dir-vos-ão: Ei-lo ali! ou: Ei-lo aqui! não vades, nem os sigais;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 24,
+      "versoes": {
+        "ARC": "pois, assim como o relâmpago, fuzilando em uma extremidade do céu, ilumina até a outra extremidade, assim será também o Filho do homem no seu dia."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 25,
+      "versoes": {
+        "ARC": "Mas primeiro é necessário que ele padeça muitas coisas, e que seja rejeitado por esta geração."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 26,
+      "versoes": {
+        "ARC": "Como aconteceu nos dias de Noé, assim também será nos dias do Filho do homem."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 27,
+      "versoes": {
+        "ARC": "Comiam, bebiam, casavam e davam-se em casamento, até o dia em que Noé entrou na arca, e veio o dilúvio e os destruiu a todos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 28,
+      "versoes": {
+        "ARC": "Como também da mesma forma aconteceu nos dias de Ló: comiam, bebiam, compravam, vendiam, plantavam e edificavam;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 29,
+      "versoes": {
+        "ARC": "mas no dia em que Ló saiu de Sodoma choveu do céu fogo e enxofre, e os destruiu a todos;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 30,
+      "versoes": {
+        "ARC": "assim será no dia em que o Filho do homem se há de manifestar."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 31,
+      "versoes": {
+        "ARC": "Naquele dia, quem estiver no eirado, tendo os seus bens em casa, não desça para tirá-los; e, da mesma sorte, o que estiver no campo, não volte para trás."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 32,
+      "versoes": {
+        "ARC": "Lembrai-vos da mulher de Ló."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 33,
+      "versoes": {
+        "ARC": "Qualquer que procurar preservar a sua vida, perdê-la-á, e qualquer que a perder, conservá-la-á."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 34,
+      "versoes": {
+        "ARC": "Digo-vos: Naquela noite estarão dois numa cama; um será tomado, e o outro será deixado."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 35,
+      "versoes": {
+        "ARC": "Duas mulheres estarão juntas moendo; uma será tomada, e a outra será deixada."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 36,
+      "versoes": {
+        "ARC": "{Dois homens estarão no campo; um será tomado, e o outro será deixado.}"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 37,
+      "versoes": {
+        "ARC": "Perguntaram-lhe: Onde, Senhor? E respondeu-lhes: Onde estiver o corpo, aí se ajuntarão também os abutres."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

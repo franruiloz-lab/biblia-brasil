@@ -1,0 +1,675 @@
+{
+  "livro": "neemias",
+  "livroNome": "Neemias",
+  "capitulo": 7,
+  "testamento": "AT",
+  "titulo": "",
+  "autor": "Neemias / Esdras",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "Ora, depois que o muro foi edificado, tendo eu assentado as portas, e havendo sido designados os porteiros, os cantores e os levitas,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "pus Hanâni, meu irmão, e Hananias, governador do castelo, sobre Jerusalém; pois ele era homem fiel e temente a Deus, mais do que muitos;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "e eu lhes disse: Não se abram as portas de Jerusalém até que o sol aqueça; e enquanto os guardas estiverem nos postos se fechem e se tranquem as portas; e designei dentre os moradores de Jerusalém guardas, cada um por seu turno, e cada um diante da sua casa."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "Ora, a cidade era larga e grande, mas o povo dentro dela era pouco, e ainda as casa não estavam edificadas."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "Então o meu Deus me pôs no coração que ajuntasse os nobres, os magistrados e o povo, para registrar as genealogias. E achei o livro da genealogia dos que tinham subido primeiro e achei escrito nele o seguinte:"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "Este são os filhos da província que subiram do cativeiro dentre os exilados, que Nabucodonosor, rei da Babilônia, transportara e que voltaram para Jerusalém e para Judá, cada um para a sua cidade,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "os quais vieram com Zorobabel, Jesuá, Neemias, Azarias, Raamias, Naamâni, Mordecai, Bilsã, Misperete, Bigvai, Neum e Baaná. Este é o número dos homens do povo de Israel:"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "foram os filhos de Parós, dois mil cento e setenta e dois;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 9,
+      "versoes": {
+        "ARC": "os filhos de Sefatias, trezentos e setenta e dois;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 10,
+      "versoes": {
+        "ARC": "os filhos de Ará, seiscentos e cinqüenta e dois;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 11,
+      "versoes": {
+        "ARC": "os filhos de Paate-Moabe, dos filhos de Jesuá e de Joabe, dois mil oitocentos e dezoito;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 12,
+      "versoes": {
+        "ARC": "os filhos de Elão, mil duzentos e cinqüenta e quatro;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 13,
+      "versoes": {
+        "ARC": "os filhos de Zatu, oitocentos e quarenta e cinco;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 14,
+      "versoes": {
+        "ARC": "os filhos de Zacai, setecentos e sessenta;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 15,
+      "versoes": {
+        "ARC": "os filhos de Binuí, seiscentos e quarenta e oito;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 16,
+      "versoes": {
+        "ARC": "os filhos de Bebai, seiscentos e vinte e oito;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 17,
+      "versoes": {
+        "ARC": "os filhos de Azgade, dois mil trezentos e vinte e dois;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 18,
+      "versoes": {
+        "ARC": "os filhos de Adonicão, seiscentos e sessenta e sete;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 19,
+      "versoes": {
+        "ARC": "os filhos de Bigvai, dois mil e sessenta e sete;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 20,
+      "versoes": {
+        "ARC": "os filhos de Adim, seiscentos e cinqüenta e cinco;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 21,
+      "versoes": {
+        "ARC": "os filhos de Ater, de Ezequias, noventa e oito;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 22,
+      "versoes": {
+        "ARC": "os filhos de Hasum, trezentos e vinte e oito;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 23,
+      "versoes": {
+        "ARC": "os filhos de Bezai, trezentos e vinte e quatro;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 24,
+      "versoes": {
+        "ARC": "os filhos de Harife, cento e doze;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 25,
+      "versoes": {
+        "ARC": "os filhos de Gibeão, noventa e cinco;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 26,
+      "versoes": {
+        "ARC": "os filhos de Belém e de Netofá, cento e oitenta e oito;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 27,
+      "versoes": {
+        "ARC": "os homens de Anatote, cento e vinte e oito;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 28,
+      "versoes": {
+        "ARC": "os homens de Bete-Azmavete, quarenta e dois;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 29,
+      "versoes": {
+        "ARC": "os homens de Quiriate-Jeriam, de Cefira, e de Beerote, setecentos e quarenta e três;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 30,
+      "versoes": {
+        "ARC": "os homens de Ramá e Gaba, seiscentos e vinte e um;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 31,
+      "versoes": {
+        "ARC": "os homens de Micmás, cento e vinte e dois;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 32,
+      "versoes": {
+        "ARC": "os homens de Betel e Ai, cento e vinte e três;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 33,
+      "versoes": {
+        "ARC": "os homens do outro Nebo, cinqüenta e dois;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 34,
+      "versoes": {
+        "ARC": "os filhos do outro Elão, mil duzentos e cinqüenta e quatro;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 35,
+      "versoes": {
+        "ARC": "os filhos de Harim, trezentos e vinte;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 36,
+      "versoes": {
+        "ARC": "os filhos de Jericó, trezentos e quarenta e cinco;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 37,
+      "versoes": {
+        "ARC": "os filhos de Lode, de hadide e de Ono, setecentos e vinte e um;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 38,
+      "versoes": {
+        "ARC": "os filhos de Senaá, três mil novecentos e trinta."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 39,
+      "versoes": {
+        "ARC": "Os sacerdotes: os filhos de Jedaías, da casa de Jesuá, novecentos e setenta e três;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 40,
+      "versoes": {
+        "ARC": "os filhos de Imer, mil e cinqüenta e dois;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 41,
+      "versoes": {
+        "ARC": "os filhos de Pasur, mil duzentos e quarenta e sete;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 42,
+      "versoes": {
+        "ARC": "os filhos de Harim, mil e dezessete;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 43,
+      "versoes": {
+        "ARC": "Os levitas: os filhos de Jesuá, de Cadmiel, dos filhos de Hodevá, setenta e quatro."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 44,
+      "versoes": {
+        "ARC": "Os cantores: os filhos de Asafe, cento e quarenta e oito."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 45,
+      "versoes": {
+        "ARC": "Os porteiros: os filhos de Salum, os filhos de Ater, os filhos de Talmom, os filhos de Acube, os filhos de Hatita, os filhos de Sobai, cento e trinta e oito."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 46,
+      "versoes": {
+        "ARC": "Os netinis: os filhos de Ziá, os filhos de Hasufa, os filhos de Tabaote,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 47,
+      "versoes": {
+        "ARC": "os filhos de Querós, os filhos de Siá, os filhos de Padom,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 48,
+      "versoes": {
+        "ARC": "os filhos de Lebana, os filhos de Hagaba, os filhos de Salmai,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 49,
+      "versoes": {
+        "ARC": "os filhos de Hanã, os filhos de Gidel, os filhos de Gaar,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 50,
+      "versoes": {
+        "ARC": "os filhos de Recaías, os filhos de Rezim, os filhos de Necoda,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 51,
+      "versoes": {
+        "ARC": "os filhos de Gazão, os filhos de Uzá, os filhos de Paséia,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 52,
+      "versoes": {
+        "ARC": "os filhos de Besai, os filhos de Meunim, os filhos de Nefusesim,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 53,
+      "versoes": {
+        "ARC": "os filhos de Baquebuque, os filhos de Hacufa, os filhos de Hacur,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 54,
+      "versoes": {
+        "ARC": "os filhos de Bazlite, os filhos de Meída, os filhos de Harsa,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 55,
+      "versoes": {
+        "ARC": "os filhos de Barcos, os filhos de Sísera, os filhos de Tamá,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 56,
+      "versoes": {
+        "ARC": "os filhos de Nezias, os filhos de Hatifa,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 57,
+      "versoes": {
+        "ARC": "os filhos dos servos de Salomão: os filhos de Sotai, os filhos de Soforete, os filhos de Perida,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 58,
+      "versoes": {
+        "ARC": "os filhos de Jaala, os filhos de Darcom, os filhos de Gidel,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 59,
+      "versoes": {
+        "ARC": "os filhos de Sefatias, os filhos de Hatil, os filhos de Paquerete-Hazebaim e os filhos de Amom."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 60,
+      "versoes": {
+        "ARC": "Todos os netinins e os filhos dos servos de Salomão, eram trezentos e noventa e dois."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 61,
+      "versoes": {
+        "ARC": "Estes foram os que subiram de Tel-Mela, Tel-Harsa, Querube, Adom, e Imer; porém não puderam provar que as suas casas paternas e as sua linhagem eram de Israel:"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 62,
+      "versoes": {
+        "ARC": "os filhos de Dalaías, os filhos de Tobias, os filhos de Necoda, seiscentos e quarenta e dois."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 63,
+      "versoes": {
+        "ARC": "E dos sacerdotes: os filhos de Hobaías, os filhos Hacoz, os filhos de Barzilai, que tomara por mulher uma das filhas Barzilai, o gileadita, e que foi chamado do seu nome."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 64,
+      "versoes": {
+        "ARC": "Estes buscaram o seu registro entre os arrolados nos registros genealógicos, mas não foi encontrado; pelo que, tidos por imundos, foram excluídos do sacerdócio."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 65,
+      "versoes": {
+        "ARC": "E o governador lhes disse que não comesse das coisas sagradas, até que se levantasse um sacerdote com Urim e Tumim."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 66,
+      "versoes": {
+        "ARC": "Toda esta congregação junta somava quarenta e dois mil trezentos e sessenta;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 67,
+      "versoes": {
+        "ARC": "afora os seus servos e as suas servas, que foram sete mil trezentos e trinta e sete; e tinham duzentos e quarenta e cinco cantores e cantoras."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 68,
+      "versoes": {
+        "ARC": "Os seus cavalos foram setecentos e trinta e seis; os seus mulos, duzentos e quarenta e cinco;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 69,
+      "versoes": {
+        "ARC": "os seus camelos, quatrocentos e trinta e cinco; e os seus jumentos, seis mil setecentos e vinte."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 70,
+      "versoes": {
+        "ARC": "Ora, alguns dos cabeças das casas paternas contribuíram para a obra. O governador deu para a tesouraria mil dários de ouro, cinqüenta bacias, e quinhentas e trinta vestes sacerdotais."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 71,
+      "versoes": {
+        "ARC": "E alguns dos cabeças das casas paternas deram para a tesouraria da obra vinte mil dáricos de ouro, e duas mil e duzentas minas de prata."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 72,
+      "versoes": {
+        "ARC": "O que o resto do povo deu foram vinte mil dáricos de ouro, duas mil minas de prata, e sessenta e sete vestes sacerdotais."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 73,
+      "versoes": {
+        "ARC": "Os sacerdotes, os levitas, os porteiros, os cantores, alguns dentre o povo, os netinins e todo o Israel habitaram nas suas cidades. Quando chegou o sétimo mês, já se achavam os filhos de Israel nas suas cidades."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

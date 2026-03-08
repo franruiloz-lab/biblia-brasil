@@ -1,0 +1,585 @@
+{
+  "livro": "josue",
+  "livroNome": "Josué",
+  "capitulo": 15,
+  "testamento": "AT",
+  "titulo": "",
+  "autor": "Josué",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "A sorte que coube à tribo dos filhos de Judá, segundo as suas famílias, se estende até o termo de Edom, até o deserto de Zim para o sul, na extremidade do lado meridional"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "O seu termo meridional, partindo da extremidade do Mar Salgado, da baía que dá para o sul,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "estende-se para o sul, até a subida de Acrabim, passa a Zim, sobe pelo sul de Cades-Barnéia, passa por Hezrom, sobe a Adar, e vira para Carca;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "daí passa a Azmom, chega até o ribeiro do Egito, e por ele vai até o mar. Este será o vosso termo meridional."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "O termo oriental é o Mar Salgado, até a foz do Jordão. O termo setentrional, partindo da baía do mar na foz do Jordão,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "sobe até Bete-Hogla, passa ao norte de Bete-Arabá, e sobe até a pedra de Boã, filho de Rúben;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "sobe mais este termo a Debir, desde o vale de Acor, indo para o norte em direção a Gilgal, a qual está defronte da subida de Adumim, que se acha ao lado meridional do ribeiro; então continua este termo até as águas de En-Semes, e os seus extremos chegam a En-Rogel;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "sobe ainda pelo vale de Ben-Hinom, até a saliência meridional do monte jebuseu {isto é, Jerusalém}; sobe ao cume do monte que está fronteiro ao vale de Hinom para o ocidente, na extremidade do vale dos refains para o norte;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 9,
+      "versoes": {
+        "ARC": "do cume do monte se estende até a fonte das águas de Neftoa e, seguindo até as cidades do monte de Efrom, estende-se ainda até Baalá {esta é Quiriate-Jearim} ;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 10,
+      "versoes": {
+        "ARC": "de Baalá este termo volta para o ocidente, até o monte Seir, passa ao lado do monte Jearim da banda do norte {este é Quesalom} , desce a Bete-Semes e passa por Timna;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 11,
+      "versoes": {
+        "ARC": "segue mais este termo até o lado de Ecrom para o norte e, indo para Siquerom e passando o monte de Baalá, chega a Jabneel; e assim este termo finda no mar."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 12,
+      "versoes": {
+        "ARC": "O termo ocidental é o mar grande. São esses os termos dos filhos de Judá ao redor, segundo as suas famílias."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 13,
+      "versoes": {
+        "ARC": "Deu-se, porém, a Calebe, filho de Jefoné, uma porção no meio dos filhos de Judá, conforme a ordem do Senhor a Josué, a saber, Quiriate-Arba, que é Hebrom {Arba era o pai de Anaque}."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 14,
+      "versoes": {
+        "ARC": "E Calebe expulsou dali os três filhos de Anaque: Sesai, Aimã e Talmai, descendentes de Anaque."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 15,
+      "versoes": {
+        "ARC": "Dali subiu contra os habitantes de Debir. Ora, o nome de Debir era dantes Quiriate-Sefer."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 16,
+      "versoes": {
+        "ARC": "Disse então Calebe: A quem atacar Quiriate-Sefer e a tomar, darei a minha filha Acsa por mulher."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 17,
+      "versoes": {
+        "ARC": "Tomou-a, pois, Otniel, filho de Quenaz, irmão de Calebe; e este lhe deu a sua filha Acsa por mulher."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 18,
+      "versoes": {
+        "ARC": "Estando ela em caminho para a casa de Otniel, persuadiu-o que pedisse um campo ao pai dela. E quando ela saltou do jumento, Calebe lhe perguntou: Que é que tens?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 19,
+      "versoes": {
+        "ARC": "Respondeu ela: Dá-me um presente; porquanto me deste terra no Negebe, dá-me também fontes d&#x27;água. Então lhe deu as fontes superiores e as fontes inferiores."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 20,
+      "versoes": {
+        "ARC": "Esta é a herança da tribo dos filhos de Judá, segundo as suas famílias."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 21,
+      "versoes": {
+        "ARC": "As cidades pertencentes à tribo dos filhos de Judá, no extremo sul, para o lado de Edom, são: Cabzeel, Eder, Jagur,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 22,
+      "versoes": {
+        "ARC": "Quiná, Dimona, Adada,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 23,
+      "versoes": {
+        "ARC": "Quedes, Hazor, Itnã,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 24,
+      "versoes": {
+        "ARC": "Zife, Telem, Bealote,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 25,
+      "versoes": {
+        "ARC": "Hazor-Hadada, Queriote-Hezrom {que é Hazor},"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 26,
+      "versoes": {
+        "ARC": "Amã, Sema, Molada,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 27,
+      "versoes": {
+        "ARC": "Hazar-Gada, Hesmom, Bete-Pelete,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 28,
+      "versoes": {
+        "ARC": "Hazar-Sual, Berseba, Biziotiá,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 29,
+      "versoes": {
+        "ARC": "Baalá, Iim, Ezem,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 30,
+      "versoes": {
+        "ARC": "Eltolade, Quesil, Horma,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 31,
+      "versoes": {
+        "ARC": "Ziclague, Madmana, Sansana,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 32,
+      "versoes": {
+        "ARC": "Lebaote, Silim, Aim e Rimom; ao todo, vinte e nove cidades, e as suas aldeias."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 33,
+      "versoes": {
+        "ARC": "Na baixada: Estaol, Zorá, Asná,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 34,
+      "versoes": {
+        "ARC": "Zanoa, En-Ganim, Tapua, Enã,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 35,
+      "versoes": {
+        "ARC": "Jarmute, Adulão, Socó, Azeca,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 36,
+      "versoes": {
+        "ARC": "Saraim, Aditaim, Gedera e Gederotaim; catorze cidades e as suas aldeias."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 37,
+      "versoes": {
+        "ARC": "Zenã, Hadasa, Migdal-Gade,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 38,
+      "versoes": {
+        "ARC": "Dileã, Mizpe, Jocteel,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 39,
+      "versoes": {
+        "ARC": "Laquis, Bozcate, Erglom,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 40,
+      "versoes": {
+        "ARC": "Cabom, Laamás, Quitlis,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 41,
+      "versoes": {
+        "ARC": "Gederote, Bete-Dagom, Naamá e Maqueda; dezesseis cidades e as suas aldeias."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 42,
+      "versoes": {
+        "ARC": "Libna, Eter, Asã,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 43,
+      "versoes": {
+        "ARC": "Iftá, Asná, Nezibe,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 44,
+      "versoes": {
+        "ARC": "Queila, Aczibe e Maressa; nove cidades e as suas aldeias."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 45,
+      "versoes": {
+        "ARC": "Ecrom, com as suas vilas e aldeias;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 46,
+      "versoes": {
+        "ARC": "desde Ecrom até o mar, todas as que estão nas adjacências de Asdode, e as suas aldeias;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 47,
+      "versoes": {
+        "ARC": "Asdode, com as suas vilas e aldeias; Gaza, com as suas vilas e aldeias, até o rio do Egito, e o mar grande, que serve de termo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 48,
+      "versoes": {
+        "ARC": "E na região montanhosa: Samir, Jatir, Socó,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 49,
+      "versoes": {
+        "ARC": "Daná, Quiriate-Saná {que é Debir},"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 50,
+      "versoes": {
+        "ARC": "Anabe, Estemó, Anim,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 51,
+      "versoes": {
+        "ARC": "Gósem Holom e Gilo; onze cidades e as suas aldeias."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 52,
+      "versoes": {
+        "ARC": "Arabe, Dumá, Esã,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 53,
+      "versoes": {
+        "ARC": "Janim, Bete-Tapua, Afeca,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 54,
+      "versoes": {
+        "ARC": "Hunta, Quiriate-Arba {que é Hebrom} e Zior; nove cidades e as suas aldeias."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 55,
+      "versoes": {
+        "ARC": "Maom, Carmelo, Zife, Jutá,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 56,
+      "versoes": {
+        "ARC": "Jizreel, Jocdeão, Zanoa,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 57,
+      "versoes": {
+        "ARC": "Caim, Gibeá e Timna; dez cidades e as suas aldeias."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 58,
+      "versoes": {
+        "ARC": "Halul, Bete-Zur, Gedor,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 59,
+      "versoes": {
+        "ARC": "Maarate, Bete-Anote e Eltecom; seis cidades e as suas aldeias."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 60,
+      "versoes": {
+        "ARC": "Quiriate-Baal {que é Quiriate-Jearim} e Rabá; duas cidades e as suas aldeias."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 61,
+      "versoes": {
+        "ARC": "No deserto: Bete-Arabá, Midim, Secaca,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 62,
+      "versoes": {
+        "ARC": "Nibsã, a cidade do Sal e En-Gedi; seis cidades e as suas aldeias."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 63,
+      "versoes": {
+        "ARC": "Não puderam, porém, os filhos de Judá expulsar os jebuseus que habitavam em Jerusalém; assim ficaram habitando os jebuseus com os filhos de Judá em Jerusalém, até o dia de hoje."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

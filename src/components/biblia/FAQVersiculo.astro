@@ -1,0 +1,39 @@
+---
+interface FAQItem {
+  pergunta: string;
+  resposta: string;
+}
+
+interface Props {
+  items: FAQItem[];
+}
+
+const { items } = Astro.props;
+if (!items || items.length === 0) return;
+---
+
+<section class="mt-10" aria-labelledby="faq-heading">
+  <h2 id="faq-heading" class="text-xl font-bold mb-6">
+    Perguntas frequentes
+  </h2>
+
+  <div class="space-y-0 rounded-xl overflow-hidden border" style="border-color: var(--color-border);">
+    {items.map((item, i) => (
+      <details class="faq-item group" open={i === 0}>
+        <summary class="flex items-center justify-between p-5 cursor-pointer ui-font font-semibold text-base list-none faq-summary transition-colors" style="color: var(--color-text);">
+          <span>{item.pergunta}</span>
+          <svg
+            class="w-5 h-5 flex-shrink-0 ml-3 transition-transform group-open:rotate-180"
+            style="color: var(--color-primary)"
+            fill="none" stroke="currentColor" viewBox="0 0 24 24"
+          >
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
+          </svg>
+        </summary>
+        <div class="px-5 pb-5 prose-biblia text-base leading-relaxed" style="color: var(--color-text-muted);">
+          <p>{item.resposta}</p>
+        </div>
+      </details>
+    ))}
+  </div>
+</section>

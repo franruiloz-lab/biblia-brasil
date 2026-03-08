@@ -1,0 +1,558 @@
+{
+  "livro": "atos",
+  "livroNome": "Atos",
+  "capitulo": 7,
+  "testamento": "NT",
+  "titulo": "",
+  "autor": "Lucas (médico)",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "E disse o sumo sacerdote: Porventura são assim estas coisas?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "Estêvão respondeu: Irmãos e pais, ouvi. O Deus da glória apareceu a nosso pai Abraão, estando ele na Mesopotâmia, antes de habitar em Harã,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "e disse-lhe: Sai da tua terra e dentre a tua parentela, e dirige-te à terra que eu te mostrar."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "Então saiu da terra dos caldeus e habitou em Harã. Dali, depois que seu pai faleceu, Deus o trouxe para esta terra em que vós agora habitais."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "E não lhe deu nela herança, nem sequer o espaço de um pé; mas prometeu que lha daria em possessão, e depois dele à sua descendência, não tendo ele ainda filho."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "Pois Deus disse que a sua descendência seria peregrina em terra estranha e que a escravizariam e maltratariam por quatrocentos anos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "Mas eu julgarei a nação que os tiver escravizado, disse Deus; e depois disto sairão, e me servirão neste lugar."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "E deu-lhe o pacto da circuncisão; assim então gerou Abraão a Isaque, e o circuncidou ao oitavo dia; e Isaque gerou a Jacó, e Jacó aos doze patriarcas."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 9,
+      "versoes": {
+        "ARC": "Os patriarcas, movidos de inveja, venderam José para o Egito; mas Deus era com ele,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 10,
+      "versoes": {
+        "ARC": "e o livrou de todas as suas tribulações, e lhe deu graça e sabedoria perante Faraó, rei do Egito, que o constituiu governador sobre o Egito e toda a sua casa."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 11,
+      "versoes": {
+        "ARC": "Sobreveio então uma fome a todo o Egito e Canaã, e grande tribulação; e nossos pais não achavam alimentos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 12,
+      "versoes": {
+        "ARC": "Mas tendo ouvido Jacó que no Egito havia trigo, enviou ali nossos pais pela primeira vez."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 13,
+      "versoes": {
+        "ARC": "E na segunda vez deu-se José a conhecer a seus irmãos, e a sua linhagem tornou-se manifesta a Faraó."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 14,
+      "versoes": {
+        "ARC": "Então José mandou chamar a seu pai Jacó, e a toda a sua parentela-setenta e cinco almas."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 15,
+      "versoes": {
+        "ARC": "Jacó, pois, desceu ao Egito, onde morreu, ele e nossos pais;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 16,
+      "versoes": {
+        "ARC": "e foram transportados para Siquém e depositados na sepultura que Abraão comprara por certo preço em prata aos filhos de Emor, em Siquém."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 17,
+      "versoes": {
+        "ARC": "Enquanto se aproximava o tempo da promessa que Deus tinha feito a Abraão, o povo crescia e se multiplicava no Egito;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 18,
+      "versoes": {
+        "ARC": "até que se levantou ali outro rei, que não tinha conhecido José."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 19,
+      "versoes": {
+        "ARC": "Usando esse de astúcia contra a nossa raça, maltratou a nossos pais, ao ponto de fazê-los enjeitar seus filhos, para que não vivessem."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 20,
+      "versoes": {
+        "ARC": "Nesse tempo nasceu Moisés, e era mui formoso, e foi criado três meses em casa de seu pai."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 21,
+      "versoes": {
+        "ARC": "Sendo ele enjeitado, a filha de Faraó o recolheu e o criou como seu próprio filho."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 22,
+      "versoes": {
+        "ARC": "Assim Moisés foi instruído em toda a sabedoria dos egípcios, e era poderoso em palavras e obras."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 23,
+      "versoes": {
+        "ARC": "Ora, quando ele completou quarenta anos, veio-lhe ao coração visitar seus irmãos, os filhos de Israel."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 24,
+      "versoes": {
+        "ARC": "E vendo um deles sofrer injustamente, defendeu-o, e vingou o oprimido, matando o egípcio."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 25,
+      "versoes": {
+        "ARC": "Cuidava que seus irmãos entenderiam que por mão dele Deus lhes havia de dar a liberdade; mas eles não entenderam."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 26,
+      "versoes": {
+        "ARC": "No dia seguinte apareceu-lhes quando brigavam, e quis levá-los à paz, dizendo: Homens, sois irmãos; por que vos maltratais um ao outro?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 27,
+      "versoes": {
+        "ARC": "Mas o que fazia injustiça ao seu próximo o repeliu, dizendo: Quem te constituiu senhor e juiz sobre nós?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 28,
+      "versoes": {
+        "ARC": "Acaso queres tu matar-me como ontem mataste o egípcio?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 29,
+      "versoes": {
+        "ARC": "A esta palavra fugiu Moisés, e tornou-se peregrino na terra de Madiã, onde gerou dois filhos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 30,
+      "versoes": {
+        "ARC": "E passados mais quarenta anos, apareceu-lhe um anjo no deserto do monte Sinai, numa chama de fogo no meio de uma sarça."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 31,
+      "versoes": {
+        "ARC": "Moisés, vendo isto, admirou-se da visão; e, aproximando-se ele para observar, soou a voz do Senhor:"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 32,
+      "versoes": {
+        "ARC": "Eu sou o deus de teus pais, o Deus de Abraão, de Isaque e de Jacó. E Moisés ficou trêmulo e não ousava olhar."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 33,
+      "versoes": {
+        "ARC": "Disse-lhe então o Senhor: Tira as alparcas dos teus pés, porque o lugar em que estás é terra santa."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 34,
+      "versoes": {
+        "ARC": "Vi, com efeito, a aflição do meu povo no Egito, ouvi os seus gemidos, e desci para livrá-lo. Agora pois vem, e enviar-te-ei ao Egito."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 35,
+      "versoes": {
+        "ARC": "A este Moisés que eles haviam repelido, dizendo: Quem te constituiu senhor e juiz? a este enviou Deus como senhor e libertador, pela mão do anjo que lhe aparecera na sarça."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 36,
+      "versoes": {
+        "ARC": "Foi este que os conduziu para fora, fazendo prodígios e sinais na terra do Egito, e no Mar Vermelho, e no deserto por quarenta anos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 37,
+      "versoes": {
+        "ARC": "Este é o Moisés que disse aos filhos de Israel: Deus vos suscitará dentre vossos irmãos um profeta como eu."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 38,
+      "versoes": {
+        "ARC": "Este é o que esteve na congregação no deserto, com o anjo que lhe falava no monte Sinai, e com nossos pais, o qual recebeu palavras de vida para vo-las dar;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 39,
+      "versoes": {
+        "ARC": "ao qual os nossos pais não quiseram obedecer, antes o rejeitaram, e em seus corações voltaram ao Egito,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 40,
+      "versoes": {
+        "ARC": "dizendo a Arão: Faze-nos deuses que vão adiante de nós; porque a esse Moisés que nos tirou da terra do Egito, não sabemos o que lhe aconteceu."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 41,
+      "versoes": {
+        "ARC": "Fizeram, pois, naqueles dias o bezerro, e ofereceram sacrifício ao ídolo, e se alegravam nas obras das suas mãos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 42,
+      "versoes": {
+        "ARC": "Mas Deus se afastou, e os abandonou ao culto das hostes do céu, como está escrito no livro dos profetas: Porventura me oferecestes vítimas e sacrifícios por quarenta anos no deserto, ó casa de Israel?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 43,
+      "versoes": {
+        "ARC": "Antes carregastes o tabernáculo de Moloque e a estrela do deus Renfã, figuras que vós fizestes para adorá-las. Desterrar-vos-ei pois, para além da Babilônia."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 44,
+      "versoes": {
+        "ARC": "Entre os nossos pais no deserto estava o tabernáculo do testemunho, como ordenara aquele que disse a Moisés que o fizesse segundo o modelo que tinha visto;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 45,
+      "versoes": {
+        "ARC": "o qual nossos pais, tendo-o por sua vez recebido, o levaram sob a direção de Josué, quando entraram na posse da terra das nações que Deus expulsou da presença dos nossos pais, até os dias de Davi,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 46,
+      "versoes": {
+        "ARC": "que achou graça diante de Deus, e pediu que lhe fosse dado achar habitação para o Deus de Jacó."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 47,
+      "versoes": {
+        "ARC": "Entretanto foi Salomão quem lhe edificou uma casa;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 48,
+      "versoes": {
+        "ARC": "mas o Altíssimo não habita em templos feitos por mãos de homens, como diz o profeta:"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 49,
+      "versoes": {
+        "ARC": "O céu é meu trono, e a terra o escabelo dos meus pés. Que casa me edificareis, diz o Senhor, ou qual o lugar do meu repouso?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 50,
+      "versoes": {
+        "ARC": "Não fez, porventura, a minha mão todas estas coisas?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 51,
+      "versoes": {
+        "ARC": "Homens de dura cerviz, e incircuncisos de coração e ouvido, vós sempre resistis ao Espírito Santo; como o fizeram os vossos pais, assim também vós."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 52,
+      "versoes": {
+        "ARC": "A qual dos profetas não perseguiram vossos pais? Até mataram os que dantes anunciaram a vinda do Justo, do qual vós agora vos tornastes traidores e homicidas,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 53,
+      "versoes": {
+        "ARC": "vós, que recebestes a lei por ordenação dos anjos, e não a guardastes."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 54,
+      "versoes": {
+        "ARC": "Ouvindo eles isto, enfureciam-se em seus corações, e rangiam os dentes contra Estêvão."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 55,
+      "versoes": {
+        "ARC": "Mas ele, cheio do Espírito Santo, fitando os olhos no céu, viu a glória de Deus, e Jesus em pé à direita de Deus,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 56,
+      "versoes": {
+        "ARC": "e disse: Eis que vejo os céus abertos, e o Filho do homem em pé à direita de Deus."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 57,
+      "versoes": {
+        "ARC": "Então eles gritaram com grande voz, taparam os ouvidos, e arremeteram unânimes contra ele"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 58,
+      "versoes": {
+        "ARC": "e, lançando-o fora da cidade, o apedrejavam. E as testemunhas depuseram as suas vestes aos pés de um mancebo chamado Saulo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 59,
+      "versoes": {
+        "ARC": "Apedrejavam, pois, a Estêvão que orando, dizia: Senhor Jesus, recebe o meu espírito."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 60,
+      "versoes": {
+        "ARC": "E pondo-se de joelhos, clamou com grande voz: Senhor, não lhes imputes este pecado. Tendo dito isto, adormeceu. E Saulo consentia na sua morte."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

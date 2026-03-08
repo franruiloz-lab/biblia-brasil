@@ -1,0 +1,321 @@
+---
+import Base from '../layouts/Base.astro';
+
+const title = 'Bíblia Brasil — Bíblia Sagrada Online em Português';
+const description = 'Leia a Bíblia Sagrada online em português. 4 versões (ARC, NVI, NTLH, NVT) com explicações, contexto histórico e versículos relacionados. A Bíblia mais completa do Brasil.';
+
+const schemaWebSite = {
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Bíblia Brasil",
+  "url": "https://bibliabrasil.com.br",
+  "description": description,
+  "inLanguage": "pt-BR",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://bibliabrasil.com.br/buscar?q={search_term_string}"
+    },
+    "query-input": "required name=search_term_string"
+  }
+};
+
+const versiculosDestaque = [
+  {
+    ref: 'salmos/91/1',
+    livro: 'Salmos',
+    cap: 91,
+    ver: 1,
+    texto: 'O que habita no esconderijo do Altíssimo, à sombra do Onipotente descansará.',
+    temas: ['proteção', 'confiança'],
+    vol: '90.000 buscas/mês'
+  },
+  {
+    ref: 'proverbios/16/3',
+    livro: 'Provérbios',
+    cap: 16,
+    ver: 3,
+    texto: 'Consagre ao SENHOR tudo o que você faz, e os seus planos serão bem-sucedidos.',
+    temas: ['planos', 'consagração'],
+    vol: '34.000 buscas/mês'
+  },
+  {
+    ref: 'numeros/6/24',
+    livro: 'Números',
+    cap: 6,
+    ver: 24,
+    texto: 'O Senhor te abençoe e te guarde;',
+    temas: ['bênção', 'proteção'],
+    vol: '25.000 buscas/mês'
+  },
+  {
+    ref: 'romanos/8/28',
+    livro: 'Romanos',
+    cap: 8,
+    ver: 28,
+    texto: 'Sabemos que Deus age em todas as coisas para o bem daqueles que o amam.',
+    temas: ['providência', 'esperança'],
+    vol: '22.000 buscas/mês'
+  },
+  {
+    ref: '2-cronicas/7/14',
+    livro: '2 Crônicas',
+    cap: 7,
+    ver: 14,
+    texto: 'se o meu povo humilhar-se, orar, buscar a minha face e abandonar seus maus caminhos, então eu ouvirei do céu.',
+    temas: ['avivamento', 'oração'],
+    vol: '20.000 buscas/mês'
+  },
+  {
+    ref: 'filipenses/4/13',
+    livro: 'Filipenses',
+    cap: 4,
+    ver: 13,
+    texto: 'Posso fazer todas as coisas por meio de Cristo que me fortalece.',
+    temas: ['força', 'fé'],
+    vol: '12.000 buscas/mês'
+  },
+];
+
+const temas = [
+  { slug: 'protecao', nome: 'Proteção', icone: '🛡️', desc: 'Versículos sobre a proteção divina' },
+  { slug: 'fe', nome: 'Fé', icone: '✝️', desc: 'Versículos sobre fé e confiança em Deus' },
+  { slug: 'bencao', nome: 'Bênção', icone: '🙏', desc: 'Versículos sobre bênção e favor divino' },
+  { slug: 'paz', nome: 'Paz', icone: '🕊️', desc: 'Versículos sobre paz e tranquilidade' },
+  { slug: 'amor', nome: 'Amor', icone: '❤️', desc: 'Versículos sobre amor de Deus e ao próximo' },
+  { slug: 'esperanca', nome: 'Esperança', icone: '🌅', desc: 'Versículos sobre esperança e renovação' },
+  { slug: 'oracao', nome: 'Oração', icone: '📖', desc: 'Versículos sobre oração e comunhão' },
+  { slug: 'sabedoria', nome: 'Sabedoria', icone: '💡', desc: 'Versículos sobre sabedoria e discernimento' },
+];
+
+const versoes = [
+  { id: 'ARC', nome: 'Almeida Revista e Corrigida', ano: '1969' },
+  { id: 'NVI-PT', nome: 'Nova Versão Internacional', ano: '2011' },
+  { id: 'NTLH', nome: 'Nova Tradução na Linguagem de Hoje', ano: '2000' },
+  { id: 'NVT', nome: 'Nova Versão Transformadora', ano: '2016' },
+];
+---
+
+<Base title={title} description={description} schema={schemaWebSite}>
+
+  <!-- Hero -->
+  <section class="relative overflow-hidden py-20 md:py-28" style="background: linear-gradient(135deg, var(--color-bg) 0%, var(--color-hover-row) 50%, var(--color-primary-bg) 100%);" data-hero>
+    <div class="absolute inset-0 opacity-5" style="background-image: url(\"data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%238B5CF6' fill-opacity='1'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E\");"></div>
+    <div class="max-w-5xl mx-auto px-4 text-center relative">
+      <div class="inline-flex items-center gap-2 px-3 py-1.5 rounded-full text-sm font-semibold ui-font mb-6" style="background-color: var(--color-primary-bg); color: var(--color-primary);">
+        ✝ 4 versões em português · ARC · NVI · NTLH · NVT
+      </div>
+      <h1 class="text-4xl md:text-6xl font-bold mb-6 leading-tight" style="color: var(--color-text);">
+        A Bíblia Sagrada<br>
+        <span style="color: var(--color-primary);">completa em português</span>
+      </h1>
+      <p class="text-xl md:text-2xl mb-10 max-w-2xl mx-auto" style="color: var(--color-text-muted);">
+        Leia, compare e compreenda a Bíblia. Cada versículo com explicação, contexto histórico e 4 traduções brasileiras.
+      </p>
+
+      <!-- Search bar -->
+      <form action="/buscar" method="get" class="max-w-2xl mx-auto mb-6">
+        <div class="flex gap-3 p-2 rounded-2xl shadow-lg" style="background-color: var(--color-bg-card); border: 1px solid var(--color-border);">
+          <input
+            type="search"
+            name="q"
+            placeholder="Buscar versículo, livro ou tema..."
+            class="flex-1 px-4 py-3 text-base rounded-xl outline-none ui-font"
+            style="background: transparent; color: var(--color-text);"
+            aria-label="Buscar na Bíblia"
+          />
+          <button
+            type="submit"
+            class="px-6 py-3 rounded-xl font-semibold ui-font text-white transition-opacity hover:opacity-90"
+            style="background-color: var(--color-primary);"
+          >
+            Buscar
+          </button>
+        </div>
+      </form>
+
+      <!-- Quick links -->
+      <div class="flex flex-wrap justify-center gap-3 ui-font text-sm">
+        <a href="/biblia/salmos/91" class="px-3 py-1.5 rounded-lg transition-colors hover:opacity-80" style="background-color: var(--color-bg-card); color: var(--color-text-muted); border: 1px solid var(--color-border);">Salmo 91</a>
+        <a href="/biblia/proverbios/16" class="px-3 py-1.5 rounded-lg transition-colors hover:opacity-80" style="background-color: var(--color-bg-card); color: var(--color-text-muted); border: 1px solid var(--color-border);">Provérbios 16</a>
+        <a href="/biblia/numeros/6" class="px-3 py-1.5 rounded-lg transition-colors hover:opacity-80" style="background-color: var(--color-bg-card); color: var(--color-text-muted); border: 1px solid var(--color-border);">Números 6</a>
+        <a href="/biblia/romanos/8" class="px-3 py-1.5 rounded-lg transition-colors hover:opacity-80" style="background-color: var(--color-bg-card); color: var(--color-text-muted); border: 1px solid var(--color-border);">Romanos 8</a>
+        <a href="/biblia/filipenses/4" class="px-3 py-1.5 rounded-lg transition-colors hover:opacity-80" style="background-color: var(--color-bg-card); color: var(--color-text-muted); border: 1px solid var(--color-border);">Filipenses 4</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Versículos mais buscados -->
+  <section class="max-w-5xl mx-auto px-4 py-16">
+    <div class="mb-10">
+      <h2 class="text-2xl md:text-3xl font-bold mb-2">Versículos mais buscados</h2>
+      <p class="ui-font" style="color: var(--color-text-muted);">Os versículos que os brasileiros mais buscam, com explicação completa e 4 versões.</p>
+    </div>
+
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
+      {versiculosDestaque.map((v) => (
+        <a
+          href={`/biblia/${v.ref}`}
+          class="block rounded-2xl p-5 border transition-all hover:border-purple-400 hover:shadow-md group"
+          style="border-color: var(--color-border); background-color: var(--color-bg-card);"
+        >
+          <div class="mb-3">
+            <span class="ui-font text-xs font-bold px-2 py-1 rounded-lg" style="background-color: var(--color-primary-bg); color: var(--color-primary);">
+              {v.livro} {v.cap}:{v.ver}
+            </span>
+          </div>
+          <blockquote class="text-sm leading-relaxed mb-3 italic" style="color: var(--color-text);">
+            "{v.texto}"
+          </blockquote>
+          <div class="flex items-center justify-between">
+            <div class="flex flex-wrap gap-1">
+              {v.temas.map(t => (
+                <span class="ui-font text-xs px-2 py-0.5 rounded-full" style="background-color: var(--color-verse-bg); color: var(--color-text-muted);">{t}</span>
+              ))}
+            </div>
+            <span class="ui-font text-xs font-semibold transition-colors group-hover:text-purple-600" style="color: var(--color-primary);">Ver →</span>
+          </div>
+        </a>
+      ))}
+    </div>
+
+    <div class="mt-8 text-center">
+      <a href="/biblia" class="inline-flex items-center gap-2 px-6 py-3 rounded-xl font-semibold ui-font transition-all hover:opacity-90 text-white" style="background-color: var(--color-primary);">
+        Ver toda a Bíblia →
+      </a>
+    </div>
+  </section>
+
+  <!-- Divisor -->
+  <div class="max-w-5xl mx-auto px-4">
+    <hr style="border-color: var(--color-border);" />
+  </div>
+
+  <!-- Explore por tema -->
+  <section class="max-w-5xl mx-auto px-4 py-16">
+    <div class="mb-10">
+      <h2 class="text-2xl md:text-3xl font-bold mb-2">Explore por tema</h2>
+      <p class="ui-font" style="color: var(--color-text-muted);">Encontre versículos agrupados pelos temas que mais importam na sua vida.</p>
+    </div>
+
+    <div class="grid grid-cols-2 md:grid-cols-4 gap-4">
+      {temas.map((tema) => (
+        <a
+          href={`/temas/${tema.slug}`}
+          class="flex flex-col items-center text-center p-5 rounded-2xl border transition-all hover:border-purple-400 hover:shadow-md"
+          style="border-color: var(--color-border); background-color: var(--color-bg-card);"
+        >
+          <span class="text-3xl mb-2">{tema.icone}</span>
+          <span class="font-semibold text-sm mb-1" style="color: var(--color-text);">{tema.nome}</span>
+          <span class="ui-font text-xs leading-snug" style="color: var(--color-text-muted);">{tema.desc}</span>
+        </a>
+      ))}
+    </div>
+  </section>
+
+  <!-- Divisor -->
+  <div class="max-w-5xl mx-auto px-4">
+    <hr style="border-color: var(--color-border);" />
+  </div>
+
+  <!-- 4 versões - diferencial -->
+  <section class="max-w-5xl mx-auto px-4 py-16">
+    <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
+      <div>
+        <div class="ui-font text-sm font-semibold mb-3" style="color: var(--color-primary);">Nosso diferencial</div>
+        <h2 class="text-2xl md:text-3xl font-bold mb-4">4 traduções brasileiras, lado a lado</h2>
+        <p class="text-base leading-relaxed mb-6" style="color: var(--color-text-muted);">
+          Compare o mesmo versículo em ARC, NVI, NTLH e NVT. Entenda as nuances de cada tradução e aprofunde seu estudo bíblico como nunca antes.
+        </p>
+        <ul class="space-y-3">
+          {versoes.map(v => (
+            <li class="flex items-start gap-3">
+              <span class="ui-font text-xs font-bold px-2 py-1 rounded-lg flex-shrink-0 mt-0.5" style="background-color: var(--color-primary-bg); color: var(--color-primary);">{v.id}</span>
+              <div>
+                <span class="text-sm font-semibold" style="color: var(--color-text);">{v.nome}</span>
+                <span class="ui-font text-xs ml-2" style="color: var(--color-text-muted);">({v.ano})</span>
+              </div>
+            </li>
+          ))}
+        </ul>
+      </div>
+
+      <!-- Mini demo de comparação -->
+      <div class="rounded-2xl border overflow-hidden" style="border-color: var(--color-border);">
+        <div class="px-4 py-3 ui-font text-sm font-semibold" style="background-color: var(--color-bg-card); border-bottom: 1px solid var(--color-border); color: var(--color-text-muted);">
+          Salmos 91:1 — comparação de versões
+        </div>
+        <div class="divide-y" style="border-color: var(--color-border);">
+          <div class="px-4 py-4">
+            <div class="ui-font text-xs font-bold mb-1" style="color: var(--color-primary);">ARC</div>
+            <p class="text-sm leading-relaxed italic" style="color: var(--color-text);">O que habita no esconderijo do Altíssimo, à sombra do Onipotente descansará.</p>
+          </div>
+          <div class="px-4 py-4" style="background-color: var(--color-bg-card);">
+            <div class="ui-font text-xs font-bold mb-1" style="color: var(--color-primary);">NVI</div>
+            <p class="text-sm leading-relaxed italic" style="color: var(--color-text);">Aquele que habita no abrigo do Altíssimo e descansa à sombra do Todo-Poderoso</p>
+          </div>
+          <div class="px-4 py-4">
+            <div class="ui-font text-xs font-bold mb-1" style="color: var(--color-primary);">NTLH</div>
+            <p class="text-sm leading-relaxed italic" style="color: var(--color-text);">Quem vai ao Senhor em busca de proteção, quem se abriga à sombra do Deus Todo-Poderoso</p>
+          </div>
+          <div class="px-4 py-4" style="background-color: var(--color-bg-card);">
+            <div class="ui-font text-xs font-bold mb-1" style="color: var(--color-primary);">NVT</div>
+            <p class="text-sm leading-relaxed italic" style="color: var(--color-text);">Aquele que habita no abrigo do Altíssimo e descansa à sombra do Todo-Poderoso</p>
+          </div>
+        </div>
+        <div class="px-4 py-3" style="background-color: var(--color-bg-card); border-top: 1px solid var(--color-border);">
+          <a href="/biblia/salmos/91/1" class="ui-font text-sm font-semibold hover:opacity-80 transition-opacity" style="color: var(--color-primary);">Ver versículo completo com explicação →</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Divisor -->
+  <div class="max-w-5xl mx-auto px-4">
+    <hr style="border-color: var(--color-border);" />
+  </div>
+
+  <!-- Por que Bíblia Brasil -->
+  <section class="max-w-5xl mx-auto px-4 py-16">
+    <div class="text-center mb-12">
+      <h2 class="text-2xl md:text-3xl font-bold mb-3">Por que Bíblia Brasil?</h2>
+      <p class="ui-font max-w-xl mx-auto" style="color: var(--color-text-muted);">Criada para quem quer entender a Palavra, não apenas lê-la.</p>
+    </div>
+
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+      <div class="rounded-2xl p-6 border" style="border-color: var(--color-border); background-color: var(--color-bg-card);">
+        <div class="text-3xl mb-4">📖</div>
+        <h3 class="font-bold text-lg mb-2" style="color: var(--color-text);">Bíblia completa</h3>
+        <p class="text-sm leading-relaxed" style="color: var(--color-text-muted);">66 livros, 1.189 capítulos e mais de 31.000 versículos — todos acessíveis com explicação e contexto histórico.</p>
+      </div>
+      <div class="rounded-2xl p-6 border" style="border-color: var(--color-border); background-color: var(--color-bg-card);">
+        <div class="text-3xl mb-4">🔍</div>
+        <h3 class="font-bold text-lg mb-2" style="color: var(--color-text);">Explicação profunda</h3>
+        <p class="text-sm leading-relaxed" style="color: var(--color-text-muted);">Cada versículo em destaque traz contexto histórico, aplicação para hoje, perguntas frequentes e versículos relacionados.</p>
+      </div>
+      <div class="rounded-2xl p-6 border" style="border-color: var(--color-border); background-color: var(--color-bg-card);">
+        <div class="text-3xl mb-4">📱</div>
+        <h3 class="font-bold text-lg mb-2" style="color: var(--color-text);">Rápida e acessível</h3>
+        <p class="text-sm leading-relaxed" style="color: var(--color-text-muted);">Carrega instantaneamente em qualquer dispositivo. Sem cadastro, sem anúncios, sem distração — só a Palavra de Deus.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- CTA final -->
+  <section class="py-16" style="background: linear-gradient(135deg, #7C3AED 0%, #8B5CF6 100%);">
+    <div class="max-w-3xl mx-auto px-4 text-center">
+      <h2 class="text-2xl md:text-3xl font-bold text-white mb-4">Comece a explorar a Bíblia agora</h2>
+      <p class="text-lg text-purple-200 mb-8">Acesse qualquer livro, capítulo ou versículo. Gratuito, sempre.</p>
+      <div class="flex flex-wrap justify-center gap-4">
+        <a href="/biblia" class="px-8 py-4 rounded-xl font-semibold ui-font bg-white hover:opacity-90 transition-opacity" style="color: #7C3AED;">
+          Acessar a Bíblia →
+        </a>
+        <a href="/biblia/salmos/91" class="px-8 py-4 rounded-xl font-semibold ui-font border-2 border-white text-white hover:bg-white/10 transition-colors">
+          Começar com Salmo 91
+        </a>
+      </div>
+    </div>
+  </section>
+
+</Base>

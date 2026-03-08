@@ -1,0 +1,378 @@
+{
+  "livro": "atos",
+  "livroNome": "Atos",
+  "capitulo": 16,
+  "testamento": "NT",
+  "titulo": "",
+  "autor": "Lucas (médico)",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "Chegou também a Derbe e Listra. E eis que estava ali certo discípulo por nome Timóteo, filho de uma judia crente, mas de pai grego;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "do qual davam bom testemunho os irmãos em Listra e Icônio."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "Paulo quis que este fosse com ele e, tomando-o, o circuncidou por causa dos judeus que estavam naqueles lugares; porque todos sabiam que seu pai era grego."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "Quando iam passando pelas cidades, entregavam aos irmãos, para serem observadas, as decisões que haviam sido tomadas pelos apóstolos e anciãos em Jerusalém."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "Assim as igrejas eram confirmadas na fé, e dia a dia cresciam em número."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "Atravessaram a região frígio-gálata, tendo sido impedidos pelo Espírito Santo de anunciar a palavra na Ásia;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "e tendo chegado diante da Mísia, tentavam ir para Bitínia, mas o Espírito de Jesus não lho permitiu."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "Então, passando pela Mísia, desceram a Trôade."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 9,
+      "versoes": {
+        "ARC": "De noite apareceu a Paulo esta visão: estava ali em pé um homem da Macedônia, que lhe rogava: Passa à Macedônia e ajuda-nos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 10,
+      "versoes": {
+        "ARC": "E quando ele teve esta visão, procurávamos logo partir para a Macedônia, concluindo que Deus nos havia chamado para lhes anunciarmos o evangelho."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 11,
+      "versoes": {
+        "ARC": "Navegando, pois, de Trôade, fomos em direitura a Samotrácia, e no dia seguinte a Neápolis;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 12,
+      "versoes": {
+        "ARC": "e dali para Filipos, que é a primeira cidade desse distrito da Macedônia, e colônia romana; e estivemos alguns dias nessa cidade."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 13,
+      "versoes": {
+        "ARC": "No sábado saímos portas afora para a beira do rio, onde julgávamos haver um lugar de oração e, sentados, falávamos às mulheres ali reunidas."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 14,
+      "versoes": {
+        "ARC": "E certa mulher chamada Lídia, vendedora de púrpura, da cidade de Tiatira, e que temia a Deus, nos escutava e o Senhor lhe abriu o coração para atender às coisas que Paulo dizia."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 15,
+      "versoes": {
+        "ARC": "Depois que foi batizada, ela e a sua casa, rogou-nos, dizendo: Se haveis julgado que eu sou fiel ao Senhor, entrai em minha casa, e ficai ali. E nos constrangeu a isso."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 16,
+      "versoes": {
+        "ARC": "Ora, aconteceu que quando íamos ao lugar de oração, nos veio ao encontro uma jovem que tinha um espírito adivinhador, e que, adivinhando, dava grande lucro a seus senhores."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 17,
+      "versoes": {
+        "ARC": "Ela, seguindo a Paulo e a nós, clamava, dizendo: São servos do Deus Altíssimo estes homens que vos anunciam um caminho de salvação."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 18,
+      "versoes": {
+        "ARC": "E fazia isto por muitos dias. Mas Paulo, perturbado, voltou-se e disse ao espírito: Eu te ordeno em nome de Jesus Cristo que saias dela. E na mesma hora saiu."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 19,
+      "versoes": {
+        "ARC": "Ora, vendo seus senhores que a esperança do seu lucro havia desaparecido, prenderam a Paulo e Silas, e os arrastaram para uma praça à presença dos magistrados."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 20,
+      "versoes": {
+        "ARC": "E, apresentando-os aos magistrados, disseram: Estes homens, sendo judeus, estão perturbando muito a nossa cidade,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 21,
+      "versoes": {
+        "ARC": "e pregam costumes que não nos é lícito receber nem praticar, sendo nós romanos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 22,
+      "versoes": {
+        "ARC": "A multidão levantou-se à uma contra eles, e os magistrados, rasgando-lhes os vestidos, mandaram açoitá-los com varas."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 23,
+      "versoes": {
+        "ARC": "E, havendo-lhes dado muitos açoites, os lançaram na prisão, mandando ao carcereiro que os guardasse com segurança."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 24,
+      "versoes": {
+        "ARC": "Ele, tendo recebido tal ordem, os lançou na prisão interior e lhes segurou os pés no tronco."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 25,
+      "versoes": {
+        "ARC": "Pela meia-noite Paulo e Silas oravam e cantavam hinos a Deus, enquanto os presos os escutavam."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 26,
+      "versoes": {
+        "ARC": "De repente houve um tão grande terremoto que foram abalados os alicerces do cárcere, e logo se abriram todas as portas e foram soltos os grilhões de todos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 27,
+      "versoes": {
+        "ARC": "Ora, o carcereiro, tendo acordado e vendo abertas as portas da prisão, tirou a espada e ia suicidar-se, supondo que os presos tivessem fugido."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 28,
+      "versoes": {
+        "ARC": "Mas Paulo bradou em alta voz, dizendo: Não te faças nenhum mal, porque todos aqui estamos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 29,
+      "versoes": {
+        "ARC": "Tendo ele pedido luz, saltou dentro e, todo trêmulo, se prostrou ante Paulo e Silas"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 30,
+      "versoes": {
+        "ARC": "e, tirando-os para fora, disse: Senhores, que me é necessário fazer para me salvar?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 31,
+      "versoes": {
+        "ARC": "Responderam eles: Crê no Senhor Jesus e serás salvo, tu e tua casa."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 32,
+      "versoes": {
+        "ARC": "Então lhe pregaram a palavra de Deus, e a todos os que estavam em sua casa."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 33,
+      "versoes": {
+        "ARC": "Tomando-os ele consigo naquela mesma hora da noite, lavou-lhes as feridas; e logo foi batizado, ele e todos os seus."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 34,
+      "versoes": {
+        "ARC": "Então os fez subir para sua casa, pôs-lhes a mesa e alegrou-se muito com toda a sua casa, por ter crido em Deus."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 35,
+      "versoes": {
+        "ARC": "Quando amanheceu, os magistrados mandaram quadrilheiros a dizer: Soltai aqueles homens."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 36,
+      "versoes": {
+        "ARC": "E o carcereiro transmitiu a Paulo estas palavras, dizendo: Os magistrados mandaram que fosseis soltos; agora, pois, saí e ide em paz."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 37,
+      "versoes": {
+        "ARC": "Mas Paulo respondeu-lhes: Açoitaram-nos publicamente sem sermos condenados, sendo cidadãos romanos, e nos lançaram na prisão, e agora encobertamente nos lançam fora? De modo nenhum será assim; mas venham eles mesmos e nos tirem."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 38,
+      "versoes": {
+        "ARC": "E os quadrilheiros foram dizer aos magistrados estas palavras, e estes temeram quando ouviram que eles eram romanos;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 39,
+      "versoes": {
+        "ARC": "vieram, pediram-lhes desculpas e, tirando-os para fora, rogavam que se retirassem da cidade."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 40,
+      "versoes": {
+        "ARC": "Então eles saíram da prisão, entraram em casa de Lídia, e, vendo os irmãos, os confortaram, e partiram."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

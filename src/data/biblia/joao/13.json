@@ -1,0 +1,360 @@
+{
+  "livro": "joao",
+  "livroNome": "João",
+  "capitulo": 13,
+  "testamento": "NT",
+  "titulo": "",
+  "autor": "João (apóstolo)",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "Antes da festa da páscoa, sabendo Jesus que era chegada a sua hora de passar deste mundo para o Pai, e havendo amado os seus que estavam no mundo, amou-os até o fim."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "Enquanto ceavam, tendo já o Diabo posto no coração de Judas, filho de Simão Iscariotes, que o traísse,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "Jesus, sabendo que o Pai lhe entregara tudo nas mãos, e que viera de Deus e para Deus voltava,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "levantou-se da ceia, tirou o manto e, tomando uma toalha, cingiu-se."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "Depois deitou água na bacia e começou a lavar os pés aos discípulos, e a enxugar-lhos com a toalha com que estava cingido."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "Chegou, pois, a Simão Pedro, que lhe disse: Senhor, lavas-me os pés a mim?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "Respondeu-lhe Jesus: O que eu faço, tu não o sabes agora; mas depois o entenderás."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "Tornou-lhe Pedro: Nunca me lavarás os pés. Replicou-lhe Jesus: Se eu não te lavar, não tens parte comigo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 9,
+      "versoes": {
+        "ARC": "Disse-lhe Simão Pedro: Senhor, não somente os meus pés, mas também as mãos e a cabeça."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 10,
+      "versoes": {
+        "ARC": "Respondeu-lhe Jesus: Aquele que se banhou não necessita de lavar senão os pés, pois no mais está todo limpo; e vós estais limpos, mas não todos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 11,
+      "versoes": {
+        "ARC": "Pois ele sabia quem o estava traindo; por isso disse: Nem todos estais limpos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 12,
+      "versoes": {
+        "ARC": "Ora, depois de lhes ter lavado os pés, tomou o manto, tornou a reclinar-se à mesa e perguntou-lhes: Entendeis o que vos tenho feito?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 13,
+      "versoes": {
+        "ARC": "Vós me chamais Mestre e Senhor; e dizeis bem, porque eu o sou."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 14,
+      "versoes": {
+        "ARC": "Ora, se eu, o Senhor e Mestre, vos lavei os pés, também vós deveis lavar os pés uns aos outros."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 15,
+      "versoes": {
+        "ARC": "Porque eu vos dei exemplo, para que, como eu vos fiz, façais vós também."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 16,
+      "versoes": {
+        "ARC": "Em verdade, em verdade vos digo: Não é o servo maior do que o seu senhor, nem o enviado maior do que aquele que o enviou."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 17,
+      "versoes": {
+        "ARC": "Se sabeis estas coisas, bem-aventurados sois se as praticardes."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 18,
+      "versoes": {
+        "ARC": "Não falo de todos vós; eu conheço aqueles que escolhi; mas para que se cumprisse a escritura: O que comia do meu pão, levantou contra mim o seu calcanhar."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 19,
+      "versoes": {
+        "ARC": "Desde já no-lo digo, antes que suceda, para que, quando suceder, creiais que eu sou."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 20,
+      "versoes": {
+        "ARC": "Em verdade, em verdade vos digo: Quem receber aquele que eu enviar, a mim me recebe; e quem me recebe a mim, recebe aquele que me enviou."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 21,
+      "versoes": {
+        "ARC": "Tendo Jesus dito isto, turbou-se em espírito, e declarou: Em verdade, em verdade vos digo que um de vós me há de trair."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 22,
+      "versoes": {
+        "ARC": "Os discípulos se entreolhavam, perplexos, sem saber de quem ele falava."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 23,
+      "versoes": {
+        "ARC": "Ora, achava-se reclinado sobre o peito de Jesus um de seus discípulos, aquele a quem Jesus amava."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 24,
+      "versoes": {
+        "ARC": "A esse, pois, fez Simão Pedro sinal, e lhe pediu: Pergunta-lhe de quem é que fala."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 25,
+      "versoes": {
+        "ARC": "Aquele discípulo, recostando-se assim ao peito de Jesus, perguntou-lhe: Senhor, quem é?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 26,
+      "versoes": {
+        "ARC": "Respondeu Jesus: É aquele a quem eu der o pedaço de pão molhado. Tendo, pois, molhado um bocado de pão, deu-o a Judas, filho de Simão Iscariotes."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 27,
+      "versoes": {
+        "ARC": "E, logo após o bocado, entrou nele Satanás. Disse-lhe, pois, Jesus: O que fazes, faze-o depressa."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 28,
+      "versoes": {
+        "ARC": "E nenhum dos que estavam à mesa percebeu a que propósito lhe disse isto;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 29,
+      "versoes": {
+        "ARC": "pois, como Judas tinha a bolsa, pensavam alguns que Jesus lhe queria dizer: Compra o que nos é necessário para a festa; ou, que desse alguma coisa aos pobres."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 30,
+      "versoes": {
+        "ARC": "Então ele, tendo recebido o bocado saiu logo. E era noite."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 31,
+      "versoes": {
+        "ARC": "Tendo ele, pois, saído, disse Jesus: Agora é glorificado o Filho do homem, e Deus é glorificado nele;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 32,
+      "versoes": {
+        "ARC": "se Deus é glorificado nele, também Deus o glorificará em si mesmo, e logo o há de glorificar."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 33,
+      "versoes": {
+        "ARC": "Filhinhos, ainda por um pouco estou convosco. Procurar-me-eis; e, como eu disse aos judeus, também a vós o digo agora: Para onde eu vou, não podeis vós ir."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 34,
+      "versoes": {
+        "ARC": "Um novo mandamento vos dou: que vos ameis uns aos outros; assim como eu vos amei a vós, que também vós vos ameis uns aos outros."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 35,
+      "versoes": {
+        "ARC": "Nisto conhecerão todos que sois meus discípulos, se tiverdes amor uns aos outros."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 36,
+      "versoes": {
+        "ARC": "Perguntou-lhe Simão Pedro: Senhor, para onde vais? Respondeu Jesus; Para onde eu vou, não podes agora seguir-me; mais tarde, porém, me seguirás."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 37,
+      "versoes": {
+        "ARC": "Disse-lhe Pedro: Por que não posso seguir-te agora? Por ti darei a minha vida."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 38,
+      "versoes": {
+        "ARC": "Respondeu Jesus: Darás a tua vida por mim? Em verdade, em verdade te digo: Não cantará o galo até que me tenhas negado três vezes."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

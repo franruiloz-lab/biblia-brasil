@@ -1,0 +1,63 @@
+{
+  "livro": "salmos",
+  "livroNome": "Salmos",
+  "capitulo": 15,
+  "testamento": "AT",
+  "titulo": "",
+  "autor": "Davi e outros",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "Quem, Senhor, habitará na tua tenda? quem morará no teu santo monte?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "Aquele que anda irrepreensivelmente e pratica a justiça, e do coração fala a verdade;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "que não difama com a sua língua, nem faz o mal ao seu próximo, nem contra ele aceita nenhuma afronta;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "aquele a cujos olhos o réprobo é desprezado, mas que honra os que temem ao Senhor; aquele que, embora jure com dano seu, não muda;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "que não empresta o seu dinheiro a juros, nem recebe peitas contra o inocente. Aquele que assim procede nunca será abalado."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

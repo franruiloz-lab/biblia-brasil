@@ -1,0 +1,169 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --color-primary: #7C3AED;
+    --color-primary-dark: #6D28D9;
+    --color-primary-bg: #EDE9FE;
+    --color-accent: #D97706;
+    --color-bg: #FAFAF9;
+    --color-bg-card: #FFFFFF;
+    --color-text: #1C1917;
+    --color-text-muted: #78716C;
+    --color-border: #E7E5E4;
+    --color-verse-bg: #F5F3FF;
+    --color-hover-row: #F5F3FF;
+    --color-nt-bg: #ECFDF5;
+    --color-nt-text: #059669;
+  }
+
+  [data-theme="dark"] {
+    --color-primary-bg: #2D1B69;
+    --color-bg: #0F0F0F;
+    --color-bg-card: #1A1A1A;
+    --color-text: #F5F5F4;
+    --color-text-muted: #A8A29E;
+    --color-border: #292524;
+    --color-verse-bg: #1E1B4B;
+    --color-hover-row: #1E1B4B;
+    --color-nt-bg: #064E3B;
+    --color-nt-text: #6EE7B7;
+  }
+
+  html {
+    scroll-behavior: smooth;
+    font-size: 16px;
+  }
+
+  body {
+    background-color: var(--color-bg);
+    color: var(--color-text);
+    font-family: 'Georgia', 'Times New Roman', serif;
+    line-height: 1.7;
+    transition: background-color 0.2s, color 0.2s;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Georgia', serif;
+    line-height: 1.3;
+    color: var(--color-text);
+  }
+
+  .ui-font {
+    font-family: system-ui, -apple-system, sans-serif;
+  }
+}
+
+@layer components {
+  .verse-text {
+    font-size: 1.15rem;
+    line-height: 1.8;
+    font-family: 'Georgia', serif;
+    color: var(--color-text);
+  }
+
+  .verse-card {
+    background-color: var(--color-verse-bg);
+    border-left: 4px solid var(--color-primary);
+    padding: 1.25rem 1.5rem;
+    border-radius: 0 0.5rem 0.5rem 0;
+    margin-bottom: 1rem;
+  }
+
+  .btn-share {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.5rem 1rem;
+    border-radius: 0.5rem;
+    font-size: 0.875rem;
+    font-weight: 600;
+    font-family: system-ui, sans-serif;
+    cursor: pointer;
+    transition: opacity 0.15s, transform 0.1s;
+  }
+
+  .btn-share:hover {
+    opacity: 0.9;
+    transform: translateY(-1px);
+  }
+
+  .btn-whatsapp {
+    background-color: #25D366;
+    color: white;
+  }
+
+  .btn-copy {
+    background-color: var(--color-border);
+    color: var(--color-text);
+  }
+
+  .toc-link {
+    display: block;
+    padding: 0.25rem 0.5rem;
+    border-radius: 0.25rem;
+    font-size: 0.875rem;
+    color: var(--color-text-muted);
+    text-decoration: none;
+    transition: all 0.15s;
+    font-family: system-ui, sans-serif;
+  }
+
+  .toc-link:hover {
+    color: var(--color-primary);
+    background-color: var(--color-verse-bg);
+  }
+
+  .faq-item {
+    border-bottom: 1px solid var(--color-border);
+  }
+
+  .badge {
+    display: inline-flex;
+    align-items: center;
+    padding: 0.2rem 0.6rem;
+    border-radius: 9999px;
+    font-size: 0.75rem;
+    font-weight: 600;
+    font-family: system-ui, sans-serif;
+    background-color: var(--color-verse-bg);
+    color: var(--color-primary);
+  }
+
+  .version-tab {
+    padding: 0.4rem 1rem;
+    border-radius: 0.375rem;
+    font-size: 0.8rem;
+    font-weight: 700;
+    font-family: system-ui, sans-serif;
+    cursor: pointer;
+    transition: all 0.15s;
+    background: transparent;
+    border: 2px solid var(--color-border);
+    color: var(--color-text-muted);
+  }
+
+  .version-tab.active {
+    background-color: var(--color-primary);
+    border-color: var(--color-primary);
+    color: white;
+  }
+
+  .prose-biblia p {
+    margin-bottom: 1rem;
+  }
+
+  .prose-biblia strong {
+    color: var(--color-primary);
+  }
+
+  .versiculo-row:hover {
+    background-color: var(--color-hover-row);
+  }
+
+  .faq-summary:hover {
+    background-color: var(--color-hover-row);
+  }
+}

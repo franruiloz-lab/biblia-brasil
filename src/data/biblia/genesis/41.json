@@ -1,0 +1,531 @@
+{
+  "livro": "genesis",
+  "livroNome": "Gênesis",
+  "capitulo": 41,
+  "testamento": "AT",
+  "titulo": "",
+  "autor": "Moisés",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "Passados dois anos inteiros, Faraó sonhou que estava em pé junto ao rio Nilo;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "e eis que subiam do rio sete vacas, formosas à vista e gordas de carne, e pastavam no carriçal."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "Após elas subiam do rio outras sete vacas, feias à vista e magras de carne; e paravam junto às outras vacas à beira do Nilo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "E as vacas feias à vista e magras de carne devoravam as sete formosas à vista e gordas. Então Faraó acordou."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "Depois dormiu e tornou a sonhar; e eis que brotavam dum mesmo pé sete espigas cheias e boas."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "Após elas brotavam sete espigas miúdas e queimadas do vento oriental;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "e as espigas miúdas devoravam as sete espigas grandes e cheias. Então Faraó acordou, e eis que era um sonho."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "Pela manhã o seu espírito estava perturbado; pelo que mandou chamar todos os adivinhadores do Egito, e todos os seus sábios. Faraó contou-lhes os seus sonhos, mas não havia quem lhos interpretasse. Estavam no cárcere da casa de seu senhor, dizendo vossos semblantes tão tristes hoje?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 9,
+      "versoes": {
+        "ARC": "Então disse o copeiro-mor a Faraó: Das minhas faltas me lembro hoje:"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 10,
+      "versoes": {
+        "ARC": "Faraó estava muito indignado contra os seus servos, e entregou-me à prisão na casa do capitão da guarda, a mim e ao padeiro chefe."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 11,
+      "versoes": {
+        "ARC": "Então tivemos um sonho na mesma noite, eu e ele, e cada sonho com sua própria interpretação."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 12,
+      "versoes": {
+        "ARC": "Estava ali conosco um moço hebreu, servo do capitão da guarda, e contamos-lhe os sonhos, e ele interpretou os nossos sonhos, a cada um interpretou conforme o seu sonho."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 13,
+      "versoes": {
+        "ARC": "E conforme a sua interpretação, assim mesmo aconteceu: eu fui restituído ao meu cargo, e ele foi enforcado."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 14,
+      "versoes": {
+        "ARC": "Então Faraó mandou chamar a José, e o fizeram sair apressadamente da masmorra. Ele se barbeou, mudou de roupa e apresentou-se a Faraó."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 15,
+      "versoes": {
+        "ARC": "Disse Faraó a José: Eu tive um sonho e não há quem o interprete. Mas de ti ouvi dizer que, ouvindo contar um sonho, podes interpretá-lo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 16,
+      "versoes": {
+        "ARC": "Respondeu José a Faraó: Isso não está em mim, mas Deus é que dará uma resposta de paz a Faraó."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 17,
+      "versoes": {
+        "ARC": "Então disse Faraó a José: Em meu sonho eu estava em pé à beira do rio Nilo,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 18,
+      "versoes": {
+        "ARC": "e subiam do rio sete vacas gordas e formosas à vista, e pastavam entre os juncos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 19,
+      "versoes": {
+        "ARC": "Após elas subiam outras sete vacas, fracas, muito feias à vista e magras de carne, tão feias quais nunca vi em toda terra do Egito."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 20,
+      "versoes": {
+        "ARC": "As vacas magras e feias devoravam as primeiras sete vacas gordas."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 21,
+      "versoes": {
+        "ARC": "Mas depois de as terem consumido, não se podia reconhecer que as houvessem consumido; a sua aparência era tão feia como no princípio. Então acordei."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 22,
+      "versoes": {
+        "ARC": "Depois vi, em meu sonho, que de um mesmo pé subiam sete espigas cheias e boas."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 23,
+      "versoes": {
+        "ARC": "Após elas brotavam sete espigas secas, miúdas e queimadas do vento oriental."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 24,
+      "versoes": {
+        "ARC": "As sete espigas miúdas devoravam as sete espigas boas. Contei-o aos magos, mas não houve quem o interpretasse."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 25,
+      "versoes": {
+        "ARC": "Então disse José a Faraó: O sonho de Faraó é um só. O que Deus há de fazer, notificou-o a Faraó."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 26,
+      "versoes": {
+        "ARC": "As sete vacas boas são sete anos, e as sete espigas boas também são sete anos; o sonho é um só."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 27,
+      "versoes": {
+        "ARC": "As sete vacas magras e feias que subiam após as primeiras, são sete anos, como as sete espigas miúdas e queimadas do vento oriental: são sete anos de fome."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 28,
+      "versoes": {
+        "ARC": "Esta é a palavra que eu disse a Faraó: o que Deus há de fazer mostro-o a Faraó."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 29,
+      "versoes": {
+        "ARC": "Vêm sete anos de grande fartura em toda terra do Egito."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 30,
+      "versoes": {
+        "ARC": "Depois deles levantar-se-ão sete anos de fome, e toda aquela fartura será esquecida na terra do Egito, e a fome consumirá a terra."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 31,
+      "versoes": {
+        "ARC": "Não será conhecida a abundância na terra, por causa daquela fome que seguirá; porquanto será gravíssima."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 32,
+      "versoes": {
+        "ARC": "Ora, se o sonho foi duplicado a Faraó, é porque esta coisa é determinada por Deus, e ele brevemente a fará."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 33,
+      "versoes": {
+        "ARC": "Portanto, proveja-se agora Faraó de um homem entendido e sábio, e o ponha sobre a terra do Egito."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 34,
+      "versoes": {
+        "ARC": "Faça isto Faraó: nomeie administradores sobre a terra, que tomem a quinta parte dos produtos da terra do Egito nos sete anos de fartura;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 35,
+      "versoes": {
+        "ARC": "e ajuntem eles todo o mantimento destes bons anos que vêm, e amontoem trigo debaixo da mão de Faraó, para mantimento nas cidades e o guardem;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 36,
+      "versoes": {
+        "ARC": "assim será o mantimento para provimento da terra, para os sete anos de fome, que haverá na terra do Egito; para que a terra não pereça de fome."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 37,
+      "versoes": {
+        "ARC": "Esse parecer foi bom aos olhos de Faraó, e aos olhos de todos os seus servos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 38,
+      "versoes": {
+        "ARC": "Perguntou, pois, Faraó a seus servos: Poderíamos achar um homem como este, em quem haja o espírito de Deus?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 39,
+      "versoes": {
+        "ARC": "Depois disse Faraó a José: Porquanto Deus te fez saber tudo isto, ninguém há tão entendido e sábio como tu."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 40,
+      "versoes": {
+        "ARC": "Tu estarás sobre a minha casa, e por tua voz se governará todo o meu povo; somente no trono eu serei maior que tu."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 41,
+      "versoes": {
+        "ARC": "Disse mais Faraó a José: Vê, eu te hei posto sobre toda a terra do Egito."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 42,
+      "versoes": {
+        "ARC": "E Faraó tirou da mão o seu anel-sinete e pô-lo na mão de José, vestiu-o de traje de linho fino, e lhe pôs ao pescoço um colar de ouro."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 43,
+      "versoes": {
+        "ARC": "Ademais, fê-lo subir ao seu segundo carro, e clamavam diante dele: Ajoelhai-vos. Assim Faraó o constituiu sobre toda a terra do Egito."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 44,
+      "versoes": {
+        "ARC": "Ainda disse Faraó a José: Eu sou Faraó; sem ti, pois, ninguém levantará a mão ou o pé em toda a terra do Egito."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 45,
+      "versoes": {
+        "ARC": "Faraó chamou a José Zafnate-Paneã, e deu-lhe por mulher Asenate, filha de Potífera, sacerdote de Om. Depois saiu José por toda a terra do Egito."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 46,
+      "versoes": {
+        "ARC": "Ora, José era da idade de trinta anos, quando se apresentou a Faraó, rei do Egito. E saiu José da presença de Faraó e passou por toda a terra do Egito."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 47,
+      "versoes": {
+        "ARC": "Durante os sete anos de fartura a terra produziu com abundância;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 48,
+      "versoes": {
+        "ARC": "e José ajuntou todo o mantimento dos sete anos, que houve na terra do Egito, e o guardou nas cidades; o mantimento do campo que estava ao redor de cada cidade, guardou-o dentro da mesma."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 49,
+      "versoes": {
+        "ARC": "Assim José ajuntou muitíssimo trigo, como a areia do mar, até que cessou de contar; porque não se podia mais contá-lo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 50,
+      "versoes": {
+        "ARC": "Antes que viesse o ano da fome, nasceram a José dois filhos, que lhe deu Asenate, filha de Potífera, sacerdote de Om."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 51,
+      "versoes": {
+        "ARC": "E chamou José ao primogênito Manassés; porque disse: Deus me fez esquecer de todo o meu trabalho, e de toda a casa de meu pai."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 52,
+      "versoes": {
+        "ARC": "Ao segundo chamou Efraim; porque disse: Deus me fez crescer na terra da minha aflição."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 53,
+      "versoes": {
+        "ARC": "Acabaram-se, então, os sete anos de fartura que houve na terra do Egito;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 54,
+      "versoes": {
+        "ARC": "e começaram a vir os sete anos de fome, como José tinha dito; e havia fome em todas as terras; porém, em toda a terra do Egito havia pão."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 55,
+      "versoes": {
+        "ARC": "Depois toda a terra do Egito teve fome, e o povo clamou a Faraó por pão; e Faraó disse a todos os egípcios: Ide a José; o que ele vos disser, fazei."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 56,
+      "versoes": {
+        "ARC": "De modo que, havendo fome sobre toda a terra, abriu José todos os depósitos, e vendia aos egípcios; porque a fome prevaleceu na terra do Egito."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 57,
+      "versoes": {
+        "ARC": "Também de todas as terras vinham ao Egito, para comprarem de José; porquanto a fome prevaleceu em todas as terras."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

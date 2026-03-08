@@ -1,0 +1,387 @@
+{
+  "livro": "numeros",
+  "livroNome": "Números",
+  "capitulo": 22,
+  "testamento": "AT",
+  "titulo": "",
+  "autor": "Moisés",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "Depois os filhos de Israel partiram, e acamparam-se nas planícies de Moabe, além do Jordão, na altura de Jericó."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "Ora, Balaque, filho de Zipor, viu tudo o que Israel fizera aos amorreus."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "E Moabe tinha grande medo do povo, porque era muito; e Moabe andava angustiado por causa dos filhos de Israel."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "Por isso disse aos anciãos de Midiã: Agora esta multidão lamberá tudo quanto houver ao redor de nós, como o boi lambe a erva do campo. Nesse tempo Balaque, filho de Zipor, era rei de Moabe."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "Ele enviou mensageiros a Balaão, filho de Beor, a Petor, que está junto ao rio, à terra dos filhos do seu povo, a fim de chamá-lo, dizendo: Eis que saiu do Egito um povo, que cobre a face da terra e estaciona defronte de mim."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "Vem pois agora, rogo-te, amaldiçoar-me este povo, pois mais poderoso é do que eu; porventura prevalecerei, de modo que o possa ferir e expulsar da terra; porque eu sei que será abençoado aquele a quem tu abençoares, e amaldiçoado aquele a quem tu amaldiçoares."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "Foram-se, pois, os anciãos de Moabe e os anciãos de Midiã, com o preço dos encantamentos nas mãos e, chegando a Balaão, referiram-lhe as palavras de Balaque."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "Ele lhes respondeu: Passai aqui esta noite, e vos trarei a resposta, como o Senhor me falar. Então os príncipes de Moabe ficaram com Balaão."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 9,
+      "versoes": {
+        "ARC": "Então veio Deus a Balaão, e perguntou: Quem são estes homens que estão contigo?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 10,
+      "versoes": {
+        "ARC": "Respondeu Balaão a Deus: Balaque, filho de Zipor, rei de Moabe, mos enviou, dizendo:"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 11,
+      "versoes": {
+        "ARC": "Eis que o povo que saiu do Egito cobre a face da terra; vem agora amaldiçoar-mo; porventura poderei pelejar contra ele e expulsá-lo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 12,
+      "versoes": {
+        "ARC": "E Deus disse a Balaão: Não irás com eles; não amaldiçoarás a este povo, porquanto é bendito."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 13,
+      "versoes": {
+        "ARC": "Levantando-se Balaão pela manhã, disse aos príncipes de Balaque: Ide para a vossa terra, porque o Senhor recusa deixar-me ir convosco."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 14,
+      "versoes": {
+        "ARC": "Levantaram-se, pois, os príncipes de Moabe, vieram a Balaque e disseram: Balaão recusou vir conosco."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 15,
+      "versoes": {
+        "ARC": "Balaque, porém, tornou a enviar príncipes, em maior número e mais honrados do que aqueles."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 16,
+      "versoes": {
+        "ARC": "Estes vieram a Balaão e lhe disseram: Assim diz Balaque, filho de Zipor: Rogo-te que não te demores em vir a mim,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 17,
+      "versoes": {
+        "ARC": "porque grandemente te honrarei, e farei tudo o que me disseres; vem pois, rogo-te, amaldiçoar-me este povo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 18,
+      "versoes": {
+        "ARC": "Respondeu Balaão aos servos de Balaque: Ainda que Balaque me quisesse dar a sua casa cheia de prata e de ouro, eu não poderia ir além da ordem do Senhor meu Deus, para fazer coisa alguma, nem pequena nem grande."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 19,
+      "versoes": {
+        "ARC": "Agora, pois, rogo-vos que fiqueis aqui ainda esta noite, para que eu saiba o que o Senhor me dirá mais."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 20,
+      "versoes": {
+        "ARC": "Veio, pois, Deus a Balaão, de noite, e disse-lhe: Já que esses homens te vieram chamar, levanta-te, vai com eles; todavia, farás somente aquilo que eu te disser."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 21,
+      "versoes": {
+        "ARC": "Então levantou-se Balaão pela manhã, albardou a sua jumenta, e partiu com os príncipes de Moabe."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 22,
+      "versoes": {
+        "ARC": "A ira de Deus se acendeu, porque ele ia, e o anjo do Senhor pôs-se-lhe no caminho por adversário. Ora, ele ia montado na sua jumenta, tendo consigo os seus dois servos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 23,
+      "versoes": {
+        "ARC": "A jumenta viu o anjo do Senhor parado no caminho, com a sua espada desembainhada na mão e, desviando-se do caminho, meteu-se pelo campo; pelo que Balaão espancou a jumenta para fazê-la tornar ao caminho."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 24,
+      "versoes": {
+        "ARC": "Mas o anjo do Senhor pôs-se numa vereda entre as vinhas, havendo uma sebe de um e de outro lado."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 25,
+      "versoes": {
+        "ARC": "Vendo, pois, a jumenta o anjo do Senhor, coseu-se com a sebe, e apertou contra a sebe o pé de Balaão; pelo que ele tornou a espancá-la."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 26,
+      "versoes": {
+        "ARC": "Então o anjo do Senhor passou mais adiante, e pôs-se num lugar estreito, onde não havia caminho para se desviar nem para a direita nem para a esquerda."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 27,
+      "versoes": {
+        "ARC": "E, vendo a jumenta o anjo do Senhor, deitou-se debaixo de Balaão; e a ira de Balaão se acendeu, e ele espancou a jumenta com o bordão."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 28,
+      "versoes": {
+        "ARC": "Nisso abriu o Senhor a boca da jumenta, a qual perguntou a Balaão: Que te fiz eu, para que me espancasses estas três vezes?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 29,
+      "versoes": {
+        "ARC": "Respondeu Balaão à jumenta: Porque zombaste de mim; oxalá tivesse eu uma espada na mão, pois agora te mataria."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 30,
+      "versoes": {
+        "ARC": "Tornou a jumenta a Balaão: Porventura não sou a tua jumenta, em que cavalgaste toda a tua vida até hoje? Porventura tem sido o meu costume fazer assim para contigo? E ele respondeu: Não."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 31,
+      "versoes": {
+        "ARC": "Então o Senhor abriu os olhos a Balaão, e ele viu o anjo do Senhor parado no caminho, e a sua espada desembainhada na mão; pelo que inclinou a cabeça, e prostrou-se com o rosto em terra."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 32,
+      "versoes": {
+        "ARC": "Disse-lhe o anjo do senhor: Por que já três vezes espancaste a tua jumenta? Eis que eu te saí como adversário, porquanto o teu caminho é perverso diante de mim;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 33,
+      "versoes": {
+        "ARC": "a jumenta, porém, me viu, e já três vezes se desviou de diante de mim; se ela não se tivesse desviado de mim, na verdade que eu te haveria matado, deixando a ela com vida."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 34,
+      "versoes": {
+        "ARC": "Respondeu Balaão ao anjo do Senhor: pequei, porque não sabia que estavas parado no caminho para te opores a mim; e agora, se parece mal aos teus olhos, voltarei."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 35,
+      "versoes": {
+        "ARC": "Tornou o anjo do Senhor a Balaão: Vai com os homens, somente a palavra que eu te disser é que falarás. Assim Balaão seguiu com os príncipes de Balaque:"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 36,
+      "versoes": {
+        "ARC": "Tendo, pois, Balaque ouvido que Balaão vinha chegando, saiu-lhe ao encontro até Ir-Moabe, cidade fronteira que está à margem do Arnom."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 37,
+      "versoes": {
+        "ARC": "Perguntou Balaque a Balaão: Porventura não te enviei diligentemente mensageiros a chamar-te? por que não vieste a mim? não posso eu, na verdade, honrar-te?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 38,
+      "versoes": {
+        "ARC": "Respondeu Balaão a Balaque: Eis que sou vindo a ti; porventura poderei eu agora, de mim mesmo, falar alguma coisa? A palavra que Deus puser na minha boca, essa falarei."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 39,
+      "versoes": {
+        "ARC": "E Balaão foi com Balaque, e chegaram a Quiriate-Huzote."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 40,
+      "versoes": {
+        "ARC": "Então Balaque ofereceu em sacrifício bois e ovelhas, e deles enviou a Balaão e aos príncipes que estavam com ele."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 41,
+      "versoes": {
+        "ARC": "E sucedeu que, pela manhã, Balaque tomou a Balaão, e o levou aos altos de Baal, e viu ele dali a parte extrema do povo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

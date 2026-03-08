@@ -1,0 +1,378 @@
+{
+  "livro": "jo",
+  "livroNome": "Jó",
+  "capitulo": 31,
+  "testamento": "AT",
+  "titulo": "",
+  "autor": "Desconhecido",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "Fiz pacto com os meus olhos; como, pois, os fixaria numa virgem?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "Pois que porção teria eu de Deus lá de cima, e que herança do Todo-Poderoso lá do alto?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "Não é a destruição para o perverso, e o desastre para os obradores da iniqüidade?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "Não vê ele os meus caminhos, e não conta todos os meus passos?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "Se eu tenho andado com falsidade, e se o meu pé se tem apressado após o engano"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "{pese-me Deus em balanças fiéis, e conheça a minha integridade};"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "se os meus passos se têm desviado do caminho, e se o meu coração tem seguido os meus olhos, e se qualquer mancha se tem pegado às minhas mãos;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "então semeie eu e outro coma, e seja arrancado o produto do meu campo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 9,
+      "versoes": {
+        "ARC": "Se o meu coração se deixou seduzir por causa duma mulher, ou se eu tenho armado traição à porta do meu próximo,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 10,
+      "versoes": {
+        "ARC": "então moa minha mulher para outro, e outros se encurvem sobre ela."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 11,
+      "versoes": {
+        "ARC": "Pois isso seria um crime infame; sim, isso seria uma iniqüidade para ser punida pelos juízes;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 12,
+      "versoes": {
+        "ARC": "porque seria fogo que consome até Abadom, e desarraigaria toda a minha renda."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 13,
+      "versoes": {
+        "ARC": "Se desprezei o direito do meu servo ou da minha serva, quando eles pleitearam comigo,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 14,
+      "versoes": {
+        "ARC": "então que faria eu quando Deus se levantasse? E quando ele me viesse inquirir, que lhe responderia?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 15,
+      "versoes": {
+        "ARC": "Aquele que me formou no ventre não o fez também a meu servo? E não foi um que nos plasmou na madre?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 16,
+      "versoes": {
+        "ARC": "Se tenho negado aos pobres o que desejavam, ou feito desfalecer os olhos da viúva,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 17,
+      "versoes": {
+        "ARC": "ou se tenho comido sozinho o meu bocado, e não tem comido dele o órfão também"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 18,
+      "versoes": {
+        "ARC": "{pois desde a minha mocidade o órfão cresceu comigo como com seu pai, e a viúva, tenho-a guiado desde o ventre de minha mãe};"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 19,
+      "versoes": {
+        "ARC": "se tenho visto alguém perecer por falta de roupa, ou o necessitado não ter com que se cobrir;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 20,
+      "versoes": {
+        "ARC": "se os seus lombos não me abençoaram, se ele não se aquentava com os velos dos meus cordeiros;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 21,
+      "versoes": {
+        "ARC": "se levantei a minha mão contra o órfão, porque na porta via a minha ajuda;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 22,
+      "versoes": {
+        "ARC": "então caia do ombro a minha espádua, e separe-se o meu braço da sua juntura."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 23,
+      "versoes": {
+        "ARC": "Pois a calamidade vinda de Deus seria para mim um horror, e eu não poderia suportar a sua majestade."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 24,
+      "versoes": {
+        "ARC": "Se do ouro fiz a minha esperança, ou disse ao ouro fino: Tu és a minha confiança;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 25,
+      "versoes": {
+        "ARC": "se me regozijei por ser grande a minha riqueza, e por ter a minha mão alcança o muito;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 26,
+      "versoes": {
+        "ARC": "se olhei para o sol, quando resplandecia, ou para a lua, quando ela caminhava em esplendor,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 27,
+      "versoes": {
+        "ARC": "e o meu coração se deixou enganar em oculto, e a minha boca beijou a minha mão;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 28,
+      "versoes": {
+        "ARC": "isso também seria uma iniqüidade para ser punida pelos juízes; pois assim teria negado a Deus que está lá em cima."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 29,
+      "versoes": {
+        "ARC": "Se me regozijei com a ruína do que me tem ódio, e se exultei quando o mal lhe sobreveio"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 30,
+      "versoes": {
+        "ARC": "{mas eu não deixei pecar a minha boca, pedindo com imprecação a sua morte};"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 31,
+      "versoes": {
+        "ARC": "se as pessoas da minha tenda não disseram: Quem há que não se tenha saciado com carne provida por ele?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 32,
+      "versoes": {
+        "ARC": "O estrangeiro não passava a noite na rua; mas eu abria as minhas portas ao viandante;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 33,
+      "versoes": {
+        "ARC": "se, como Adão, encobri as minhas transgressões, ocultando a minha iniqüidade no meu seio,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 34,
+      "versoes": {
+        "ARC": "porque tinha medo da grande multidão, e o desprezo das famílias me aterrorizava, de modo que me calei, e não saí da porta..."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 35,
+      "versoes": {
+        "ARC": "Ah! quem me dera um que me ouvisse! Eis a minha defesa, que me responda o Todo-Poderoso! Oxalá tivesse eu a acusação escrita pelo meu adversário!"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 36,
+      "versoes": {
+        "ARC": "Por certo eu a levaria sobre o ombro, sobre mim a ataria como coroa."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 37,
+      "versoes": {
+        "ARC": "Eu lhe daria conta dos meus passos; como príncipe me chegaria a ele"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 38,
+      "versoes": {
+        "ARC": "Se a minha terra clamar contra mim, e se os seus sulcos juntamente chorarem;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 39,
+      "versoes": {
+        "ARC": "se comi os seus frutos sem dinheiro, ou se fiz que morressem os seus donos;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 40,
+      "versoes": {
+        "ARC": "por trigo me produza cardos, e por cevada joio. Acabaram-se as palavras de Jó."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

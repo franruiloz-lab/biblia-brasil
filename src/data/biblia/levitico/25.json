@@ -1,0 +1,513 @@
+{
+  "livro": "levitico",
+  "livroNome": "Levítico",
+  "capitulo": 25,
+  "testamento": "AT",
+  "titulo": "",
+  "autor": "Moisés",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "Disse mais o Senhor a Moisés no monte Sinai:"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "Fala aos filhos de Israel e dize-lhes: Quando tiverdes entrado na terra que eu vos dou, a terra guardará um sábado ao Senhor."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "Seis anos semearás a tua terra, e seis anos podarás a tua vinha, e colherás os seus frutos;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "mas no sétimo ano haverá sábado de descanso solene para a terra, um sábado ao Senhor; não semearás o teu campo, nem podarás a tua vinha."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "O que nascer de si mesmo da tua sega não segarás, e as uvas da tua vide não tratada não vindimarás; ano de descanso solene será para a terra."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "Mas os frutos do sábado da terra vos serão por alimento, a ti, e ao teu servo, e à tua serva, e ao teu jornaleiro, e ao estrangeiro que peregrina contigo,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "e ao teu gado, e aos animais que estão na tua terra; todo o seu produto será por mantimento."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "Também contarás sete sábados de anos, sete vezes sete anos; de maneira que os dias dos sete sábados de anos serão quarenta e nove anos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 9,
+      "versoes": {
+        "ARC": "Então, no décimo dia do sétimo mês, farás soar fortemente a trombeta; no dia da expiação fareis soar a trombeta por toda a vossa terra."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 10,
+      "versoes": {
+        "ARC": "E santificareis o ano qüinquagésimo, e apregoareis liberdade na terra a todos os seus habitantes; ano de jubileu será para vós; pois tornareis, cada um à sua possessão, e cada um à sua família."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 11,
+      "versoes": {
+        "ARC": "Esse ano qüinquagésimo será para vós jubileu; não semeareis, nem segareis o que nele nascer de si mesmo, nem nele vindimareis as uvas das vides não tratadas."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 12,
+      "versoes": {
+        "ARC": "Porque é jubileu; santo será para vós; diretamente do campo comereis o seu produto."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 13,
+      "versoes": {
+        "ARC": "Nesse ano do jubileu tornareis, cada um à sua possessão."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 14,
+      "versoes": {
+        "ARC": "Se venderdes alguma coisa ao vosso próximo ou a comprardes da mão do vosso próximo, não vos defraudareis uns aos outros."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 15,
+      "versoes": {
+        "ARC": "Conforme o número de anos desde o jubileu é que comprarás ao teu próximo, e conforme o número de anos das colheitas é que ele te venderá."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 16,
+      "versoes": {
+        "ARC": "Quanto mais forem os anos, tanto mais aumentarás o preço, e quanto menos forem os anos, tanto mais abaixarás o preço; porque é o número das colheitas que ele te vende."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 17,
+      "versoes": {
+        "ARC": "Nenhum de vós oprimirá ao seu próximo; mas temerás o teu Deus; porque eu sou o Senhor vosso Deus."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 18,
+      "versoes": {
+        "ARC": "Pelo que observareis os meus estatutos, e guardareis os meus preceitos e os cumprireis; assim habitareis seguros na terra."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 19,
+      "versoes": {
+        "ARC": "Ela dará o seu fruto, e comereis a fartar; e nela habitareis seguros."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 20,
+      "versoes": {
+        "ARC": "Se disserdes: Que comeremos no sétimo ano, visto que não haveremos de semear, nem fazer a nossa colheita?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 21,
+      "versoes": {
+        "ARC": "então eu mandarei a minha bênção sobre vós no sexto ano, e a terra produzirá fruto bastante para os três anos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 22,
+      "versoes": {
+        "ARC": "No oitavo ano semeareis, e comereis da colheita velha; até o ano nono, até que venha a colheita nova, comereis da velha."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 23,
+      "versoes": {
+        "ARC": "Também não se venderá a terra em perpetuidade, porque a terra é minha; pois vós estais comigo como estrangeiros e peregrinos:"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 24,
+      "versoes": {
+        "ARC": "Portanto em toda a terra da vossa possessão concedereis que seja remida a terra."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 25,
+      "versoes": {
+        "ARC": "Se teu irmão empobrecer e vender uma parte da sua possessão, virá o seu parente mais chegado e remirá o que seu irmão vendeu."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 26,
+      "versoes": {
+        "ARC": "E se alguém não tiver remidor, mas ele mesmo tiver enriquecido e achado o que basta para o seu resgate,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 27,
+      "versoes": {
+        "ARC": "contará os anos desde a sua venda, e o que ficar do preço da venda restituirá ao homem a quem a vendeu, e tornará à sua possessão."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 28,
+      "versoes": {
+        "ARC": "Mas, se as suas posses não bastarem para reavê-la, aquilo que tiver vendido ficará na mão do comprador até o ano do jubileu; porém no ano do jubileu sairá da posse deste, e aquele que vendeu tornará à sua possessão."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 29,
+      "versoes": {
+        "ARC": "Se alguém vender uma casa de moradia em cidade murada, poderá remi-la dentro de um ano inteiro depois da sua venda; durante um ano inteiro terá o direito de a remir."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 30,
+      "versoes": {
+        "ARC": "Mas se, passado um ano inteiro, não tiver sido resgatada, essa casa que está na cidade murada ficará, em perpetuidade, pertencendo ao que a comprou, e à sua descendência; não sairá o seu poder no jubileu."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 31,
+      "versoes": {
+        "ARC": "Todavia as casas das aldeias que não têm muro ao redor serão consideradas como o campo da terra; poderão ser remidas, e sairão do poder do comprador no jubileu."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 32,
+      "versoes": {
+        "ARC": "Também, no tocante às cidades dos levitas, às casas das cidades da sua possessão, terão eles direito perpétuo de remi-las."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 33,
+      "versoes": {
+        "ARC": "E se alguém comprar dos levitas uma casa, a casa comprada e a cidade da sua possessão sairão do poder do comprador no jubileu; porque as casas das cidades dos levitas são a sua possessão no meio dos filhos de Israel."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 34,
+      "versoes": {
+        "ARC": "Mas o campo do arrabalde das suas cidades não se poderá vender, porque lhes é possessão perpétua."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 35,
+      "versoes": {
+        "ARC": "Também, se teu irmão empobrecer ao teu lado, e lhe enfraquecerem as mãos, sustentá-lo-ás; como estrangeiro e peregrino viverá contigo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 36,
+      "versoes": {
+        "ARC": "Não tomarás dele juros nem ganho, mas temerás o teu Deus, para que teu irmão viva contigo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 37,
+      "versoes": {
+        "ARC": "Não lhe darás teu dinheiro a juros, nem os teus víveres por lucro."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 38,
+      "versoes": {
+        "ARC": "Eu sou o Senhor vosso Deus, que vos tirei da terra do Egito, para vos dar a terra de Canaã, para ser o vosso Deus."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 39,
+      "versoes": {
+        "ARC": "Também, se teu irmão empobrecer ao teu lado e vender-se a ti, não o farás servir como escravo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 40,
+      "versoes": {
+        "ARC": "Como jornaleiro, como peregrino estará ele contigo; até o ano do jubileu te servirá;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 41,
+      "versoes": {
+        "ARC": "então sairá do teu serviço, e com ele seus filhos, e tornará à sua família, à possessão de seus pais."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 42,
+      "versoes": {
+        "ARC": "Porque são meus servos, que tirei da terra do Egito; não serão vendidos como escravos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 43,
+      "versoes": {
+        "ARC": "Não dominarás sobre ele com rigor, mas temerás o teu Deus."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 44,
+      "versoes": {
+        "ARC": "E quanto aos escravos ou às escravas que chegares a possuir, das nações que estiverem ao redor de vós, delas é que os comprareis."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 45,
+      "versoes": {
+        "ARC": "Também os comprareis dentre os filhos dos estrangeiros que peregrinarem entre vós, tanto dentre esses como dentre as suas famílias que estiverem convosco, que tiverem eles gerado na vossa terra; e vos serão por possessão."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 46,
+      "versoes": {
+        "ARC": "E deixá-los-eis por herança aos vossos filhos depois de vós, para os herdarem como possessão; desses tomareis os vossos escravos para sempre; mas sobre vossos irmãos, os filhos de Israel, não dominareis com rigor, uns sobre os outros."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 47,
+      "versoes": {
+        "ARC": "Se um estrangeiro ou peregrino que estiver contigo se tornar rico, e teu irmão, que está com ele, empobrecer e vender-se ao estrangeiro ou peregrino que está contigo, ou à linhagem da família do estrangeiro,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 48,
+      "versoes": {
+        "ARC": "depois que se houver vendido, poderá ser remido; um de seus irmãos o poderá remir;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 49,
+      "versoes": {
+        "ARC": "ou seu tio, ou o filho de seu tio, ou qualquer parente chegado da sua família poderá remi-lo; ou, se ele se tiver tornado rico, poderá remir-se a si mesmo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 50,
+      "versoes": {
+        "ARC": "E com aquele que o comprou fará a conta desde o ano em que se vendeu a ele até o ano do jubileu; e o preço da sua venda será conforme o número dos anos; conforme os dias de um jornaleiro estará com ele."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 51,
+      "versoes": {
+        "ARC": "Se ainda faltarem muitos anos, conforme os mesmos restituirá, do dinheiro pelo qual foi comprado, o preço da sua redenção;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 52,
+      "versoes": {
+        "ARC": "e se faltarem poucos anos até o ano do jubileu, fará a conta com ele; segundo o número dos anos restituirá o preço da sua redenção."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 53,
+      "versoes": {
+        "ARC": "Como servo contratado de ano em ano, estará com o comprador; o qual não dominará sobre ele com rigor diante dos teus olhos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 54,
+      "versoes": {
+        "ARC": "E, se não for remido por nenhum desses meios, sairá livre no ano do jubileu, e com ele seus filhos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 55,
+      "versoes": {
+        "ARC": "Porque os filhos de Israel são meus servos; eles são os meus servos que tirei da terra do Egito. Eu sou o Senhor vosso Deus."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

@@ -1,0 +1,333 @@
+{
+  "livro": "marcos",
+  "livroNome": "Marcos",
+  "capitulo": 3,
+  "testamento": "NT",
+  "titulo": "",
+  "autor": "João Marcos",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "Outra vez entrou numa sinagoga, e estava ali um homem que tinha uma das mãos atrofiada."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "E observavam-no para ver se no sábado curaria o homem, a fim de o acusarem."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "E disse Jesus ao homem que tinha a mão atrofiada: Levanta-te e vem para o meio."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "Então lhes perguntou: É lícito no sábado fazer bem, ou fazer mal? salvar a vida ou matar? Eles, porém, se calaram."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "E olhando em redor para eles com indignação, condoendo-se da dureza dos seus corações, disse ao homem: Estende a tua mão. Ele estendeu, e lhe foi restabelecida."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "E os fariseus, saindo dali, entraram logo em conselho com os herodianos contra ele, para o matarem."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "Jesus, porém, se retirou com os seus discípulos para a beira do mar; e uma grande multidão dos da Galiléia o seguiu; também da Judéia,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "e de Jerusalém, da Iduméia e de além do Jordão, e das regiões de Tiro e de Sidom, grandes multidões, ouvindo falar de tudo quanto fazia, vieram ter com ele."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 9,
+      "versoes": {
+        "ARC": "Recomendou, pois, a seus discípulos que se lhe preparasse um barquinho, por causa da multidão, para que não o apertasse;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 10,
+      "versoes": {
+        "ARC": "porque tinha curado a muitos, de modo que todos quantos tinham algum mal arrojavam-se a ele para lhe tocarem."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 11,
+      "versoes": {
+        "ARC": "E os espíritos imundos, quando o viam, prostravam-se diante dele e clamavam, dizendo: Tu és o Filho de Deus."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 12,
+      "versoes": {
+        "ARC": "E ele lhes advertia com insistência que não o dessem a conhecer."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 13,
+      "versoes": {
+        "ARC": "Depois subiu ao monte, e chamou a si os que ele mesmo queria; e vieram a ele."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 14,
+      "versoes": {
+        "ARC": "Então designou doze para que estivessem com ele, e os mandasse a pregar;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 15,
+      "versoes": {
+        "ARC": "e para que tivessem autoridade de expulsar os demônios."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 16,
+      "versoes": {
+        "ARC": "Designou, pois, os doze, a saber: Simão, a quem pôs o nome de Pedro;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 17,
+      "versoes": {
+        "ARC": "Tiago, filho de Zebedeu, e João, irmão de Tiago, aos quais pôs o nome de Boanerges, que significa: Filhos do trovão;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 18,
+      "versoes": {
+        "ARC": "André, Filipe, Bartolomeu, Mateus, Tomé, Tiago, filho de Alfeu, Tadeu, Simão, o cananeu,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 19,
+      "versoes": {
+        "ARC": "e Judas Iscariotes, aquele que o traiu."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 20,
+      "versoes": {
+        "ARC": "Depois entrou numa casa. E afluiu outra vez a multidão, de tal modo que nem podiam comer."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 21,
+      "versoes": {
+        "ARC": "Quando os seus ouviram isso, saíram para o prender; porque diziam: Ele está fora de si."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 22,
+      "versoes": {
+        "ARC": "E os escribas que tinham descido de Jerusalém diziam: Ele está possesso de Belzebu; e: É pelo príncipe dos demônios que expulsa os demônios."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 23,
+      "versoes": {
+        "ARC": "Então Jesus os chamou e lhes disse por parábolas: Como pode Satanás expulsar Satanás?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 24,
+      "versoes": {
+        "ARC": "Pois, se um reino se dividir contra si mesmo, tal reino não pode subsistir;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 25,
+      "versoes": {
+        "ARC": "ou, se uma casa se dividir contra si mesma, tal casa não poderá subsistir;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 26,
+      "versoes": {
+        "ARC": "e se Satanás se tem levantado contra si mesmo, e está dividido, tampouco pode ele subsistir; antes tem fim."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 27,
+      "versoes": {
+        "ARC": "Pois ninguém pode entrar na casa do valente e roubar-lhe os bens, se primeiro não amarrar o valente; e então lhe saqueará a casa."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 28,
+      "versoes": {
+        "ARC": "Em verdade vos digo: Todos os pecados serão perdoados aos filhos dos homens, bem como todas as blasfêmias que proferirem;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 29,
+      "versoes": {
+        "ARC": "mas aquele que blasfemar contra o Espírito Santo, nunca mais terá perdão, mas será réu de pecado eterno."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 30,
+      "versoes": {
+        "ARC": "Porquanto eles diziam: Está possesso de um espírito imundo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 31,
+      "versoes": {
+        "ARC": "Chegaram então sua mãe e seus irmãos e, ficando da parte de fora, mandaram chamá-lo."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 32,
+      "versoes": {
+        "ARC": "E a multidão estava sentada ao redor dele, e disseram-lhe: Eis que tua mãe e teus irmãos estão lá fora e te procuram."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 33,
+      "versoes": {
+        "ARC": "Respondeu-lhes Jesus, dizendo: Quem é minha mãe e meus irmãos!"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 34,
+      "versoes": {
+        "ARC": "E olhando em redor para os que estavam sentados à roda de si, disse: Eis aqui minha mãe e meus irmãos!"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 35,
+      "versoes": {
+        "ARC": "Pois aquele que fizer a vontade de Deus, esse é meu irmão, irmã e mãe."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}

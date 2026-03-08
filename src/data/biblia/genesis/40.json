@@ -1,0 +1,225 @@
+{
+  "livro": "genesis",
+  "livroNome": "Gênesis",
+  "capitulo": 40,
+  "testamento": "AT",
+  "titulo": "",
+  "autor": "Moisés",
+  "versiculos": [
+    {
+      "numero": 1,
+      "versoes": {
+        "ARC": "Depois destas coisas o copeiro do rei do Egito e o seu padeiro ofenderam o seu senhor, o rei do Egito."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 2,
+      "versoes": {
+        "ARC": "Pelo que se indignou Faraó contra os seus dois oficiais, contra o copeiro-mor e contra o padeiro-mor;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 3,
+      "versoes": {
+        "ARC": "e mandou detê-los na casa do capitão da guarda, no cárcere onde José estava preso;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 4,
+      "versoes": {
+        "ARC": "e o capitão da guarda pô-los a cargo de José, que os servia. Assim estiveram por algum tempo em detenção."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 5,
+      "versoes": {
+        "ARC": "Ora, tiveram ambos um sonho, cada um seu sonho na mesma noite, cada um conforme a interpretação do seu sonho, o copeiro e o padeiro do rei do Egito, que se achavam presos no cárcere:"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 6,
+      "versoes": {
+        "ARC": "Quando José veio a eles pela manhã, viu que estavam perturbados:"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 7,
+      "versoes": {
+        "ARC": "Perguntou, pois, a esses oficiais de Faraó, que com ele estavam no cárcere da casa de seu senhor, dizendo: Por que estão os vossos semblantes tão tristes hoje?"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "Responderam-lhe: Tivemos um sonho e ninguém há que o interprete. Pelo que lhes disse José: Porventura não pertencem a Deus as interpretações? Contai-mo, peço-vos."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 9,
+      "versoes": {
+        "ARC": "Então contou o copeiro-mor o seu sonho a José, dizendo-lhe: Eis que em meu sonho havia uma vide diante de mim,"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 10,
+      "versoes": {
+        "ARC": "e na vide três sarmentos; e, tendo a vide brotado, saíam as suas flores, e os seus cachos produziam uvas maduras."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 11,
+      "versoes": {
+        "ARC": "O copo de Faraó estava na minha mão; e, tomando as uvas, eu as espremia no copo de Faraó e entregava o copo na mão de Faraó."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 12,
+      "versoes": {
+        "ARC": "Então disse-lhe José: Esta é a sua interpretação: Os três sarmentos são três dias;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 13,
+      "versoes": {
+        "ARC": "dentro de três dias Faraó levantará a tua cabeça, e te restaurará ao teu cargo; e darás o copo de Faraó na sua mão, conforme o costume antigo, quando eras seu copeiro."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 14,
+      "versoes": {
+        "ARC": "Mas lembra-te de mim, quando te for bem; usa, peço-te, de compaixão para comigo e faze menção de mim a Faraó e tira-me desta casa;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 15,
+      "versoes": {
+        "ARC": "porque, na verdade, fui roubado da terra dos hebreus; e aqui também nada tenho feito para que me pusessem na masmorra."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 16,
+      "versoes": {
+        "ARC": "Quando o padeiro-mor viu que a interpretação era boa, disse a José: Eu também sonhei, e eis que três cestos de pão branco estavam sobre a minha cabeça."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 17,
+      "versoes": {
+        "ARC": "E no cesto mais alto havia para Faraó manjares de todas as qualidades que fazem os padeiros; e as aves os comiam do cesto que estava sobre a minha cabeça."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 18,
+      "versoes": {
+        "ARC": "Então respondeu José: Esta é a interpretação do sonho: Os três cestos são três dias;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 19,
+      "versoes": {
+        "ARC": "dentro de três dias tirará Faraó a tua cabeça, e te pendurará num madeiro, e as aves comerão a tua carne de sobre ti."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 20,
+      "versoes": {
+        "ARC": "E aconteceu ao terceiro dia, o dia natalício de Faraó, que este deu um banquete a todos os seus servos; e levantou a cabeça do copeiro-mor, e a cabeça do padeiro-mor no meio dos seus servos;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 21,
+      "versoes": {
+        "ARC": "e restaurou o copeiro-mor ao seu cargo de copeiro, e este deu o copo na mão de Faraó;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 22,
+      "versoes": {
+        "ARC": "mas ao padeiro-mor enforcou, como José lhes havia interpretado."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
+      "numero": 23,
+      "versoes": {
+        "ARC": "O copeiro-mor, porém, não se lembrou de José, antes se esqueceu dele."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    }
+  ],
+  "explicacao": {
+    "introducao": "",
+    "contexto": "",
+    "aplicacao": ""
+  },
+  "versiculosDestaque": [],
+  "temas": [],
+  "versiculosRelacionadosExternos": []
+}
