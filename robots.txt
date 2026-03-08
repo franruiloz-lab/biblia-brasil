@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://franruiloz-lab.github.io/biblia-brasil/sitemap-index.xml
