@@ -9,6 +9,5 @@ export default defineConfig({
     tailwind(),
     sitemap(),
   ],
-  site: 'https://franruiloz-lab.github.io',
-  base: '/biblia-brasil',
+  site: 'https://bibliadobrasil.com',
 });
