@@ -14,8 +14,17 @@
         "NTLH": "O SENHOR é o meu pastor; tenho tudo o que preciso.",
         "NVT": "O SENHOR é o meu pastor; nada me faltará."
       },
-      "temas": ["provisao", "cuidado-de-deus", "contentamento", "confianca"],
-      "versiculosRelacionados": ["joao/10/11", "salmos/23/6", "filipenses/4/19"],
+      "temas": [
+        "provisao",
+        "cuidado-de-deus",
+        "contentamento",
+        "confianca"
+      ],
+      "versiculosRelacionados": [
+        "joao/10/11",
+        "salmos/23/6",
+        "filipenses/4/19"
+      ],
       "faq": [
         {
           "pergunta": "O que significa 'O Senhor é o meu pastor' em Salmos 23:1?",
@@ -35,7 +44,12 @@
         "NTLH": "Ele me faz descansar em campos verdejantes e me guia a riachos de águas calmas.",
         "NVT": "Ele me faz repousar em pastos verdejantes, conduz-me para junto de águas calmas."
       },
-      "temas": ["descanso", "paz", "provisao", "restauracao"],
+      "temas": [
+        "descanso",
+        "paz",
+        "provisao",
+        "restauracao"
+      ],
       "versiculosRelacionados": [],
       "faq": []
     },
@@ -47,8 +61,15 @@
         "NTLH": "Ele me dá novas forças e me guia por caminhos certos, porque ele é fiel.",
         "NVT": "Ele restaura a minha alma e me guia por caminhos de justiça por amor ao seu nome."
       },
-      "temas": ["restauracao", "renovacao", "direcao-divina"],
-      "versiculosRelacionados": ["isaias/40/31", "salmos/51/12"],
+      "temas": [
+        "restauracao",
+        "renovacao",
+        "direcao-divina"
+      ],
+      "versiculosRelacionados": [
+        "isaias/40/31",
+        "salmos/51/12"
+      ],
       "faq": [
         {
           "pergunta": "O que significa 'refrigera a minha alma' em Salmos 23:3?",
@@ -64,8 +85,18 @@
         "NTLH": "Mesmo que eu ande pelo vale da sombra da morte, não terei medo de coisa alguma, porque você está comigo. Seu cajado e seu bordão me protegem.",
         "NVT": "Mesmo que eu caminhe pelo vale da sombra da morte, não temerei mal algum, pois tu estás comigo; teu cajado e teu bordão me consolam."
       },
-      "temas": ["coragem", "protecao", "presenca-de-deus", "morte", "temor"],
-      "versiculosRelacionados": ["deuteronomio/31/6", "isaias/43/2", "romanos/8/38-39"],
+      "temas": [
+        "coragem",
+        "protecao",
+        "presenca-de-deus",
+        "morte",
+        "temor"
+      ],
+      "versiculosRelacionados": [
+        "deuteronomio/31/6",
+        "isaias/43/2",
+        "romanos/8/38"
+      ],
       "faq": [
         {
           "pergunta": "O que é o 'vale da sombra da morte' em Salmos 23:4?",
@@ -85,7 +116,12 @@
         "NTLH": "Você prepara um banquete para mim na presença dos meus inimigos; você me recebe com honras e enche o meu cálice.",
         "NVT": "Tu preparas para mim uma mesa na presença dos meus inimigos; unges minha cabeça com óleo; meu cálice transborda."
       },
-      "temas": ["bencao", "honra", "abundancia", "vitoria"],
+      "temas": [
+        "bencao",
+        "honra",
+        "abundancia",
+        "vitoria"
+      ],
       "versiculosRelacionados": [],
       "faq": [
         {
@@ -102,8 +138,16 @@
         "NTLH": "Sei que a bondade e o amor de Deus me acompanharão todos os dias da minha vida; e viverei na casa do SENHOR para sempre.",
         "NVT": "Certamente a bondade e a misericórdia me seguirão todos os dias da minha vida, e habitarei na casa do SENHOR para sempre."
       },
-      "temas": ["misericordia", "bondade", "eternidade", "presenca-de-deus"],
-      "versiculosRelacionados": ["jeremias/29/11", "romanos/8/28"],
+      "temas": [
+        "misericordia",
+        "bondade",
+        "eternidade",
+        "presenca-de-deus"
+      ],
+      "versiculosRelacionados": [
+        "jeremias/29/11",
+        "romanos/8/28"
+      ],
       "faq": [
         {
           "pergunta": "O que significa 'bondade e misericórdia me seguirão' em Salmos 23:6?",
@@ -118,12 +162,35 @@
     "teologia": "O Salmo 23 antecipa João 10, onde Jesus Se declara 'o bom Pastor'. A tradição cristã sempre leu este salmo à luz de Cristo — o Pastor que dá a vida pelas ovelhas (João 10:11), que as conhece pelo nome (João 10:3) e que garante que nenhuma se perderá (João 10:28). Ler Salmos 23 é encontrar Jesus em cada versículo.",
     "aplicacao": "Seja em um hospital, num velório, numa crise de ansiedade ou num momento de alegria, Salmos 23 fala a todas as condições humanas. É o salmo da presença — da certeza de que em nenhum momento da vida somos abandonados. Para o brasileiro de hoje, é um lembrete de que o mesmo Deus que cuida dos campos verdes também acompanha pelos vales escuros."
   },
-  "versiculosDestaque": [1, 4, 6],
-  "temas": ["provisao", "descanso", "protecao", "presenca-de-deus", "cuidado-de-deus", "misericordia"],
+  "versiculosDestaque": [
+    1,
+    4,
+    6
+  ],
+  "temas": [
+    "provisao",
+    "descanso",
+    "protecao",
+    "presenca-de-deus",
+    "cuidado-de-deus",
+    "misericordia"
+  ],
   "versiculosRelacionadosExternos": [
-    { "ref": "joao/10/11", "texto": "João 10:11 — Eu sou o bom Pastor que dá a vida pelas ovelhas" },
-    { "ref": "filipenses/4/19", "texto": "Filipenses 4:19 — O meu Deus suprirá todas as vossas necessidades" },
-    { "ref": "isaias/40/31", "texto": "Isaías 40:31 — Os que esperam no SENHOR renovarão as suas forças" },
-    { "ref": "romanos/8/38-39", "texto": "Romanos 8:38-39 — Nada nos separará do amor de Deus" }
+    {
+      "ref": "joao/10/11",
+      "texto": "João 10:11 — Eu sou o bom Pastor que dá a vida pelas ovelhas"
+    },
+    {
+      "ref": "filipenses/4/19",
+      "texto": "Filipenses 4:19 — O meu Deus suprirá todas as vossas necessidades"
+    },
+    {
+      "ref": "isaias/40/31",
+      "texto": "Isaías 40:31 — Os que esperam no SENHOR renovarão as suas forças"
+    },
+    {
+      "ref": "romanos/8/38-39",
+      "texto": "Romanos 8:38-39 — Nada nos separará do amor de Deus"
+    }
   ]
 }

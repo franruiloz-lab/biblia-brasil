@@ -14,8 +14,16 @@
         "NTLH": "Você não sabe? Nunca ouviu dizer? O SENHOR é o Deus eterno; ele criou a terra inteira. Ele nunca se cansa nem perde as forças; não há limite para a sua sabedoria.",
         "NVT": "Você não sabe? Nunca ouviu? O SENHOR é o Deus eterno, o Criador de toda a terra. Ele nunca se cansa nem perde as forças; seu entendimento é insondável."
       },
-      "temas": ["soberania-de-deus", "forca", "criacao", "eterno"],
-      "versiculosRelacionados": ["isaias/40/31", "salmos/121/3-4"],
+      "temas": [
+        "soberania-de-deus",
+        "forca",
+        "criacao",
+        "eterno"
+      ],
+      "versiculosRelacionados": [
+        "isaias/40/31",
+        "salmos/121/3"
+      ],
       "faq": []
     },
     {
@@ -26,8 +34,17 @@
         "NTLH": "Ele dá forças aos cansados e aumenta o vigor dos que estão sem energia.",
         "NVT": "Ele dá força ao cansado e vigor ao que está sem forças."
       },
-      "temas": ["forca", "renovacao", "cansaco", "provisao"],
-      "versiculosRelacionados": ["isaias/40/31", "mateus/11/28", "filipenses/4/13"],
+      "temas": [
+        "forca",
+        "renovacao",
+        "cansaco",
+        "provisao"
+      ],
+      "versiculosRelacionados": [
+        "isaias/40/31",
+        "mateus/11/28",
+        "filipenses/4/13"
+      ],
       "faq": [
         {
           "pergunta": "Deus dá força ao cansado — como isso funciona na prática?",
@@ -43,7 +60,11 @@
         "NTLH": "Mesmo os jovens ficam cansados e exaustos; mesmo o mais forte tropeça e cai.",
         "NVT": "Até os jovens se cansam e se fatigam, e os jovens fortes tropeçam e caem;"
       },
-      "temas": ["cansaco", "fraqueza-humana", "limitacao"],
+      "temas": [
+        "cansaco",
+        "fraqueza-humana",
+        "limitacao"
+      ],
       "versiculosRelacionados": [],
       "faq": []
     },
@@ -55,8 +76,19 @@
         "NTLH": "mas os que confiam no SENHOR renovam as suas forças. Eles voam como se tivessem asas de águia; correm e não ficam cansados; caminham e não ficam exaustos.",
         "NVT": "mas os que esperam no SENHOR renovarão as suas forças; subirão com asas como águias; correrão e não se cansarão; caminharão e não se fatigarão."
       },
-      "temas": ["forca", "renovacao", "esperanca", "aguia", "perseveranca", "confianca"],
-      "versiculosRelacionados": ["salmos/46/1", "filipenses/4/13", "mateus/11/28"],
+      "temas": [
+        "forca",
+        "renovacao",
+        "esperanca",
+        "aguia",
+        "perseveranca",
+        "confianca"
+      ],
+      "versiculosRelacionados": [
+        "salmos/46/1",
+        "filipenses/4/13",
+        "mateus/11/28"
+      ],
       "faq": [
         {
           "pergunta": "O que significa 'esperar no Senhor' em Isaías 40:31?",
@@ -78,12 +110,34 @@
     "contexto": "Isaías 40 marca uma virada no livro: os primeiros 39 capítulos são de alerta e julgamento; do capítulo 40 em diante, começa uma seção de consolo ('Consolai, consolai o meu povo' — v. 1). Deus instrui o profeta a reconfortar um Israel cansado, desiludido e próximo do cativeiro. O argumento do consolo começa com quem Deus é (v. 12-28) e culmina no que Ele faz pelos cansados (v. 29-31).",
     "aplicacao": "Em uma geração marcada pelo burnout, pela exaustão digital e pela pressão constante de desempenho, Isaías 40:31 oferece um caminho alternativo: não mais esforço, mas melhor fonte. A renovação prometida não vem de férias, de motivação ou de disciplina — vem da espera confiante nAquele que nunca se cansa. É uma declaração contra a cultura da produtividade a qualquer custo: há uma força disponível que não depende do nosso reservatório pessoal."
   },
-  "versiculosDestaque": [29, 31],
-  "temas": ["forca", "renovacao", "cansaco", "esperanca", "confianca", "soberania-de-deus"],
+  "versiculosDestaque": [
+    29,
+    31
+  ],
+  "temas": [
+    "forca",
+    "renovacao",
+    "cansaco",
+    "esperanca",
+    "confianca",
+    "soberania-de-deus"
+  ],
   "versiculosRelacionadosExternos": [
-    { "ref": "salmos/46/1", "texto": "Salmos 46:1 — Deus é o nosso refúgio e força" },
-    { "ref": "mateus/11/28", "texto": "Mateus 11:28 — Venham a mim todos os que estão cansados" },
-    { "ref": "filipenses/4/13", "texto": "Filipenses 4:13 — Posso fazer todas as coisas por meio de Cristo" },
-    { "ref": "2-corintios/12/9", "texto": "2 Coríntios 12:9 — O meu poder se aperfeiçoa na fraqueza" }
+    {
+      "ref": "salmos/46/1",
+      "texto": "Salmos 46:1 — Deus é o nosso refúgio e força"
+    },
+    {
+      "ref": "mateus/11/28",
+      "texto": "Mateus 11:28 — Venham a mim todos os que estão cansados"
+    },
+    {
+      "ref": "filipenses/4/13",
+      "texto": "Filipenses 4:13 — Posso fazer todas as coisas por meio de Cristo"
+    },
+    {
+      "ref": "2-corintios/12/9",
+      "texto": "2 Coríntios 12:9 — O meu poder se aperfeiçoa na fraqueza"
+    }
   ]
 }

@@ -14,8 +14,16 @@
         "NTLH": "Jesus continuou: Havia um homem que tinha dois filhos.",
         "NVT": "Jesus continuou: Havia um homem que tinha dois filhos."
       },
-      "temas": ["graca", "misericordia", "perdao", "familia"],
-      "versiculosRelacionados": ["lucas/15/20", "efesios/2/4-5"],
+      "temas": [
+        "graca",
+        "misericordia",
+        "perdao",
+        "familia"
+      ],
+      "versiculosRelacionados": [
+        "lucas/15/20",
+        "efesios/2/4"
+      ],
       "faq": []
     },
     {
@@ -26,8 +34,15 @@
         "NTLH": "Mas um dia ele começou a pensar direito e disse a si mesmo: Os trabalhadores do meu pai têm mais do que podem comer, e eu aqui estou morrendo de fome!",
         "NVT": "Quando enfim caiu em si, disse: Quantos empregados do meu pai têm comida de sobra, enquanto eu aqui estou morrendo de fome!"
       },
-      "temas": ["arrependimento", "humildade", "volta-a-deus"],
-      "versiculosRelacionados": ["lucas/15/18", "joel/2/12-13"],
+      "temas": [
+        "arrependimento",
+        "humildade",
+        "volta-a-deus"
+      ],
+      "versiculosRelacionados": [
+        "lucas/15/18",
+        "joel/2/12"
+      ],
       "faq": [
         {
           "pergunta": "O que significa 'caindo em si' em Lucas 15:17?",
@@ -43,8 +58,16 @@
         "NTLH": "Vou me levantar e voltar para o meu pai e dizer: Pai, pequei contra Deus e contra você.",
         "NVT": "Vou me levantar e ir ao meu pai e lhe direi: Pai, pequei contra Deus e contra você."
       },
-      "temas": ["arrependimento", "humildade", "confissao", "volta-a-deus"],
-      "versiculosRelacionados": ["1-joao/1/9", "salmos/51/4"],
+      "temas": [
+        "arrependimento",
+        "humildade",
+        "confissao",
+        "volta-a-deus"
+      ],
+      "versiculosRelacionados": [
+        "1-joao/1/9",
+        "salmos/51/4"
+      ],
       "faq": []
     },
     {
@@ -55,8 +78,18 @@
         "NTLH": "O filho se levantou e voltou para a casa do pai. Ele estava ainda longe quando seu pai o viu e ficou cheio de compaixão. Correu ao encontro do filho, abraçou-o e o beijou.",
         "NVT": "Então ele se levantou e foi até seu pai. Mas, quando ainda estava longe, seu pai o viu e, movido de compaixão, correu ao seu encontro, atirou-se ao seu pescoço e o beijou."
       },
-      "temas": ["graca", "misericordia", "amor-de-deus", "perdao", "restauracao"],
-      "versiculosRelacionados": ["romanos/5/8", "1-joao/4/10", "efesios/2/4"],
+      "temas": [
+        "graca",
+        "misericordia",
+        "amor-de-deus",
+        "perdao",
+        "restauracao"
+      ],
+      "versiculosRelacionados": [
+        "romanos/5/8",
+        "1-joao/4/10",
+        "efesios/2/4"
+      ],
       "faq": [
         {
           "pergunta": "Por que o pai correu ao encontro do filho em Lucas 15:20?",
@@ -76,8 +109,16 @@
         "NTLH": "porque este filho meu estava morto e voltou a viver; estava perdido e foi encontrado. E começaram a festejar.",
         "NVT": "pois este filho meu estava morto e voltou à vida; estava perdido e foi encontrado. E começaram a comemorar."
       },
-      "temas": ["restauracao", "graca", "alegria", "salvacao"],
-      "versiculosRelacionados": ["efesios/2/5", "joao/10/10"],
+      "temas": [
+        "restauracao",
+        "graca",
+        "alegria",
+        "salvacao"
+      ],
+      "versiculosRelacionados": [
+        "efesios/2/5",
+        "joao/10/10"
+      ],
       "faq": []
     }
   ],
@@ -86,12 +127,33 @@
     "contexto": "Jesus contou as três parábolas de Lucas 15 em resposta direta à crítica dos fariseus: 'Este homem recebe pecadores e come com eles' (v. 2). Cada parábola responde essa crítica com uma perspectiva do céu: há mais alegria por um pecador que se arrepende do que por noventa e nove justos (v. 7). A parábola do filho pródigo adiciona complexidade ao apresentar dois filhos — o que se perdeu no mundo e o que se perdeu em casa, na religiosidade sem amor.",
     "aplicacao": "Lucas 15 fala diretamente para duas audiências no Brasil: (1) quem se afastou da fé e carrega a culpa de não poder voltar — a parábola responde: o pai está esperando, e corre ao encontro antes do discurso de arrependimento estar completo; (2) quem ficou 'na casa do pai' mas perdeu a alegria e a graça — o filho mais velho representa o perigo de uma religiosidade sem compaixão, que conhece as regras mas não entende o coração do pai."
   },
-  "versiculosDestaque": [20, 24],
-  "temas": ["graca", "misericordia", "perdao", "arrependimento", "restauracao"],
+  "versiculosDestaque": [
+    20,
+    24
+  ],
+  "temas": [
+    "graca",
+    "misericordia",
+    "perdao",
+    "arrependimento",
+    "restauracao"
+  ],
   "versiculosRelacionadosExternos": [
-    { "ref": "romanos/5/8", "texto": "Romanos 5:8 — Deus demonstra o seu amor: Cristo morreu por nós quando ainda éramos pecadores" },
-    { "ref": "1-joao/4/10", "texto": "1 João 4:10 — O amor não consiste em nós termos amado a Deus, mas em ele nos ter amado" },
-    { "ref": "efesios/2/4-5", "texto": "Efésios 2:4-5 — Por causa do seu grande amor, Deus nos deu vida com Cristo" },
-    { "ref": "joel/2/12", "texto": "Joel 2:12 — Voltai-vos para mim de todo o vosso coração" }
+    {
+      "ref": "romanos/5/8",
+      "texto": "Romanos 5:8 — Deus demonstra o seu amor: Cristo morreu por nós quando ainda éramos pecadores"
+    },
+    {
+      "ref": "1-joao/4/10",
+      "texto": "1 João 4:10 — O amor não consiste em nós termos amado a Deus, mas em ele nos ter amado"
+    },
+    {
+      "ref": "efesios/2/4-5",
+      "texto": "Efésios 2:4-5 — Por causa do seu grande amor, Deus nos deu vida com Cristo"
+    },
+    {
+      "ref": "joel/2/12",
+      "texto": "Joel 2:12 — Voltai-vos para mim de todo o vosso coração"
+    }
   ]
 }

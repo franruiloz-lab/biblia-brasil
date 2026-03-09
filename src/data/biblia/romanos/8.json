@@ -14,8 +14,17 @@
         "NTLH": "Sabemos que Deus age em tudo para o bem daqueles que o amam e que foram chamados de acordo com o plano que ele tem para eles.",
         "NVT": "Sabemos que Deus age em tudo para o bem daqueles que o amam e foram chamados segundo o seu propósito."
       },
-      "temas": ["proposito", "confianca", "soberania-de-deus", "amor-de-deus"],
-      "versiculosRelacionados": ["jeremias/29/11", "filipenses/4/6-7", "proverbios/16/3"],
+      "temas": [
+        "proposito",
+        "confianca",
+        "soberania-de-deus",
+        "amor-de-deus"
+      ],
+      "versiculosRelacionados": [
+        "jeremias/29/11",
+        "filipenses/4/6",
+        "proverbios/16/3"
+      ],
       "faq": [
         {
           "pergunta": "O que significa 'todas as coisas cooperam para o bem' em Romanos 8:28?",
@@ -39,7 +48,11 @@
         "NTLH": "Pois desde o princípio Deus já sabia quem eram os seus, e escolheu-os para serem iguais ao seu Filho, para que o Filho fosse o primogênito de uma grande família.",
         "NVT": "Porque a esses que de antemão conheceu, também os predestinou para serem conformes à imagem de seu Filho, a fim de que ele fosse o primogênito entre muitos irmãos."
       },
-      "temas": ["proposito", "predestinacao", "imagem-de-cristo"],
+      "temas": [
+        "proposito",
+        "predestinacao",
+        "imagem-de-cristo"
+      ],
       "versiculosRelacionados": [],
       "faq": []
     },
@@ -51,8 +64,15 @@
         "NTLH": "O que diremos a tudo isso? Se Deus está do nosso lado, quem poderá estar contra nós?",
         "NVT": "O que diremos a respeito dessas coisas? Se Deus é a favor de nós, quem poderá ser contra nós?"
       },
-      "temas": ["confianca", "vitoria", "protecao"],
-      "versiculosRelacionados": ["salmos/91/7", "isaias/41/10"],
+      "temas": [
+        "confianca",
+        "vitoria",
+        "protecao"
+      ],
+      "versiculosRelacionados": [
+        "salmos/91/7",
+        "isaias/41/10"
+      ],
       "faq": [
         {
           "pergunta": "O que Paulo quis dizer com 'Se Deus é por nós, quem será contra nós?' em Romanos 8:31?",
@@ -68,7 +88,11 @@
         "NTLH": "Que nos poderá separar do amor de Cristo? O sofrimento, a angústia, a perseguição, a fome, a pobreza, o perigo ou a morte?",
         "NVT": "O que nos separará do amor de Cristo? Tribulação? Angústia? Perseguição? Fome? Nudez? Perigo? Espada?"
       },
-      "temas": ["amor-de-cristo", "perseveranca", "vitoria"],
+      "temas": [
+        "amor-de-cristo",
+        "perseveranca",
+        "vitoria"
+      ],
       "versiculosRelacionados": [],
       "faq": []
     },
@@ -80,7 +104,11 @@
         "NTLH": "Pois tenho a certeza de que nada poderá nos separar do amor de Deus: nem a morte, nem a vida, nem os anjos, nem as outras forças espirituais, seja do céu ou do inferno, nem o presente, nem o futuro,",
         "NVT": "Pois tenho a convicção de que nem a morte, nem a vida, nem os anjos, nem os principados, nem as coisas presentes, nem as que hão de vir, nem os poderes,"
       },
-      "temas": ["amor-de-deus", "vitoria", "eternidade"],
+      "temas": [
+        "amor-de-deus",
+        "vitoria",
+        "eternidade"
+      ],
       "versiculosRelacionados": [],
       "faq": []
     },
@@ -92,7 +120,11 @@
         "NTLH": "nem a altura, nem a profundidade, nem qualquer outra coisa criada poderá nos separar do amor de Deus, que nos foi dado por meio de Jesus Cristo, nosso Senhor.",
         "NVT": "nem a altura nem a profundidade, nem qualquer outra coisa na criação poderá nos separar do amor de Deus que está em Cristo Jesus, nosso Senhor."
       },
-      "temas": ["amor-de-deus", "vitoria", "eternidade"],
+      "temas": [
+        "amor-de-deus",
+        "vitoria",
+        "eternidade"
+      ],
       "versiculosRelacionados": [],
       "faq": [
         {
@@ -108,12 +140,34 @@
     "teologia": "A lógica de Romanos 8 segue uma cadeia dourada: Deus conheceu → predestinou → chamou → justificou → glorificou (vv. 29-30). Cada elo é garantido por Deus, não por esforço humano. Portanto, 'todas as coisas cooperam para o bem' não é otimismo ingênuo, mas confiança baseada no caráter e no poder de Deus.",
     "aplicacao": "Para o brasileiro que enfrenta instabilidade econômica, problemas de saúde ou crises relacionais, Romanos 8 oferece algo que o mundo não pode: certeza. Não a certeza de que tudo correrá bem pelos nossos padrões, mas a certeza de que Deus está trabalhando em tudo — inclusive no que parece adverso — para nos aproximar de Seu propósito."
   },
-  "versiculosDestaque": [28, 31, 38, 39],
-  "temas": ["proposito", "confianca", "amor-de-deus", "vitoria"],
+  "versiculosDestaque": [
+    28,
+    31,
+    38,
+    39
+  ],
+  "temas": [
+    "proposito",
+    "confianca",
+    "amor-de-deus",
+    "vitoria"
+  ],
   "versiculosRelacionadosExternos": [
-    { "ref": "jeremias/29/11", "texto": "Jeremias 29:11 — Planos de prosperidade e esperança" },
-    { "ref": "filipenses/4/13", "texto": "Filipenses 4:13 — Posso todas as coisas naquele que me fortalece" },
-    { "ref": "salmos/91/1", "texto": "Salmos 91:1 — Aquele que habita no esconderijo do Altíssimo" },
-    { "ref": "isaias/41/10", "texto": "Isaías 41:10 — Não temas, porque eu sou contigo" }
+    {
+      "ref": "jeremias/29/11",
+      "texto": "Jeremias 29:11 — Planos de prosperidade e esperança"
+    },
+    {
+      "ref": "filipenses/4/13",
+      "texto": "Filipenses 4:13 — Posso todas as coisas naquele que me fortalece"
+    },
+    {
+      "ref": "salmos/91/1",
+      "texto": "Salmos 91:1 — Aquele que habita no esconderijo do Altíssimo"
+    },
+    {
+      "ref": "isaias/41/10",
+      "texto": "Isaías 41:10 — Não temas, porque eu sou contigo"
+    }
   ]
 }

@@ -14,8 +14,17 @@
         "NTLH": "O ladrão vem apenas para roubar, matar e destruir. Eu vim para que todos tenham vida e a tenham plenamente.",
         "NVT": "O ladrão vem somente para roubar, matar e destruir; eu vim para que tenham vida e a tenham em abundância."
       },
-      "temas": ["vida-abundante", "jesus", "salvacao", "proposito"],
-      "versiculosRelacionados": ["joao/10/11", "joao/14/6", "joao/3/16"],
+      "temas": [
+        "vida-abundante",
+        "jesus",
+        "salvacao",
+        "proposito"
+      ],
+      "versiculosRelacionados": [
+        "joao/10/11",
+        "joao/14/6",
+        "joao/3/16"
+      ],
       "faq": [
         {
           "pergunta": "O que é a 'vida em abundância' prometida em João 10:10?",
@@ -31,8 +40,17 @@
         "NTLH": "Eu sou o bom pastor. O bom pastor dá a sua própria vida pelas ovelhas.",
         "NVT": "Eu sou o bom pastor. O bom pastor dá a sua vida pelas ovelhas."
       },
-      "temas": ["jesus", "sacrificio", "amor-de-deus", "salvacao"],
-      "versiculosRelacionados": ["salmos/23/1", "isaias/40/11", "hebreus/13/20"],
+      "temas": [
+        "jesus",
+        "sacrificio",
+        "amor-de-deus",
+        "salvacao"
+      ],
+      "versiculosRelacionados": [
+        "salmos/23/1",
+        "isaias/40/11",
+        "hebreus/13/20"
+      ],
       "faq": [
         {
           "pergunta": "O que significa Jesus ser o 'bom pastor' em João 10:11?",
@@ -48,8 +66,16 @@
         "NTLH": "Eu sou o bom pastor. Eu conheço as minhas ovelhas, e elas me conhecem a mim,",
         "NVT": "Eu sou o bom pastor; conheço as minhas ovelhas e elas me conhecem."
       },
-      "temas": ["jesus", "relacionamento", "conhecimento", "comunhao"],
-      "versiculosRelacionados": ["joao/10/3", "joao/17/3"],
+      "temas": [
+        "jesus",
+        "relacionamento",
+        "conhecimento",
+        "comunhao"
+      ],
+      "versiculosRelacionados": [
+        "joao/10/3",
+        "joao/17/3"
+      ],
       "faq": []
     },
     {
@@ -60,8 +86,16 @@
         "NTLH": "As minhas ovelhas ouvem a minha voz; eu as conheço, e elas me seguem.",
         "NVT": "As minhas ovelhas ouvem a minha voz; eu as conheço e elas me seguem."
       },
-      "temas": ["discipulado", "obediencia", "relacionamento", "jesus"],
-      "versiculosRelacionados": ["joao/10/14", "joao/8/47"],
+      "temas": [
+        "discipulado",
+        "obediencia",
+        "relacionamento",
+        "jesus"
+      ],
+      "versiculosRelacionados": [
+        "joao/10/14",
+        "joao/8/47"
+      ],
       "faq": []
     },
     {
@@ -72,8 +106,17 @@
         "NTLH": "Eu lhes dou a vida eterna, e elas nunca morrerão. E ninguém poderá arrancá-las da minha mão.",
         "NVT": "Eu lhes dou a vida eterna, e elas jamais perecerão; ninguém as arrebatará da minha mão."
       },
-      "temas": ["seguranca", "vida-eterna", "jesus", "graca"],
-      "versiculosRelacionados": ["romanos/8/38-39", "joao/10/29", "filipenses/1/6"],
+      "temas": [
+        "seguranca",
+        "vida-eterna",
+        "jesus",
+        "graca"
+      ],
+      "versiculosRelacionados": [
+        "romanos/8/38",
+        "joao/10/29",
+        "filipenses/1/6"
+      ],
       "faq": [
         {
           "pergunta": "'Ninguém as arrebatará da minha mão' garante que o crente não pode se perder em João 10:28?",
@@ -87,12 +130,34 @@
     "contexto": "João 10 segue diretamente a cura do cego de nascença (João 9) e o confronto com os fariseus que o expulsaram da sinagoga. Jesus usa a metáfora do pastor como crítica velada ao sistema religioso judaico: os líderes religiosos são 'contratados' que abandonam as ovelhas; Jesus é o pastor verdadeiro que as conhece pelo nome e morre por elas. O discurso culmina na declaração 'Eu e o Pai somos um' (v. 30) — que leva os judeus a tentarem apedrejá-lo por blasfêmia.",
     "aplicacao": "João 10:10 é frequentemente citado em contextos de saúde, prosperidade e propósito. O ponto central é real: Jesus veio para dar vida — não uma existência de sobrevivência, mas vida plena, conectada à fonte de toda vida. Para o cristão brasileiro que vive em modo de gerenciamento de dificuldades, o versículo 10 é um lembrete: Jesus não veio apenas para salvar da morte futura, mas para transformar a vida presente. A imagem do pastor que conhece as ovelhas pelo nome (v. 3, 14) fala de um relacionamento pessoal, não de uma religião impessoal."
   },
-  "versiculosDestaque": [10, 11, 28],
-  "temas": ["jesus", "vida-abundante", "salvacao", "seguranca", "amor-de-deus"],
+  "versiculosDestaque": [
+    10,
+    11,
+    28
+  ],
+  "temas": [
+    "jesus",
+    "vida-abundante",
+    "salvacao",
+    "seguranca",
+    "amor-de-deus"
+  ],
   "versiculosRelacionadosExternos": [
-    { "ref": "salmos/23/1", "texto": "Salmos 23:1 — O Senhor é o meu pastor, nada me faltará" },
-    { "ref": "ezequiel/34/11", "texto": "Ezequiel 34:11 — Eu mesmo procurarei as minhas ovelhas" },
-    { "ref": "romanos/8/38-39", "texto": "Romanos 8:38-39 — Nada nos separará do amor de Deus" },
-    { "ref": "joao/14/6", "texto": "João 14:6 — Eu sou o caminho, a verdade e a vida" }
+    {
+      "ref": "salmos/23/1",
+      "texto": "Salmos 23:1 — O Senhor é o meu pastor, nada me faltará"
+    },
+    {
+      "ref": "ezequiel/34/11",
+      "texto": "Ezequiel 34:11 — Eu mesmo procurarei as minhas ovelhas"
+    },
+    {
+      "ref": "romanos/8/38-39",
+      "texto": "Romanos 8:38-39 — Nada nos separará do amor de Deus"
+    },
+    {
+      "ref": "joao/14/6",
+      "texto": "João 14:6 — Eu sou o caminho, a verdade e a vida"
+    }
   ]
 }

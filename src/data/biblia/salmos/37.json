@@ -14,8 +14,16 @@
         "NTLH": "Confie no Senhor e faça o que é bom; viva na terra e seja seguro.",
         "NVT": "Confie no Senhor e pratique o bem; habite na terra e alimente-se com fidelidade."
       },
-      "temas": ["confianca", "fe", "bencao", "obediencia"],
-      "versiculosRelacionados": ["proverbios/3/5-6", "salmos/37/4"],
+      "temas": [
+        "confianca",
+        "fe",
+        "bencao",
+        "obediencia"
+      ],
+      "versiculosRelacionados": [
+        "proverbios/3/5",
+        "salmos/37/4"
+      ],
       "faq": []
     },
     {
@@ -26,8 +34,16 @@
         "NTLH": "Agrade-se no Senhor, e ele realizará os desejos do seu coração.",
         "NVT": "Deleite-se no Senhor, e ele lhe concederá os desejos do seu coração."
       },
-      "temas": ["adoracao", "confianca", "bencao", "desejo"],
-      "versiculosRelacionados": ["salmos/37/5", "filipenses/4/4"],
+      "temas": [
+        "adoracao",
+        "confianca",
+        "bencao",
+        "desejo"
+      ],
+      "versiculosRelacionados": [
+        "salmos/37/5",
+        "filipenses/4/4"
+      ],
       "faq": [
         {
           "pergunta": "O que significa 'deleitar-se no Senhor' em Salmos 37:4?",
@@ -43,8 +59,16 @@
         "NTLH": "Entregue ao Senhor tudo o que você faz; confie nele, e ele agirá.",
         "NVT": "Entregue ao Senhor o seu caminho; confie nele, e ele agirá."
       },
-      "temas": ["confianca", "fe", "providencia", "rendição"],
-      "versiculosRelacionados": ["proverbios/3/5-6", "1-pedro/5/7"],
+      "temas": [
+        "confianca",
+        "fe",
+        "providencia",
+        "rendição"
+      ],
+      "versiculosRelacionados": [
+        "proverbios/3/5",
+        "1-pedro/5/7"
+      ],
       "faq": [
         {
           "pergunta": "O que significa 'entrega o teu caminho ao Senhor' em Salmos 37:5?",
@@ -60,8 +84,16 @@
         "NTLH": "Fique quieto perante o Senhor e espere por ele. Não se preocupe com aquele que tem sucesso nos seus caminhos ou com o homem que consegue realizar seus planos malvados.",
         "NVT": "Descanse no Senhor e aguarde-o com paciência; não se irrite com aquele que tem sucesso e leva a cabo seus planos."
       },
-      "temas": ["paciencia", "descanso", "confança", "providencia"],
-      "versiculosRelacionados": ["salmos/46/10", "isaias/40/31"],
+      "temas": [
+        "paciencia",
+        "descanso",
+        "confança",
+        "providencia"
+      ],
+      "versiculosRelacionados": [
+        "salmos/46/10",
+        "isaias/40/31"
+      ],
       "faq": []
     },
     {
@@ -72,8 +104,16 @@
         "NTLH": "O Senhor guia os passos do homem bom e fica feliz com o seu caminho.",
         "NVT": "O Senhor dirige os passos do homem e agrada-se do seu caminho."
       },
-      "temas": ["orientacao", "providencia", "confianca", "bencao"],
-      "versiculosRelacionados": ["proverbios/16/9", "jeremias/10/23"],
+      "temas": [
+        "orientacao",
+        "providencia",
+        "confianca",
+        "bencao"
+      ],
+      "versiculosRelacionados": [
+        "proverbios/16/9",
+        "jeremias/10/23"
+      ],
       "faq": []
     },
     {
@@ -84,8 +124,16 @@
         "NTLH": "Já fui jovem e agora sou velho, mas nunca vi o Senhor abandonar um homem bom nem deixar os seus filhos passando fome.",
         "NVT": "Fui jovem e agora sou velho, porém nunca vi o justo desamparado, nem os seus filhos mendigando pão."
       },
-      "temas": ["fidelidade-de-deus", "providencia", "confianca", "testemunho"],
-      "versiculosRelacionados": ["filipenses/4/19", "salmos/23/1"],
+      "temas": [
+        "fidelidade-de-deus",
+        "providencia",
+        "confianca",
+        "testemunho"
+      ],
+      "versiculosRelacionados": [
+        "filipenses/4/19",
+        "salmos/23/1"
+      ],
       "faq": []
     }
   ],
@@ -94,12 +142,33 @@
     "contexto": "Davi escreve provavelmente na velhice ('fui moço e agora sou velho' — v. 25) e de uma perspectiva de quem observou décadas de história. O salmo responde uma angústia perene: por que os ímpios prosperam? O argumento de Davi é longitudinal: observe o final, não o momento. A prosperidade dos ímpios é temporária (v. 2, 9, 10); o caminho do justo que confia no Senhor tem permanência (v. 18, 23-25).",
     "aplicacao": "Salmos 37 é especialmente relevante para o cristão brasileiro que sente a injustiça do sistema — quando parece que os desonestos avançam e os íntegros ficam para trás. Davi não nega a realidade da injustiça, mas oferece um reposicionamento: o critério de avaliação não é o momento presente, mas o arco completo da história de Deus. 'Entrega o teu caminho' (v. 5) é o antídoto bíblico para a ansiedade de controlar o que está fora do nosso alcance."
   },
-  "versiculosDestaque": [4, 5],
-  "temas": ["confianca", "providencia", "paciencia", "bencao", "fidelidade-de-deus"],
+  "versiculosDestaque": [
+    4,
+    5
+  ],
+  "temas": [
+    "confianca",
+    "providencia",
+    "paciencia",
+    "bencao",
+    "fidelidade-de-deus"
+  ],
   "versiculosRelacionadosExternos": [
-    { "ref": "proverbios/3/5-6", "texto": "Provérbios 3:5-6 — Confia no Senhor de todo o teu coração" },
-    { "ref": "1-pedro/5/7", "texto": "1 Pedro 5:7 — Lançai sobre ele toda a vossa ansiedade" },
-    { "ref": "filipenses/4/6-7", "texto": "Filipenses 4:6-7 — Em nada estejais ansiosos" },
-    { "ref": "salmos/23/1", "texto": "Salmos 23:1 — O Senhor é o meu pastor, nada me faltará" }
+    {
+      "ref": "proverbios/3/5-6",
+      "texto": "Provérbios 3:5-6 — Confia no Senhor de todo o teu coração"
+    },
+    {
+      "ref": "1-pedro/5/7",
+      "texto": "1 Pedro 5:7 — Lançai sobre ele toda a vossa ansiedade"
+    },
+    {
+      "ref": "filipenses/4/6-7",
+      "texto": "Filipenses 4:6-7 — Em nada estejais ansiosos"
+    },
+    {
+      "ref": "salmos/23/1",
+      "texto": "Salmos 23:1 — O Senhor é o meu pastor, nada me faltará"
+    }
   ]
 }

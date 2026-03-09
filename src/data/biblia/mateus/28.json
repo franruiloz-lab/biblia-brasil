@@ -14,8 +14,17 @@
         "NTLH": "Ele não está aqui; ressuscitou, como havia dito. Venham ver o lugar onde ele estava.",
         "NVT": "Ele não está aqui; ressuscitou, como havia dito. Venham ver o lugar onde ele estava."
       },
-      "temas": ["ressurreicao", "jesus", "fe", "esperanca"],
-      "versiculosRelacionados": ["joao/20/17", "1-corintios/15/20", "lucas/24/6"],
+      "temas": [
+        "ressurreicao",
+        "jesus",
+        "fe",
+        "esperanca"
+      ],
+      "versiculosRelacionados": [
+        "joao/20/17",
+        "1-corintios/15/20",
+        "lucas/24/6"
+      ],
       "faq": [
         {
           "pergunta": "Qual é a importância histórica e teológica da ressurreição em Mateus 28:6?",
@@ -31,8 +40,17 @@
         "NTLH": "Jesus chegou perto deles e disse: Deus me deu toda autoridade no céu e na terra.",
         "NVT": "Então Jesus se aproximou e disse: Toda a autoridade no céu e na terra me foi dada."
       },
-      "temas": ["autoridade-de-cristo", "jesus", "reino-de-deus", "soberania"],
-      "versiculosRelacionados": ["filipenses/2/9-10", "efesios/1/20-22", "daniel/7/14"],
+      "temas": [
+        "autoridade-de-cristo",
+        "jesus",
+        "reino-de-deus",
+        "soberania"
+      ],
+      "versiculosRelacionados": [
+        "filipenses/2/9",
+        "efesios/1/20",
+        "daniel/7/14"
+      ],
       "faq": []
     },
     {
@@ -43,8 +61,17 @@
         "NTLH": "Por isso, vão para todos os povos do mundo e façam discípulos. Batizem-nos em nome do Pai, do Filho e do Espírito Santo,",
         "NVT": "Portanto, vão e façam discípulos de todas as nações, batizando-os em nome do Pai e do Filho e do Espírito Santo."
       },
-      "temas": ["missao", "evangelismo", "discipulado", "trindade"],
-      "versiculosRelacionados": ["marcos/16/15", "atos/1/8", "mateus/28/20"],
+      "temas": [
+        "missao",
+        "evangelismo",
+        "discipulado",
+        "trindade"
+      ],
+      "versiculosRelacionados": [
+        "marcos/16/15",
+        "atos/1/8",
+        "mateus/28/20"
+      ],
       "faq": [
         {
           "pergunta": "O que é a 'Grande Comissão' de Mateus 28:19-20?",
@@ -60,8 +87,17 @@
         "NTLH": "e ensinando-os a obedecer a tudo o que lhes ordenei. E eu estarei com vocês todos os dias, até o fim dos tempos.",
         "NVT": "ensinando-os a obedecer a tudo o que lhes ordenei. E eu estarei sempre com vocês, até o fim dos tempos."
       },
-      "temas": ["presenca-de-deus", "promessa", "missao", "discipulado"],
-      "versiculosRelacionados": ["hebreus/13/5", "josue/1/9", "mateus/1/23"],
+      "temas": [
+        "presenca-de-deus",
+        "promessa",
+        "missao",
+        "discipulado"
+      ],
+      "versiculosRelacionados": [
+        "hebreus/13/5",
+        "josue/1/9",
+        "mateus/1/23"
+      ],
       "faq": [
         {
           "pergunta": "O que Jesus quer dizer com 'estarei convosco todos os dias' em Mateus 28:20?",
@@ -75,12 +111,33 @@
     "contexto": "Mateus 28 encerra o evangelho de Mateus com a ressurreição (v. 1-10), o suborno dos guardas para esconder o milagre (v. 11-15) e o encontro final de Jesus com os onze discípulos na Galileia (v. 16-20). A Grande Comissão (v. 18-20) é o clímax literário e teológico de todo o evangelho — a resposta de Jesus ressuscitado a 'toda autoridade' que lhe foi dada: enviar discípulos a todas as nações.",
     "aplicacao": "Mateus 28 desafia e consola simultaneamente. A Grande Comissão desafia: a missão não é opcional para a church — é o mandato do Senhor ressuscitado. Mas a promessa do versículo 20 consola: a missão não é impossível — ela é acompanhada pela presença daquele que tem 'toda autoridade no céu e na terra.' Para o cristão brasileiro que sente o peso de um país de 215 milhões de pessoas com necessidades espirituais e sociais imensas, Mateus 28 oferece tanto a direção quanto o recurso: 'ide... e eis que eu estou convosco.'"
   },
-  "versiculosDestaque": [19, 20],
-  "temas": ["ressurreicao", "missao", "discipulado", "presenca-de-deus", "autoridade-de-cristo"],
+  "versiculosDestaque": [
+    19,
+    20
+  ],
+  "temas": [
+    "ressurreicao",
+    "missao",
+    "discipulado",
+    "presenca-de-deus",
+    "autoridade-de-cristo"
+  ],
   "versiculosRelacionadosExternos": [
-    { "ref": "atos/1/8", "texto": "Atos 1:8 — Recebereis poder e sereis minhas testemunhas" },
-    { "ref": "marcos/16/15", "texto": "Marcos 16:15 — Ide por todo o mundo e pregai o evangelho" },
-    { "ref": "josue/1/9", "texto": "Josué 1:9 — Não temas, porque o Senhor teu Deus é contigo" },
-    { "ref": "hebreus/13/5", "texto": "Hebreus 13:5 — Nunca te deixarei, nunca te abandonarei" }
+    {
+      "ref": "atos/1/8",
+      "texto": "Atos 1:8 — Recebereis poder e sereis minhas testemunhas"
+    },
+    {
+      "ref": "marcos/16/15",
+      "texto": "Marcos 16:15 — Ide por todo o mundo e pregai o evangelho"
+    },
+    {
+      "ref": "josue/1/9",
+      "texto": "Josué 1:9 — Não temas, porque o Senhor teu Deus é contigo"
+    },
+    {
+      "ref": "hebreus/13/5",
+      "texto": "Hebreus 13:5 — Nunca te deixarei, nunca te abandonarei"
+    }
   ]
 }

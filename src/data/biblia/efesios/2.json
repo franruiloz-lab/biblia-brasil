@@ -14,8 +14,16 @@
         "NTLH": "No passado vocês estavam mortos por causa das transgressões e pecados de vocês.",
         "NVT": "Também vocês estavam mortos nas suas transgressões e pecados."
       },
-      "temas": ["pecado", "morte-espiritual", "graca", "nova-vida"],
-      "versiculosRelacionados": ["efesios/2/4-5", "romanos/6/23"],
+      "temas": [
+        "pecado",
+        "morte-espiritual",
+        "graca",
+        "nova-vida"
+      ],
+      "versiculosRelacionados": [
+        "efesios/2/4",
+        "romanos/6/23"
+      ],
       "faq": []
     },
     {
@@ -26,8 +34,16 @@
         "NTLH": "Mas Deus é rico em misericórdia. Por causa do seu grande amor por nós,",
         "NVT": "Mas Deus, que é rico em misericórdia, pelo seu grande amor com que nos amou,"
       },
-      "temas": ["graca", "misericordia", "amor-de-deus", "salvacao"],
-      "versiculosRelacionados": ["romanos/5/8", "1-joao/4/8-10"],
+      "temas": [
+        "graca",
+        "misericordia",
+        "amor-de-deus",
+        "salvacao"
+      ],
+      "versiculosRelacionados": [
+        "romanos/5/8",
+        "1-joao/4/8"
+      ],
       "faq": []
     },
     {
@@ -38,8 +54,16 @@
         "NTLH": "Deus nos deu vida juntamente com Cristo, mesmo quando estávamos mortos por causa dos nossos pecados. (Pela graça de Deus vocês foram salvos.)",
         "NVT": "nos deu vida juntamente com Cristo, mesmo quando estávamos mortos em nossos pecados — é pela graça que vocês foram salvos."
       },
-      "temas": ["graca", "salvacao", "nova-vida", "ressurreicao"],
-      "versiculosRelacionados": ["efesios/2/8", "colossenses/2/13"],
+      "temas": [
+        "graca",
+        "salvacao",
+        "nova-vida",
+        "ressurreicao"
+      ],
+      "versiculosRelacionados": [
+        "efesios/2/8",
+        "colossenses/2/13"
+      ],
       "faq": []
     },
     {
@@ -50,8 +74,17 @@
         "NTLH": "Pois é pela graça de Deus que vocês foram salvos por meio da fé. Isso não vem de vocês, é uma dádiva de Deus.",
         "NVT": "Pois vocês são salvos pela graça, por meio da fé, e isso não vem de vocês; é dom de Deus."
       },
-      "temas": ["graca", "salvacao", "fe", "dom-de-deus"],
-      "versiculosRelacionados": ["romanos/10/9", "tito/3/5", "romanos/3/24"],
+      "temas": [
+        "graca",
+        "salvacao",
+        "fe",
+        "dom-de-deus"
+      ],
+      "versiculosRelacionados": [
+        "romanos/10/9",
+        "tito/3/5",
+        "romanos/3/24"
+      ],
       "faq": [
         {
           "pergunta": "O que significa 'pela graça sois salvos, por meio da fé' em Efésios 2:8?",
@@ -71,8 +104,16 @@
         "NTLH": "A salvação não é resultado do que vocês fizeram, para que ninguém possa se orgulhar.",
         "NVT": "não por obras, para que ninguém se glorie."
       },
-      "temas": ["graca", "humildade", "salvacao", "obras"],
-      "versiculosRelacionados": ["romanos/3/27-28", "efesios/2/8"],
+      "temas": [
+        "graca",
+        "humildade",
+        "salvacao",
+        "obras"
+      ],
+      "versiculosRelacionados": [
+        "romanos/3/27",
+        "efesios/2/8"
+      ],
       "faq": []
     },
     {
@@ -83,8 +124,17 @@
         "NTLH": "Pois somos criação de Deus. Em Cristo Jesus, Deus nos criou para fazermos o bem, de acordo com o que ele tinha planejado antes.",
         "NVT": "Pois somos criação de Deus, criados em Cristo Jesus para as boas obras, as quais Deus preparou de antemão para que as praticássemos."
       },
-      "temas": ["identidade", "proposito", "boas-obras", "chamado"],
-      "versiculosRelacionados": ["efesios/2/8-9", "tiago/2/17", "filipenses/2/13"],
+      "temas": [
+        "identidade",
+        "proposito",
+        "boas-obras",
+        "chamado"
+      ],
+      "versiculosRelacionados": [
+        "efesios/2/8",
+        "tiago/2/17",
+        "filipenses/2/13"
+      ],
       "faq": [
         {
           "pergunta": "Se não somos salvos por obras, por que Efésios 2:10 fala em boas obras?",
@@ -98,12 +148,33 @@
     "contexto": "Efésios 2 começa com a condição humana antes de Cristo ('mortos em delitos e pecados' — v. 1) e culmina em uma descrição do que Deus fez: vivificou, ressuscitou e fez sentar nos lugares celestiais em Cristo (v. 5-6). A salvação em Efésios 2 não é apenas perdão de pecados — é mudança de status ontológico: de morto a vivo, de estranho a cidadão, de inimigo a filho. O capítulo encerra descrevendo a church como edifício onde judeus e gentios são reconciliados em Cristo.",
     "aplicacao": "Para o brasileiro que sente que não é suficientemente bom para ser amado por Deus, Efésios 2:1-10 é a resposta mais direta: você não precisa ser suficiente — a suficiência é de Cristo. Para quem confunde religiosidade com salvação (obras, rituais, merecimento), Paulo é claro: 'não por obras, para que ninguém se glorie.' E para quem conclui que então nada importa, Paulo responde no versículo 10: você foi criado para as boas obras — elas são o destino, não o ponto de partida."
   },
-  "versiculosDestaque": [8, 10],
-  "temas": ["graca", "salvacao", "fe", "misericordia", "nova-vida"],
+  "versiculosDestaque": [
+    8,
+    10
+  ],
+  "temas": [
+    "graca",
+    "salvacao",
+    "fe",
+    "misericordia",
+    "nova-vida"
+  ],
   "versiculosRelacionadosExternos": [
-    { "ref": "romanos/10/9", "texto": "Romanos 10:9 — Se confessares com a tua boca que Jesus é Senhor" },
-    { "ref": "tito/3/5", "texto": "Tito 3:5 — Ele nos salvou não pelos nossos atos de justiça" },
-    { "ref": "joao/3/16", "texto": "João 3:16 — Todo aquele que nele crê não pereça" },
-    { "ref": "romanos/5/8", "texto": "Romanos 5:8 — Cristo morreu por nós quando ainda éramos pecadores" }
+    {
+      "ref": "romanos/10/9",
+      "texto": "Romanos 10:9 — Se confessares com a tua boca que Jesus é Senhor"
+    },
+    {
+      "ref": "tito/3/5",
+      "texto": "Tito 3:5 — Ele nos salvou não pelos nossos atos de justiça"
+    },
+    {
+      "ref": "joao/3/16",
+      "texto": "João 3:16 — Todo aquele que nele crê não pereça"
+    },
+    {
+      "ref": "romanos/5/8",
+      "texto": "Romanos 5:8 — Cristo morreu por nós quando ainda éramos pecadores"
+    }
   ]
 }

@@ -14,8 +14,17 @@
         "NTLH": "Olho para os montes; de onde virá o meu socorro?",
         "NVT": "Elevo os olhos para os montes — de onde virá meu socorro?"
       },
-      "temas": ["confianca", "socorro", "fe", "dependencia-de-deus"],
-      "versiculosRelacionados": ["salmos/121/2", "salmos/46/1", "salmos/34/19"],
+      "temas": [
+        "confianca",
+        "socorro",
+        "fe",
+        "dependencia-de-deus"
+      ],
+      "versiculosRelacionados": [
+        "salmos/121/2",
+        "salmos/46/1",
+        "salmos/34/19"
+      ],
       "faq": [
         {
           "pergunta": "Por que o salmista levanta os olhos para os montes em Salmos 121:1?",
@@ -31,8 +40,16 @@
         "NTLH": "O meu socorro vem do Senhor, que fez o céu e a terra.",
         "NVT": "Meu socorro vem do Senhor, o criador dos céus e da terra."
       },
-      "temas": ["socorro", "criacao", "fe", "confianca"],
-      "versiculosRelacionados": ["genesis/1/1", "salmos/46/1"],
+      "temas": [
+        "socorro",
+        "criacao",
+        "fe",
+        "confianca"
+      ],
+      "versiculosRelacionados": [
+        "genesis/1/1",
+        "salmos/46/1"
+      ],
       "faq": []
     },
     {
@@ -43,8 +60,15 @@
         "NTLH": "Ele não deixará que você tropece; o seu guardião não dormirá.",
         "NVT": "Ele não deixará vacilar o seu pé; o seu guardião não dormitará."
       },
-      "temas": ["protecao", "cuidado-de-deus", "seguranca"],
-      "versiculosRelacionados": ["proverbios/3/23-24", "salmos/91/11-12"],
+      "temas": [
+        "protecao",
+        "cuidado-de-deus",
+        "seguranca"
+      ],
+      "versiculosRelacionados": [
+        "proverbios/3/23",
+        "salmos/91/11"
+      ],
       "faq": []
     },
     {
@@ -55,8 +79,15 @@
         "NTLH": "O guardião de Israel não descansa nem dorme.",
         "NVT": "O guardião de Israel jamais dormitará nem dormirá."
       },
-      "temas": ["protecao", "fidelidade-de-deus", "seguranca"],
-      "versiculosRelacionados": ["isaias/27/3", "salmos/121/3"],
+      "temas": [
+        "protecao",
+        "fidelidade-de-deus",
+        "seguranca"
+      ],
+      "versiculosRelacionados": [
+        "isaias/27/3",
+        "salmos/121/3"
+      ],
       "faq": []
     },
     {
@@ -67,8 +98,15 @@
         "NTLH": "O Senhor é o seu guardião, o Senhor é a sombra que está à sua direita.",
         "NVT": "O Senhor é o teu guarda; o Senhor é a tua sombra à tua mão direita."
       },
-      "temas": ["protecao", "presenca-de-deus", "cuidado-de-deus"],
-      "versiculosRelacionados": ["salmos/91/1", "isaias/41/10"],
+      "temas": [
+        "protecao",
+        "presenca-de-deus",
+        "cuidado-de-deus"
+      ],
+      "versiculosRelacionados": [
+        "salmos/91/1",
+        "isaias/41/10"
+      ],
       "faq": []
     },
     {
@@ -79,8 +117,15 @@
         "NTLH": "O Senhor te guardará de todo mal; ele guardará a tua alma.",
         "NVT": "O Senhor o guardará de todo mal; ele guardará a sua vida."
       },
-      "temas": ["protecao", "salvacao", "cuidado-de-deus"],
-      "versiculosRelacionados": ["salmos/23/4", "2-tessalonicenses/3/3"],
+      "temas": [
+        "protecao",
+        "salvacao",
+        "cuidado-de-deus"
+      ],
+      "versiculosRelacionados": [
+        "salmos/23/4",
+        "2-tessalonicenses/3/3"
+      ],
       "faq": [
         {
           "pergunta": "O que significa 'o Senhor te guardará de todo o mal' em Salmos 121:7?",
@@ -96,8 +141,16 @@
         "NTLH": "O Senhor guardará você em tudo o que você fizer, agora e para sempre.",
         "NVT": "O Senhor guardará sua saída e sua entrada, desde agora e para todo o sempre."
       },
-      "temas": ["protecao", "fidelidade-de-deus", "cuidado-de-deus", "eternidade"],
-      "versiculosRelacionados": ["deuteronomio/28/6", "salmos/121/7"],
+      "temas": [
+        "protecao",
+        "fidelidade-de-deus",
+        "cuidado-de-deus",
+        "eternidade"
+      ],
+      "versiculosRelacionados": [
+        "deuteronomio/28/6",
+        "salmos/121/7"
+      ],
       "faq": []
     }
   ],
@@ -106,12 +159,35 @@
     "contexto": "Salmos 121 faz parte dos 'Cânticos dos Degraus' (Salmos 120-134) — hinos cantados pelos peregrinos israelitas enquanto subiam os degraus do Templo em Jerusalém ou em procissão durante as festas anuais. A jornada até Jerusalém era literalmente perigosa: montanhas, sol inclemente, estradas desconhecidas. O salmo funcionava como oração de confiança durante essa jornada — e por extensão, na jornada de toda a vida.",
     "aplicacao": "Salmos 121 é o salmo perfeito para momentos de transição e incerteza: mudança de cidade, início de emprego, viagem, diagnóstico médico, decisão importante. A estrutura do salmo é um diálogo — a pergunta da ansiedade ('de onde vem o socorro?') e a resposta da fé ('do Senhor, que fez os céus e a terra'). O final é abrangente: 'a tua saída e a tua entrada, agora e para sempre' — não apenas um momento específico, mas toda a vida, em sua totalidade."
   },
-  "versiculosDestaque": [1, 2, 7, 8],
-  "temas": ["protecao", "confianca", "cuidado-de-deus", "fidelidade-de-deus", "seguranca"],
+  "versiculosDestaque": [
+    1,
+    2,
+    7,
+    8
+  ],
+  "temas": [
+    "protecao",
+    "confianca",
+    "cuidado-de-deus",
+    "fidelidade-de-deus",
+    "seguranca"
+  ],
   "versiculosRelacionadosExternos": [
-    { "ref": "salmos/23/1", "texto": "Salmos 23:1 — O Senhor é o meu pastor" },
-    { "ref": "salmos/91/1", "texto": "Salmos 91:1 — Aquele que habita no esconderijo do Altíssimo" },
-    { "ref": "isaias/41/10", "texto": "Isaías 41:10 — Não temas, porque eu sou contigo" },
-    { "ref": "filipenses/4/6-7", "texto": "Filipenses 4:6-7 — Em nada estejais ansiosos" }
+    {
+      "ref": "salmos/23/1",
+      "texto": "Salmos 23:1 — O Senhor é o meu pastor"
+    },
+    {
+      "ref": "salmos/91/1",
+      "texto": "Salmos 91:1 — Aquele que habita no esconderijo do Altíssimo"
+    },
+    {
+      "ref": "isaias/41/10",
+      "texto": "Isaías 41:10 — Não temas, porque eu sou contigo"
+    },
+    {
+      "ref": "filipenses/4/6-7",
+      "texto": "Filipenses 4:6-7 — Em nada estejais ansiosos"
+    }
   ]
 }

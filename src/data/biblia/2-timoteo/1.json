@@ -14,8 +14,18 @@
         "NTLH": "Pois o Espírito que Deus nos deu não nos torna covardes. Pelo contrário, esse Espírito nos dá poder, amor e autocontrole.",
         "NVT": "Pois Deus não nos deu espírito de covardia, mas de poder, de amor e de equilíbrio."
       },
-      "temas": ["coragem", "fe", "poder-de-deus", "amor", "espirito-santo"],
-      "versiculosRelacionados": ["romanos/8/15", "joao/14/27", "filipenses/4/13"],
+      "temas": [
+        "coragem",
+        "fe",
+        "poder-de-deus",
+        "amor",
+        "espirito-santo"
+      ],
+      "versiculosRelacionados": [
+        "romanos/8/15",
+        "joao/14/27",
+        "filipenses/4/13"
+      ],
       "faq": [
         {
           "pergunta": "O que Paulo quer dizer com 'espírito de covardia' em 2 Timóteo 1:7?",
@@ -39,8 +49,16 @@
         "NTLH": "Foi Deus quem nos salvou e nos chamou para viver uma vida santa. Isso não aconteceu porque merecemos, mas porque foi o plano e a graça que ele tinha para nós. Essa graça foi dada a nós em Cristo Jesus antes do início dos tempos.",
         "NVT": "Ele nos salvou e nos chamou com uma santa vocação, não por causa de nossas obras, mas segundo o seu próprio propósito e graça, a qual nos foi dada em Cristo Jesus desde antes dos tempos eternos."
       },
-      "temas": ["salvacao", "graca", "chamado", "proposito"],
-      "versiculosRelacionados": ["efesios/2/8-9", "romanos/8/28-30"],
+      "temas": [
+        "salvacao",
+        "graca",
+        "chamado",
+        "proposito"
+      ],
+      "versiculosRelacionados": [
+        "efesios/2/8",
+        "romanos/8/28"
+      ],
       "faq": []
     },
     {
@@ -51,8 +69,16 @@
         "NTLH": "É por isso que estou sofrendo estas coisas. Mas não me envergonho disso, porque sei em quem tenho confiado. Tenho certeza de que ele é capaz de guardar o que me foi confiado, até aquele dia.",
         "NVT": "Por essa razão estou sofrendo estas coisas. Mas não me envergonho, pois sei em quem tenho crido, e estou convicto de que ele é capaz de guardar o que lhe confiei até aquele dia."
       },
-      "temas": ["confianca", "perseveranca", "fe", "certeza"],
-      "versiculosRelacionados": ["filipenses/1/6", "romanos/8/38-39"],
+      "temas": [
+        "confianca",
+        "perseveranca",
+        "fe",
+        "certeza"
+      ],
+      "versiculosRelacionados": [
+        "filipenses/1/6",
+        "romanos/8/38"
+      ],
       "faq": [
         {
           "pergunta": "O que Paulo quis dizer com 'sei em quem tenho crido' em 2 Timóteo 1:12?",
@@ -66,12 +92,33 @@
     "contexto": "2 Timóteo é a última carta de Paulo — escrita da prisão em Roma, pouco antes de sua execução. Timóteo era seu discípulo mais próximo, líder em Éfeso, de temperamento mais reservado e propenso à timidez. Paulo o instiga a não recuar, a não se envergonhar do evangelho, a enfrentar o sofrimento com firmeza. O versículo 7 é o fundamento teológico de todo o apelo: a coragem que Paulo pede não é gerada por esforço humano, mas já foi dada pelo Espírito.",
     "aplicacao": "Para o cristão brasileiro que enfrenta medo de falar da fé, de assumir posições, de enfrentar conflitos ou de dar o próximo passo em um chamado, 2 Timóteo 1:7 oferece uma reorientação fundamental: o medo paralisante não é humildade — é ausência de confiança no Espírito recebido. A coragem não precisa ser fabricada: já foi dada. Resta apropriar-se do que já está disponível."
   },
-  "versiculosDestaque": [7, 12],
-  "temas": ["coragem", "fe", "poder-de-deus", "espirito-santo", "perseveranca"],
+  "versiculosDestaque": [
+    7,
+    12
+  ],
+  "temas": [
+    "coragem",
+    "fe",
+    "poder-de-deus",
+    "espirito-santo",
+    "perseveranca"
+  ],
   "versiculosRelacionadosExternos": [
-    { "ref": "romanos/8/15", "texto": "Romanos 8:15 — Não recebestes o espírito de escravidão para viverdes em temor" },
-    { "ref": "joao/14/27", "texto": "João 14:27 — Não vos turbe o coração, nem se atemorize" },
-    { "ref": "filipenses/4/13", "texto": "Filipenses 4:13 — Posso fazer todas as coisas por meio de Cristo" },
-    { "ref": "josue/1/9", "texto": "Josué 1:9 — Sede forte e corajoso; não te atemorizes" }
+    {
+      "ref": "romanos/8/15",
+      "texto": "Romanos 8:15 — Não recebestes o espírito de escravidão para viverdes em temor"
+    },
+    {
+      "ref": "joao/14/27",
+      "texto": "João 14:27 — Não vos turbe o coração, nem se atemorize"
+    },
+    {
+      "ref": "filipenses/4/13",
+      "texto": "Filipenses 4:13 — Posso fazer todas as coisas por meio de Cristo"
+    },
+    {
+      "ref": "josue/1/9",
+      "texto": "Josué 1:9 — Sede forte e corajoso; não te atemorizes"
+    }
   ]
 }

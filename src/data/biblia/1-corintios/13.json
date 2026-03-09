@@ -14,7 +14,11 @@
         "NTLH": "Se eu falar as línguas dos homens e dos anjos, mas não tiver amor, serei como instrumento de barulho, como sino desafinado.",
         "NVT": "Se eu falar nas línguas dos homens e dos anjos, mas não tiver amor, serei como bronze que soa ou como címbalo que retine."
       },
-      "temas": ["amor", "dons-espirituais", "prioridades"],
+      "temas": [
+        "amor",
+        "dons-espirituais",
+        "prioridades"
+      ],
       "versiculosRelacionados": [],
       "faq": []
     },
@@ -26,7 +30,12 @@
         "NTLH": "O amor é paciente e bondoso. O amor não é invejoso nem orgulhoso. Não é arrogante",
         "NVT": "O amor é paciente, é bondoso; o amor não sente inveja; o amor não se vangloria, não é arrogante;"
       },
-      "temas": ["amor", "paciencia", "bondade", "humildade"],
+      "temas": [
+        "amor",
+        "paciencia",
+        "bondade",
+        "humildade"
+      ],
       "versiculosRelacionados": [],
       "faq": [
         {
@@ -43,7 +52,12 @@
         "NTLH": "não faz coisas vergonhosas nem pensa só em si mesmo. Não se irrita com facilidade. Não guarda rancor.",
         "NVT": "não se comporta de maneira inconveniente, não busca o seu próprio interesse, não se irrita com facilidade, não leva em conta o mal sofrido;"
       },
-      "temas": ["amor", "perdao", "humildade", "relacionamentos"],
+      "temas": [
+        "amor",
+        "perdao",
+        "humildade",
+        "relacionamentos"
+      ],
       "versiculosRelacionados": [],
       "faq": [
         {
@@ -60,7 +74,12 @@
         "NTLH": "O amor nunca desiste. O amor tem sempre confiança, sempre esperança e sempre perseverança.",
         "NVT": "tudo suporta, tudo crê, tudo espera, tudo persevera."
       },
-      "temas": ["amor", "perseveranca", "esperanca", "fe"],
+      "temas": [
+        "amor",
+        "perseveranca",
+        "esperanca",
+        "fe"
+      ],
       "versiculosRelacionados": [],
       "faq": []
     },
@@ -72,7 +91,11 @@
         "NTLH": "O amor nunca acaba. As profecias vão terminar. O falar em línguas vai cessar. O conhecimento vai acabar.",
         "NVT": "O amor jamais perece. As profecias desaparecerão, as línguas cessarão, o conhecimento passará."
       },
-      "temas": ["amor", "eternidade", "permanencia"],
+      "temas": [
+        "amor",
+        "eternidade",
+        "permanencia"
+      ],
       "versiculosRelacionados": [],
       "faq": []
     },
@@ -84,8 +107,17 @@
         "NTLH": "Assim, essas três coisas permanecem para sempre: a fé, a esperança e o amor. Mas a maior de todas é o amor.",
         "NVT": "E agora permanecem estas três: fé, esperança e amor. Mas o maior delas é o amor."
       },
-      "temas": ["amor", "fe", "esperanca", "eternidade"],
-      "versiculosRelacionados": ["1-joao/4/8", "romanos/8/38-39", "joao/3/16"],
+      "temas": [
+        "amor",
+        "fe",
+        "esperanca",
+        "eternidade"
+      ],
+      "versiculosRelacionados": [
+        "1-joao/4/8",
+        "romanos/8/38",
+        "joao/3/16"
+      ],
       "faq": [
         {
           "pergunta": "Por que o amor é 'o maior' em 1 Coríntios 13:13?",
@@ -103,12 +135,34 @@
     "contexto": "A igreja de Corinto era carismática e talentosa — mas também orgulhosa, dividida e conflituosa. Nos capítulos 12 e 14, Paulo discute os dons espirituais. No capítulo 13, ele interrompe para dizer: a prova de que os dons são de Deus é que eles são exercidos em amor. Sem amor, qualquer dom é apenas barulho (v. 1).",
     "aplicacao": "Em relacionamentos, casamentos, amizades e comunidades de fé, 1 Coríntios 13 funciona como espelho: cada característica do amor (paciente, bondoso, não guarda rancor...) pode ser lida como uma pergunta — 'sou assim com as pessoas ao meu redor?' O capítulo não é um ideal inalcançável: é uma descrição de como Jesus amou — e uma convocação a seguir Seu exemplo."
   },
-  "versiculosDestaque": [4, 7, 13],
-  "temas": ["amor", "relacionamentos", "perseveranca", "fe", "esperanca"],
+  "versiculosDestaque": [
+    4,
+    7,
+    13
+  ],
+  "temas": [
+    "amor",
+    "relacionamentos",
+    "perseveranca",
+    "fe",
+    "esperanca"
+  ],
   "versiculosRelacionadosExternos": [
-    { "ref": "1-joao/4/8", "texto": "1 João 4:8 — Deus é amor" },
-    { "ref": "joao/3/16", "texto": "João 3:16 — Porque Deus amou o mundo" },
-    { "ref": "romanos/5/8", "texto": "Romanos 5:8 — Deus prova o seu amor" },
-    { "ref": "joao/13/34", "texto": "João 13:34 — Amem-se uns aos outros como eu os amei" }
+    {
+      "ref": "1-joao/4/8",
+      "texto": "1 João 4:8 — Deus é amor"
+    },
+    {
+      "ref": "joao/3/16",
+      "texto": "João 3:16 — Porque Deus amou o mundo"
+    },
+    {
+      "ref": "romanos/5/8",
+      "texto": "Romanos 5:8 — Deus prova o seu amor"
+    },
+    {
+      "ref": "joao/13/34",
+      "texto": "João 13:34 — Amem-se uns aos outros como eu os amei"
+    }
   ]
 }

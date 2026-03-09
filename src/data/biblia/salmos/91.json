@@ -16,8 +16,16 @@
         "NTLH": "Quem vive sob a proteção do Deus Altíssimo e fica à sombra do Deus Todo-Poderoso",
         "NVT": "Aquele que vive sob a proteção do Altíssimo encontrará descanso à sombra do Todo-Poderoso."
       },
-      "temas": ["protecao", "confianca", "presenca-de-deus"],
-      "versiculosRelacionados": ["salmos/23/4", "salmos/46/1", "isaias/41/10"],
+      "temas": [
+        "protecao",
+        "confianca",
+        "presenca-de-deus"
+      ],
+      "versiculosRelacionados": [
+        "salmos/23/4",
+        "salmos/46/1",
+        "isaias/41/10"
+      ],
       "faq": [
         {
           "pergunta": "O que significa 'esconderijo do Altíssimo' em Salmos 91:1?",
@@ -37,8 +45,15 @@
         "NTLH": "Eu digo ao SENHOR: 'Tu és o meu protetor, o meu Deus, em quem confio.'",
         "NVT": "Declaro sobre o SENHOR: 'Ele é meu refúgio e minha fortaleza, meu Deus, em quem confio.'"
       },
-      "temas": ["confianca", "declaracao-de-fe", "protecao"],
-      "versiculosRelacionados": ["salmos/18/2", "salmos/46/1-3"],
+      "temas": [
+        "confianca",
+        "declaracao-de-fe",
+        "protecao"
+      ],
+      "versiculosRelacionados": [
+        "salmos/18/2",
+        "salmos/46/1"
+      ],
       "faq": []
     },
     {
@@ -49,7 +64,10 @@
         "NTLH": "Ele vai te livrar das armadilhas dos caçadores e das doenças perigosas.",
         "NVT": "Pois ele te libertará de toda armadilha e te protegerá de doenças mortais."
       },
-      "temas": ["livramento", "protecao"],
+      "temas": [
+        "livramento",
+        "protecao"
+      ],
       "versiculosRelacionados": [],
       "faq": []
     },
@@ -61,8 +79,14 @@
         "NTLH": "Ele vai te cobrir com as suas asas, e debaixo delas você ficará seguro. Ele é fiel e vai te proteger como um escudo.",
         "NVT": "Ele te cobrirá com suas asas, e sob elas encontrarás segurança. Sua fidelidade é armadura e proteção."
       },
-      "temas": ["protecao", "cuidado-de-deus"],
-      "versiculosRelacionados": ["salmos/17/8", "mateus/23/37"],
+      "temas": [
+        "protecao",
+        "cuidado-de-deus"
+      ],
+      "versiculosRelacionados": [
+        "salmos/17/8",
+        "mateus/23/37"
+      ],
       "faq": []
     },
     {
@@ -73,8 +97,14 @@
         "NTLH": "Você não vai ter medo do terror que vem de noite nem das flechas que voam de dia,",
         "NVT": "Não precisas temer o terror da noite nem as flechas que voam durante o dia,"
       },
-      "temas": ["coragem", "protecao", "medo"],
-      "versiculosRelacionados": ["isaias/41/10"],
+      "temas": [
+        "coragem",
+        "protecao",
+        "medo"
+      ],
+      "versiculosRelacionados": [
+        "isaias/41/10"
+      ],
       "faq": []
     },
     {
@@ -85,7 +115,10 @@
         "NTLH": "nem das doenças que vêm na escuridão nem dos perigos que aparecem ao meio-dia.",
         "NVT": "nem da pestilência que ronda nas trevas, nem da calamidade que devasta ao meio-dia."
       },
-      "temas": ["protecao", "livramento"],
+      "temas": [
+        "protecao",
+        "livramento"
+      ],
       "versiculosRelacionados": [],
       "faq": []
     },
@@ -97,7 +130,11 @@
         "NTLH": "Milhares podem cair ao seu lado, mas você não será atingido.",
         "NVT": "Mil podem cair ao teu lado, dez mil à tua direita, mas tu permanecerás ileso."
       },
-      "temas": ["protecao", "livramento", "confianca"],
+      "temas": [
+        "protecao",
+        "livramento",
+        "confianca"
+      ],
       "versiculosRelacionados": [],
       "faq": [
         {
@@ -114,7 +151,9 @@
         "NTLH": "Com seus próprios olhos você verá o que acontece com os maus.",
         "NVT": "Apenas observarás com teus próprios olhos e verás a punição dos ímpios."
       },
-      "temas": ["justica-divina"],
+      "temas": [
+        "justica-divina"
+      ],
       "versiculosRelacionados": [],
       "faq": []
     },
@@ -126,7 +165,10 @@
         "NTLH": "Você fez do SENHOR o seu protetor, do Altíssimo o seu lar.",
         "NVT": "Porque fizeste do SENHOR teu refúgio, do Altíssimo tua morada,"
       },
-      "temas": ["protecao", "presenca-de-deus"],
+      "temas": [
+        "protecao",
+        "presenca-de-deus"
+      ],
       "versiculosRelacionados": [],
       "faq": []
     },
@@ -138,7 +180,10 @@
         "NTLH": "nada de mau vai te acontecer, nem doença alguma vai chegar à sua casa.",
         "NVT": "nenhum mal te atingirá, nenhuma praga chegará à tua habitação."
       },
-      "temas": ["protecao", "bencao"],
+      "temas": [
+        "protecao",
+        "bencao"
+      ],
       "versiculosRelacionados": [],
       "faq": []
     },
@@ -150,8 +195,14 @@
         "NTLH": "Deus vai mandar os seus anjos cuidar de você em todos os seus caminhos.",
         "NVT": "Pois ele ordenará aos seus anjos que te protejam em todos os teus caminhos."
       },
-      "temas": ["anjos", "protecao", "cuidado-de-deus"],
-      "versiculosRelacionados": ["hebreus/1/14"],
+      "temas": [
+        "anjos",
+        "protecao",
+        "cuidado-de-deus"
+      ],
+      "versiculosRelacionados": [
+        "hebreus/1/14"
+      ],
       "faq": [
         {
           "pergunta": "O versículo de Salmos 91:11 sobre anjos é verdadeiro para hoje?",
@@ -167,7 +218,10 @@
         "NTLH": "Eles vão te segurar para que você não tropece em nenhuma pedra.",
         "NVT": "Eles te sustentarão com as mãos para que não tropeces em pedra alguma."
       },
-      "temas": ["protecao", "anjos"],
+      "temas": [
+        "protecao",
+        "anjos"
+      ],
       "versiculosRelacionados": [],
       "faq": []
     },
@@ -179,8 +233,14 @@
         "NTLH": "Você vai pisar em cima de leões e cobras, vai esmagar leõezinhos e serpentes.",
         "NVT": "Calcarás aos pés leões e víboras; amasarás leõezinhos e serpentes."
       },
-      "temas": ["vitoria", "autoridade", "protecao"],
-      "versiculosRelacionados": ["lucas/10/19"],
+      "temas": [
+        "vitoria",
+        "autoridade",
+        "protecao"
+      ],
+      "versiculosRelacionados": [
+        "lucas/10/19"
+      ],
       "faq": []
     },
     {
@@ -191,7 +251,11 @@
         "NTLH": "\"Deus diz: 'Vou proteger aquele que me ama, vou defender aquele que sabe quem eu sou.'\"",
         "NVT": "\"Pois me ama de todo coração, por isso o livrarei; o protegerei, porque reconhece meu nome.\""
       },
-      "temas": ["amor-de-deus", "livramento", "protecao"],
+      "temas": [
+        "amor-de-deus",
+        "livramento",
+        "protecao"
+      ],
       "versiculosRelacionados": [],
       "faq": []
     },
@@ -203,8 +267,14 @@
         "NTLH": "Quando ele me chamar, eu vou responder; estarei com ele quando ele estiver em perigo, vou salvá-lo e o farei grande.",
         "NVT": "Quando clamar a mim, responderei; estarei com ele na adversidade, o livrarei e o honrarei."
       },
-      "temas": ["oracao", "livramento", "presenca-de-deus"],
-      "versiculosRelacionados": ["jeremias/33/3"],
+      "temas": [
+        "oracao",
+        "livramento",
+        "presenca-de-deus"
+      ],
+      "versiculosRelacionados": [
+        "jeremias/33/3"
+      ],
       "faq": []
     },
     {
@@ -215,7 +285,11 @@
         "NTLH": "Vou deixá-lo viver muito tempo e vou mostrar a ele a minha salvação.'\"",
         "NVT": "Com vida longa o satisfarei e lhe mostrarei minha salvação.\""
       },
-      "temas": ["salvacao", "bencao", "vida"],
+      "temas": [
+        "salvacao",
+        "bencao",
+        "vida"
+      ],
       "versiculosRelacionados": [],
       "faq": []
     }
@@ -227,12 +301,35 @@
     "teologia": "A teologia central do Salmo 91 é a proteção divina condicionada à intimidade com Deus. As promessas não são para qualquer pessoa, mas para 'aquele que habita no esconderijo do Altíssimo' (v. 1) — aquele que escolhe permanecer na presença de Deus. A palavra 'habitar' em hebraico (yashab) significa sentar, permanecer, fazer morada. Não é uma visita ocasional, mas uma residência permanente na presença de Deus.",
     "aplicacao": "Para o crente hoje, o Salmo 91 é um convite a uma vida de confiança radical em Deus. Diante de pandemias, incertezas econômicas, problemas de saúde ou qualquer forma de medo, este salmo declara: há um lugar de segurança absoluta. Esse lugar não é uma localização geográfica, mas um relacionamento — a presença íntima de Deus acessada pela fé, oração e obediência."
   },
-  "versiculosDestaque": [1, 7, 11, 15],
-  "temas": ["protecao", "confianca", "anjos", "livramento", "presenca-de-deus"],
+  "versiculosDestaque": [
+    1,
+    7,
+    11,
+    15
+  ],
+  "temas": [
+    "protecao",
+    "confianca",
+    "anjos",
+    "livramento",
+    "presenca-de-deus"
+  ],
   "versiculosRelacionadosExternos": [
-    { "ref": "salmos/23", "texto": "Salmo 23 — O Senhor é meu pastor" },
-    { "ref": "salmos/46/1", "texto": "Salmos 46:1 — Deus é o nosso refúgio" },
-    { "ref": "isaias/41/10", "texto": "Isaías 41:10 — Não temas, porque eu sou contigo" },
-    { "ref": "romanos/8/31", "texto": "Romanos 8:31 — Se Deus é por nós, quem será contra nós?" }
+    {
+      "ref": "salmos/23",
+      "texto": "Salmo 23 — O Senhor é meu pastor"
+    },
+    {
+      "ref": "salmos/46/1",
+      "texto": "Salmos 46:1 — Deus é o nosso refúgio"
+    },
+    {
+      "ref": "isaias/41/10",
+      "texto": "Isaías 41:10 — Não temas, porque eu sou contigo"
+    },
+    {
+      "ref": "romanos/8/31",
+      "texto": "Romanos 8:31 — Se Deus é por nós, quem será contra nós?"
+    }
   ]
 }

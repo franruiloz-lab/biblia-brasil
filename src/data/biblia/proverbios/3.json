@@ -14,8 +14,17 @@
         "NTLH": "Confie no Senhor com todo o seu coração e não confie na sua própria inteligência.",
         "NVT": "Confie no Senhor de todo o seu coração e não se apoie no seu próprio entendimento."
       },
-      "temas": ["confianca", "fe", "sabedoria", "humildade"],
-      "versiculosRelacionados": ["proverbios/3/6", "isaias/55/8-9", "jeremias/17/7"],
+      "temas": [
+        "confianca",
+        "fe",
+        "sabedoria",
+        "humildade"
+      ],
+      "versiculosRelacionados": [
+        "proverbios/3/6",
+        "isaias/55/8",
+        "jeremias/17/7"
+      ],
       "faq": [
         {
           "pergunta": "O que significa 'não te estribes no teu próprio entendimento' em Provérbios 3:5?",
@@ -35,8 +44,16 @@
         "NTLH": "Lembre-se do Senhor em tudo o que fizer, e ele lhe mostrará o caminho certo.",
         "NVT": "Busque a orientação do Senhor em tudo o que fizer, e ele endireitará as suas veredas."
       },
-      "temas": ["confianca", "orientacao", "providencia", "sabedoria"],
-      "versiculosRelacionados": ["salmos/37/5", "proverbios/16/9"],
+      "temas": [
+        "confianca",
+        "orientacao",
+        "providencia",
+        "sabedoria"
+      ],
+      "versiculosRelacionados": [
+        "salmos/37/5",
+        "proverbios/16/9"
+      ],
       "faq": [
         {
           "pergunta": "O que significa 'reconhece-o em todos os teus caminhos' em Provérbios 3:6?",
@@ -52,8 +69,16 @@
         "NTLH": "Honre o Senhor com a sua riqueza e com a primeira parte de tudo o que você ganhar.",
         "NVT": "Honre o Senhor com os seus bens e com as primícias de toda a sua colheita."
       },
-      "temas": ["generosidade", "mordomia", "adoracao", "financas"],
-      "versiculosRelacionados": ["malaquias/3/10", "2-corintios/9/7"],
+      "temas": [
+        "generosidade",
+        "mordomia",
+        "adoracao",
+        "financas"
+      ],
+      "versiculosRelacionados": [
+        "malaquias/3/10",
+        "2-corintios/9/7"
+      ],
       "faq": []
     },
     {
@@ -64,8 +89,16 @@
         "NTLH": "Filho meu, não rejeite a disciplina do Senhor nem fique aborrecido quando ele o corrigir.",
         "NVT": "Filho meu, não rejeite a disciplina do Senhor, nem se aborreça quando ele o repreende."
       },
-      "temas": ["disciplina", "humildade", "amor-de-deus", "carater"],
-      "versiculosRelacionados": ["hebreus/12/5-6", "apocalipse/3/19"],
+      "temas": [
+        "disciplina",
+        "humildade",
+        "amor-de-deus",
+        "carater"
+      ],
+      "versiculosRelacionados": [
+        "hebreus/12/5",
+        "apocalipse/3/19"
+      ],
       "faq": []
     },
     {
@@ -76,8 +109,15 @@
         "NTLH": "porque o Senhor disciplina os que ama, como um pai faz com o filho de quem gosta.",
         "NVT": "pois o Senhor disciplina aquele que ama, como o pai corrige o filho de quem se agrada."
       },
-      "temas": ["disciplina", "amor-de-deus", "carater"],
-      "versiculosRelacionados": ["hebreus/12/6", "apocalipse/3/19"],
+      "temas": [
+        "disciplina",
+        "amor-de-deus",
+        "carater"
+      ],
+      "versiculosRelacionados": [
+        "hebreus/12/6",
+        "apocalipse/3/19"
+      ],
       "faq": []
     }
   ],
@@ -86,12 +126,33 @@
     "contexto": "Provérbios 3 faz parte da primeira grande seção do livro (capítulos 1-9), onde um pai instrui seu filho sobre a vida sábia. O capítulo 3 é uma das passagens mais densas em promessas práticas: confiança em Deus (v. 5-6), saúde (v. 7-8), prosperidade (v. 9-10), disciplina como amor (v. 11-12) e a descrição da Sabedoria como tesouro (v. 13-18). O tom é íntimo e paternal — não mandamentos religiosos, mas orientação de vida.",
     "aplicacao": "Para o cristão brasileiro que enfrenta decisões — de carreira, relacionamento, saúde, finanças — Provérbios 3:5-6 oferece um princípio fundante: a orientação começa com a postura correta, não com a análise correta. Não é anti-intelectual (Provérbios celebra o estudo e o discernimento), mas estabelece a hierarquia: confiança em Deus precede e permeia toda a reflexão humana."
   },
-  "versiculosDestaque": [5, 6],
-  "temas": ["confianca", "fe", "sabedoria", "orientacao", "providencia"],
+  "versiculosDestaque": [
+    5,
+    6
+  ],
+  "temas": [
+    "confianca",
+    "fe",
+    "sabedoria",
+    "orientacao",
+    "providencia"
+  ],
   "versiculosRelacionadosExternos": [
-    { "ref": "jeremias/29/11", "texto": "Jeremias 29:11 — Porque eu sei os planos que tenho para vocês" },
-    { "ref": "salmos/37/5", "texto": "Salmos 37:5 — Entrega o teu caminho ao Senhor" },
-    { "ref": "proverbios/16/9", "texto": "Provérbios 16:9 — O coração do homem planeja o seu caminho" },
-    { "ref": "isaias/55/8", "texto": "Isaías 55:8 — Porque os meus pensamentos não são os vossos pensamentos" }
+    {
+      "ref": "jeremias/29/11",
+      "texto": "Jeremias 29:11 — Porque eu sei os planos que tenho para vocês"
+    },
+    {
+      "ref": "salmos/37/5",
+      "texto": "Salmos 37:5 — Entrega o teu caminho ao Senhor"
+    },
+    {
+      "ref": "proverbios/16/9",
+      "texto": "Provérbios 16:9 — O coração do homem planeja o seu caminho"
+    },
+    {
+      "ref": "isaias/55/8",
+      "texto": "Isaías 55:8 — Porque os meus pensamentos não são os vossos pensamentos"
+    }
   ]
 }

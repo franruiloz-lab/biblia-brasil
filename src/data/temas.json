@@ -5,11 +5,26 @@
     "descricao": "Versículos sobre a proteção e cuidado de Deus sobre a vida de quem nEle confia.",
     "icone": "🛡️",
     "versiculos": [
-      { "ref": "salmos/91/1", "texto": "O que habita no esconderijo do Altíssimo, à sombra do Onipotente descansará." },
-      { "ref": "salmos/91/11", "texto": "Porque aos seus anjos dará ordens a teu respeito, para que te guardem em todos os teus caminhos." },
-      { "ref": "numeros/6/24", "texto": "O Senhor te abençoe e te guarde." },
-      { "ref": "salmos/23/4", "texto": "Mesmo que eu caminhe pelo vale da sombra da morte, não temerei mal algum, pois tu estás comigo." },
-      { "ref": "isaias/54/17", "texto": "Nenhuma arma forjada contra ti prosperará." }
+      {
+        "ref": "salmos/91/1",
+        "texto": "O que habita no esconderijo do Altíssimo, à sombra do Onipotente descansará."
+      },
+      {
+        "ref": "salmos/91/11",
+        "texto": "Porque aos seus anjos dará ordens a teu respeito, para que te guardem em todos os teus caminhos."
+      },
+      {
+        "ref": "numeros/6/24",
+        "texto": "O Senhor te abençoe e te guarde."
+      },
+      {
+        "ref": "salmos/23/4",
+        "texto": "Mesmo que eu caminhe pelo vale da sombra da morte, não temerei mal algum, pois tu estás comigo."
+      },
+      {
+        "ref": "isaias/54/17",
+        "texto": "Nenhuma arma forjada contra ti prosperará."
+      }
     ]
   },
   {
@@ -18,11 +33,26 @@
     "descricao": "Versículos sobre fé, confiança em Deus e a vida de quem crê.",
     "icone": "✝️",
     "versiculos": [
-      { "ref": "joao/3/16", "texto": "Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito, para que todo aquele que nele crê não pereça, mas tenha a vida eterna." },
-      { "ref": "filipenses/4/13", "texto": "Posso fazer todas as coisas por meio de Cristo que me fortalece." },
-      { "ref": "hebreus/11/1", "texto": "Ora, a fé é a certeza daquilo que esperamos e a prova das coisas que não vemos." },
-      { "ref": "marcos/11/24", "texto": "Por isso vos digo: tudo o que pedirdes em oração, crede que já o recebestes, e assim vos acontecerá." },
-      { "ref": "romanos/10/17", "texto": "A fé vem pelo ouvir, e o ouvir, pela palavra de Cristo." }
+      {
+        "ref": "joao/3/16",
+        "texto": "Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito, para que todo aquele que nele crê não pereça, mas tenha a vida eterna."
+      },
+      {
+        "ref": "filipenses/4/13",
+        "texto": "Posso fazer todas as coisas por meio de Cristo que me fortalece."
+      },
+      {
+        "ref": "hebreus/11/1",
+        "texto": "Ora, a fé é a certeza daquilo que esperamos e a prova das coisas que não vemos."
+      },
+      {
+        "ref": "marcos/11/24",
+        "texto": "Por isso vos digo: tudo o que pedirdes em oração, crede que já o recebestes, e assim vos acontecerá."
+      },
+      {
+        "ref": "romanos/10/17",
+        "texto": "A fé vem pelo ouvir, e o ouvir, pela palavra de Cristo."
+      }
     ]
   },
   {
@@ -31,11 +61,26 @@
     "descricao": "Versículos sobre a bênção e o favor de Deus sobre a vida do Seu povo.",
     "icone": "🙏",
     "versiculos": [
-      { "ref": "numeros/6/24", "texto": "O Senhor te abençoe e te guarde." },
-      { "ref": "numeros/6/25", "texto": "O Senhor faça resplandecer o seu rosto sobre ti e tenha misericórdia de ti." },
-      { "ref": "numeros/6/26", "texto": "O Senhor sobre ti levante o seu rosto e te dê a paz." },
-      { "ref": "proverbios/16/3", "texto": "Consagre ao SENHOR tudo o que você faz, e os seus planos serão bem-sucedidos." },
-      { "ref": "malaquias/3/10", "texto": "Trazei todos os dízimos à casa do tesouro... e derramarei sobre vós bênção sem medida." }
+      {
+        "ref": "numeros/6/24",
+        "texto": "O Senhor te abençoe e te guarde."
+      },
+      {
+        "ref": "numeros/6/25",
+        "texto": "O Senhor faça resplandecer o seu rosto sobre ti e tenha misericórdia de ti."
+      },
+      {
+        "ref": "numeros/6/26",
+        "texto": "O Senhor sobre ti levante o seu rosto e te dê a paz."
+      },
+      {
+        "ref": "proverbios/16/3",
+        "texto": "Consagre ao SENHOR tudo o que você faz, e os seus planos serão bem-sucedidos."
+      },
+      {
+        "ref": "malaquias/3/10",
+        "texto": "Trazei todos os dízimos à casa do tesouro... e derramarei sobre vós bênção sem medida."
+      }
     ]
   },
   {
@@ -44,11 +89,26 @@
     "descricao": "Versículos sobre a paz de Deus que excede todo entendimento.",
     "icone": "🕊️",
     "versiculos": [
-      { "ref": "filipenses/4/7", "texto": "E a paz de Deus, que excede todo o entendimento, guardará os vossos corações e as vossas mentes em Cristo Jesus." },
-      { "ref": "joao/14/27", "texto": "Deixo-vos a paz, a minha paz vos dou; não vo-la dou como o mundo a dá." },
-      { "ref": "numeros/6/26", "texto": "O Senhor sobre ti levante o seu rosto e te dê a paz." },
-      { "ref": "salmos/23/2", "texto": "Ele me faz repousar em verdes pastos; guia-me mansamente a águas tranquilas." },
-      { "ref": "isaias/26/3", "texto": "Tu guardas em paz aquele cuja mente está firme em ti." }
+      {
+        "ref": "filipenses/4/7",
+        "texto": "E a paz de Deus, que excede todo o entendimento, guardará os vossos corações e as vossas mentes em Cristo Jesus."
+      },
+      {
+        "ref": "joao/14/27",
+        "texto": "Deixo-vos a paz, a minha paz vos dou; não vo-la dou como o mundo a dá."
+      },
+      {
+        "ref": "numeros/6/26",
+        "texto": "O Senhor sobre ti levante o seu rosto e te dê a paz."
+      },
+      {
+        "ref": "salmos/23/2",
+        "texto": "Ele me faz repousar em verdes pastos; guia-me mansamente a águas tranquilas."
+      },
+      {
+        "ref": "isaias/26/3",
+        "texto": "Tu guardas em paz aquele cuja mente está firme em ti."
+      }
     ]
   },
   {
@@ -57,11 +117,26 @@
     "descricao": "Versículos sobre o amor de Deus e o amor ao próximo.",
     "icone": "❤️",
     "versiculos": [
-      { "ref": "joao/3/16", "texto": "Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito." },
-      { "ref": "romanos/8/38-39", "texto": "Nada nos poderá separar do amor de Deus que está em Cristo Jesus, nosso Senhor." },
-      { "ref": "1-joao/4/8", "texto": "Aquele que não ama não conhece a Deus, porque Deus é amor." },
-      { "ref": "romanos/5/8", "texto": "Mas Deus prova o seu amor para conosco pelo fato de Cristo ter morrido por nós." },
-      { "ref": "jeremias/31/3", "texto": "Eu te amei com amor eterno; por isso, com benignidade te atraí." }
+      {
+        "ref": "joao/3/16",
+        "texto": "Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito."
+      },
+      {
+        "ref": "romanos/8/38-39",
+        "texto": "Nada nos poderá separar do amor de Deus que está em Cristo Jesus, nosso Senhor."
+      },
+      {
+        "ref": "1-joao/4/8",
+        "texto": "Aquele que não ama não conhece a Deus, porque Deus é amor."
+      },
+      {
+        "ref": "romanos/5/8",
+        "texto": "Mas Deus prova o seu amor para conosco pelo fato de Cristo ter morrido por nós."
+      },
+      {
+        "ref": "jeremias/31/3",
+        "texto": "Eu te amei com amor eterno; por isso, com benignidade te atraí."
+      }
     ]
   },
   {
@@ -70,11 +145,26 @@
     "descricao": "Versículos sobre esperança e renovação nas promessas de Deus.",
     "icone": "🌅",
     "versiculos": [
-      { "ref": "jeremias/29/11", "texto": "Planos de fazê-los prosperar e não de causar dano, planos de dar a vocês esperança e um futuro." },
-      { "ref": "romanos/8/28", "texto": "Sabemos que Deus age em todas as coisas para o bem daqueles que o amam." },
-      { "ref": "isaias/40/31", "texto": "Os que esperam no SENHOR renovarão as suas forças; subirão com asas como águias." },
-      { "ref": "lamentacoes/3/22-23", "texto": "As misericórdias do SENHOR não têm fim; as suas compaixões não se esgotam; renovam-se cada manhã." },
-      { "ref": "romanos/15/13", "texto": "O Deus da esperança vos encha de toda alegria e paz no crer." }
+      {
+        "ref": "jeremias/29/11",
+        "texto": "Planos de fazê-los prosperar e não de causar dano, planos de dar a vocês esperança e um futuro."
+      },
+      {
+        "ref": "romanos/8/28",
+        "texto": "Sabemos que Deus age em todas as coisas para o bem daqueles que o amam."
+      },
+      {
+        "ref": "isaias/40/31",
+        "texto": "Os que esperam no SENHOR renovarão as suas forças; subirão com asas como águias."
+      },
+      {
+        "ref": "lamentacoes/3/22-23",
+        "texto": "As misericórdias do SENHOR não têm fim; as suas compaixões não se esgotam; renovam-se cada manhã."
+      },
+      {
+        "ref": "romanos/15/13",
+        "texto": "O Deus da esperança vos encha de toda alegria e paz no crer."
+      }
     ]
   },
   {
@@ -83,11 +173,26 @@
     "descricao": "Versículos sobre oração, comunhão com Deus e o poder de buscar Sua face.",
     "icone": "📖",
     "versiculos": [
-      { "ref": "2-cronicas/7/14", "texto": "Se o meu povo humilhar-se, orar, buscar a minha face e abandonar seus maus caminhos, então eu ouvirei do céu." },
-      { "ref": "jeremias/29/12", "texto": "Então vocês me invocarão e virão orar a mim, e eu os ouvirei." },
-      { "ref": "filipenses/4/6", "texto": "Em nada estejais ansiosos; antes em tudo apresentai as vossas petições a Deus em oração." },
-      { "ref": "mateus/7/7", "texto": "Pedi, e dar-se-vos-á; buscai e achareis; batei e abrir-se-vos-á." },
-      { "ref": "jeremias/33/3", "texto": "Clama a mim e eu te responderei e te anunciarei coisas grandes e ocultas." }
+      {
+        "ref": "2-cronicas/7/14",
+        "texto": "Se o meu povo humilhar-se, orar, buscar a minha face e abandonar seus maus caminhos, então eu ouvirei do céu."
+      },
+      {
+        "ref": "jeremias/29/12",
+        "texto": "Então vocês me invocarão e virão orar a mim, e eu os ouvirei."
+      },
+      {
+        "ref": "filipenses/4/6",
+        "texto": "Em nada estejais ansiosos; antes em tudo apresentai as vossas petições a Deus em oração."
+      },
+      {
+        "ref": "mateus/7/7",
+        "texto": "Pedi, e dar-se-vos-á; buscai e achareis; batei e abrir-se-vos-á."
+      },
+      {
+        "ref": "jeremias/33/3",
+        "texto": "Clama a mim e eu te responderei e te anunciarei coisas grandes e ocultas."
+      }
     ]
   },
   {
@@ -96,11 +201,3438 @@
     "descricao": "Versículos sobre sabedoria, discernimento e os caminhos de Deus.",
     "icone": "💡",
     "versiculos": [
-      { "ref": "proverbios/16/3", "texto": "Consagre ao SENHOR tudo o que você faz, e os seus planos serão bem-sucedidos." },
-      { "ref": "proverbios/16/9", "texto": "O coração do homem planeja o seu caminho, mas o SENHOR lhe dirige os passos." },
-      { "ref": "tiago/1/5", "texto": "Se algum de vós tem falta de sabedoria, peça-a a Deus, que a todos dá liberalmente." },
-      { "ref": "proverbios/3/5-6", "texto": "Confia no SENHOR de todo o teu coração e não te estribes no teu próprio entendimento." },
-      { "ref": "salmos/111/10", "texto": "O temor do SENHOR é o princípio da sabedoria." }
+      {
+        "ref": "proverbios/16/3",
+        "texto": "Consagre ao SENHOR tudo o que você faz, e os seus planos serão bem-sucedidos."
+      },
+      {
+        "ref": "proverbios/16/9",
+        "texto": "O coração do homem planeja o seu caminho, mas o SENHOR lhe dirige os passos."
+      },
+      {
+        "ref": "tiago/1/5",
+        "texto": "Se algum de vós tem falta de sabedoria, peça-a a Deus, que a todos dá liberalmente."
+      },
+      {
+        "ref": "proverbios/3/5-6",
+        "texto": "Confia no SENHOR de todo o teu coração e não te estribes no teu próprio entendimento."
+      },
+      {
+        "ref": "salmos/111/10",
+        "texto": "O temor do SENHOR é o princípio da sabedoria."
+      }
+    ]
+  },
+  {
+    "slug": "abraao",
+    "nome": "Abraão",
+    "descricao": "Versículos sobre Abraão, pai da fé.",
+    "icone": "🌟",
+    "versiculos": [
+      {
+        "ref": "hebreus/11/8",
+        "texto": "Pela fé, Abraão obedeceu quando foi chamado para sair para um lugar que devia receber como herança; e saiu sem saber para onde ia."
+      }
+    ]
+  },
+  {
+    "slug": "abundancia",
+    "nome": "Abundância",
+    "descricao": "Versículos sobre a abundância que Deus provê.",
+    "icone": "🌊",
+    "versiculos": [
+      {
+        "ref": "salmos/23/5",
+        "texto": "Preparas uma mesa perante mim na presença dos meus inimigos; unges a minha cabeça com óleo; o meu cálice transborda."
+      }
+    ]
+  },
+  {
+    "slug": "adocao",
+    "nome": "Adoção",
+    "descricao": "Versículos sobre a adoção divina como filhos de Deus.",
+    "icone": "👨‍👧",
+    "versiculos": [
+      {
+        "ref": "joao/1/12",
+        "texto": "Mas, a todos quantos o receberam, deu-lhes o poder de serem feitos filhos de Deus, aos que creem no seu nome,"
+      }
+    ]
+  },
+  {
+    "slug": "adoracao",
+    "nome": "Adoração",
+    "descricao": "Versículos sobre adorar a Deus em espírito e verdade.",
+    "icone": "🎵",
+    "versiculos": [
+      {
+        "ref": "lucas/1/46",
+        "texto": "Então disse Maria: A minha alma engrandece ao Senhor,"
+      },
+      {
+        "ref": "salmos/37/4",
+        "texto": "Deleita-te também no Senhor, e ele te concederá os desejos do teu coração."
+      },
+      {
+        "ref": "mateus/6/9",
+        "texto": "Portanto, vós orareis assim: Pai nosso, que estás nos céus, santificado seja o teu nome;"
+      },
+      {
+        "ref": "proverbios/3/9",
+        "texto": "Honra ao Senhor com os teus bens e com as primícias de todos os teus rendimentos,"
+      },
+      {
+        "ref": "romanos/12/1",
+        "texto": "Rogo-vos, pois, irmãos, pela compaixão de Deus, que apresenteis os vossos corpos em sacrifício vivo, santo e agradável a Deus, que é o vosso culto racional."
+      }
+    ]
+  },
+  {
+    "slug": "advertencia",
+    "nome": "Advertência",
+    "descricao": "Versículos com advertências importantes da Palavra de Deus.",
+    "icone": "⚠️",
+    "versiculos": [
+      {
+        "ref": "apocalipse/3/16",
+        "texto": "Assim, porque és morno, e não és quente nem frio, vomitar-te-ei da minha boca."
+      }
+    ]
+  },
+  {
+    "slug": "aguia",
+    "nome": "Águia",
+    "descricao": "Versículos sobre renovar as forças como águias.",
+    "icone": "🦅",
+    "versiculos": [
+      {
+        "ref": "isaias/40/31",
+        "texto": "mas os que esperam no Senhor renovarão as suas forças, subirão com asas como águias; correrão, e não se cansarão; caminharão, e não se fatigarão."
+      }
+    ]
+  },
+  {
+    "slug": "alegria",
+    "nome": "Alegria",
+    "descricao": "Versículos sobre a alegria que vem do Senhor.",
+    "icone": "😊",
+    "versiculos": [
+      {
+        "ref": "tiago/1/2",
+        "texto": "Meus irmãos, considerai sumo gozo o passardes por várias tentações,"
+      },
+      {
+        "ref": "lucas/15/24",
+        "texto": "porque este meu filho estava morto e reviveu; tinha-se perdido e foi achado. E começaram a regozijar-se."
+      }
+    ]
+  },
+  {
+    "slug": "alivio",
+    "nome": "Alívio",
+    "descricao": "Versículos de alívio e conforto para momentos de dor.",
+    "icone": "😮‍💨",
+    "versiculos": [
+      {
+        "ref": "mateus/11/28",
+        "texto": "Vinde a mim, todos os que estais cansados e oprimidos, e eu vos aliviarei."
+      }
+    ]
+  },
+  {
+    "slug": "amor-de-cristo",
+    "nome": "Amor de Cristo",
+    "descricao": "Versículos sobre o amor incomparável de Jesus Cristo.",
+    "icone": "❤️",
+    "versiculos": [
+      {
+        "ref": "romanos/8/35",
+        "texto": "Quem nos separará do amor de Cristo? A tribulação, ou a angústia, ou a perseguição, ou a fome, ou a nudez, ou o perigo, ou a espada?"
+      }
+    ]
+  },
+  {
+    "slug": "amor-de-deus",
+    "nome": "Amor de Deus",
+    "descricao": "Versículos sobre o amor eterno e incondicional de Deus.",
+    "icone": "❤️",
+    "versiculos": [
+      {
+        "ref": "apocalipse/3/19",
+        "texto": "Eu repreendo e disciplino a todos quantos amo; sê, pois, zeloso e arrepende-te."
+      },
+      {
+        "ref": "efesios/2/4",
+        "texto": "Mas Deus, que é rico em misericórdia, pelo seu grande amor com que nos amou,"
+      },
+      {
+        "ref": "joao/10/11",
+        "texto": "Eu sou o bom pastor; o bom pastor dá a sua vida pelas ovelhas."
+      },
+      {
+        "ref": "joao/3/16",
+        "texto": "Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito, para que todo aquele que nele crê não pereça, mas tenha a vida eterna."
+      },
+      {
+        "ref": "joao/3/17",
+        "texto": "Porque Deus enviou o seu Filho ao mundo, não para que condenasse o mundo, mas para que o mundo fosse salvo por ele."
+      }
+    ]
+  },
+  {
+    "slug": "anjos",
+    "nome": "Anjos",
+    "descricao": "Versículos sobre os anjos e seu ministério.",
+    "icone": "😇",
+    "versiculos": [
+      {
+        "ref": "salmos/91/12",
+        "texto": "Eles te susterão nas suas mãos, para que não tropeces em alguma pedra."
+      },
+      {
+        "ref": "salmos/91/11",
+        "texto": "Porque aos seus anjos dará ordem a teu respeito, para te guardarem em todos os teus caminhos."
+      }
+    ]
+  },
+  {
+    "slug": "ansiedade",
+    "nome": "Ansiedade",
+    "descricao": "Versículos para quem enfrenta ansiedade e preocupação.",
+    "icone": "🌬️",
+    "versiculos": [
+      {
+        "ref": "1-pedro/5/7",
+        "texto": "Lançando sobre ele toda a vossa ansiedade, porque ele tem cuidado de vós."
+      },
+      {
+        "ref": "joao/14/1",
+        "texto": "Não se turbe o vosso coração; credes em Deus, crede também em mim."
+      },
+      {
+        "ref": "filipenses/4/6",
+        "texto": "Em nada estejais ansiosos; antes em tudo, pela oração e pela súplica, com ações de graças, sejam conhecidas as vossas petições diante de Deus."
+      },
+      {
+        "ref": "joao/14/27",
+        "texto": "Deixo-vos a paz, a minha paz vos dou; não vo-la dou como o mundo a dá. Não se turbe o vosso coração, nem se atemorizem."
+      },
+      {
+        "ref": "mateus/6/34",
+        "texto": "Não andeis, pois, ansiosos pelo dia de amanhã; o dia de amanhã terá as suas próprias ansiedades. Basta ao dia o seu próprio mal."
+      }
+    ]
+  },
+  {
+    "slug": "armadura-de-deus",
+    "nome": "Armadura de Deus",
+    "descricao": "Versículos sobre a armadura espiritual descrita em Efésios.",
+    "icone": "🛡️",
+    "versiculos": [
+      {
+        "ref": "efesios/6/15",
+        "texto": "e calçados os pés na preparação do evangelho da paz;"
+      },
+      {
+        "ref": "efesios/6/11",
+        "texto": "Revesti-vos de toda a armadura de Deus, para que possais estar firmes contra as astutas ciladas do diabo."
+      },
+      {
+        "ref": "efesios/6/14",
+        "texto": "Estai, pois, firmes, tendo cingidos os vossos lombos com a verdade, e vestidos da couraça da justiça,"
+      },
+      {
+        "ref": "efesios/6/16",
+        "texto": "Além de tudo isso, tomai o escudo da fé, com o qual podereis apagar todos os dardos inflamados do maligno."
+      },
+      {
+        "ref": "efesios/6/17",
+        "texto": "Tomai também o capacete da salvação e a espada do Espírito, que é a palavra de Deus,"
+      }
+    ]
+  },
+  {
+    "slug": "arrependimento",
+    "nome": "Arrependimento",
+    "descricao": "Versículos sobre o arrependimento e o retorno a Deus.",
+    "icone": "↩️",
+    "versiculos": [
+      {
+        "ref": "apocalipse/3/16",
+        "texto": "Assim, porque és morno, e não és quente nem frio, vomitar-te-ei da minha boca."
+      },
+      {
+        "ref": "apocalipse/3/19",
+        "texto": "Eu repreendo e disciplino a todos quantos amo; sê, pois, zeloso e arrepende-te."
+      },
+      {
+        "ref": "apocalipse/3/17",
+        "texto": "Porque dizes: Sou rico, e tenho enriquecido, e de nada tenho falta, e não sabes que és um desgraçado, miserável, pobre, cego e nu;"
+      },
+      {
+        "ref": "lucas/15/17",
+        "texto": "Caindo, pois, em si, disse: Quantos trabalhadores de meu pai têm abundância de pão, e eu aqui pereço de fome!"
+      },
+      {
+        "ref": "lucas/15/18",
+        "texto": "Levantar-me-ei e irei ter com meu pai, e dir-lhe-ei: Pai, pequei contra o céu e perante ti."
+      }
+    ]
+  },
+  {
+    "slug": "autoridade",
+    "nome": "Autoridade",
+    "descricao": "Versículos sobre a autoridade de Deus e em Deus.",
+    "icone": "⚡",
+    "versiculos": [
+      {
+        "ref": "salmos/91/13",
+        "texto": "Pisarás o leão e a áspide; calcarás aos pés o filho do leão e a serpente."
+      }
+    ]
+  },
+  {
+    "slug": "autoridade-de-cristo",
+    "nome": "Autoridade de Cristo",
+    "descricao": "Versículos sobre toda autoridade dada a Jesus Cristo.",
+    "icone": "⚡",
+    "versiculos": [
+      {
+        "ref": "mateus/28/18",
+        "texto": "E Jesus, aproximando-se, falou-lhes, dizendo: Toda a autoridade me foi dada no céu e na terra."
+      }
+    ]
+  },
+  {
+    "slug": "avivamento",
+    "nome": "Avivamento",
+    "descricao": "Versículos sobre o avivamento espiritual e a renovação da fé.",
+    "icone": "🔥",
+    "versiculos": [
+      {
+        "ref": "isaias/60/1",
+        "texto": "Levanta-te, resplandece, porque veio a tua luz, e a glória do Senhor se levantou sobre ti."
+      },
+      {
+        "ref": "2-cronicas/7/14",
+        "texto": "Se o meu povo, que se chama pelo meu nome, se humilhar, e orar, e buscar a minha face, e se converter dos seus maus caminhos, então eu ouvirei dos céus, e perdoarei os seus pecados, e sararei a sua terra."
+      }
+    ]
+  },
+  {
+    "slug": "boas-obras",
+    "nome": "Boas Obras",
+    "descricao": "Versículos sobre as boas obras como fruto da fé.",
+    "icone": "🌟",
+    "versiculos": [
+      {
+        "ref": "efesios/2/10",
+        "texto": "Porque somos feitura sua, criados em Cristo Jesus para as boas obras, as quais Deus preparou antes para que as praticássemos."
+      },
+      {
+        "ref": "mateus/5/16",
+        "texto": "Assim resplandeça a vossa luz diante dos homens, para que vejam as vossas boas obras e glorifiquem a vosso Pai, que está nos céus."
+      }
+    ]
+  },
+  {
+    "slug": "bondade",
+    "nome": "Bondade",
+    "descricao": "Versículos sobre a bondade de Deus e o chamado à bondade.",
+    "icone": "🌻",
+    "versiculos": [
+      {
+        "ref": "romanos/12/21",
+        "texto": "Não te deixes vencer pelo mal, mas vence o mal com o bem."
+      },
+      {
+        "ref": "1-corintios/13/4",
+        "texto": "O amor é sofredor, é benigno; o amor não é invejoso; o amor não trata com leviandade, não se ensoberbece,"
+      },
+      {
+        "ref": "salmos/23/6",
+        "texto": "Bondade e misericórdia me seguirão todos os dias da minha vida; e habitarei na casa do Senhor por longos dias."
+      }
+    ]
+  },
+  {
+    "slug": "bondade-de-deus",
+    "nome": "Bondade de Deus",
+    "descricao": "Versículos sobre a infinita bondade de Deus.",
+    "icone": "🌻",
+    "versiculos": [
+      {
+        "ref": "salmos/27/13",
+        "texto": "Crera eu que havia de ver a bondade do Senhor na terra dos viventes."
+      },
+      {
+        "ref": "genesis/1/31",
+        "texto": "Viu Deus tudo quanto fizera, e eis que era muito bom. E foi a tarde e a manhã, o dia sexto."
+      },
+      {
+        "ref": "tiago/1/17",
+        "texto": "Toda a boa dádiva e todo o dom perfeito são lá do alto, descendo do Pai das luzes, em quem não há mudança nem sombra de variação."
+      }
+    ]
+  },
+  {
+    "slug": "busca",
+    "nome": "Busca",
+    "descricao": "Versículos sobre buscar a Deus com todo o coração.",
+    "icone": "🔍",
+    "versiculos": [
+      {
+        "ref": "jeremias/29/12",
+        "texto": "E vós me invocareis e ireis, e orareis a mim, e eu vos ouvirei."
+      },
+      {
+        "ref": "jeremias/29/13",
+        "texto": "E buscar-me-eis, e me achareis, quando me buscardes com todo o vosso coração."
+      },
+      {
+        "ref": "hebreus/11/6",
+        "texto": "Ora, sem fé é impossível agradar-lhe, porque é necessário que aquele que se aproxima de Deus creia que ele existe e que é remunerador dos que o buscam."
+      },
+      {
+        "ref": "salmos/27/4",
+        "texto": "Uma coisa pedi ao Senhor, e a buscarei: que eu possa habitar na casa do Senhor todos os dias da minha vida, para contemplar a beleza do Senhor e meditar no seu templo."
+      }
+    ]
+  },
+  {
+    "slug": "caminho",
+    "nome": "Caminho",
+    "descricao": "Versículos sobre Jesus como o caminho, a verdade e a vida.",
+    "icone": "🛣️",
+    "versiculos": [
+      {
+        "ref": "joao/14/6",
+        "texto": "Disse-lhe Jesus: Eu sou o caminho, e a verdade, e a vida; ninguém vem ao Pai senão por mim."
+      }
+    ]
+  },
+  {
+    "slug": "cansaco",
+    "nome": "Cansaço",
+    "descricao": "Versículos de força e renovação para os momentos de cansaço.",
+    "icone": "😴",
+    "versiculos": [
+      {
+        "ref": "isaias/40/29",
+        "texto": "Ele dá força ao cansado e multiplica as forças ao que não tem nenhum vigor."
+      },
+      {
+        "ref": "isaias/40/30",
+        "texto": "Os jovens se cansarão e se fatigarão, e os moços cairão;"
+      },
+      {
+        "ref": "mateus/11/28",
+        "texto": "Vinde a mim, todos os que estais cansados e oprimidos, e eu vos aliviarei."
+      }
+    ]
+  },
+  {
+    "slug": "carater",
+    "nome": "Caráter",
+    "descricao": "Versículos sobre o desenvolvimento do caráter cristão.",
+    "icone": "💎",
+    "versiculos": [
+      {
+        "ref": "tiago/1/2",
+        "texto": "Meus irmãos, considerai sumo gozo o passardes por várias tentações,"
+      },
+      {
+        "ref": "tiago/1/3",
+        "texto": "sabendo que a provação da vossa fé produz paciência."
+      },
+      {
+        "ref": "galatas/5/22",
+        "texto": "Mas o fruto do Espírito é: amor, alegria, paz, longanimidade, benignidade, bondade, fidelidade,"
+      },
+      {
+        "ref": "proverbios/3/11",
+        "texto": "Filho meu, não rejeites a correção do Senhor nem te enfades com a sua repreensão."
+      },
+      {
+        "ref": "proverbios/3/12",
+        "texto": "Porque o Senhor repreende aquele a quem ama, como o pai ao filho a quem quer bem."
+      }
+    ]
+  },
+  {
+    "slug": "certeza",
+    "nome": "Certeza",
+    "descricao": "Versículos sobre a certeza da salvação e das promessas de Deus.",
+    "icone": "✅",
+    "versiculos": [
+      {
+        "ref": "2-timoteo/1/12",
+        "texto": "Por esta causa padeço também estas coisas; mas não me envergonho, porque sei em quem tenho crido e estou certo de que é poderoso para guardar o meu depósito até aquele dia."
+      },
+      {
+        "ref": "hebreus/11/1",
+        "texto": "Ora, a fé é a certeza de coisas que se esperam, a convicção de fatos que se não veem."
+      }
+    ]
+  },
+  {
+    "slug": "ceu",
+    "nome": "Céu",
+    "descricao": "Versículos sobre o céu e a esperança da eternidade.",
+    "icone": "☁️",
+    "versiculos": [
+      {
+        "ref": "joao/14/2",
+        "texto": "Na casa de meu Pai há muitas moradas; se não fosse assim, eu vo-lo teria dito; vou preparar-vos lugar."
+      }
+    ]
+  },
+  {
+    "slug": "chamado",
+    "nome": "Chamado",
+    "descricao": "Versículos sobre o chamado de Deus para cada vida.",
+    "icone": "📞",
+    "versiculos": [
+      {
+        "ref": "efesios/2/10",
+        "texto": "Porque somos feitura sua, criados em Cristo Jesus para as boas obras, as quais Deus preparou antes para que as praticássemos."
+      },
+      {
+        "ref": "2-timoteo/1/9",
+        "texto": "Que nos salvou e nos chamou com uma santa vocação; não segundo as nossas obras, mas segundo o seu próprio propósito e graça, que nos foi dada em Cristo Jesus antes dos tempos eternos,"
+      }
+    ]
+  },
+  {
+    "slug": "compromisso",
+    "nome": "Compromisso",
+    "descricao": "Versículos sobre o compromisso com Deus e com o próximo.",
+    "icone": "🤝",
+    "versiculos": [
+      {
+        "ref": "apocalipse/3/16",
+        "texto": "Assim, porque és morno, e não és quente nem frio, vomitar-te-ei da minha boca."
+      }
+    ]
+  },
+  {
+    "slug": "comunhao",
+    "nome": "Comunhão",
+    "descricao": "Versículos sobre a comunhão com Deus e com o povo de Deus.",
+    "icone": "🍞",
+    "versiculos": [
+      {
+        "ref": "joao/10/14",
+        "texto": "Eu sou o bom pastor; conheço as minhas ovelhas e elas me conhecem a mim,"
+      }
+    ]
+  },
+  {
+    "slug": "comunidade",
+    "nome": "Comunidade",
+    "descricao": "Versículos sobre o corpo de Cristo e a vida em comunidade.",
+    "icone": "👥",
+    "versiculos": [
+      {
+        "ref": "1-joao/4/7",
+        "texto": "Amados, amemo-nos uns aos outros; porque o amor é de Deus; e qualquer que ama é nascido de Deus e conhece a Deus."
+      },
+      {
+        "ref": "1-pedro/5/9",
+        "texto": "Resisti-lhe, firmes na fé, sabendo que os mesmos sofrimentos se vão cumprindo na vossa irmandade, que está pelo mundo."
+      }
+    ]
+  },
+  {
+    "slug": "confianca",
+    "nome": "Confiança",
+    "descricao": "Versículos sobre confiar em Deus em todas as circunstâncias.",
+    "icone": "🤝",
+    "versiculos": [
+      {
+        "ref": "1-pedro/5/7",
+        "texto": "Lançando sobre ele toda a vossa ansiedade, porque ele tem cuidado de vós."
+      },
+      {
+        "ref": "filipenses/4/13",
+        "texto": "Posso todas as coisas em Cristo que me fortalece."
+      },
+      {
+        "ref": "2-timoteo/1/12",
+        "texto": "Por esta causa padeço também estas coisas; mas não me envergonho, porque sei em quem tenho crido e estou certo de que é poderoso para guardar o meu depósito até aquele dia."
+      },
+      {
+        "ref": "filipenses/4/19",
+        "texto": "Mas o meu Deus suprirá todas as vossas necessidades em riquezas em glória, em Cristo Jesus."
+      },
+      {
+        "ref": "hebreus/11/8",
+        "texto": "Pela fé, Abraão obedeceu quando foi chamado para sair para um lugar que devia receber como herança; e saiu sem saber para onde ia."
+      }
+    ]
+  },
+  {
+    "slug": "confissao",
+    "nome": "Confissão",
+    "descricao": "Versículos sobre confessar os pecados e a graça de Deus.",
+    "icone": "💬",
+    "versiculos": [
+      {
+        "ref": "lucas/15/18",
+        "texto": "Levantar-me-ei e irei ter com meu pai, e dir-lhe-ei: Pai, pequei contra o céu e perante ti."
+      },
+      {
+        "ref": "romanos/10/9",
+        "texto": "Se com a tua boca confessares ao Senhor Jesus e em teu coração creres que Deus o ressuscitou dos mortos, serás salvo."
+      },
+      {
+        "ref": "romanos/10/10",
+        "texto": "Porque com o coração se crê para a justiça, e com a boca se faz confissão para a salvação."
+      }
+    ]
+  },
+  {
+    "slug": "conforto",
+    "nome": "Conforto",
+    "descricao": "Versículos de consolo e conforto nos momentos difíceis.",
+    "icone": "🤗",
+    "versiculos": [
+      {
+        "ref": "mateus/11/28",
+        "texto": "Vinde a mim, todos os que estais cansados e oprimidos, e eu vos aliviarei."
+      },
+      {
+        "ref": "joao/14/27",
+        "texto": "Deixo-vos a paz, a minha paz vos dou; não vo-la dou como o mundo a dá. Não se turbe o vosso coração, nem se atemorizem."
+      }
+    ]
+  },
+  {
+    "slug": "conhecimento",
+    "nome": "Conhecimento",
+    "descricao": "Versículos sobre o conhecimento de Deus e da Sua Palavra.",
+    "icone": "📚",
+    "versiculos": [
+      {
+        "ref": "joao/10/14",
+        "texto": "Eu sou o bom pastor; conheço as minhas ovelhas e elas me conhecem a mim,"
+      }
+    ]
+  },
+  {
+    "slug": "conhecimento-de-deus",
+    "nome": "Conhecimento de Deus",
+    "descricao": "Versículos sobre conhecer a Deus e seus caminhos.",
+    "icone": "💡",
+    "versiculos": [
+      {
+        "ref": "1-joao/4/8",
+        "texto": "Quem não ama não conhece a Deus, porque Deus é amor."
+      },
+      {
+        "ref": "1-joao/4/7",
+        "texto": "Amados, amemo-nos uns aos outros; porque o amor é de Deus; e qualquer que ama é nascido de Deus e conhece a Deus."
+      }
+    ]
+  },
+  {
+    "slug": "consagracao",
+    "nome": "Consagração",
+    "descricao": "Versículos sobre se consagrar e dedicar a Deus.",
+    "icone": "🕯️",
+    "versiculos": [
+      {
+        "ref": "proverbios/16/3",
+        "texto": "Consagra ao Senhor as tuas obras, e os teus pensamentos serão estabelecidos."
+      },
+      {
+        "ref": "romanos/12/1",
+        "texto": "Rogo-vos, pois, irmãos, pela compaixão de Deus, que apresenteis os vossos corpos em sacrifício vivo, santo e agradável a Deus, que é o vosso culto racional."
+      }
+    ]
+  },
+  {
+    "slug": "consolo",
+    "nome": "Consolo",
+    "descricao": "Versículos de consolo profundo para os momentos de dor.",
+    "icone": "🤗",
+    "versiculos": [
+      {
+        "ref": "mateus/5/4",
+        "texto": "Bem-aventurados os que choram, porque eles serão consolados."
+      }
+    ]
+  },
+  {
+    "slug": "contentamento",
+    "nome": "Contentamento",
+    "descricao": "Versículos sobre aprender a ser contente em qualquer situação.",
+    "icone": "😊",
+    "versiculos": [
+      {
+        "ref": "salmos/23/1",
+        "texto": "O Senhor é o meu pastor; nada me faltará."
+      }
+    ]
+  },
+  {
+    "slug": "contraste",
+    "nome": "Contraste",
+    "descricao": "Versículos que contrastam o caminho de Deus com o do mundo.",
+    "icone": "⚡",
+    "versiculos": [
+      {
+        "ref": "isaias/60/2",
+        "texto": "Porque eis que as trevas cobrirão a terra, e a escuridão, os povos; mas sobre ti se levantará o Senhor, e a sua glória sobre ti aparecerá."
+      }
+    ]
+  },
+  {
+    "slug": "conversao",
+    "nome": "Conversão",
+    "descricao": "Versículos sobre a conversão e o novo nascimento.",
+    "icone": "🔄",
+    "versiculos": [
+      {
+        "ref": "joao/3/3",
+        "texto": "Jesus respondeu e disse-lhe: Em verdade, em verdade te digo que se alguém não nascer de novo, não pode ver o reino de Deus."
+      }
+    ]
+  },
+  {
+    "slug": "convite",
+    "nome": "Convite",
+    "descricao": "Versículos sobre o convite de Deus para uma vida de fé.",
+    "icone": "💌",
+    "versiculos": [
+      {
+        "ref": "apocalipse/3/20",
+        "texto": "Eis que estou à porta e bato; se alguém ouvir a minha voz e abrir a porta, entrarei em sua casa e cearei com ele, e ele comigo."
+      }
+    ]
+  },
+  {
+    "slug": "coragem",
+    "nome": "Coragem",
+    "descricao": "Versículos sobre ter coragem e não temer com Deus.",
+    "icone": "🦁",
+    "versiculos": [
+      {
+        "ref": "2-timoteo/1/7",
+        "texto": "Porque Deus não nos deu o espírito de covardia, mas o de poder, de amor e de moderação."
+      },
+      {
+        "ref": "isaias/41/10",
+        "texto": "Não temas, porque eu sou contigo; não te assombres, porque eu sou o teu Deus; eu te fortaleço, e te ajudo, e te sustento com a minha destra fiel."
+      },
+      {
+        "ref": "isaias/41/13",
+        "texto": "Porque eu, o Senhor teu Deus, te tomo pela tua mão direita e te digo: Não temas, eu te ajudarei."
+      },
+      {
+        "ref": "josue/1/9",
+        "texto": "Não to mandei eu? Sê forte e corajoso; não temas, nem te espantes, porque o Senhor teu Deus é contigo, por onde quer que andares."
+      },
+      {
+        "ref": "salmos/23/4",
+        "texto": "Ainda que eu andasse pelo vale da sombra da morte, não temeria mal algum, porque tu estás comigo; o teu cajado e o teu bordão me consolam."
+      }
+    ]
+  },
+  {
+    "slug": "cordeiro-de-deus",
+    "nome": "Cordeiro de Deus",
+    "descricao": "Versículos sobre Jesus como o Cordeiro de Deus.",
+    "icone": "🐑",
+    "versiculos": [
+      {
+        "ref": "joao/1/29",
+        "texto": "No dia seguinte, João viu Jesus aproximar-se e disse: Eis o Cordeiro de Deus que tira o pecado do mundo!"
+      }
+    ]
+  },
+  {
+    "slug": "crescimento",
+    "nome": "Crescimento",
+    "descricao": "Versículos sobre crescer na fé e no conhecimento de Deus.",
+    "icone": "📈",
+    "versiculos": [
+      {
+        "ref": "isaias/60/22",
+        "texto": "O pequeno se tornará mil, e o menor, uma nação forte. Eu, o Senhor, o farei prosperar no tempo determinado."
+      }
+    ]
+  },
+  {
+    "slug": "criacao",
+    "nome": "Criação",
+    "descricao": "Versículos sobre a criação de Deus e o cuidado com ela.",
+    "icone": "🌍",
+    "versiculos": [
+      {
+        "ref": "genesis/1/1",
+        "texto": "No princípio criou Deus os céus e a terra."
+      },
+      {
+        "ref": "genesis/1/3",
+        "texto": "Disse Deus: Haja luz. E houve luz."
+      },
+      {
+        "ref": "joao/1/1",
+        "texto": "No princípio era o Verbo, e o Verbo estava com Deus, e o Verbo era Deus."
+      },
+      {
+        "ref": "genesis/1/2",
+        "texto": "A terra era sem forma e vazia; havia trevas sobre a face do abismo, e o Espírito de Deus se movia sobre a face das águas."
+      },
+      {
+        "ref": "genesis/1/31",
+        "texto": "Viu Deus tudo quanto fizera, e eis que era muito bom. E foi a tarde e a manhã, o dia sexto."
+      }
+    ]
+  },
+  {
+    "slug": "crise",
+    "nome": "Crise",
+    "descricao": "Versículos de força e esperança nos momentos de crise.",
+    "icone": "⛵",
+    "versiculos": [
+      {
+        "ref": "salmos/46/2",
+        "texto": "Portanto, não temeremos, ainda que a terra se mude, e ainda que os montes se transportem para o meio do mar,"
+      },
+      {
+        "ref": "salmos/46/3",
+        "texto": "ainda que as suas águas se levantem e se perturbem, e os montes se abalam com as suas ondas. (Selá)"
+      }
+    ]
+  },
+  {
+    "slug": "cuidado-de-deus",
+    "nome": "Cuidado de Deus",
+    "descricao": "Versículos sobre o cuidado e a atenção de Deus por cada pessoa.",
+    "icone": "💙",
+    "versiculos": [
+      {
+        "ref": "1-pedro/5/7",
+        "texto": "Lançando sobre ele toda a vossa ansiedade, porque ele tem cuidado de vós."
+      },
+      {
+        "ref": "numeros/6/24",
+        "texto": "O Senhor te abençoe e te guarde;"
+      },
+      {
+        "ref": "salmos/121/3",
+        "texto": "Não permitirá que o teu pé seja movido; não dormitará o que te guarda."
+      },
+      {
+        "ref": "salmos/121/5",
+        "texto": "O Senhor é o que te guarda; o Senhor é a tua sombra à tua mão direita."
+      },
+      {
+        "ref": "salmos/121/7",
+        "texto": "O Senhor te guardará de todo o mal; ele guardará a tua alma."
+      }
+    ]
+  },
+  {
+    "slug": "cura",
+    "nome": "Cura",
+    "descricao": "Versículos sobre a cura divina — física e espiritual.",
+    "icone": "🌿",
+    "versiculos": [
+      {
+        "ref": "2-cronicas/7/14",
+        "texto": "Se o meu povo, que se chama pelo meu nome, se humilhar, e orar, e buscar a minha face, e se converter dos seus maus caminhos, então eu ouvirei dos céus, e perdoarei os seus pecados, e sararei a sua terra."
+      }
+    ]
+  },
+  {
+    "slug": "declaracao-de-fe",
+    "nome": "Declaração de Fé",
+    "descricao": "Versículos de declaração de fé e confiança em Deus.",
+    "icone": "📣",
+    "versiculos": [
+      {
+        "ref": "salmos/91/2",
+        "texto": "Direi do Senhor: Ele é o meu Deus, o meu refúgio, a minha fortaleza, e nele confiarei."
+      }
+    ]
+  },
+  {
+    "slug": "dedicacao",
+    "nome": "Dedicação",
+    "descricao": "Versículos sobre a dedicação a Deus e ao Seu serviço.",
+    "icone": "💫",
+    "versiculos": [
+      {
+        "ref": "romanos/12/1",
+        "texto": "Rogo-vos, pois, irmãos, pela compaixão de Deus, que apresenteis os vossos corpos em sacrifício vivo, santo e agradável a Deus, que é o vosso culto racional."
+      }
+    ]
+  },
+  {
+    "slug": "dependencia-de-deus",
+    "nome": "Dependência de Deus",
+    "descricao": "Versículos sobre depender completamente de Deus.",
+    "icone": "🤲",
+    "versiculos": [
+      {
+        "ref": "efesios/6/10",
+        "texto": "Quanto ao mais, irmãos meus, fortalecei-vos no Senhor e na força do seu poder."
+      },
+      {
+        "ref": "filipenses/4/13",
+        "texto": "Posso todas as coisas em Cristo que me fortalece."
+      },
+      {
+        "ref": "mateus/5/3",
+        "texto": "Bem-aventurados os pobres em espírito, porque deles é o reino dos céus."
+      },
+      {
+        "ref": "mateus/6/11",
+        "texto": "O pão nosso de cada dia dá-nos hoje."
+      },
+      {
+        "ref": "salmos/121/1",
+        "texto": "Levanto os meus olhos para os montes, de onde me vem o socorro."
+      }
+    ]
+  },
+  {
+    "slug": "descanso",
+    "nome": "Descanso",
+    "descricao": "Versículos sobre o descanso em Deus e a paz que Ele oferece.",
+    "icone": "😌",
+    "versiculos": [
+      {
+        "ref": "mateus/11/28",
+        "texto": "Vinde a mim, todos os que estais cansados e oprimidos, e eu vos aliviarei."
+      },
+      {
+        "ref": "mateus/11/30",
+        "texto": "Porque o meu jugo é suave e o meu fardo é leve."
+      },
+      {
+        "ref": "salmos/23/2",
+        "texto": "Ele me faz repousar em verdes pastos; guia-me mansamente a águas tranquilas."
+      },
+      {
+        "ref": "mateus/11/29",
+        "texto": "Tomai o meu jugo sobre vós e aprendei de mim, que sou manso e humilde de coração; e encontrareis descanso para as vossas almas."
+      },
+      {
+        "ref": "salmos/37/7",
+        "texto": "Aquieta-te perante o Senhor e espera por ele; não te impacientes por causa do que prospera no seu caminho, por causa do homem que leva a cabo os seus planos maléficos."
+      }
+    ]
+  },
+  {
+    "slug": "desejo",
+    "nome": "Desejo",
+    "descricao": "Versículos sobre os desejos do coração e a vontade de Deus.",
+    "icone": "💫",
+    "versiculos": [
+      {
+        "ref": "mateus/5/6",
+        "texto": "Bem-aventurados os que têm fome e sede de justiça, porque eles serão fartos."
+      },
+      {
+        "ref": "salmos/37/4",
+        "texto": "Deleita-te também no Senhor, e ele te concederá os desejos do teu coração."
+      }
+    ]
+  },
+  {
+    "slug": "deus-criador",
+    "nome": "Deus Criador",
+    "descricao": "Versículos sobre Deus como Criador de tudo.",
+    "icone": "🌍",
+    "versiculos": [
+      {
+        "ref": "genesis/1/1",
+        "texto": "No princípio criou Deus os céus e a terra."
+      }
+    ]
+  },
+  {
+    "slug": "diabo",
+    "nome": "Diabo",
+    "descricao": "Versículos sobre o adversário e como resistir a ele.",
+    "icone": "⚔️",
+    "versiculos": [
+      {
+        "ref": "1-pedro/5/8",
+        "texto": "Sede sóbrios e vigilantes. O diabo, vosso adversário, anda em derredor, como leão que ruge, procurando alguém para devorar."
+      },
+      {
+        "ref": "efesios/6/11",
+        "texto": "Revesti-vos de toda a armadura de Deus, para que possais estar firmes contra as astutas ciladas do diabo."
+      }
+    ]
+  },
+  {
+    "slug": "dignidade",
+    "nome": "Dignidade",
+    "descricao": "Versículos sobre a dignidade humana dada por Deus.",
+    "icone": "👑",
+    "versiculos": [
+      {
+        "ref": "genesis/1/27",
+        "texto": "E criou Deus o homem à sua imagem; à imagem de Deus o criou; homem e mulher os criou."
+      }
+    ]
+  },
+  {
+    "slug": "direcao-divina",
+    "nome": "Direção Divina",
+    "descricao": "Versículos sobre a orientação divina no caminho da vida.",
+    "icone": "🧭",
+    "versiculos": [
+      {
+        "ref": "salmos/23/3",
+        "texto": "Refrigera a minha alma; guia-me nas veredas da justiça por amor do seu nome."
+      }
+    ]
+  },
+  {
+    "slug": "discernimento",
+    "nome": "Discernimento",
+    "descricao": "Versículos sobre discernimento espiritual.",
+    "icone": "🔍",
+    "versiculos": [
+      {
+        "ref": "romanos/12/2",
+        "texto": "E não vos conformeis com este século, mas transformai-vos pela renovação do vosso entendimento, para que experimenteis qual seja a boa, agradável e perfeita vontade de Deus."
+      }
+    ]
+  },
+  {
+    "slug": "disciplina",
+    "nome": "Disciplina",
+    "descricao": "Versículos sobre a disciplina espiritual e o amadurecimento.",
+    "icone": "📚",
+    "versiculos": [
+      {
+        "ref": "apocalipse/3/19",
+        "texto": "Eu repreendo e disciplino a todos quantos amo; sê, pois, zeloso e arrepende-te."
+      },
+      {
+        "ref": "proverbios/3/11",
+        "texto": "Filho meu, não rejeites a correção do Senhor nem te enfades com a sua repreensão."
+      },
+      {
+        "ref": "proverbios/3/12",
+        "texto": "Porque o Senhor repreende aquele a quem ama, como o pai ao filho a quem quer bem."
+      }
+    ]
+  },
+  {
+    "slug": "discipulado",
+    "nome": "Discipulado",
+    "descricao": "Versículos sobre seguir a Jesus e fazer discípulos.",
+    "icone": "👣",
+    "versiculos": [
+      {
+        "ref": "galatas/5/25",
+        "texto": "Se vivemos no Espírito, andemos também no Espírito."
+      },
+      {
+        "ref": "joao/10/27",
+        "texto": "As minhas ovelhas ouvem a minha voz, eu as conheço e elas me seguem."
+      },
+      {
+        "ref": "mateus/11/29",
+        "texto": "Tomai o meu jugo sobre vós e aprendei de mim, que sou manso e humilde de coração; e encontrareis descanso para as vossas almas."
+      },
+      {
+        "ref": "mateus/28/19",
+        "texto": "Portanto, ide, fazei discípulos de todas as nações, batizando-os em nome do Pai, e do Filho, e do Espírito Santo,"
+      },
+      {
+        "ref": "mateus/28/20",
+        "texto": "Ensinando-as a guardar todas as coisas que eu vos tenho mandado; e eis que eu estou convosco todos os dias, até à consumação dos séculos."
+      }
+    ]
+  },
+  {
+    "slug": "divindade-de-cristo",
+    "nome": "Divindade de Cristo",
+    "descricao": "Versículos sobre a natureza divina de Jesus Cristo.",
+    "icone": "✝️",
+    "versiculos": [
+      {
+        "ref": "joao/1/1",
+        "texto": "No princípio era o Verbo, e o Verbo estava com Deus, e o Verbo era Deus."
+      },
+      {
+        "ref": "joao/1/3",
+        "texto": "Todas as coisas foram feitas por intermédio dele, e sem ele nada do que foi feito se fez."
+      },
+      {
+        "ref": "joao/1/14",
+        "texto": "E o Verbo se fez carne e habitou entre nós, e vimos a sua glória, glória como do unigênito do Pai, cheio de graça e de verdade."
+      }
+    ]
+  },
+  {
+    "slug": "dom-de-deus",
+    "nome": "Dom de Deus",
+    "descricao": "Versículos sobre os dons que Deus dá generosamente.",
+    "icone": "🎁",
+    "versiculos": [
+      {
+        "ref": "efesios/2/8",
+        "texto": "Porque pela graça sois salvos, por meio da fé; e isso não vem de vós; é dom de Deus."
+      }
+    ]
+  },
+  {
+    "slug": "dominio-proprio",
+    "nome": "Domínio Próprio",
+    "descricao": "Versículos sobre o autocontrole como fruto do Espírito.",
+    "icone": "🧘",
+    "versiculos": [
+      {
+        "ref": "galatas/5/23",
+        "texto": "mansidão, temperança. Contra estas coisas não há lei."
+      }
+    ]
+  },
+  {
+    "slug": "dons-espirituais",
+    "nome": "Dons Espirituais",
+    "descricao": "Versículos sobre os dons do Espírito Santo.",
+    "icone": "🎁",
+    "versiculos": [
+      {
+        "ref": "1-corintios/13/1",
+        "texto": "Ainda que eu falasse as línguas dos homens e dos anjos, e não tivesse amor, seria como o metal que soa ou como o sino que tine."
+      }
+    ]
+  },
+  {
+    "slug": "encarnacao",
+    "nome": "Encarnação",
+    "descricao": "Versículos sobre o mistério da encarnação de Cristo.",
+    "icone": "⭐",
+    "versiculos": [
+      {
+        "ref": "1-joao/4/9",
+        "texto": "Nisto se manifestou o amor de Deus para conosco: que Deus enviou seu Filho unigênito ao mundo, para que por ele vivamos."
+      },
+      {
+        "ref": "joao/1/14",
+        "texto": "E o Verbo se fez carne e habitou entre nós, e vimos a sua glória, glória como do unigênito do Pai, cheio de graça e de verdade."
+      }
+    ]
+  },
+  {
+    "slug": "encontro-com-deus",
+    "nome": "Encontro com Deus",
+    "descricao": "Versículos sobre o encontro pessoal e transformador com Deus.",
+    "icone": "✨",
+    "versiculos": [
+      {
+        "ref": "jeremias/29/13",
+        "texto": "E buscar-me-eis, e me achareis, quando me buscardes com todo o vosso coração."
+      }
+    ]
+  },
+  {
+    "slug": "escuta-de-deus",
+    "nome": "Escuta de Deus",
+    "descricao": "Versículos sobre ouvir e escutar a voz de Deus.",
+    "icone": "👂",
+    "versiculos": [
+      {
+        "ref": "jeremias/29/12",
+        "texto": "E vós me invocareis e ireis, e orareis a mim, e eu vos ouvirei."
+      }
+    ]
+  },
+  {
+    "slug": "espirito-santo",
+    "nome": "Espírito Santo",
+    "descricao": "Versículos sobre o Espírito Santo e sua obra.",
+    "icone": "🔥",
+    "versiculos": [
+      {
+        "ref": "galatas/5/16",
+        "texto": "Digo, porém: andai no Espírito e jamais satisfareis a concupiscência da carne."
+      },
+      {
+        "ref": "galatas/5/25",
+        "texto": "Se vivemos no Espírito, andemos também no Espírito."
+      },
+      {
+        "ref": "2-timoteo/1/7",
+        "texto": "Porque Deus não nos deu o espírito de covardia, mas o de poder, de amor e de moderação."
+      },
+      {
+        "ref": "efesios/6/17",
+        "texto": "Tomai também o capacete da salvação e a espada do Espírito, que é a palavra de Deus,"
+      },
+      {
+        "ref": "efesios/6/18",
+        "texto": "Orando em todo o tempo com toda oração e súplica no Espírito, e vigiando nisto com toda a perseverança e súplica por todos os santos,"
+      }
+    ]
+  },
+  {
+    "slug": "eternidade",
+    "nome": "Eternidade",
+    "descricao": "Versículos sobre a vida eterna e o eterno propósito de Deus.",
+    "icone": "♾️",
+    "versiculos": [
+      {
+        "ref": "salmos/121/8",
+        "texto": "O Senhor guardará a tua saída e a tua entrada, desde agora e para sempre."
+      },
+      {
+        "ref": "1-corintios/13/8",
+        "texto": "O amor jamais acaba; mas havendo profecias, serão aniquiladas; havendo línguas, cessarão; havendo ciência, será desfeita."
+      },
+      {
+        "ref": "1-corintios/13/13",
+        "texto": "Agora, pois, permanecem a fé, a esperança e o amor, estas três coisas; mas a maior destas é o amor."
+      },
+      {
+        "ref": "joao/14/2",
+        "texto": "Na casa de meu Pai há muitas moradas; se não fosse assim, eu vo-lo teria dito; vou preparar-vos lugar."
+      },
+      {
+        "ref": "romanos/8/38",
+        "texto": "Porque eu tenho a certeza de que nem a morte, nem a vida, nem os anjos, nem os principados, nem as potestades, nem o presente, nem o porvir,"
+      }
+    ]
+  },
+  {
+    "slug": "eterno",
+    "nome": "Eterno",
+    "descricao": "Versículos sobre Deus eterno e as realidades eternas.",
+    "icone": "♾️",
+    "versiculos": [
+      {
+        "ref": "isaias/40/28",
+        "texto": "Não sabes tu, ou não ouviste, que o Deus eterno, o Senhor, o Criador das extremidades da terra, não se cansa nem se fatiga? Não há perscrutação do seu entendimento."
+      }
+    ]
+  },
+  {
+    "slug": "evangelismo",
+    "nome": "Evangelismo",
+    "descricao": "Versículos sobre o chamado a compartilhar o Evangelho.",
+    "icone": "📣",
+    "versiculos": [
+      {
+        "ref": "efesios/6/15",
+        "texto": "e calçados os pés na preparação do evangelho da paz;"
+      },
+      {
+        "ref": "romanos/10/17",
+        "texto": "De sorte que a fé é pelo ouvir, e o ouvir pela palavra de Deus."
+      },
+      {
+        "ref": "mateus/28/19",
+        "texto": "Portanto, ide, fazei discípulos de todas as nações, batizando-os em nome do Pai, e do Filho, e do Espírito Santo,"
+      }
+    ]
+  },
+  {
+    "slug": "exclusividade",
+    "nome": "Exclusividade",
+    "descricao": "Versículos sobre a exclusividade de Cristo como caminho.",
+    "icone": "🚪",
+    "versiculos": [
+      {
+        "ref": "joao/14/6",
+        "texto": "Disse-lhe Jesus: Eu sou o caminho, e a verdade, e a vida; ninguém vem ao Pai senão por mim."
+      }
+    ]
+  },
+  {
+    "slug": "familia",
+    "nome": "Família",
+    "descricao": "Versículos sobre a família, o lar e os relacionamentos familiares.",
+    "icone": "👨‍👩‍👧‍👦",
+    "versiculos": [
+      {
+        "ref": "lucas/15/11",
+        "texto": "Disse também: Um certo homem tinha dois filhos."
+      }
+    ]
+  },
+  {
+    "slug": "fidelidade-de-deus",
+    "nome": "Fidelidade de Deus",
+    "descricao": "Versículos sobre a fidelidade eterna de Deus.",
+    "icone": "🤝",
+    "versiculos": [
+      {
+        "ref": "salmos/121/4",
+        "texto": "Eis que não dormitará nem dormirá o guarda de Israel."
+      },
+      {
+        "ref": "salmos/121/8",
+        "texto": "O Senhor guardará a tua saída e a tua entrada, desde agora e para sempre."
+      },
+      {
+        "ref": "salmos/37/25",
+        "texto": "Fui moço e agora sou velho, porém nunca vi o justo desamparado nem a sua descendência a mendigar pão."
+      }
+    ]
+  },
+  {
+    "slug": "financas",
+    "nome": "Finanças",
+    "descricao": "Versículos sobre finanças e a mordomia dos recursos.",
+    "icone": "💰",
+    "versiculos": [
+      {
+        "ref": "proverbios/3/9",
+        "texto": "Honra ao Senhor com os teus bens e com as primícias de todos os teus rendimentos,"
+      }
+    ]
+  },
+  {
+    "slug": "firmeza",
+    "nome": "Firmeza",
+    "descricao": "Versículos sobre permanecer firme na fé.",
+    "icone": "⚓",
+    "versiculos": [
+      {
+        "ref": "efesios/6/13",
+        "texto": "Portanto, tomai toda a armadura de Deus, para que possais resistir no dia mau e, havendo feito tudo, ficar firmes."
+      }
+    ]
+  },
+  {
+    "slug": "forca",
+    "nome": "Força",
+    "descricao": "Versículos sobre a força que Deus dá aos que nEle confiam.",
+    "icone": "💪",
+    "versiculos": [
+      {
+        "ref": "efesios/6/10",
+        "texto": "Quanto ao mais, irmãos meus, fortalecei-vos no Senhor e na força do seu poder."
+      },
+      {
+        "ref": "filipenses/4/13",
+        "texto": "Posso todas as coisas em Cristo que me fortalece."
+      },
+      {
+        "ref": "isaias/40/29",
+        "texto": "Ele dá força ao cansado e multiplica as forças ao que não tem nenhum vigor."
+      },
+      {
+        "ref": "isaias/40/28",
+        "texto": "Não sabes tu, ou não ouviste, que o Deus eterno, o Senhor, o Criador das extremidades da terra, não se cansa nem se fatiga? Não há perscrutação do seu entendimento."
+      },
+      {
+        "ref": "isaias/40/31",
+        "texto": "mas os que esperam no Senhor renovarão as suas forças, subirão com asas como águias; correrão, e não se cansarão; caminharão, e não se fatigarão."
+      }
+    ]
+  },
+  {
+    "slug": "fraqueza-humana",
+    "nome": "Fraqueza Humana",
+    "descricao": "Versículos sobre a força de Deus que se manifesta na fraqueza.",
+    "icone": "💪",
+    "versiculos": [
+      {
+        "ref": "isaias/40/30",
+        "texto": "Os jovens se cansarão e se fatigarão, e os moços cairão;"
+      }
+    ]
+  },
+  {
+    "slug": "frutos-do-espirito",
+    "nome": "Frutos do Espírito",
+    "descricao": "Versículos sobre os frutos do Espírito Santo na vida cristã.",
+    "icone": "🍇",
+    "versiculos": [
+      {
+        "ref": "galatas/5/23",
+        "texto": "mansidão, temperança. Contra estas coisas não há lei."
+      },
+      {
+        "ref": "galatas/5/22",
+        "texto": "Mas o fruto do Espírito é: amor, alegria, paz, longanimidade, benignidade, bondade, fidelidade,"
+      }
+    ]
+  },
+  {
+    "slug": "fundamento",
+    "nome": "Fundamento",
+    "descricao": "Versículos sobre Cristo como fundamento sólido.",
+    "icone": "🏗️",
+    "versiculos": [
+      {
+        "ref": "hebreus/11/6",
+        "texto": "Ora, sem fé é impossível agradar-lhe, porque é necessário que aquele que se aproxima de Deus creia que ele existe e que é remunerador dos que o buscam."
+      }
+    ]
+  },
+  {
+    "slug": "futuro",
+    "nome": "Futuro",
+    "descricao": "Versículos sobre o futuro nas mãos de Deus.",
+    "icone": "🔮",
+    "versiculos": [
+      {
+        "ref": "jeremias/29/11",
+        "texto": "Porque eu sei os pensamentos que tenho a vosso respeito, diz o Senhor; pensamentos de paz, e não de mal, para vos dar um futuro e uma esperança."
+      }
+    ]
+  },
+  {
+    "slug": "generosidade",
+    "nome": "Generosidade",
+    "descricao": "Versículos sobre dar com alegria e generosidade.",
+    "icone": "🎁",
+    "versiculos": [
+      {
+        "ref": "proverbios/3/9",
+        "texto": "Honra ao Senhor com os teus bens e com as primícias de todos os teus rendimentos,"
+      }
+    ]
+  },
+  {
+    "slug": "generosidade-de-deus",
+    "nome": "Generosidade de Deus",
+    "descricao": "Versículos sobre a generosidade infinita de Deus.",
+    "icone": "🎁",
+    "versiculos": [
+      {
+        "ref": "tiago/1/5",
+        "texto": "E se algum de vós tem falta de sabedoria, peça-a a Deus, que a todos dá liberalmente e não impropera, e ser-lhe-á dada."
+      }
+    ]
+  },
+  {
+    "slug": "gloria-de-deus",
+    "nome": "Glória de Deus",
+    "descricao": "Versículos sobre a glória e o esplendor de Deus.",
+    "icone": "🌟",
+    "versiculos": [
+      {
+        "ref": "isaias/60/1",
+        "texto": "Levanta-te, resplandece, porque veio a tua luz, e a glória do Senhor se levantou sobre ti."
+      },
+      {
+        "ref": "isaias/60/2",
+        "texto": "Porque eis que as trevas cobrirão a terra, e a escuridão, os povos; mas sobre ti se levantará o Senhor, e a sua glória sobre ti aparecerá."
+      },
+      {
+        "ref": "mateus/5/16",
+        "texto": "Assim resplandeça a vossa luz diante dos homens, para que vejam as vossas boas obras e glorifiquem a vosso Pai, que está nos céus."
+      }
+    ]
+  },
+  {
+    "slug": "graca",
+    "nome": "Graça",
+    "descricao": "Versículos sobre a graça de Deus que salva e sustenta.",
+    "icone": "✨",
+    "versiculos": [
+      {
+        "ref": "efesios/2/1",
+        "texto": "E vós ele vivificou, estando vós mortos nos vossos delitos e pecados,"
+      },
+      {
+        "ref": "efesios/2/4",
+        "texto": "Mas Deus, que é rico em misericórdia, pelo seu grande amor com que nos amou,"
+      },
+      {
+        "ref": "1-joao/4/10",
+        "texto": "Nisto está o amor: não em que nós tenhamos amado a Deus, mas em que ele nos amou a nós, e enviou seu Filho para propiciação pelos nossos pecados."
+      },
+      {
+        "ref": "1-pedro/5/10",
+        "texto": "E o Deus de toda a graça, que em Cristo Jesus vos chamou para a sua eterna glória, depois que tiverdes padecido um pouco, vos aperfeiçoará, confirmará, fortalecerá e estabelecerá."
+      },
+      {
+        "ref": "efesios/2/5",
+        "texto": "Estando nós ainda mortos em nossos delitos, nos vivificou juntamente com Cristo (pela graça sois salvos),"
+      }
+    ]
+  },
+  {
+    "slug": "gratidao",
+    "nome": "Gratidão",
+    "descricao": "Versículos sobre viver uma vida de gratidão a Deus.",
+    "icone": "🙌",
+    "versiculos": [
+      {
+        "ref": "lucas/1/46",
+        "texto": "Então disse Maria: A minha alma engrandece ao Senhor,"
+      },
+      {
+        "ref": "genesis/1/31",
+        "texto": "Viu Deus tudo quanto fizera, e eis que era muito bom. E foi a tarde e a manhã, o dia sexto."
+      },
+      {
+        "ref": "tiago/1/17",
+        "texto": "Toda a boa dádiva e todo o dom perfeito são lá do alto, descendo do Pai das luzes, em quem não há mudança nem sombra de variação."
+      }
+    ]
+  },
+  {
+    "slug": "guerra-espiritual",
+    "nome": "Guerra Espiritual",
+    "descricao": "Versículos sobre a guerra espiritual e as armas do cristão.",
+    "icone": "⚔️",
+    "versiculos": [
+      {
+        "ref": "efesios/6/10",
+        "texto": "Quanto ao mais, irmãos meus, fortalecei-vos no Senhor e na força do seu poder."
+      },
+      {
+        "ref": "1-pedro/5/8",
+        "texto": "Sede sóbrios e vigilantes. O diabo, vosso adversário, anda em derredor, como leão que ruge, procurando alguém para devorar."
+      },
+      {
+        "ref": "1-pedro/5/9",
+        "texto": "Resisti-lhe, firmes na fé, sabendo que os mesmos sofrimentos se vão cumprindo na vossa irmandade, que está pelo mundo."
+      },
+      {
+        "ref": "efesios/6/11",
+        "texto": "Revesti-vos de toda a armadura de Deus, para que possais estar firmes contra as astutas ciladas do diabo."
+      },
+      {
+        "ref": "efesios/6/13",
+        "texto": "Portanto, tomai toda a armadura de Deus, para que possais resistir no dia mau e, havendo feito tudo, ficar firmes."
+      }
+    ]
+  },
+  {
+    "slug": "heranca",
+    "nome": "Herança",
+    "descricao": "Versículos sobre a herança eterna dos filhos de Deus.",
+    "icone": "🏆",
+    "versiculos": [
+      {
+        "ref": "mateus/5/5",
+        "texto": "Bem-aventurados os mansos, porque eles herdarão a terra."
+      }
+    ]
+  },
+  {
+    "slug": "herois-da-fe",
+    "nome": "Heróis da Fé",
+    "descricao": "Versículos sobre os heróis da fé do Antigo e Novo Testamento.",
+    "icone": "⭐",
+    "versiculos": [
+      {
+        "ref": "hebreus/11/32",
+        "texto": "E que mais direi? Pois me faltaria o tempo para falar de Gideão, Baraque, Sansão, Jeté, Davi, Samuel e dos profetas,"
+      }
+    ]
+  },
+  {
+    "slug": "historia",
+    "nome": "História",
+    "descricao": "Versículos sobre Deus agindo na história.",
+    "icone": "🏛️",
+    "versiculos": [
+      {
+        "ref": "hebreus/11/32",
+        "texto": "E que mais direi? Pois me faltaria o tempo para falar de Gideão, Baraque, Sansão, Jeté, Davi, Samuel e dos profetas,"
+      }
+    ]
+  },
+  {
+    "slug": "historia-da-salvacao",
+    "nome": "História da Salvação",
+    "descricao": "Versículos sobre o plano de Deus para a salvação da humanidade.",
+    "icone": "📜",
+    "versiculos": [
+      {
+        "ref": "hebreus/11/40",
+        "texto": "porque Deus tinha provido alguma coisa melhor para nós, a fim de que eles não fossem aperfeiçoados sem nós."
+      }
+    ]
+  },
+  {
+    "slug": "honra",
+    "nome": "Honra",
+    "descricao": "Versículos sobre honrar a Deus e às pessoas.",
+    "icone": "🏅",
+    "versiculos": [
+      {
+        "ref": "salmos/23/5",
+        "texto": "Preparas uma mesa perante mim na presença dos meus inimigos; unges a minha cabeça com óleo; o meu cálice transborda."
+      }
+    ]
+  },
+  {
+    "slug": "humanidade",
+    "nome": "Humanidade",
+    "descricao": "Versículos sobre a natureza humana e o valor de cada pessoa.",
+    "icone": "🧑‍🤝‍🧑",
+    "versiculos": [
+      {
+        "ref": "genesis/1/27",
+        "texto": "E criou Deus o homem à sua imagem; à imagem de Deus o criou; homem e mulher os criou."
+      },
+      {
+        "ref": "genesis/1/26",
+        "texto": "E disse Deus: Façamos o homem à nossa imagem, conforme a nossa semelhança; e domine sobre os peixes do mar, e sobre as aves dos céus, e sobre os animais domésticos, e sobre toda a terra, e sobre todo réptil que se move sobre a terra."
+      }
+    ]
+  },
+  {
+    "slug": "humildade",
+    "nome": "Humildade",
+    "descricao": "Versículos sobre humildade e a atitude do coração diante de Deus.",
+    "icone": "🌱",
+    "versiculos": [
+      {
+        "ref": "efesios/2/9",
+        "texto": "Não por obras, para que ninguém se glorie."
+      },
+      {
+        "ref": "mateus/5/3",
+        "texto": "Bem-aventurados os pobres em espírito, porque deles é o reino dos céus."
+      },
+      {
+        "ref": "1-corintios/13/4",
+        "texto": "O amor é sofredor, é benigno; o amor não é invejoso; o amor não trata com leviandade, não se ensoberbece,"
+      },
+      {
+        "ref": "1-corintios/13/5",
+        "texto": "não se porta indecorosamente, não busca os seus interesses, não se irrita, não suspeita mal;"
+      },
+      {
+        "ref": "lucas/15/17",
+        "texto": "Caindo, pois, em si, disse: Quantos trabalhadores de meu pai têm abundância de pão, e eu aqui pereço de fome!"
+      }
+    ]
+  },
+  {
+    "slug": "identidade",
+    "nome": "Identidade",
+    "descricao": "Versículos sobre a identidade do crente em Cristo.",
+    "icone": "🪪",
+    "versiculos": [
+      {
+        "ref": "mateus/5/9",
+        "texto": "Bem-aventurados os pacificadores, porque eles serão chamados filhos de Deus."
+      },
+      {
+        "ref": "efesios/2/10",
+        "texto": "Porque somos feitura sua, criados em Cristo Jesus para as boas obras, as quais Deus preparou antes para que as praticássemos."
+      },
+      {
+        "ref": "galatas/5/24",
+        "texto": "Os que são de Cristo Jesus crucificaram a carne com as suas paixões e concupiscências."
+      },
+      {
+        "ref": "isaias/60/1",
+        "texto": "Levanta-te, resplandece, porque veio a tua luz, e a glória do Senhor se levantou sobre ti."
+      },
+      {
+        "ref": "mateus/5/14",
+        "texto": "Vós sois a luz do mundo; uma cidade edificada sobre um monte não se pode esconder."
+      }
+    ]
+  },
+  {
+    "slug": "igualdade",
+    "nome": "Igualdade",
+    "descricao": "Versículos sobre a igualdade de todos perante Deus.",
+    "icone": "🤝",
+    "versiculos": [
+      {
+        "ref": "genesis/1/27",
+        "texto": "E criou Deus o homem à sua imagem; à imagem de Deus o criou; homem e mulher os criou."
+      }
+    ]
+  },
+  {
+    "slug": "ilusao",
+    "nome": "Ilusão",
+    "descricao": "Versículos sobre não se deixar enganar pelas ilusões do mundo.",
+    "icone": "🎭",
+    "versiculos": [
+      {
+        "ref": "apocalipse/3/17",
+        "texto": "Porque dizes: Sou rico, e tenho enriquecido, e de nada tenho falta, e não sabes que és um desgraçado, miserável, pobre, cego e nu;"
+      }
+    ]
+  },
+  {
+    "slug": "imagem-de-cristo",
+    "nome": "Imagem de Cristo",
+    "descricao": "Versículos sobre ser transformado à imagem de Cristo.",
+    "icone": "🪞",
+    "versiculos": [
+      {
+        "ref": "romanos/8/29",
+        "texto": "Porque os que dantes conheceu, também os predestinou para serem conformes à imagem de seu Filho, a fim de que ele seja o primogênito entre muitos irmãos."
+      }
+    ]
+  },
+  {
+    "slug": "imagem-de-deus",
+    "nome": "Imagem de Deus",
+    "descricao": "Versículos sobre o ser humano criado à imagem de Deus.",
+    "icone": "🪞",
+    "versiculos": [
+      {
+        "ref": "genesis/1/27",
+        "texto": "E criou Deus o homem à sua imagem; à imagem de Deus o criou; homem e mulher os criou."
+      },
+      {
+        "ref": "genesis/1/26",
+        "texto": "E disse Deus: Façamos o homem à nossa imagem, conforme a nossa semelhança; e domine sobre os peixes do mar, e sobre as aves dos céus, e sobre os animais domésticos, e sobre toda a terra, e sobre todo réptil que se move sobre a terra."
+      }
+    ]
+  },
+  {
+    "slug": "imutabilidade-de-deus",
+    "nome": "Imutabilidade de Deus",
+    "descricao": "Versículos sobre o Deus que não muda.",
+    "icone": "🗿",
+    "versiculos": [
+      {
+        "ref": "tiago/1/17",
+        "texto": "Toda a boa dádiva e todo o dom perfeito são lá do alto, descendo do Pai das luzes, em quem não há mudança nem sombra de variação."
+      }
+    ]
+  },
+  {
+    "slug": "iniciativa-de-deus",
+    "nome": "Iniciativa de Deus",
+    "descricao": "Versículos sobre como Deus sempre age primeiro.",
+    "icone": "➡️",
+    "versiculos": [
+      {
+        "ref": "1-joao/4/10",
+        "texto": "Nisto está o amor: não em que nós tenhamos amado a Deus, mas em que ele nos amou a nós, e enviou seu Filho para propiciação pelos nossos pecados."
+      }
+    ]
+  },
+  {
+    "slug": "inimigo",
+    "nome": "Inimigo",
+    "descricao": "Versículos sobre enfrentar inimigos com a proteção de Deus.",
+    "icone": "🛡️",
+    "versiculos": [
+      {
+        "ref": "efesios/6/12",
+        "texto": "Porque não temos que lutar contra a carne e o sangue, mas contra os principados, contra as potestades, contra os príncipes das trevas desta era, contra as hostes espirituais da maldade nos lugares celestiais."
+      }
+    ]
+  },
+  {
+    "slug": "inimigos",
+    "nome": "Inimigos",
+    "descricao": "Versículos sobre tratar os inimigos com o amor de Deus.",
+    "icone": "🕊️",
+    "versiculos": [
+      {
+        "ref": "romanos/12/21",
+        "texto": "Não te deixes vencer pelo mal, mas vence o mal com o bem."
+      }
+    ]
+  },
+  {
+    "slug": "integridade",
+    "nome": "Integridade",
+    "descricao": "Versículos sobre viver com integridade e honestidade.",
+    "icone": "⚖️",
+    "versiculos": [
+      {
+        "ref": "proverbios/16/8",
+        "texto": "Melhor é o pouco com justiça do que a abundância de rendimentos sem direito."
+      },
+      {
+        "ref": "tiago/1/22",
+        "texto": "Sede, porém, praticantes da palavra, e não somente ouvintes, enganando-vos a vós mesmos."
+      }
+    ]
+  },
+  {
+    "slug": "invisivel",
+    "nome": "Invisível",
+    "descricao": "Versículos sobre as realidades invisíveis que são eternas.",
+    "icone": "👁️",
+    "versiculos": [
+      {
+        "ref": "hebreus/11/1",
+        "texto": "Ora, a fé é a certeza de coisas que se esperam, a convicção de fatos que se não veem."
+      }
+    ]
+  },
+  {
+    "slug": "jesus",
+    "nome": "Jesus",
+    "descricao": "Versículos sobre a pessoa e obra de Jesus Cristo.",
+    "icone": "✝️",
+    "versiculos": [
+      {
+        "ref": "joao/1/1",
+        "texto": "No princípio era o Verbo, e o Verbo estava com Deus, e o Verbo era Deus."
+      },
+      {
+        "ref": "1-joao/4/9",
+        "texto": "Nisto se manifestou o amor de Deus para conosco: que Deus enviou seu Filho unigênito ao mundo, para que por ele vivamos."
+      },
+      {
+        "ref": "apocalipse/3/20",
+        "texto": "Eis que estou à porta e bato; se alguém ouvir a minha voz e abrir a porta, entrarei em sua casa e cearei com ele, e ele comigo."
+      },
+      {
+        "ref": "joao/1/3",
+        "texto": "Todas as coisas foram feitas por intermédio dele, e sem ele nada do que foi feito se fez."
+      },
+      {
+        "ref": "joao/1/14",
+        "texto": "E o Verbo se fez carne e habitou entre nós, e vimos a sua glória, glória como do unigênito do Pai, cheio de graça e de verdade."
+      }
+    ]
+  },
+  {
+    "slug": "justica",
+    "nome": "Justiça",
+    "descricao": "Versículos sobre a justiça de Deus e a justiça social.",
+    "icone": "⚖️",
+    "versiculos": [
+      {
+        "ref": "mateus/5/6",
+        "texto": "Bem-aventurados os que têm fome e sede de justiça, porque eles serão fartos."
+      },
+      {
+        "ref": "proverbios/16/8",
+        "texto": "Melhor é o pouco com justiça do que a abundância de rendimentos sem direito."
+      },
+      {
+        "ref": "efesios/6/14",
+        "texto": "Estai, pois, firmes, tendo cingidos os vossos lombos com a verdade, e vestidos da couraça da justiça,"
+      }
+    ]
+  },
+  {
+    "slug": "justica-divina",
+    "nome": "Justiça Divina",
+    "descricao": "Versículos sobre a justiça e o juízo divino.",
+    "icone": "⚖️",
+    "versiculos": [
+      {
+        "ref": "salmos/91/8",
+        "texto": "Somente com os teus olhos olharás e verás a recompensa dos ímpios."
+      }
+    ]
+  },
+  {
+    "slug": "justificacao",
+    "nome": "Justificação",
+    "descricao": "Versículos sobre a justificação pela fé em Cristo.",
+    "icone": "⚖️",
+    "versiculos": [
+      {
+        "ref": "romanos/10/10",
+        "texto": "Porque com o coração se crê para a justiça, e com a boca se faz confissão para a salvação."
+      }
+    ]
+  },
+  {
+    "slug": "leveza",
+    "nome": "Leveza",
+    "descricao": "Versículos sobre o peso leve que Cristo oferece.",
+    "icone": "🪶",
+    "versiculos": [
+      {
+        "ref": "mateus/11/30",
+        "texto": "Porque o meu jugo é suave e o meu fardo é leve."
+      }
+    ]
+  },
+  {
+    "slug": "libertacao",
+    "nome": "Libertação",
+    "descricao": "Versículos sobre a libertação que Cristo conquistou.",
+    "icone": "🗝️",
+    "versiculos": [
+      {
+        "ref": "1-joao/4/18",
+        "texto": "No amor não há medo; antes, o perfeito amor lança fora o medo, porque o medo tem pena; e quem teme não é perfeito no amor."
+      }
+    ]
+  },
+  {
+    "slug": "limitacao",
+    "nome": "Limitação",
+    "descricao": "Versículos sobre confiar em Deus diante das limitações humanas.",
+    "icone": "🚧",
+    "versiculos": [
+      {
+        "ref": "isaias/40/30",
+        "texto": "Os jovens se cansarão e se fatigarão, e os moços cairão;"
+      }
+    ]
+  },
+  {
+    "slug": "livramento",
+    "nome": "Livramento",
+    "descricao": "Versículos sobre o livramento e a libertação de Deus.",
+    "icone": "🗝️",
+    "versiculos": [
+      {
+        "ref": "salmos/91/3",
+        "texto": "Porque ele te livrará do laço do passarinheiro e da peste perniciosa."
+      },
+      {
+        "ref": "salmos/91/6",
+        "texto": "nem peste que ande na escuridão, nem mortandade que assole ao meio-dia."
+      },
+      {
+        "ref": "salmos/91/7",
+        "texto": "Mil cairão ao teu lado, e dez mil, à tua direita, mas tu não serás atingido."
+      },
+      {
+        "ref": "salmos/91/14",
+        "texto": "Pois ele me amou, eu o livrarei; eu o colocarei em lugar seguro, porque conheceu o meu nome."
+      },
+      {
+        "ref": "salmos/91/15",
+        "texto": "Quando ele me invocar, eu lhe responderei; estarei com ele na angústia, livrá-lo-ei, e o honrarei."
+      }
+    ]
+  },
+  {
+    "slug": "luz",
+    "nome": "Luz",
+    "descricao": "Versículos sobre Deus como luz e o chamado a ser luz no mundo.",
+    "icone": "💡",
+    "versiculos": [
+      {
+        "ref": "genesis/1/3",
+        "texto": "Disse Deus: Haja luz. E houve luz."
+      },
+      {
+        "ref": "isaias/60/1",
+        "texto": "Levanta-te, resplandece, porque veio a tua luz, e a glória do Senhor se levantou sobre ti."
+      },
+      {
+        "ref": "isaias/60/2",
+        "texto": "Porque eis que as trevas cobrirão a terra, e a escuridão, os povos; mas sobre ti se levantará o Senhor, e a sua glória sobre ti aparecerá."
+      },
+      {
+        "ref": "mateus/5/14",
+        "texto": "Vós sois a luz do mundo; uma cidade edificada sobre um monte não se pode esconder."
+      }
+    ]
+  },
+  {
+    "slug": "magnificat",
+    "nome": "Magnificat",
+    "descricao": "Versículos do cântico de louvor de Maria a Deus.",
+    "icone": "🎶",
+    "versiculos": [
+      {
+        "ref": "lucas/1/46",
+        "texto": "Então disse Maria: A minha alma engrandece ao Senhor,"
+      }
+    ]
+  },
+  {
+    "slug": "mansidao",
+    "nome": "Mansidão",
+    "descricao": "Versículos sobre a mansidão e a humildade de coração.",
+    "icone": "🕊️",
+    "versiculos": [
+      {
+        "ref": "galatas/5/23",
+        "texto": "mansidão, temperança. Contra estas coisas não há lei."
+      },
+      {
+        "ref": "mateus/5/5",
+        "texto": "Bem-aventurados os mansos, porque eles herdarão a terra."
+      }
+    ]
+  },
+  {
+    "slug": "meditacao",
+    "nome": "Meditação",
+    "descricao": "Versículos sobre meditar na Palavra de Deus dia e noite.",
+    "icone": "🧘",
+    "versiculos": [
+      {
+        "ref": "josue/1/8",
+        "texto": "Não se aparte da tua boca o livro desta lei; antes medita nele dia e noite, para que guardes e faças segundo tudo quanto nele está escrito; porque então farás prosperar o teu caminho, e serás bem sucedido."
+      }
+    ]
+  },
+  {
+    "slug": "medo",
+    "nome": "Medo",
+    "descricao": "Versículos para quem enfrenta medos e inseguranças.",
+    "icone": "🫶",
+    "versiculos": [
+      {
+        "ref": "salmos/91/5",
+        "texto": "Não temerás espanto noturno, nem seta que voe de dia,"
+      },
+      {
+        "ref": "1-joao/4/18",
+        "texto": "No amor não há medo; antes, o perfeito amor lança fora o medo, porque o medo tem pena; e quem teme não é perfeito no amor."
+      }
+    ]
+  },
+  {
+    "slug": "mente",
+    "nome": "Mente",
+    "descricao": "Versículos sobre renovar a mente segundo a Palavra de Deus.",
+    "icone": "🧠",
+    "versiculos": [
+      {
+        "ref": "romanos/12/2",
+        "texto": "E não vos conformeis com este século, mas transformai-vos pela renovação do vosso entendimento, para que experimenteis qual seja a boa, agradável e perfeita vontade de Deus."
+      }
+    ]
+  },
+  {
+    "slug": "milagre",
+    "nome": "Milagre",
+    "descricao": "Versículos sobre os milagres de Deus e sua intervenção.",
+    "icone": "✨",
+    "versiculos": [
+      {
+        "ref": "lucas/1/37",
+        "texto": "Porque para Deus nenhuma coisa é impossível."
+      }
+    ]
+  },
+  {
+    "slug": "misericordia",
+    "nome": "Misericórdia",
+    "descricao": "Versículos sobre a misericórdia e compaixão de Deus.",
+    "icone": "💗",
+    "versiculos": [
+      {
+        "ref": "efesios/2/4",
+        "texto": "Mas Deus, que é rico em misericórdia, pelo seu grande amor com que nos amou,"
+      },
+      {
+        "ref": "lucas/15/11",
+        "texto": "Disse também: Um certo homem tinha dois filhos."
+      },
+      {
+        "ref": "mateus/5/7",
+        "texto": "Bem-aventurados os misericordiosos, porque eles alcançarão misericórdia."
+      },
+      {
+        "ref": "numeros/6/25",
+        "texto": "o Senhor faça resplandecer o seu rosto sobre ti e tenha misericórdia de ti;"
+      },
+      {
+        "ref": "romanos/10/13",
+        "texto": "Porque todo aquele que invocar o nome do Senhor será salvo."
+      }
+    ]
+  },
+  {
+    "slug": "missao",
+    "nome": "Missão",
+    "descricao": "Versículos sobre a missão cristã e o chamado ao serviço.",
+    "icone": "🌍",
+    "versiculos": [
+      {
+        "ref": "mateus/28/19",
+        "texto": "Portanto, ide, fazei discípulos de todas as nações, batizando-os em nome do Pai, e do Filho, e do Espírito Santo,"
+      },
+      {
+        "ref": "mateus/28/20",
+        "texto": "Ensinando-as a guardar todas as coisas que eu vos tenho mandado; e eis que eu estou convosco todos os dias, até à consumação dos séculos."
+      },
+      {
+        "ref": "mateus/5/14",
+        "texto": "Vós sois a luz do mundo; uma cidade edificada sobre um monte não se pode esconder."
+      },
+      {
+        "ref": "mateus/5/16",
+        "texto": "Assim resplandeça a vossa luz diante dos homens, para que vejam as vossas boas obras e glorifiquem a vosso Pai, que está nos céus."
+      }
+    ]
+  },
+  {
+    "slug": "mordomia",
+    "nome": "Mordomia",
+    "descricao": "Versículos sobre administrar bem o que Deus confiou.",
+    "icone": "💰",
+    "versiculos": [
+      {
+        "ref": "proverbios/3/9",
+        "texto": "Honra ao Senhor com os teus bens e com as primícias de todos os teus rendimentos,"
+      },
+      {
+        "ref": "genesis/1/26",
+        "texto": "E disse Deus: Façamos o homem à nossa imagem, conforme a nossa semelhança; e domine sobre os peixes do mar, e sobre as aves dos céus, e sobre os animais domésticos, e sobre toda a terra, e sobre todo réptil que se move sobre a terra."
+      }
+    ]
+  },
+  {
+    "slug": "morte",
+    "nome": "Morte",
+    "descricao": "Versículos sobre a morte e a esperança cristã além dela.",
+    "icone": "🌅",
+    "versiculos": [
+      {
+        "ref": "salmos/23/4",
+        "texto": "Ainda que eu andasse pelo vale da sombra da morte, não temeria mal algum, porque tu estás comigo; o teu cajado e o teu bordão me consolam."
+      }
+    ]
+  },
+  {
+    "slug": "morte-espiritual",
+    "nome": "Morte Espiritual",
+    "descricao": "Versículos sobre a morte espiritual e a vivificação em Cristo.",
+    "icone": "🌒",
+    "versiculos": [
+      {
+        "ref": "efesios/2/1",
+        "texto": "E vós ele vivificou, estando vós mortos nos vossos delitos e pecados,"
+      }
+    ]
+  },
+  {
+    "slug": "multiplicacao",
+    "nome": "Multiplicação",
+    "descricao": "Versículos sobre o princípio da multiplicação no Reino de Deus.",
+    "icone": "✖️",
+    "versiculos": [
+      {
+        "ref": "isaias/60/22",
+        "texto": "O pequeno se tornará mil, e o menor, uma nação forte. Eu, o Senhor, o farei prosperar no tempo determinado."
+      }
+    ]
+  },
+  {
+    "slug": "mundo-espiritual",
+    "nome": "Mundo Espiritual",
+    "descricao": "Versículos sobre a realidade espiritual além do visível.",
+    "icone": "🌌",
+    "versiculos": [
+      {
+        "ref": "efesios/6/12",
+        "texto": "Porque não temos que lutar contra a carne e o sangue, mas contra os principados, contra as potestades, contra os príncipes das trevas desta era, contra as hostes espirituais da maldade nos lugares celestiais."
+      }
+    ]
+  },
+  {
+    "slug": "natureza-de-deus",
+    "nome": "Natureza de Deus",
+    "descricao": "Versículos sobre quem é Deus e seus atributos.",
+    "icone": "✨",
+    "versiculos": [
+      {
+        "ref": "1-joao/4/8",
+        "texto": "Quem não ama não conhece a Deus, porque Deus é amor."
+      }
+    ]
+  },
+  {
+    "slug": "nova-vida",
+    "nome": "Nova Vida",
+    "descricao": "Versículos sobre a nova vida em Cristo.",
+    "icone": "🆕",
+    "versiculos": [
+      {
+        "ref": "efesios/2/1",
+        "texto": "E vós ele vivificou, estando vós mortos nos vossos delitos e pecados,"
+      },
+      {
+        "ref": "efesios/2/5",
+        "texto": "Estando nós ainda mortos em nossos delitos, nos vivificou juntamente com Cristo (pela graça sois salvos),"
+      },
+      {
+        "ref": "joao/1/12",
+        "texto": "Mas, a todos quantos o receberam, deu-lhes o poder de serem feitos filhos de Deus, aos que creem no seu nome,"
+      }
+    ]
+  },
+  {
+    "slug": "novo-nascimento",
+    "nome": "Novo Nascimento",
+    "descricao": "Versículos sobre nascer de novo pelo Espírito.",
+    "icone": "🐣",
+    "versiculos": [
+      {
+        "ref": "joao/3/3",
+        "texto": "Jesus respondeu e disse-lhe: Em verdade, em verdade te digo que se alguém não nascer de novo, não pode ver o reino de Deus."
+      }
+    ]
+  },
+  {
+    "slug": "obediencia",
+    "nome": "Obediência",
+    "descricao": "Versículos sobre a obediência a Deus e seus benefícios.",
+    "icone": "🎯",
+    "versiculos": [
+      {
+        "ref": "joao/10/27",
+        "texto": "As minhas ovelhas ouvem a minha voz, eu as conheço e elas me seguem."
+      },
+      {
+        "ref": "salmos/37/3",
+        "texto": "Confia no Senhor e faze o bem; habitarás na terra e serás alimentado fielmente."
+      },
+      {
+        "ref": "hebreus/11/8",
+        "texto": "Pela fé, Abraão obedeceu quando foi chamado para sair para um lugar que devia receber como herança; e saiu sem saber para onde ia."
+      },
+      {
+        "ref": "lucas/1/38",
+        "texto": "Então disse Maria: Eis aqui a serva do Senhor; faça-se em mim segundo a tua palavra. E o anjo se retirou da presença dela."
+      },
+      {
+        "ref": "tiago/1/22",
+        "texto": "Sede, porém, praticantes da palavra, e não somente ouvintes, enganando-vos a vós mesmos."
+      }
+    ]
+  },
+  {
+    "slug": "obras",
+    "nome": "Obras",
+    "descricao": "Versículos sobre obras e ação cristã no mundo.",
+    "icone": "🔨",
+    "versiculos": [
+      {
+        "ref": "efesios/2/9",
+        "texto": "Não por obras, para que ninguém se glorie."
+      }
+    ]
+  },
+  {
+    "slug": "onipotencia-de-deus",
+    "nome": "Onipotência de Deus",
+    "descricao": "Versículos sobre o Deus todo-poderoso.",
+    "icone": "💥",
+    "versiculos": [
+      {
+        "ref": "lucas/1/37",
+        "texto": "Porque para Deus nenhuma coisa é impossível."
+      }
+    ]
+  },
+  {
+    "slug": "ordem",
+    "nome": "Ordem",
+    "descricao": "Versículos sobre a ordem e o propósito de Deus.",
+    "icone": "📐",
+    "versiculos": [
+      {
+        "ref": "genesis/1/2",
+        "texto": "A terra era sem forma e vazia; havia trevas sobre a face do abismo, e o Espírito de Deus se movia sobre a face das águas."
+      }
+    ]
+  },
+  {
+    "slug": "orgulho",
+    "nome": "Orgulho",
+    "descricao": "Versículos sobre os perigos do orgulho e da arrogância.",
+    "icone": "⚠️",
+    "versiculos": [
+      {
+        "ref": "apocalipse/3/17",
+        "texto": "Porque dizes: Sou rico, e tenho enriquecido, e de nada tenho falta, e não sabes que és um desgraçado, miserável, pobre, cego e nu;"
+      },
+      {
+        "ref": "proverbios/16/5",
+        "texto": "Todo soberbo de coração é abominação ao Senhor; pode ter certeza de que não ficará sem castigo."
+      }
+    ]
+  },
+  {
+    "slug": "orientacao",
+    "nome": "Orientação",
+    "descricao": "Versículos sobre buscar a orientação divina.",
+    "icone": "🧭",
+    "versiculos": [
+      {
+        "ref": "proverbios/3/6",
+        "texto": "Reconhece-o em todos os teus caminhos, e ele endireitará as tuas veredas."
+      },
+      {
+        "ref": "salmos/37/23",
+        "texto": "O Senhor firma os passos do homem bom e se deleita no seu caminho."
+      }
+    ]
+  },
+  {
+    "slug": "paciencia",
+    "nome": "Paciência",
+    "descricao": "Versículos sobre a paciência como virtude cristã.",
+    "icone": "⏳",
+    "versiculos": [
+      {
+        "ref": "1-corintios/13/4",
+        "texto": "O amor é sofredor, é benigno; o amor não é invejoso; o amor não trata com leviandade, não se ensoberbece,"
+      },
+      {
+        "ref": "salmos/37/7",
+        "texto": "Aquieta-te perante o Senhor e espera por ele; não te impacientes por causa do que prospera no seu caminho, por causa do homem que leva a cabo os seus planos maléficos."
+      }
+    ]
+  },
+  {
+    "slug": "pai-nosso",
+    "nome": "Pai Nosso",
+    "descricao": "Versículos sobre o Pai Nosso e a oração que Jesus ensinou.",
+    "icone": "🙏",
+    "versiculos": [
+      {
+        "ref": "mateus/6/9",
+        "texto": "Portanto, vós orareis assim: Pai nosso, que estás nos céus, santificado seja o teu nome;"
+      }
+    ]
+  },
+  {
+    "slug": "palavra-de-deus",
+    "nome": "Palavra de Deus",
+    "descricao": "Versículos sobre a Bíblia como Palavra viva de Deus.",
+    "icone": "📖",
+    "versiculos": [
+      {
+        "ref": "genesis/1/3",
+        "texto": "Disse Deus: Haja luz. E houve luz."
+      },
+      {
+        "ref": "romanos/10/17",
+        "texto": "De sorte que a fé é pelo ouvir, e o ouvir pela palavra de Deus."
+      },
+      {
+        "ref": "efesios/6/17",
+        "texto": "Tomai também o capacete da salvação e a espada do Espírito, que é a palavra de Deus,"
+      },
+      {
+        "ref": "tiago/1/22",
+        "texto": "Sede, porém, praticantes da palavra, e não somente ouvintes, enganando-vos a vós mesmos."
+      },
+      {
+        "ref": "josue/1/7",
+        "texto": "Tão somente sê forte e mui corajoso, para guardar e fazer segundo toda a lei que Moisés, meu servo, te ordenou; não te desvies dela nem para a direita nem para a esquerda, para que sejas próspero em tudo quanto fizeres."
+      }
+    ]
+  },
+  {
+    "slug": "pecado",
+    "nome": "Pecado",
+    "descricao": "Versículos sobre o pecado e a redenção em Cristo.",
+    "icone": "🔓",
+    "versiculos": [
+      {
+        "ref": "efesios/2/1",
+        "texto": "E vós ele vivificou, estando vós mortos nos vossos delitos e pecados,"
+      }
+    ]
+  },
+  {
+    "slug": "perdao",
+    "nome": "Perdão",
+    "descricao": "Versículos sobre o perdão de Deus e perdoar os outros.",
+    "icone": "🤍",
+    "versiculos": [
+      {
+        "ref": "lucas/15/11",
+        "texto": "Disse também: Um certo homem tinha dois filhos."
+      },
+      {
+        "ref": "mateus/5/7",
+        "texto": "Bem-aventurados os misericordiosos, porque eles alcançarão misericórdia."
+      },
+      {
+        "ref": "mateus/6/12",
+        "texto": "E perdoa-nos as nossas dívidas, assim como nós perdoamos aos nossos devedores."
+      },
+      {
+        "ref": "1-corintios/13/5",
+        "texto": "não se porta indecorosamente, não busca os seus interesses, não se irrita, não suspeita mal;"
+      },
+      {
+        "ref": "lucas/15/20",
+        "texto": "E, levantando-se, foi para seu pai. E, quando ainda estava longe, seu pai o viu e, movido de íntima compaixão, correu, e lançou-se-lhe ao pescoço, e o beijou."
+      }
+    ]
+  },
+  {
+    "slug": "perdo",
+    "nome": "Perdão",
+    "descricao": "Versículos sobre o perdão de Deus e o perdão ao próximo.",
+    "icone": "🤍",
+    "versiculos": [
+      {
+        "ref": "proverbios/16/6",
+        "texto": "Pela misericórdia e pela verdade se expiam os pecados, e pelo temor do Senhor os homens se afastam do mal."
+      }
+    ]
+  },
+  {
+    "slug": "permanencia",
+    "nome": "Permanência",
+    "descricao": "Versículos sobre permanecer em Cristo e na Palavra.",
+    "icone": "⚓",
+    "versiculos": [
+      {
+        "ref": "1-corintios/13/8",
+        "texto": "O amor jamais acaba; mas havendo profecias, serão aniquiladas; havendo línguas, cessarão; havendo ciência, será desfeita."
+      },
+      {
+        "ref": "1-joao/4/16",
+        "texto": "E nós conhecemos e cremos no amor que Deus nos tem. Deus é amor; e quem está em amor está em Deus, e Deus está nele."
+      }
+    ]
+  },
+  {
+    "slug": "perseveranca",
+    "nome": "Perseverança",
+    "descricao": "Versículos sobre perseverar na fé e nas tribulações.",
+    "icone": "💪",
+    "versiculos": [
+      {
+        "ref": "1-corintios/13/7",
+        "texto": "tudo sofre, tudo crê, tudo espera, tudo suporta."
+      },
+      {
+        "ref": "hebreus/11/39",
+        "texto": "Ora, todos estes, tendo alcançado testemunho pela fé, não receberam a promessa,"
+      },
+      {
+        "ref": "1-pedro/5/9",
+        "texto": "Resisti-lhe, firmes na fé, sabendo que os mesmos sofrimentos se vão cumprindo na vossa irmandade, que está pelo mundo."
+      },
+      {
+        "ref": "2-timoteo/1/12",
+        "texto": "Por esta causa padeço também estas coisas; mas não me envergonho, porque sei em quem tenho crido e estou certo de que é poderoso para guardar o meu depósito até aquele dia."
+      },
+      {
+        "ref": "efesios/6/13",
+        "texto": "Portanto, tomai toda a armadura de Deus, para que possais resistir no dia mau e, havendo feito tudo, ficar firmes."
+      }
+    ]
+  },
+  {
+    "slug": "planos",
+    "nome": "Planos",
+    "descricao": "Versículos sobre os planos de Deus versus os planos humanos.",
+    "icone": "📋",
+    "versiculos": [
+      {
+        "ref": "proverbios/16/1",
+        "texto": "Do homem são os preparativos do coração, mas do Senhor é a resposta da língua."
+      },
+      {
+        "ref": "proverbios/16/3",
+        "texto": "Consagra ao Senhor as tuas obras, e os teus pensamentos serão estabelecidos."
+      },
+      {
+        "ref": "proverbios/16/9",
+        "texto": "O coração do homem planeja o seu caminho, mas o Senhor lhe dirige os passos."
+      }
+    ]
+  },
+  {
+    "slug": "planos-de-deus",
+    "nome": "Planos de Deus",
+    "descricao": "Versículos sobre os planos e projetos de Deus para a sua vida.",
+    "icone": "📋",
+    "versiculos": [
+      {
+        "ref": "jeremias/29/11",
+        "texto": "Porque eu sei os pensamentos que tenho a vosso respeito, diz o Senhor; pensamentos de paz, e não de mal, para vos dar um futuro e uma esperança."
+      }
+    ]
+  },
+  {
+    "slug": "poder",
+    "nome": "Poder",
+    "descricao": "Versículos sobre o poder dado aos crentes em Cristo.",
+    "icone": "⚡",
+    "versiculos": [
+      {
+        "ref": "genesis/1/3",
+        "texto": "Disse Deus: Haja luz. E houve luz."
+      }
+    ]
+  },
+  {
+    "slug": "poder-de-deus",
+    "nome": "Poder de Deus",
+    "descricao": "Versículos sobre o poder imenso e incomparável de Deus.",
+    "icone": "⚡",
+    "versiculos": [
+      {
+        "ref": "2-timoteo/1/7",
+        "texto": "Porque Deus não nos deu o espírito de covardia, mas o de poder, de amor e de moderação."
+      }
+    ]
+  },
+  {
+    "slug": "pratica",
+    "nome": "Prática",
+    "descricao": "Versículos sobre colocar a Palavra de Deus em prática.",
+    "icone": "✋",
+    "versiculos": [
+      {
+        "ref": "tiago/1/22",
+        "texto": "Sede, porém, praticantes da palavra, e não somente ouvintes, enganando-vos a vós mesmos."
+      }
+    ]
+  },
+  {
+    "slug": "predestinacao",
+    "nome": "Predestinação",
+    "descricao": "Versículos sobre o propósito eterno e a predestinação divina.",
+    "icone": "📜",
+    "versiculos": [
+      {
+        "ref": "romanos/8/29",
+        "texto": "Porque os que dantes conheceu, também os predestinou para serem conformes à imagem de seu Filho, a fim de que ele seja o primogênito entre muitos irmãos."
+      }
+    ]
+  },
+  {
+    "slug": "pregacao",
+    "nome": "Pregação",
+    "descricao": "Versículos sobre o poder da pregação do Evangelho.",
+    "icone": "📣",
+    "versiculos": [
+      {
+        "ref": "romanos/10/17",
+        "texto": "De sorte que a fé é pelo ouvir, e o ouvir pela palavra de Deus."
+      }
+    ]
+  },
+  {
+    "slug": "preocupacao",
+    "nome": "Preocupação",
+    "descricao": "Versículos para quem está cheio de preocupações.",
+    "icone": "😮‍💨",
+    "versiculos": [
+      {
+        "ref": "mateus/6/25",
+        "texto": "Por isso vos digo: não andeis ansiosos pela vossa vida, quanto ao que haveis de comer ou beber; nem pelo vosso corpo, quanto ao que haveis de vestir. Não é a vida mais do que o alimento, e o corpo, mais do que o vestuário?"
+      }
+    ]
+  },
+  {
+    "slug": "presenca-de-deus",
+    "nome": "Presença de Deus",
+    "descricao": "Versículos sobre a presença constante e real de Deus.",
+    "icone": "✨",
+    "versiculos": [
+      {
+        "ref": "1-joao/4/16",
+        "texto": "E nós conhecemos e cremos no amor que Deus nos tem. Deus é amor; e quem está em amor está em Deus, e Deus está nele."
+      },
+      {
+        "ref": "apocalipse/3/20",
+        "texto": "Eis que estou à porta e bato; se alguém ouvir a minha voz e abrir a porta, entrarei em sua casa e cearei com ele, e ele comigo."
+      },
+      {
+        "ref": "isaias/41/10",
+        "texto": "Não temas, porque eu sou contigo; não te assombres, porque eu sou o teu Deus; eu te fortaleço, e te ajudo, e te sustento com a minha destra fiel."
+      },
+      {
+        "ref": "isaias/41/13",
+        "texto": "Porque eu, o Senhor teu Deus, te tomo pela tua mão direita e te digo: Não temas, eu te ajudarei."
+      },
+      {
+        "ref": "joao/14/27",
+        "texto": "Deixo-vos a paz, a minha paz vos dou; não vo-la dou como o mundo a dá. Não se turbe o vosso coração, nem se atemorizem."
+      }
+    ]
+  },
+  {
+    "slug": "presente",
+    "nome": "Presente",
+    "descricao": "Versículos sobre viver plenamente no momento presente.",
+    "icone": "⏰",
+    "versiculos": [
+      {
+        "ref": "mateus/6/34",
+        "texto": "Não andeis, pois, ansiosos pelo dia de amanhã; o dia de amanhã terá as suas próprias ansiedades. Basta ao dia o seu próprio mal."
+      }
+    ]
+  },
+  {
+    "slug": "principio",
+    "nome": "Princípio",
+    "descricao": "Versículos sobre os princípios fundamentais da fé cristã.",
+    "icone": "🌱",
+    "versiculos": [
+      {
+        "ref": "genesis/1/1",
+        "texto": "No princípio criou Deus os céus e a terra."
+      }
+    ]
+  },
+  {
+    "slug": "prioridades",
+    "nome": "Prioridades",
+    "descricao": "Versículos sobre colocar Deus em primeiro lugar na vida.",
+    "icone": "⭐",
+    "versiculos": [
+      {
+        "ref": "1-corintios/13/1",
+        "texto": "Ainda que eu falasse as línguas dos homens e dos anjos, e não tivesse amor, seria como o metal que soa ou como o sino que tine."
+      },
+      {
+        "ref": "mateus/6/33",
+        "texto": "Mas buscai primeiro o reino de Deus e a sua justiça, e todas estas coisas vos serão acrescentadas."
+      },
+      {
+        "ref": "salmos/27/4",
+        "texto": "Uma coisa pedi ao Senhor, e a buscarei: que eu possa habitar na casa do Senhor todos os dias da minha vida, para contemplar a beleza do Senhor e meditar no seu templo."
+      }
+    ]
+  },
+  {
+    "slug": "promessa",
+    "nome": "Promessa",
+    "descricao": "Versículos sobre as promessas de Deus que nunca falham.",
+    "icone": "🌈",
+    "versiculos": [
+      {
+        "ref": "hebreus/11/39",
+        "texto": "Ora, todos estes, tendo alcançado testemunho pela fé, não receberam a promessa,"
+      },
+      {
+        "ref": "1-pedro/5/10",
+        "texto": "E o Deus de toda a graça, que em Cristo Jesus vos chamou para a sua eterna glória, depois que tiverdes padecido um pouco, vos aperfeiçoará, confirmará, fortalecerá e estabelecerá."
+      },
+      {
+        "ref": "isaias/60/22",
+        "texto": "O pequeno se tornará mil, e o menor, uma nação forte. Eu, o Senhor, o farei prosperar no tempo determinado."
+      },
+      {
+        "ref": "joao/14/2",
+        "texto": "Na casa de meu Pai há muitas moradas; se não fosse assim, eu vo-lo teria dito; vou preparar-vos lugar."
+      },
+      {
+        "ref": "mateus/28/20",
+        "texto": "Ensinando-as a guardar todas as coisas que eu vos tenho mandado; e eis que eu estou convosco todos os dias, até à consumação dos séculos."
+      }
+    ]
+  },
+  {
+    "slug": "proposito",
+    "nome": "Propósito",
+    "descricao": "Versículos sobre o propósito e o plano de Deus para cada vida.",
+    "icone": "🎯",
+    "versiculos": [
+      {
+        "ref": "efesios/2/10",
+        "texto": "Porque somos feitura sua, criados em Cristo Jesus para as boas obras, as quais Deus preparou antes para que as praticássemos."
+      },
+      {
+        "ref": "jeremias/29/11",
+        "texto": "Porque eu sei os pensamentos que tenho a vosso respeito, diz o Senhor; pensamentos de paz, e não de mal, para vos dar um futuro e uma esperança."
+      },
+      {
+        "ref": "joao/10/10",
+        "texto": "O ladrão não vem senão para roubar, matar e destruir; eu vim para que tenham vida e a tenham em abundância."
+      },
+      {
+        "ref": "proverbios/16/4",
+        "texto": "O Senhor fez todas as coisas para os seus próprios fins; sim, até o ímpio para o dia do mal."
+      },
+      {
+        "ref": "romanos/8/28",
+        "texto": "E sabemos que todas as coisas cooperam para o bem daqueles que amam a Deus, daqueles que são chamados segundo o seu propósito."
+      }
+    ]
+  },
+  {
+    "slug": "prosperidade",
+    "nome": "Prosperidade",
+    "descricao": "Versículos sobre a prosperidade segundo a vontade de Deus.",
+    "icone": "🌻",
+    "versiculos": [
+      {
+        "ref": "josue/1/7",
+        "texto": "Tão somente sê forte e mui corajoso, para guardar e fazer segundo toda a lei que Moisés, meu servo, te ordenou; não te desvies dela nem para a direita nem para a esquerda, para que sejas próspero em tudo quanto fizeres."
+      },
+      {
+        "ref": "josue/1/8",
+        "texto": "Não se aparte da tua boca o livro desta lei; antes medita nele dia e noite, para que guardes e faças segundo tudo quanto nele está escrito; porque então farás prosperar o teu caminho, e serás bem sucedido."
+      }
+    ]
+  },
+  {
+    "slug": "providencia",
+    "nome": "Providência",
+    "descricao": "Versículos sobre a providência e o sustento de Deus.",
+    "icone": "🌾",
+    "versiculos": [
+      {
+        "ref": "proverbios/3/6",
+        "texto": "Reconhece-o em todos os teus caminhos, e ele endireitará as tuas veredas."
+      },
+      {
+        "ref": "salmos/37/5",
+        "texto": "Entrega o teu caminho ao Senhor; confia nele, e ele tudo fará."
+      },
+      {
+        "ref": "salmos/37/23",
+        "texto": "O Senhor firma os passos do homem bom e se deleita no seu caminho."
+      },
+      {
+        "ref": "salmos/37/7",
+        "texto": "Aquieta-te perante o Senhor e espera por ele; não te impacientes por causa do que prospera no seu caminho, por causa do homem que leva a cabo os seus planos maléficos."
+      },
+      {
+        "ref": "salmos/37/25",
+        "texto": "Fui moço e agora sou velho, porém nunca vi o justo desamparado nem a sua descendência a mendigar pão."
+      }
+    ]
+  },
+  {
+    "slug": "provisao",
+    "nome": "Provisão",
+    "descricao": "Versículos sobre a provisão de Deus para todas as necessidades.",
+    "icone": "🍞",
+    "versiculos": [
+      {
+        "ref": "isaias/40/29",
+        "texto": "Ele dá força ao cansado e multiplica as forças ao que não tem nenhum vigor."
+      },
+      {
+        "ref": "mateus/6/11",
+        "texto": "O pão nosso de cada dia dá-nos hoje."
+      },
+      {
+        "ref": "salmos/23/1",
+        "texto": "O Senhor é o meu pastor; nada me faltará."
+      },
+      {
+        "ref": "salmos/23/2",
+        "texto": "Ele me faz repousar em verdes pastos; guia-me mansamente a águas tranquilas."
+      },
+      {
+        "ref": "filipenses/4/19",
+        "texto": "Mas o meu Deus suprirá todas as vossas necessidades em riquezas em glória, em Cristo Jesus."
+      }
+    ]
+  },
+  {
+    "slug": "pureza",
+    "nome": "Pureza",
+    "descricao": "Versículos sobre a pureza de coração e de vida.",
+    "icone": "🌸",
+    "versiculos": [
+      {
+        "ref": "mateus/5/8",
+        "texto": "Bem-aventurados os limpos de coração, porque eles verão a Deus."
+      }
+    ]
+  },
+  {
+    "slug": "quietude",
+    "nome": "Quietude",
+    "descricao": "Versículos sobre encontrar quietude e silêncio diante de Deus.",
+    "icone": "🌙",
+    "versiculos": [
+      {
+        "ref": "salmos/46/10",
+        "texto": "Aquietai-vos e sabei que eu sou Deus; serei exaltado entre os gentios, serei exaltado na terra."
+      }
+    ]
+  },
+  {
+    "slug": "recompensa",
+    "nome": "Recompensa",
+    "descricao": "Versículos sobre a recompensa prometida por Deus.",
+    "icone": "🏅",
+    "versiculos": [
+      {
+        "ref": "hebreus/11/6",
+        "texto": "Ora, sem fé é impossível agradar-lhe, porque é necessário que aquele que se aproxima de Deus creia que ele existe e que é remunerador dos que o buscam."
+      }
+    ]
+  },
+  {
+    "slug": "reconciliacao",
+    "nome": "Reconciliação",
+    "descricao": "Versículos sobre a reconciliação com Deus e com as pessoas.",
+    "icone": "🤝",
+    "versiculos": [
+      {
+        "ref": "mateus/5/9",
+        "texto": "Bem-aventurados os pacificadores, porque eles serão chamados filhos de Deus."
+      }
+    ]
+  },
+  {
+    "slug": "refugio",
+    "nome": "Refúgio",
+    "descricao": "Versículos sobre Deus como refúgio e fortaleza.",
+    "icone": "🏰",
+    "versiculos": [
+      {
+        "ref": "salmos/46/1",
+        "texto": "Deus é o nosso refúgio e força, socorro bem presente na tribulação."
+      },
+      {
+        "ref": "salmos/46/11",
+        "texto": "O Senhor dos Exércitos está conosco; o Deus de Jacó é o nosso refúgio. (Selá)"
+      }
+    ]
+  },
+  {
+    "slug": "reino-de-deus",
+    "nome": "Reino de Deus",
+    "descricao": "Versículos sobre o Reino de Deus e seus valores.",
+    "icone": "👑",
+    "versiculos": [
+      {
+        "ref": "mateus/5/3",
+        "texto": "Bem-aventurados os pobres em espírito, porque deles é o reino dos céus."
+      },
+      {
+        "ref": "mateus/6/10",
+        "texto": "venha o teu reino, seja feita a tua vontade, assim na terra como no céu."
+      },
+      {
+        "ref": "mateus/28/18",
+        "texto": "E Jesus, aproximando-se, falou-lhes, dizendo: Toda a autoridade me foi dada no céu e na terra."
+      },
+      {
+        "ref": "mateus/6/33",
+        "texto": "Mas buscai primeiro o reino de Deus e a sua justiça, e todas estas coisas vos serão acrescentadas."
+      }
+    ]
+  },
+  {
+    "slug": "relacionamento",
+    "nome": "Relacionamento",
+    "descricao": "Versículos sobre o relacionamento com Deus e com as pessoas.",
+    "icone": "🤝",
+    "versiculos": [
+      {
+        "ref": "joao/10/14",
+        "texto": "Eu sou o bom pastor; conheço as minhas ovelhas e elas me conhecem a mim,"
+      },
+      {
+        "ref": "joao/10/27",
+        "texto": "As minhas ovelhas ouvem a minha voz, eu as conheço e elas me seguem."
+      },
+      {
+        "ref": "apocalipse/3/20",
+        "texto": "Eis que estou à porta e bato; se alguém ouvir a minha voz e abrir a porta, entrarei em sua casa e cearei com ele, e ele comigo."
+      }
+    ]
+  },
+  {
+    "slug": "relacionamentos",
+    "nome": "Relacionamentos",
+    "descricao": "Versículos sobre relacionamentos saudáveis e bíblicos.",
+    "icone": "👥",
+    "versiculos": [
+      {
+        "ref": "mateus/6/12",
+        "texto": "E perdoa-nos as nossas dívidas, assim como nós perdoamos aos nossos devedores."
+      },
+      {
+        "ref": "1-corintios/13/5",
+        "texto": "não se porta indecorosamente, não busca os seus interesses, não se irrita, não suspeita mal;"
+      }
+    ]
+  },
+  {
+    "slug": "renovacao",
+    "nome": "Renovação",
+    "descricao": "Versículos sobre a renovação espiritual em Deus.",
+    "icone": "🌱",
+    "versiculos": [
+      {
+        "ref": "apocalipse/3/19",
+        "texto": "Eu repreendo e disciplino a todos quantos amo; sê, pois, zeloso e arrepende-te."
+      },
+      {
+        "ref": "isaias/40/29",
+        "texto": "Ele dá força ao cansado e multiplica as forças ao que não tem nenhum vigor."
+      },
+      {
+        "ref": "salmos/23/3",
+        "texto": "Refrigera a minha alma; guia-me nas veredas da justiça por amor do seu nome."
+      },
+      {
+        "ref": "isaias/40/31",
+        "texto": "mas os que esperam no Senhor renovarão as suas forças, subirão com asas como águias; correrão, e não se cansarão; caminharão, e não se fatigarão."
+      },
+      {
+        "ref": "romanos/12/2",
+        "texto": "E não vos conformeis com este século, mas transformai-vos pela renovação do vosso entendimento, para que experimenteis qual seja a boa, agradável e perfeita vontade de Deus."
+      }
+    ]
+  },
+  {
+    "slug": "resistencia",
+    "nome": "Resistência",
+    "descricao": "Versículos sobre resistir ao mal e ao diabo.",
+    "icone": "🛡️",
+    "versiculos": [
+      {
+        "ref": "1-pedro/5/9",
+        "texto": "Resisti-lhe, firmes na fé, sabendo que os mesmos sofrimentos se vão cumprindo na vossa irmandade, que está pelo mundo."
+      }
+    ]
+  },
+  {
+    "slug": "ressurreicao",
+    "nome": "Ressurreição",
+    "descricao": "Versículos sobre a ressurreição de Cristo e a esperança cristã.",
+    "icone": "🌄",
+    "versiculos": [
+      {
+        "ref": "efesios/2/5",
+        "texto": "Estando nós ainda mortos em nossos delitos, nos vivificou juntamente com Cristo (pela graça sois salvos),"
+      },
+      {
+        "ref": "mateus/28/6",
+        "texto": "Não está aqui; ressuscitou, como tinha dito. Vinde, vede o lugar onde o Senhor estava."
+      },
+      {
+        "ref": "romanos/10/9",
+        "texto": "Se com a tua boca confessares ao Senhor Jesus e em teu coração creres que Deus o ressuscitou dos mortos, serás salvo."
+      }
+    ]
+  },
+  {
+    "slug": "restauracao",
+    "nome": "Restauração",
+    "descricao": "Versículos sobre a restauração que Deus oferece.",
+    "icone": "🌅",
+    "versiculos": [
+      {
+        "ref": "salmos/23/2",
+        "texto": "Ele me faz repousar em verdes pastos; guia-me mansamente a águas tranquilas."
+      },
+      {
+        "ref": "salmos/23/3",
+        "texto": "Refrigera a minha alma; guia-me nas veredas da justiça por amor do seu nome."
+      },
+      {
+        "ref": "1-pedro/5/10",
+        "texto": "E o Deus de toda a graça, que em Cristo Jesus vos chamou para a sua eterna glória, depois que tiverdes padecido um pouco, vos aperfeiçoará, confirmará, fortalecerá e estabelecerá."
+      },
+      {
+        "ref": "lucas/15/20",
+        "texto": "E, levantando-se, foi para seu pai. E, quando ainda estava longe, seu pai o viu e, movido de íntima compaixão, correu, e lançou-se-lhe ao pescoço, e o beijou."
+      },
+      {
+        "ref": "lucas/15/24",
+        "texto": "porque este meu filho estava morto e reviveu; tinha-se perdido e foi achado. E começaram a regozijar-se."
+      }
+    ]
+  },
+  {
+    "slug": "sacrificio",
+    "nome": "Sacrifício",
+    "descricao": "Versículos sobre o sacrifício de Cristo e o sacrifício cristão.",
+    "icone": "🩸",
+    "versiculos": [
+      {
+        "ref": "joao/10/11",
+        "texto": "Eu sou o bom pastor; o bom pastor dá a sua vida pelas ovelhas."
+      },
+      {
+        "ref": "joao/1/29",
+        "texto": "No dia seguinte, João viu Jesus aproximar-se e disse: Eis o Cordeiro de Deus que tira o pecado do mundo!"
+      }
+    ]
+  },
+  {
+    "slug": "salvacao",
+    "nome": "Salvação",
+    "descricao": "Versículos sobre a salvação em Cristo Jesus.",
+    "icone": "🕊️",
+    "versiculos": [
+      {
+        "ref": "efesios/2/4",
+        "texto": "Mas Deus, que é rico em misericórdia, pelo seu grande amor com que nos amou,"
+      },
+      {
+        "ref": "1-joao/4/9",
+        "texto": "Nisto se manifestou o amor de Deus para conosco: que Deus enviou seu Filho unigênito ao mundo, para que por ele vivamos."
+      },
+      {
+        "ref": "1-joao/4/10",
+        "texto": "Nisto está o amor: não em que nós tenhamos amado a Deus, mas em que ele nos amou a nós, e enviou seu Filho para propiciação pelos nossos pecados."
+      },
+      {
+        "ref": "apocalipse/3/20",
+        "texto": "Eis que estou à porta e bato; se alguém ouvir a minha voz e abrir a porta, entrarei em sua casa e cearei com ele, e ele comigo."
+      },
+      {
+        "ref": "efesios/2/5",
+        "texto": "Estando nós ainda mortos em nossos delitos, nos vivificou juntamente com Cristo (pela graça sois salvos),"
+      }
+    ]
+  },
+  {
+    "slug": "santidade",
+    "nome": "Santidade",
+    "descricao": "Versículos sobre a santidade de Deus e o chamado à santidade.",
+    "icone": "🕊️",
+    "versiculos": [
+      {
+        "ref": "galatas/5/16",
+        "texto": "Digo, porém: andai no Espírito e jamais satisfareis a concupiscência da carne."
+      },
+      {
+        "ref": "mateus/5/6",
+        "texto": "Bem-aventurados os que têm fome e sede de justiça, porque eles serão fartos."
+      },
+      {
+        "ref": "mateus/5/8",
+        "texto": "Bem-aventurados os limpos de coração, porque eles verão a Deus."
+      },
+      {
+        "ref": "galatas/5/24",
+        "texto": "Os que são de Cristo Jesus crucificaram a carne com as suas paixões e concupiscências."
+      }
+    ]
+  },
+  {
+    "slug": "seguranca",
+    "nome": "Segurança",
+    "descricao": "Versículos sobre a segurança que temos em Deus.",
+    "icone": "🏰",
+    "versiculos": [
+      {
+        "ref": "salmos/121/3",
+        "texto": "Não permitirá que o teu pé seja movido; não dormitará o que te guarda."
+      },
+      {
+        "ref": "salmos/121/4",
+        "texto": "Eis que não dormitará nem dormirá o guarda de Israel."
+      },
+      {
+        "ref": "1-joao/4/18",
+        "texto": "No amor não há medo; antes, o perfeito amor lança fora o medo, porque o medo tem pena; e quem teme não é perfeito no amor."
+      },
+      {
+        "ref": "joao/10/28",
+        "texto": "E eu lhes dou a vida eterna; e jamais perecerão, e ninguém as arrebatará da minha mão."
+      }
+    ]
+  },
+  {
+    "slug": "shalom",
+    "nome": "Shalom",
+    "descricao": "Versículos sobre a paz completa — shalom — de Deus.",
+    "icone": "🕊️",
+    "versiculos": [
+      {
+        "ref": "numeros/6/26",
+        "texto": "o Senhor sobre ti levante o seu rosto e te dê a paz."
+      }
+    ]
+  },
+  {
+    "slug": "sinceridade",
+    "nome": "Sinceridade",
+    "descricao": "Versículos sobre viver com sinceridade e transparência.",
+    "icone": "💬",
+    "versiculos": [
+      {
+        "ref": "jeremias/29/13",
+        "texto": "E buscar-me-eis, e me achareis, quando me buscardes com todo o vosso coração."
+      }
+    ]
+  },
+  {
+    "slug": "soberania",
+    "nome": "Soberania",
+    "descricao": "Versículos sobre a soberania de Deus sobre toda a criação.",
+    "icone": "👑",
+    "versiculos": [
+      {
+        "ref": "genesis/1/1",
+        "texto": "No princípio criou Deus os céus e a terra."
+      },
+      {
+        "ref": "genesis/1/2",
+        "texto": "A terra era sem forma e vazia; havia trevas sobre a face do abismo, e o Espírito de Deus se movia sobre a face das águas."
+      },
+      {
+        "ref": "mateus/28/18",
+        "texto": "E Jesus, aproximando-se, falou-lhes, dizendo: Toda a autoridade me foi dada no céu e na terra."
+      }
+    ]
+  },
+  {
+    "slug": "soberania-de-deus",
+    "nome": "Soberania de Deus",
+    "descricao": "Versículos sobre o poder soberano de Deus sobre todas as coisas.",
+    "icone": "👑",
+    "versiculos": [
+      {
+        "ref": "proverbios/16/1",
+        "texto": "Do homem são os preparativos do coração, mas do Senhor é a resposta da língua."
+      },
+      {
+        "ref": "proverbios/16/9",
+        "texto": "O coração do homem planeja o seu caminho, mas o Senhor lhe dirige os passos."
+      },
+      {
+        "ref": "isaias/40/28",
+        "texto": "Não sabes tu, ou não ouviste, que o Deus eterno, o Senhor, o Criador das extremidades da terra, não se cansa nem se fatiga? Não há perscrutação do seu entendimento."
+      },
+      {
+        "ref": "isaias/60/22",
+        "texto": "O pequeno se tornará mil, e o menor, uma nação forte. Eu, o Senhor, o farei prosperar no tempo determinado."
+      },
+      {
+        "ref": "jeremias/29/11",
+        "texto": "Porque eu sei os pensamentos que tenho a vosso respeito, diz o Senhor; pensamentos de paz, e não de mal, para vos dar um futuro e uma esperança."
+      }
+    ]
+  },
+  {
+    "slug": "socorro",
+    "nome": "Socorro",
+    "descricao": "Versículos sobre o socorro imediato de Deus.",
+    "icone": "🆘",
+    "versiculos": [
+      {
+        "ref": "salmos/121/1",
+        "texto": "Levanto os meus olhos para os montes, de onde me vem o socorro."
+      },
+      {
+        "ref": "salmos/121/2",
+        "texto": "O meu socorro vem do Senhor, que fez os céus e a terra."
+      }
+    ]
+  },
+  {
+    "slug": "sofrimento",
+    "nome": "Sofrimento",
+    "descricao": "Versículos sobre o sofrimento e a presença de Deus nele.",
+    "icone": "💧",
+    "versiculos": [
+      {
+        "ref": "mateus/5/4",
+        "texto": "Bem-aventurados os que choram, porque eles serão consolados."
+      },
+      {
+        "ref": "1-pedro/5/10",
+        "texto": "E o Deus de toda a graça, que em Cristo Jesus vos chamou para a sua eterna glória, depois que tiverdes padecido um pouco, vos aperfeiçoará, confirmará, fortalecerá e estabelecerá."
+      }
+    ]
+  },
+  {
+    "slug": "temor",
+    "nome": "Temor",
+    "descricao": "Versículos sobre o temor do Senhor como princípio da sabedoria.",
+    "icone": "🙇",
+    "versiculos": [
+      {
+        "ref": "salmos/23/4",
+        "texto": "Ainda que eu andasse pelo vale da sombra da morte, não temeria mal algum, porque tu estás comigo; o teu cajado e o teu bordão me consolam."
+      },
+      {
+        "ref": "salmos/27/1",
+        "texto": "O Senhor é a minha luz e a minha salvação; a quem temerei? O Senhor é a força da minha vida; de quem me recearei?"
+      }
+    ]
+  },
+  {
+    "slug": "temor-do-senhor",
+    "nome": "Temor do Senhor",
+    "descricao": "Versículos sobre o temor reverente a Deus.",
+    "icone": "🙇",
+    "versiculos": [
+      {
+        "ref": "proverbios/16/6",
+        "texto": "Pela misericórdia e pela verdade se expiam os pecados, e pelo temor do Senhor os homens se afastam do mal."
+      }
+    ]
+  },
+  {
+    "slug": "testemunho",
+    "nome": "Testemunho",
+    "descricao": "Versículos sobre compartilhar o testemunho de fé.",
+    "icone": "🎙️",
+    "versiculos": [
+      {
+        "ref": "mateus/5/14",
+        "texto": "Vós sois a luz do mundo; uma cidade edificada sobre um monte não se pode esconder."
+      },
+      {
+        "ref": "mateus/5/16",
+        "texto": "Assim resplandeça a vossa luz diante dos homens, para que vejam as vossas boas obras e glorifiquem a vosso Pai, que está nos céus."
+      },
+      {
+        "ref": "salmos/37/25",
+        "texto": "Fui moço e agora sou velho, porém nunca vi o justo desamparado nem a sua descendência a mendigar pão."
+      }
+    ]
+  },
+  {
+    "slug": "tibieza",
+    "nome": "Tibieza",
+    "descricao": "Versículos sobre o perigo de ser tíbio na fé.",
+    "icone": "🌡️",
+    "versiculos": [
+      {
+        "ref": "apocalipse/3/16",
+        "texto": "Assim, porque és morno, e não és quente nem frio, vomitar-te-ei da minha boca."
+      },
+      {
+        "ref": "apocalipse/3/17",
+        "texto": "Porque dizes: Sou rico, e tenho enriquecido, e de nada tenho falta, e não sabes que és um desgraçado, miserável, pobre, cego e nu;"
+      }
+    ]
+  },
+  {
+    "slug": "transformacao",
+    "nome": "Transformação",
+    "descricao": "Versículos sobre a transformação que Deus opera na vida.",
+    "icone": "🦋",
+    "versiculos": [
+      {
+        "ref": "romanos/12/2",
+        "texto": "E não vos conformeis com este século, mas transformai-vos pela renovação do vosso entendimento, para que experimenteis qual seja a boa, agradável e perfeita vontade de Deus."
+      }
+    ]
+  },
+  {
+    "slug": "trevas",
+    "nome": "Trevas",
+    "descricao": "Versículos sobre as trevas e a vitória da luz de Cristo.",
+    "icone": "🌑",
+    "versiculos": [
+      {
+        "ref": "isaias/60/2",
+        "texto": "Porque eis que as trevas cobrirão a terra, e a escuridão, os povos; mas sobre ti se levantará o Senhor, e a sua glória sobre ti aparecerá."
+      }
+    ]
+  },
+  {
+    "slug": "tribulacao",
+    "nome": "Tribulação",
+    "descricao": "Versículos sobre suportar a tribulação com fé em Deus.",
+    "icone": "💪",
+    "versiculos": [
+      {
+        "ref": "romanos/12/12",
+        "texto": "Alegrai-vos na esperança, sede pacientes na tribulação, perseverai na oração;"
+      },
+      {
+        "ref": "salmos/46/1",
+        "texto": "Deus é o nosso refúgio e força, socorro bem presente na tribulação."
+      },
+      {
+        "ref": "tiago/1/2",
+        "texto": "Meus irmãos, considerai sumo gozo o passardes por várias tentações,"
+      },
+      {
+        "ref": "tiago/1/3",
+        "texto": "sabendo que a provação da vossa fé produz paciência."
+      },
+      {
+        "ref": "salmos/46/3",
+        "texto": "ainda que as suas águas se levantem e se perturbem, e os montes se abalam com as suas ondas. (Selá)"
+      }
+    ]
+  },
+  {
+    "slug": "trindade",
+    "nome": "Trindade",
+    "descricao": "Versículos sobre o mistério da Trindade — Pai, Filho e Espírito.",
+    "icone": "☘️",
+    "versiculos": [
+      {
+        "ref": "joao/1/1",
+        "texto": "No princípio era o Verbo, e o Verbo estava com Deus, e o Verbo era Deus."
+      },
+      {
+        "ref": "mateus/28/19",
+        "texto": "Portanto, ide, fazei discípulos de todas as nações, batizando-os em nome do Pai, e do Filho, e do Espírito Santo,"
+      }
+    ]
+  },
+  {
+    "slug": "universalidade",
+    "nome": "Universalidade",
+    "descricao": "Versículos sobre o amor de Deus que alcança toda a humanidade.",
+    "icone": "🌍",
+    "versiculos": [
+      {
+        "ref": "romanos/10/13",
+        "texto": "Porque todo aquele que invocar o nome do Senhor será salvo."
+      }
+    ]
+  },
+  {
+    "slug": "verdade",
+    "nome": "Verdade",
+    "descricao": "Versículos sobre a verdade de Deus que liberta.",
+    "icone": "💎",
+    "versiculos": [
+      {
+        "ref": "efesios/6/14",
+        "texto": "Estai, pois, firmes, tendo cingidos os vossos lombos com a verdade, e vestidos da couraça da justiça,"
+      },
+      {
+        "ref": "joao/14/6",
+        "texto": "Disse-lhe Jesus: Eu sou o caminho, e a verdade, e a vida; ninguém vem ao Pai senão por mim."
+      }
+    ]
+  },
+  {
+    "slug": "vida",
+    "nome": "Vida",
+    "descricao": "Versículos sobre a vida plena que Deus oferece.",
+    "icone": "🌿",
+    "versiculos": [
+      {
+        "ref": "salmos/91/16",
+        "texto": "Com longura de dias fartá-lo-ei, e lhe mostrarei a minha salvação."
+      },
+      {
+        "ref": "joao/14/6",
+        "texto": "Disse-lhe Jesus: Eu sou o caminho, e a verdade, e a vida; ninguém vem ao Pai senão por mim."
+      }
+    ]
+  },
+  {
+    "slug": "vida-abundante",
+    "nome": "Vida Abundante",
+    "descricao": "Versículos sobre a vida em abundância que Jesus promete.",
+    "icone": "🌊",
+    "versiculos": [
+      {
+        "ref": "joao/10/10",
+        "texto": "O ladrão não vem senão para roubar, matar e destruir; eu vim para que tenham vida e a tenham em abundância."
+      }
+    ]
+  },
+  {
+    "slug": "vida-crista",
+    "nome": "Vida Cristã",
+    "descricao": "Versículos sobre como viver uma vida cristã plena.",
+    "icone": "✝️",
+    "versiculos": [
+      {
+        "ref": "galatas/5/16",
+        "texto": "Digo, porém: andai no Espírito e jamais satisfareis a concupiscência da carne."
+      },
+      {
+        "ref": "galatas/5/25",
+        "texto": "Se vivemos no Espírito, andemos também no Espírito."
+      },
+      {
+        "ref": "galatas/5/24",
+        "texto": "Os que são de Cristo Jesus crucificaram a carne com as suas paixões e concupiscências."
+      },
+      {
+        "ref": "romanos/12/1",
+        "texto": "Rogo-vos, pois, irmãos, pela compaixão de Deus, que apresenteis os vossos corpos em sacrifício vivo, santo e agradável a Deus, que é o vosso culto racional."
+      }
+    ]
+  },
+  {
+    "slug": "vida-eterna",
+    "nome": "Vida Eterna",
+    "descricao": "Versículos sobre a promessa da vida eterna em Cristo.",
+    "icone": "♾️",
+    "versiculos": [
+      {
+        "ref": "joao/10/28",
+        "texto": "E eu lhes dou a vida eterna; e jamais perecerão, e ninguém as arrebatará da minha mão."
+      },
+      {
+        "ref": "joao/3/16",
+        "texto": "Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito, para que todo aquele que nele crê não pereça, mas tenha a vida eterna."
+      }
+    ]
+  },
+  {
+    "slug": "vigilancia",
+    "nome": "Vigilância",
+    "descricao": "Versículos sobre estar vigilante na fé e na vida cristã.",
+    "icone": "👁️",
+    "versiculos": [
+      {
+        "ref": "1-pedro/5/8",
+        "texto": "Sede sóbrios e vigilantes. O diabo, vosso adversário, anda em derredor, como leão que ruge, procurando alguém para devorar."
+      },
+      {
+        "ref": "efesios/6/18",
+        "texto": "Orando em todo o tempo com toda oração e súplica no Espírito, e vigiando nisto com toda a perseverança e súplica por todos os santos,"
+      }
+    ]
+  },
+  {
+    "slug": "vitoria",
+    "nome": "Vitória",
+    "descricao": "Versículos sobre a vitória em Cristo sobre todo mal.",
+    "icone": "🏆",
+    "versiculos": [
+      {
+        "ref": "romanos/12/21",
+        "texto": "Não te deixes vencer pelo mal, mas vence o mal com o bem."
+      },
+      {
+        "ref": "romanos/8/31",
+        "texto": "Que diremos, pois, a estas coisas? Se Deus é por nós, quem será contra nós?"
+      },
+      {
+        "ref": "salmos/91/13",
+        "texto": "Pisarás o leão e a áspide; calcarás aos pés o filho do leão e a serpente."
+      },
+      {
+        "ref": "romanos/8/35",
+        "texto": "Quem nos separará do amor de Cristo? A tribulação, ou a angústia, ou a perseguição, ou a fome, ou a nudez, ou o perigo, ou a espada?"
+      },
+      {
+        "ref": "romanos/8/38",
+        "texto": "Porque eu tenho a certeza de que nem a morte, nem a vida, nem os anjos, nem os principados, nem as potestades, nem o presente, nem o porvir,"
+      }
+    ]
+  },
+  {
+    "slug": "volta-a-deus",
+    "nome": "Volta a Deus",
+    "descricao": "Versículos sobre o retorno ao Pai e o arrependimento.",
+    "icone": "↩️",
+    "versiculos": [
+      {
+        "ref": "lucas/15/17",
+        "texto": "Caindo, pois, em si, disse: Quantos trabalhadores de meu pai têm abundância de pão, e eu aqui pereço de fome!"
+      },
+      {
+        "ref": "lucas/15/18",
+        "texto": "Levantar-me-ei e irei ter com meu pai, e dir-lhe-ei: Pai, pequei contra o céu e perante ti."
+      }
+    ]
+  },
+  {
+    "slug": "vontade-de-deus",
+    "nome": "Vontade de Deus",
+    "descricao": "Versículos sobre discernir e cumprir a vontade de Deus.",
+    "icone": "🎯",
+    "versiculos": [
+      {
+        "ref": "mateus/6/10",
+        "texto": "venha o teu reino, seja feita a tua vontade, assim na terra como no céu."
+      },
+      {
+        "ref": "lucas/1/38",
+        "texto": "Então disse Maria: Eis aqui a serva do Senhor; faça-se em mim segundo a tua palavra. E o anjo se retirou da presença dela."
+      },
+      {
+        "ref": "romanos/12/2",
+        "texto": "E não vos conformeis com este século, mas transformai-vos pela renovação do vosso entendimento, para que experimenteis qual seja a boa, agradável e perfeita vontade de Deus."
+      }
     ]
   }
 ]

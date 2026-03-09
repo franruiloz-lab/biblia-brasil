@@ -14,8 +14,16 @@
         "NTLH": "Meus irmãos e irmãs, fiquem muito alegres quando tiverem de enfrentar todo tipo de provação.",
         "NVT": "Considerem motivo de grande alegria, meus irmãos, o fato de passarem por diversas provações."
       },
-      "temas": ["tribulacao", "alegria", "carater", "perseveranca"],
-      "versiculosRelacionados": ["romanos/5/3-4", "1-pedro/1/6-7"],
+      "temas": [
+        "tribulacao",
+        "alegria",
+        "carater",
+        "perseveranca"
+      ],
+      "versiculosRelacionados": [
+        "romanos/5/3",
+        "1-pedro/1/6"
+      ],
       "faq": []
     },
     {
@@ -26,7 +34,12 @@
         "NTLH": "Porque vocês sabem que, quando a sua fé é posta à prova, isso produz perseverança.",
         "NVT": "pois sabe que a prova de sua fé produz perseverança."
       },
-      "temas": ["tribulacao", "perseveranca", "carater", "fe"],
+      "temas": [
+        "tribulacao",
+        "perseveranca",
+        "carater",
+        "fe"
+      ],
       "versiculosRelacionados": [],
       "faq": []
     },
@@ -38,8 +51,16 @@
         "NTLH": "Se algum de vocês precisa de sabedoria, peça a Deus, que dá a todos com generosidade e sem fazer crítica, e essa sabedoria será dada.",
         "NVT": "Se algum de vocês tem falta de sabedoria, peça-a a Deus, que a todos dá generosamente, sem fazer censura, e lhe será concedida."
       },
-      "temas": ["sabedoria", "oracao", "generosidade-de-deus", "dependencia-de-deus"],
-      "versiculosRelacionados": ["proverbios/2/6", "mateus/7/7"],
+      "temas": [
+        "sabedoria",
+        "oracao",
+        "generosidade-de-deus",
+        "dependencia-de-deus"
+      ],
+      "versiculosRelacionados": [
+        "proverbios/2/6",
+        "mateus/7/7"
+      ],
       "faq": [
         {
           "pergunta": "Como pedir sabedoria a Deus segundo Tiago 1:5?",
@@ -55,8 +76,16 @@
         "NTLH": "Tudo o que é bom e tudo o que é perfeito nos vem de Deus, que criou as luzes no céu. Deus nunca muda nem varia como as sombras dos astros.",
         "NVT": "Toda boa dádiva e todo dom perfeito vêm do alto, descendo do Pai das luzes, em quem não há mudança nem sombra de variação."
       },
-      "temas": ["bencao", "bondade-de-deus", "imutabilidade-de-deus", "gratidao"],
-      "versiculosRelacionados": ["salmos/84/11", "malaquias/3/6"],
+      "temas": [
+        "bencao",
+        "bondade-de-deus",
+        "imutabilidade-de-deus",
+        "gratidao"
+      ],
+      "versiculosRelacionados": [
+        "salmos/84/11",
+        "malaquias/3/6"
+      ],
       "faq": [
         {
           "pergunta": "O que significa 'Pai das luzes' em Tiago 1:17?",
@@ -72,8 +101,16 @@
         "NTLH": "Não basta ouvir o que a mensagem de Deus diz. Vocês precisam praticá-la. Se não praticarem, estarão enganando a si mesmos.",
         "NVT": "Sejam praticantes da palavra e não somente ouvintes, enganando a si mesmos."
       },
-      "temas": ["obediencia", "palavra-de-deus", "pratica", "integridade"],
-      "versiculosRelacionados": ["mateus/7/24-25", "tiago/2/17"],
+      "temas": [
+        "obediencia",
+        "palavra-de-deus",
+        "pratica",
+        "integridade"
+      ],
+      "versiculosRelacionados": [
+        "mateus/7/24",
+        "tiago/2/17"
+      ],
       "faq": []
     }
   ],
@@ -82,11 +119,30 @@
     "contexto": "Tiago era irmão de Jesus e líder da igreja em Jerusalém. Sua carta é endereçada às 'doze tribos da dispersão' — cristãos judeus espalhados pelo mundo greco-romano, enfrentando perseguição e pobreza. O tom é pastoral e direto: ele não tem tempo para abstrações — seu povo precisa de instrução prática para sobreviver com fé intacta.",
     "aplicacao": "Tiago 1 é o antídoto para a fé sem obras — o crente que ouve mas não faz (v. 22), que pede sabedoria mas não age (v. 5-6), que vê bênçãos como garantidas sem reconhecer o Doador (v. 17). Para o brasileiro que quer uma fé que funciona no trabalho, nas finanças e nos relacionamentos, este capítulo oferece o fundamento: receba a Palavra, pratique a Palavra, confie no Doador de todo bem."
   },
-  "versiculosDestaque": [5, 17, 22],
-  "temas": ["sabedoria", "tribulacao", "perseveranca", "palavra-de-deus", "bencao"],
+  "versiculosDestaque": [
+    5,
+    17,
+    22
+  ],
+  "temas": [
+    "sabedoria",
+    "tribulacao",
+    "perseveranca",
+    "palavra-de-deus",
+    "bencao"
+  ],
   "versiculosRelacionadosExternos": [
-    { "ref": "proverbios/2/6", "texto": "Provérbios 2:6 — O SENHOR é quem dá a sabedoria" },
-    { "ref": "romanos/5/3-4", "texto": "Romanos 5:3-4 — A tribulação produz paciência" },
-    { "ref": "mateus/7/24", "texto": "Mateus 7:24 — Todo aquele que ouve e pratica é como um homem prudente" }
+    {
+      "ref": "proverbios/2/6",
+      "texto": "Provérbios 2:6 — O SENHOR é quem dá a sabedoria"
+    },
+    {
+      "ref": "romanos/5/3-4",
+      "texto": "Romanos 5:3-4 — A tribulação produz paciência"
+    },
+    {
+      "ref": "mateus/7/24",
+      "texto": "Mateus 7:24 — Todo aquele que ouve e pratica é como um homem prudente"
+    }
   ]
 }

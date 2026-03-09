@@ -14,8 +14,16 @@
         "NTLH": "Felizes os que reconhecem que precisam de Deus, porque o Reino do Céu é deles.",
         "NVT": "Bem-aventurados os pobres em espírito, pois deles é o reino dos céus."
       },
-      "temas": ["humildade", "reino-de-deus", "bencao", "dependencia-de-deus"],
-      "versiculosRelacionados": ["lucas/6/20", "isaias/57/15"],
+      "temas": [
+        "humildade",
+        "reino-de-deus",
+        "bencao",
+        "dependencia-de-deus"
+      ],
+      "versiculosRelacionados": [
+        "lucas/6/20",
+        "isaias/57/15"
+      ],
       "faq": [
         {
           "pergunta": "O que significa 'pobres em espírito' em Mateus 5:3?",
@@ -31,8 +39,17 @@
         "NTLH": "Felizes os que choram, porque Deus os consolará.",
         "NVT": "Bem-aventurados os que choram, pois serão consolados."
       },
-      "temas": ["consolo", "sofrimento", "esperanca", "bencao"],
-      "versiculosRelacionados": ["isaias/61/2-3", "apocalipse/21/4", "salmos/34/18"],
+      "temas": [
+        "consolo",
+        "sofrimento",
+        "esperanca",
+        "bencao"
+      ],
+      "versiculosRelacionados": [
+        "isaias/61/2",
+        "apocalipse/21/4",
+        "salmos/34/18"
+      ],
       "faq": []
     },
     {
@@ -43,8 +60,16 @@
         "NTLH": "Felizes os humildes, porque receberão o que Deus prometeu.",
         "NVT": "Bem-aventurados os humildes, pois herdarão a terra."
       },
-      "temas": ["humildade", "mansidao", "bencao", "heranca"],
-      "versiculosRelacionados": ["salmos/37/11", "numeros/12/3"],
+      "temas": [
+        "humildade",
+        "mansidao",
+        "bencao",
+        "heranca"
+      ],
+      "versiculosRelacionados": [
+        "salmos/37/11",
+        "numeros/12/3"
+      ],
       "faq": []
     },
     {
@@ -55,8 +80,16 @@
         "NTLH": "Felizes os que desejam muito obedecer a Deus, porque ele os satisfará.",
         "NVT": "Bem-aventurados os que têm fome e sede de justiça, pois serão satisfeitos."
       },
-      "temas": ["justica", "desejo", "bencao", "santidade"],
-      "versiculosRelacionados": ["salmos/42/1-2", "joao/6/35"],
+      "temas": [
+        "justica",
+        "desejo",
+        "bencao",
+        "santidade"
+      ],
+      "versiculosRelacionados": [
+        "salmos/42/1",
+        "joao/6/35"
+      ],
       "faq": []
     },
     {
@@ -67,8 +100,16 @@
         "NTLH": "Felizes os que têm misericórdia dos outros, porque Deus terá misericórdia deles.",
         "NVT": "Bem-aventurados os misericordiosos, pois obterão misericórdia."
       },
-      "temas": ["misericordia", "bencao", "amor", "perdao"],
-      "versiculosRelacionados": ["tiago/2/13", "lucas/6/36"],
+      "temas": [
+        "misericordia",
+        "bencao",
+        "amor",
+        "perdao"
+      ],
+      "versiculosRelacionados": [
+        "tiago/2/13",
+        "lucas/6/36"
+      ],
       "faq": []
     },
     {
@@ -79,8 +120,16 @@
         "NTLH": "Felizes os de coração puro, porque verão a Deus.",
         "NVT": "Bem-aventurados os puros de coração, pois verão a Deus."
       },
-      "temas": ["pureza", "santidade", "bencao", "presenca-de-deus"],
-      "versiculosRelacionados": ["salmos/24/3-4", "hebreus/12/14"],
+      "temas": [
+        "pureza",
+        "santidade",
+        "bencao",
+        "presenca-de-deus"
+      ],
+      "versiculosRelacionados": [
+        "salmos/24/3",
+        "hebreus/12/14"
+      ],
       "faq": []
     },
     {
@@ -91,8 +140,16 @@
         "NTLH": "Felizes os que trabalham pela paz, porque Deus os chamará seus filhos.",
         "NVT": "Bem-aventurados os pacificadores, pois serão chamados filhos de Deus."
       },
-      "temas": ["paz", "reconciliacao", "bencao", "identidade"],
-      "versiculosRelacionados": ["romanos/12/18", "efesios/4/3"],
+      "temas": [
+        "paz",
+        "reconciliacao",
+        "bencao",
+        "identidade"
+      ],
+      "versiculosRelacionados": [
+        "romanos/12/18",
+        "efesios/4/3"
+      ],
       "faq": []
     },
     {
@@ -103,8 +160,17 @@
         "NTLH": "Vocês são a luz do mundo. Uma cidade construída numa colina não pode ficar escondida.",
         "NVT": "Vocês são a luz do mundo. Uma cidade construída sobre uma colina não pode ser escondida."
       },
-      "temas": ["missao", "identidade", "testemunho", "luz"],
-      "versiculosRelacionados": ["mateus/5/16", "joao/8/12", "filipenses/2/15"],
+      "temas": [
+        "missao",
+        "identidade",
+        "testemunho",
+        "luz"
+      ],
+      "versiculosRelacionados": [
+        "mateus/5/16",
+        "joao/8/12",
+        "filipenses/2/15"
+      ],
       "faq": []
     },
     {
@@ -115,8 +181,16 @@
         "NTLH": "Da mesma forma, vocês devem deixar a luz de vocês brilhar para as pessoas, para que elas vejam as coisas boas que vocês fazem e louvem o Pai de vocês que está no céu.",
         "NVT": "Da mesma forma, que a sua luz brilhe diante de todos, de modo que vejam as suas boas obras e glorifiquem o Pai de vocês, que está nos céus."
       },
-      "temas": ["missao", "testemunho", "boas-obras", "gloria-de-deus"],
-      "versiculosRelacionados": ["1-pedro/2/12", "mateus/5/14"],
+      "temas": [
+        "missao",
+        "testemunho",
+        "boas-obras",
+        "gloria-de-deus"
+      ],
+      "versiculosRelacionados": [
+        "1-pedro/2/12",
+        "mateus/5/14"
+      ],
       "faq": []
     }
   ],
@@ -125,12 +199,34 @@
     "contexto": "Jesus subiu ao monte, sentou-se (postura do mestre rabínico) e ensinou. O Sermão do Monte (Mt 5-7) é o primeiro dos cinco grandes discursos de Mateus — uma estrutura que ecoa o Pentateuco (5 livros de Moisés). Jesus não vem abolir a Lei, mas cumpri-la (v. 17) — e as Bem-aventuranças estabelecem o ethos do novo reino: não externo e performático, mas interno e transformador.",
     "aplicacao": "As Bem-aventuranças são um retrato do crente autêntico — e um diagnóstico incômodo. Em uma cultura que valoriza poder, autoafirmação e sucesso visível, Jesus declara bem-aventurados os humildes, os que choram, os pacificadores. Para o cristão brasileiro, Mateus 5 oferece uma redefinição completa do que significa ser abençoado: não prosperidade material como sinal de favor divino, mas caráter moldado à imagem do Reino como evidência de cidadania celestial."
   },
-  "versiculosDestaque": [3, 9, 16],
-  "temas": ["bencao", "humildade", "reino-de-deus", "missao", "carater"],
+  "versiculosDestaque": [
+    3,
+    9,
+    16
+  ],
+  "temas": [
+    "bencao",
+    "humildade",
+    "reino-de-deus",
+    "missao",
+    "carater"
+  ],
   "versiculosRelacionadosExternos": [
-    { "ref": "lucas/6/20-23", "texto": "Lucas 6:20-23 — Versão paralela das Bem-aventuranças" },
-    { "ref": "salmos/1/1", "texto": "Salmos 1:1 — Bem-aventurado o homem que não anda no conselho dos ímpios" },
-    { "ref": "mateus/6/33", "texto": "Mateus 6:33 — Buscai primeiro o reino de Deus" },
-    { "ref": "filipenses/4/7", "texto": "Filipenses 4:7 — A paz de Deus que excede todo o entendimento" }
+    {
+      "ref": "lucas/6/20-23",
+      "texto": "Lucas 6:20-23 — Versão paralela das Bem-aventuranças"
+    },
+    {
+      "ref": "salmos/1/1",
+      "texto": "Salmos 1:1 — Bem-aventurado o homem que não anda no conselho dos ímpios"
+    },
+    {
+      "ref": "mateus/6/33",
+      "texto": "Mateus 6:33 — Buscai primeiro o reino de Deus"
+    },
+    {
+      "ref": "filipenses/4/7",
+      "texto": "Filipenses 4:7 — A paz de Deus que excede todo o entendimento"
+    }
   ]
 }

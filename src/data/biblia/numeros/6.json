@@ -26,7 +26,9 @@
         "NTLH": "\"Fale com Arão e com os seus filhos e diga-lhes que abençoem o povo de Israel com as seguintes palavras:",
         "NVT": "\"Fala a Arão e a seus filhos: Assim abençoareis os israelitas, dizendo-lhes:"
       },
-      "temas": ["bencao"],
+      "temas": [
+        "bencao"
+      ],
       "versiculosRelacionados": [],
       "faq": []
     },
@@ -38,8 +40,15 @@
         "NTLH": "'Que o SENHOR te abençoe e te proteja;",
         "NVT": "O SENHOR te abençoe e te guarde;"
       },
-      "temas": ["bencao", "protecao", "cuidado-de-deus"],
-      "versiculosRelacionados": ["salmos/121/7-8", "filipenses/4/7"],
+      "temas": [
+        "bencao",
+        "protecao",
+        "cuidado-de-deus"
+      ],
+      "versiculosRelacionados": [
+        "salmos/121/7",
+        "filipenses/4/7"
+      ],
       "faq": [
         {
           "pergunta": "O que significa 'O Senhor te abençoe e te guarde' em Números 6:24?",
@@ -63,7 +72,11 @@
         "NTLH": "que o SENHOR olhe para você com bondade e seja misericordioso com você;",
         "NVT": "O SENHOR faça resplandecer o seu rosto sobre ti e seja gracioso para contigo;"
       },
-      "temas": ["graca", "misericordia", "bencao"],
+      "temas": [
+        "graca",
+        "misericordia",
+        "bencao"
+      ],
       "versiculosRelacionados": [],
       "faq": [
         {
@@ -80,8 +93,15 @@
         "NTLH": "que o SENHOR olhe para você com favor e lhe dê a paz.'",
         "NVT": "O SENHOR volte o seu rosto para ti e te conceda a paz.\""
       },
-      "temas": ["paz", "shalom", "bencao"],
-      "versiculosRelacionados": ["filipenses/4/7", "joao/14/27"],
+      "temas": [
+        "paz",
+        "shalom",
+        "bencao"
+      ],
+      "versiculosRelacionados": [
+        "filipenses/4/7",
+        "joao/14/27"
+      ],
       "faq": [
         {
           "pergunta": "O que é a 'paz' que Deus concede em Números 6:26?",
@@ -96,11 +116,30 @@
     "significado": "Cada linha da bênção aprofunda a anterior. A primeira (v. 24) fala de provisão e segurança. A segunda (v. 25) fala de favor e graça. A terceira (v. 26) culmina com shalom — a paz perfeita de Deus. É uma progressão do exterior para o interior: da proteção física, passando pelo favor pessoal, até a paz profunda do ser.",
     "aplicacao": "Hoje, ao declarar esta bênção sobre alguém — filho, cônjuge, amigo — você está fazendo exatamente o que Deus ordenou que Arão fizesse: pronunciar o favor divino sobre uma pessoa. Há poder em declarar as palavras de Deus. Esta bênção, pronunciada com fé, é mais do que palavras — é uma declaração do coração de Deus para com as pessoas que você ama."
   },
-  "versiculosDestaque": [24, 25, 26],
-  "temas": ["bencao", "protecao", "graca", "paz", "shalom"],
+  "versiculosDestaque": [
+    24,
+    25,
+    26
+  ],
+  "temas": [
+    "bencao",
+    "protecao",
+    "graca",
+    "paz",
+    "shalom"
+  ],
   "versiculosRelacionadosExternos": [
-    { "ref": "salmos/121/7-8", "texto": "Salmos 121:7-8 — O SENHOR te guardará de todo mal" },
-    { "ref": "filipenses/4/7", "texto": "Filipenses 4:7 — A paz de Deus que excede todo entendimento" },
-    { "ref": "joao/14/27", "texto": "João 14:27 — Deixo-vos a paz, a minha paz vos dou" }
+    {
+      "ref": "salmos/121/7-8",
+      "texto": "Salmos 121:7-8 — O SENHOR te guardará de todo mal"
+    },
+    {
+      "ref": "filipenses/4/7",
+      "texto": "Filipenses 4:7 — A paz de Deus que excede todo entendimento"
+    },
+    {
+      "ref": "joao/14/27",
+      "texto": "João 14:27 — Deixo-vos a paz, a minha paz vos dou"
+    }
   ]
 }

@@ -14,8 +14,18 @@
         "NTLH": "porque nada é impossível para Deus.",
         "NVT": "pois para Deus nada é impossível."
       },
-      "temas": ["fe", "onipotencia-de-deus", "esperanca", "milagre", "confianca"],
-      "versiculosRelacionados": ["mateus/19/26", "jeremias/32/17", "marcos/10/27"],
+      "temas": [
+        "fe",
+        "onipotencia-de-deus",
+        "esperanca",
+        "milagre",
+        "confianca"
+      ],
+      "versiculosRelacionados": [
+        "mateus/19/26",
+        "jeremias/32/17",
+        "marcos/10/27"
+      ],
       "faq": [
         {
           "pergunta": "O que é 'impossível' para Deus segundo Lucas 1:37?",
@@ -39,8 +49,16 @@
         "NTLH": "Maria disse: Eu sou serva do Senhor. Que tudo aconteça comigo como você disse. E o anjo foi embora.",
         "NVT": "Maria disse: Sou serva do Senhor. Que aconteça comigo conforme você disse. Então o anjo a deixou."
       },
-      "temas": ["fe", "obediencia", "rendição", "vontade-de-deus"],
-      "versiculosRelacionados": ["lucas/1/37", "mateus/6/10"],
+      "temas": [
+        "fe",
+        "obediencia",
+        "rendição",
+        "vontade-de-deus"
+      ],
+      "versiculosRelacionados": [
+        "lucas/1/37",
+        "mateus/6/10"
+      ],
       "faq": [
         {
           "pergunta": "O que podemos aprender com a resposta de Maria em Lucas 1:38?",
@@ -56,8 +74,15 @@
         "NTLH": "Maria disse: Minha alma glorifica o Senhor,",
         "NVT": "Então Maria disse: Minha alma glorifica ao Senhor,"
       },
-      "temas": ["adoracao", "gratidao", "magnificat"],
-      "versiculosRelacionados": ["lucas/1/47-55", "1-samuel/2/1"],
+      "temas": [
+        "adoracao",
+        "gratidao",
+        "magnificat"
+      ],
+      "versiculosRelacionados": [
+        "lucas/1/47",
+        "1-samuel/2/1"
+      ],
       "faq": []
     }
   ],
@@ -66,12 +91,33 @@
     "contexto": "Lucas 1 narra o anúncio do nascimento de João Batista (a Isabel) e de Jesus (a Maria). Quando Gabriel explica a Maria como ela, virgem, poderia conceber, usa como evidência o milagre de Isabel: 'Até Isabel, a tua parenta, concebeu um filho na sua velhice.' O argumento culmina no versículo 37 — o poder de Deus não tem limite, logo qualquer coisa que Ele anuncie é possível.",
     "aplicacao": "Lucas 1:37 funciona especialmente como âncora em dois momentos: quando a situação está além do controle humano (doenças, perdas, crises) e quando Deus coloca um chamado que parece maior do que a capacidade da pessoa (como aconteceu com Maria). Em ambos os casos, a mensagem é a mesma: o tamanho do problema ou do chamado é irrelevante diante de um Deus sem impossibilidades."
   },
-  "versiculosDestaque": [37, 38],
-  "temas": ["fe", "onipotencia-de-deus", "esperanca", "milagre", "rendição"],
+  "versiculosDestaque": [
+    37,
+    38
+  ],
+  "temas": [
+    "fe",
+    "onipotencia-de-deus",
+    "esperanca",
+    "milagre",
+    "rendição"
+  ],
   "versiculosRelacionadosExternos": [
-    { "ref": "mateus/19/26", "texto": "Mateus 19:26 — Para Deus tudo é possível" },
-    { "ref": "jeremias/32/17", "texto": "Jeremias 32:17 — Nada é difícil demais para ti" },
-    { "ref": "filipenses/4/13", "texto": "Filipenses 4:13 — Posso fazer todas as coisas por meio de Cristo" },
-    { "ref": "isaias/41/10", "texto": "Isaías 41:10 — Não temas, porque eu sou contigo" }
+    {
+      "ref": "mateus/19/26",
+      "texto": "Mateus 19:26 — Para Deus tudo é possível"
+    },
+    {
+      "ref": "jeremias/32/17",
+      "texto": "Jeremias 32:17 — Nada é difícil demais para ti"
+    },
+    {
+      "ref": "filipenses/4/13",
+      "texto": "Filipenses 4:13 — Posso fazer todas as coisas por meio de Cristo"
+    },
+    {
+      "ref": "isaias/41/10",
+      "texto": "Isaías 41:10 — Não temas, porque eu sou contigo"
+    }
   ]
 }

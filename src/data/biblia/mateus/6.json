@@ -14,8 +14,15 @@
         "NTLH": "Por isso, orem assim: Pai nosso que estás nos céus, santificado seja o teu nome.",
         "NVT": "Portanto orem assim: Pai nosso que estás nos céus, santificado seja o teu nome;"
       },
-      "temas": ["oracao", "pai-nosso", "adoracao"],
-      "versiculosRelacionados": ["lucas/11/2", "joao/17/1"],
+      "temas": [
+        "oracao",
+        "pai-nosso",
+        "adoracao"
+      ],
+      "versiculosRelacionados": [
+        "lucas/11/2",
+        "joao/17/1"
+      ],
       "faq": []
     },
     {
@@ -26,7 +33,11 @@
         "NTLH": "Venha o teu reino. Seja feita a tua vontade, assim na terra como no céu.",
         "NVT": "venha o teu reino; seja feita a tua vontade assim na terra como no céu."
       },
-      "temas": ["oracao", "vontade-de-deus", "reino-de-deus"],
+      "temas": [
+        "oracao",
+        "vontade-de-deus",
+        "reino-de-deus"
+      ],
       "versiculosRelacionados": [],
       "faq": []
     },
@@ -38,7 +49,11 @@
         "NTLH": "Dá-nos hoje o alimento que precisamos.",
         "NVT": "Dá-nos hoje o pão de que necessitamos."
       },
-      "temas": ["provisao", "dependencia-de-deus", "oracao"],
+      "temas": [
+        "provisao",
+        "dependencia-de-deus",
+        "oracao"
+      ],
       "versiculosRelacionados": [],
       "faq": []
     },
@@ -50,8 +65,15 @@
         "NTLH": "Perdoa as nossas faltas, assim como perdoamos aqueles que têm falta conosco.",
         "NVT": "Perdoa-nos as nossas dívidas, assim como perdoamos os nossos devedores."
       },
-      "temas": ["perdao", "oracao", "relacionamentos"],
-      "versiculosRelacionados": ["mateus/6/14-15", "colossenses/3/13"],
+      "temas": [
+        "perdao",
+        "oracao",
+        "relacionamentos"
+      ],
+      "versiculosRelacionados": [
+        "mateus/6/14",
+        "colossenses/3/13"
+      ],
       "faq": []
     },
     {
@@ -62,8 +84,17 @@
         "NTLH": "Por isso eu lhes digo: não fiquem preocupados com o que vocês vão comer ou beber para se sustentar nem com o que vão vestir. A vida não é mais importante do que a comida? E o corpo não é mais importante do que a roupa?",
         "NVT": "Por isso eu lhes digo: não se preocupem com a vida, quanto ao que comer ou beber, nem com o corpo, quanto ao que vestir. Não é a vida mais do que a comida e o corpo mais do que a roupa?"
       },
-      "temas": ["ansiedade", "confianca", "provisao", "preocupacao"],
-      "versiculosRelacionados": ["filipenses/4/6", "1-pedro/5/7", "mateus/6/33"],
+      "temas": [
+        "ansiedade",
+        "confianca",
+        "provisao",
+        "preocupacao"
+      ],
+      "versiculosRelacionados": [
+        "filipenses/4/6",
+        "1-pedro/5/7",
+        "mateus/6/33"
+      ],
       "faq": [
         {
           "pergunta": "Jesus está dizendo que não devemos planejar o futuro em Mateus 6:25?",
@@ -79,8 +110,18 @@
         "NTLH": "Mas primeiro preocupem-se com o reino de Deus e com o que ele exige, e ele dará a vocês todas essas coisas.",
         "NVT": "Mas busquem primeiro o reino de Deus e a sua justiça, e todas essas coisas lhes serão acrescentadas."
       },
-      "temas": ["prioridades", "reino-de-deus", "provisao", "confianca", "fe"],
-      "versiculosRelacionados": ["salmos/37/4", "proverbios/16/3", "filipenses/4/19"],
+      "temas": [
+        "prioridades",
+        "reino-de-deus",
+        "provisao",
+        "confianca",
+        "fe"
+      ],
+      "versiculosRelacionados": [
+        "salmos/37/4",
+        "proverbios/16/3",
+        "filipenses/4/19"
+      ],
       "faq": [
         {
           "pergunta": "O que significa 'buscai primeiro o reino de Deus' em Mateus 6:33?",
@@ -104,8 +145,15 @@
         "NTLH": "Por isso não fiquem preocupados com o amanhã, pois o dia de amanhã terá as suas próprias preocupações. O suficiente para cada dia é o mal daquele dia.",
         "NVT": "Portanto, não se preocupem com o amanhã, pois o amanhã terá as suas próprias preocupações. Suficiente para cada dia é o seu próprio mal."
       },
-      "temas": ["ansiedade", "presente", "confianca"],
-      "versiculosRelacionados": ["filipenses/4/6-7", "1-pedro/5/7"],
+      "temas": [
+        "ansiedade",
+        "presente",
+        "confianca"
+      ],
+      "versiculosRelacionados": [
+        "filipenses/4/6",
+        "1-pedro/5/7"
+      ],
       "faq": []
     }
   ],
@@ -114,12 +162,35 @@
     "contexto": "Mateus 6 faz parte do Sermão do Monte (Mateus 5-7), o maior discurso de Jesus registrado nos Evangelhos. O capítulo trata das disciplinas espirituais (esmola, oração, jejum) e da relação com o dinheiro e as preocupações. O fio condutor é a autenticidade: não fazer religião para aparecer (v. 1-18) e não deixar a ansiedade material substituir a confiança em Deus (v. 19-34).",
     "aplicacao": "Mateus 6 é profundamente contemporâneo: fala para uma geração ansiosa, que vive na superficialidade das redes sociais (fazer tudo 'para aparecer') e na pressão econômica constante. O antídoto de Jesus não é disciplina mais rígida nem desapego total — é reorientação: coloque Deus no centro, confie na Sua provisão e viva um dia de cada vez."
   },
-  "versiculosDestaque": [33, 9, 25],
-  "temas": ["oracao", "ansiedade", "prioridades", "provisao", "reino-de-deus", "confianca"],
+  "versiculosDestaque": [
+    33,
+    9,
+    25
+  ],
+  "temas": [
+    "oracao",
+    "ansiedade",
+    "prioridades",
+    "provisao",
+    "reino-de-deus",
+    "confianca"
+  ],
   "versiculosRelacionadosExternos": [
-    { "ref": "filipenses/4/6", "texto": "Filipenses 4:6 — Em nada estejais ansiosos" },
-    { "ref": "salmos/37/4", "texto": "Salmos 37:4 — Delicia-te no SENHOR e ele te dará os desejos do teu coração" },
-    { "ref": "proverbios/16/3", "texto": "Provérbios 16:3 — Consagre ao SENHOR tudo o que você faz" },
-    { "ref": "jeremias/29/11", "texto": "Jeremias 29:11 — Planos de esperança e de um futuro" }
+    {
+      "ref": "filipenses/4/6",
+      "texto": "Filipenses 4:6 — Em nada estejais ansiosos"
+    },
+    {
+      "ref": "salmos/37/4",
+      "texto": "Salmos 37:4 — Delicia-te no SENHOR e ele te dará os desejos do teu coração"
+    },
+    {
+      "ref": "proverbios/16/3",
+      "texto": "Provérbios 16:3 — Consagre ao SENHOR tudo o que você faz"
+    },
+    {
+      "ref": "jeremias/29/11",
+      "texto": "Jeremias 29:11 — Planos de esperança e de um futuro"
+    }
   ]
 }

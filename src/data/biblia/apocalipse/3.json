@@ -14,8 +14,16 @@
         "NTLH": "Mas você é morno! Não é nem quente nem frio! Por isso, eu estou prestes a vomitá-lo da minha boca.",
         "NVT": "Assim, porque você é morno — nem frio nem quente —, estou prestes a vomitá-lo da minha boca."
       },
-      "temas": ["tibieza", "compromisso", "advertencia", "arrependimento"],
-      "versiculosRelacionados": ["apocalipse/3/19-20", "mateus/6/24"],
+      "temas": [
+        "tibieza",
+        "compromisso",
+        "advertencia",
+        "arrependimento"
+      ],
+      "versiculosRelacionados": [
+        "apocalipse/3/19",
+        "mateus/6/24"
+      ],
       "faq": [
         {
           "pergunta": "O que significa ser 'morno' em Apocalipse 3:16?",
@@ -31,7 +39,12 @@
         "NTLH": "Você está dizendo: Sou rico, tenho tudo e não preciso de nada! Mas não percebe que você é miserável, digno de dó, pobre, cego e nu.",
         "NVT": "Você diz: Sou rico, enriqueci e não preciso de nada. Mas não percebe que é miserável, digno de pena, pobre, cego e nu."
       },
-      "temas": ["tibieza", "orgulho", "ilusao", "arrependimento"],
+      "temas": [
+        "tibieza",
+        "orgulho",
+        "ilusao",
+        "arrependimento"
+      ],
       "versiculosRelacionados": [],
       "faq": []
     },
@@ -43,8 +56,16 @@
         "NTLH": "Eu repreendo e corrijo todos aqueles que amo. Por isso seja dedicado e se arrependa.",
         "NVT": "Repreendo e disciplino todos os que amo. Seja zeloso, pois, e se arrependa."
       },
-      "temas": ["disciplina", "amor-de-deus", "arrependimento", "renovacao"],
-      "versiculosRelacionados": ["proverbios/3/12", "hebreus/12/6"],
+      "temas": [
+        "disciplina",
+        "amor-de-deus",
+        "arrependimento",
+        "renovacao"
+      ],
+      "versiculosRelacionados": [
+        "proverbios/3/12",
+        "hebreus/12/6"
+      ],
       "faq": []
     },
     {
@@ -55,8 +76,18 @@
         "NTLH": "Olhe, eu estou à porta e bato. Se alguém ouvir a minha voz e abrir a porta, eu entro, jantar com ele, e ele comigo.",
         "NVT": "Eis que estou à porta e bato. Se alguém ouvir a minha voz e abrir a porta, entrarei e cearei com ele e ele comigo."
       },
-      "temas": ["convite", "salvacao", "relacionamento", "jesus", "presenca-de-deus"],
-      "versiculosRelacionados": ["joao/14/23", "joao/1/12", "apocalipse/3/19"],
+      "temas": [
+        "convite",
+        "salvacao",
+        "relacionamento",
+        "jesus",
+        "presenca-de-deus"
+      ],
+      "versiculosRelacionados": [
+        "joao/14/23",
+        "joao/1/12",
+        "apocalipse/3/19"
+      ],
       "faq": [
         {
           "pergunta": "Jesus está batendo na porta de quem em Apocalipse 3:20?",
@@ -74,11 +105,29 @@
     "contexto": "Apocalipse 3:14-22 é a sétima e última carta às igrejas do Apocalipse — endereçada a Laodiceia. Era uma cidade próspera, conhecida por sua indústria têxtil, escola de medicina e bancos. A riqueza havia deixado a igreja confortável e autossuficiente. Jesus não encontra nada para elogiar nesta chiesa — é a única das sete sem um elogio. Mas o tom final é de misericórdia: 'Eu repreendo os que amo' (v. 19).",
     "aplicacao": "Para o cristão brasileiro que vive uma fé de rotina — comparece aos cultos, conhece os versículos, mas perdeu o fervor — Apocalipse 3:14-20 é um espelho incômodo e necessário. A mornicidade espiritual não é neutra: ela fecha a porta para a presença transformadora de Jesus. A boa notícia é que Ele ainda está do lado de fora, batendo pacientemente, esperando ser convidado de volta ao centro."
   },
-  "versiculosDestaque": [16, 20],
-  "temas": ["tibieza", "arrependimento", "convite", "jesus", "renovacao"],
+  "versiculosDestaque": [
+    16,
+    20
+  ],
+  "temas": [
+    "tibieza",
+    "arrependimento",
+    "convite",
+    "jesus",
+    "renovacao"
+  ],
   "versiculosRelacionadosExternos": [
-    { "ref": "joao/14/23", "texto": "João 14:23 — Se alguém me amar, guardará a minha palavra, e meu Pai o amará" },
-    { "ref": "apocalipse/2/4", "texto": "Apocalipse 2:4 — Tenho contra ti que deixaste o teu primeiro amor" },
-    { "ref": "lucas/15/20", "texto": "Lucas 15:20 — O pai avistou-o de longe e correu ao seu encontro" }
+    {
+      "ref": "joao/14/23",
+      "texto": "João 14:23 — Se alguém me amar, guardará a minha palavra, e meu Pai o amará"
+    },
+    {
+      "ref": "apocalipse/2/4",
+      "texto": "Apocalipse 2:4 — Tenho contra ti que deixaste o teu primeiro amor"
+    },
+    {
+      "ref": "lucas/15/20",
+      "texto": "Lucas 15:20 — O pai avistou-o de longe e correu ao seu encontro"
+    }
   ]
 }

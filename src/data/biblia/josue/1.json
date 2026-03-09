@@ -14,8 +14,16 @@
         "NTLH": "Seja muito forte e corajoso. Obedeça a todas as leis que o meu servo Moisés lhe deu. Não as desobedeça em nada, e você terá sucesso em tudo o que fizer.",
         "NVT": "Somente seja forte e muito corajoso. Cuide de obedecer a toda a lei que meu servo Moisés lhe ordenou; não se desvie dela nem para a direita nem para a esquerda, para que você tenha êxito por onde quer que vá."
       },
-      "temas": ["coragem", "obediencia", "palavra-de-deus", "prosperidade"],
-      "versiculosRelacionados": ["josue/1/9", "proverbios/3/5-6"],
+      "temas": [
+        "coragem",
+        "obediencia",
+        "palavra-de-deus",
+        "prosperidade"
+      ],
+      "versiculosRelacionados": [
+        "josue/1/9",
+        "proverbios/3/5"
+      ],
       "faq": []
     },
     {
@@ -26,8 +34,16 @@
         "NTLH": "Sempre estude este livro da lei. Medite nele de dia e de noite, e obedeça a tudo o que está escrito nele. Assim você terá sucesso e prosperidade.",
         "NVT": "Não se afaste da sua boca este livro da lei, mas medite nele dia e noite, para que você cuide de fazer tudo o que nele está escrito. Assim o seu caminho será próspero e você terá êxito."
       },
-      "temas": ["palavra-de-deus", "meditacao", "prosperidade", "obediencia"],
-      "versiculosRelacionados": ["salmos/1/2-3", "salmos/119/11"],
+      "temas": [
+        "palavra-de-deus",
+        "meditacao",
+        "prosperidade",
+        "obediencia"
+      ],
+      "versiculosRelacionados": [
+        "salmos/1/2",
+        "salmos/119/11"
+      ],
       "faq": []
     },
     {
@@ -38,8 +54,17 @@
         "NTLH": "Lembre-se de que eu lhe ordeno que seja forte e corajoso. Não fique com medo nem desanimado, porque o SENHOR, o seu Deus, estará com você em tudo o que você fizer.",
         "NVT": "Não fui eu que ordenei a você? Seja forte e corajoso! Não se apavore nem desanime, pois o SENHOR, o seu Deus, estará com você por onde você andar."
       },
-      "temas": ["coragem", "presenca-de-deus", "confianca", "forca"],
-      "versiculosRelacionados": ["isaias/41/10", "2-timoteo/1/7", "salmos/27/1"],
+      "temas": [
+        "coragem",
+        "presenca-de-deus",
+        "confianca",
+        "forca"
+      ],
+      "versiculosRelacionados": [
+        "isaias/41/10",
+        "2-timoteo/1/7",
+        "salmos/27/1"
+      ],
       "faq": [
         {
           "pergunta": "O que significa 'sede forte e corajoso' em Josué 1:9?",
@@ -61,12 +86,33 @@
     "contexto": "Josué assumiu a liderança de Israel no momento mais crítico da história do povo: após 40 anos no deserto e com a morte de Moisés. A missão era conquistar Canaã — terra habitada por povos maiores, mais experientes em guerra e estabelecidos em cidades fortificadas. Deus não começa dando a Josué um plano estratégico — começa dando-lhe uma postura: força e coragem, fundadas na presença divina e na obediência à Palavra.",
     "aplicacao": "Para o brasileiro que enfrenta uma nova fase — novo emprego, novo ministério, nova cidade, novo desafio familiar — Josué 1:9 é a comissão divina para tempos de transição. A mensagem não é 'você consegue porque é capaz', mas 'você consegue porque Deus está com você'. A distinção é fundamental: uma ancora na autoconfiança que varia; a outra ancora na presença de Deus que não muda."
   },
-  "versiculosDestaque": [9, 8],
-  "temas": ["coragem", "presenca-de-deus", "forca", "palavra-de-deus", "confianca"],
+  "versiculosDestaque": [
+    9,
+    8
+  ],
+  "temas": [
+    "coragem",
+    "presenca-de-deus",
+    "forca",
+    "palavra-de-deus",
+    "confianca"
+  ],
   "versiculosRelacionadosExternos": [
-    { "ref": "isaias/41/10", "texto": "Isaías 41:10 — Não temas, porque eu sou contigo" },
-    { "ref": "2-timoteo/1/7", "texto": "2 Timóteo 1:7 — Deus não nos deu espírito de covardia" },
-    { "ref": "salmos/27/1", "texto": "Salmos 27:1 — O Senhor é a minha luz e salvação" },
-    { "ref": "filipenses/4/13", "texto": "Filipenses 4:13 — Posso fazer todas as coisas por meio de Cristo" }
+    {
+      "ref": "isaias/41/10",
+      "texto": "Isaías 41:10 — Não temas, porque eu sou contigo"
+    },
+    {
+      "ref": "2-timoteo/1/7",
+      "texto": "2 Timóteo 1:7 — Deus não nos deu espírito de covardia"
+    },
+    {
+      "ref": "salmos/27/1",
+      "texto": "Salmos 27:1 — O Senhor é a minha luz e salvação"
+    },
+    {
+      "ref": "filipenses/4/13",
+      "texto": "Filipenses 4:13 — Posso fazer todas as coisas por meio de Cristo"
+    }
   ]
 }

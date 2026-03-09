@@ -14,8 +14,18 @@
         "NTLH": "Pois Deus amou o mundo de tal maneira que deu o seu único Filho, para que todo aquele que nele crer não morra, mas tenha a vida eterna.",
         "NVT": "Pois Deus amou o mundo de tal maneira que deu o seu Filho único, para que todo aquele que nele crer não pereça, mas tenha a vida eterna."
       },
-      "temas": ["amor-de-deus", "salvacao", "fe", "vida-eterna", "graca"],
-      "versiculosRelacionados": ["romanos/5/8", "1-joao/4/9-10", "efesios/2/8-9"],
+      "temas": [
+        "amor-de-deus",
+        "salvacao",
+        "fe",
+        "vida-eterna",
+        "graca"
+      ],
+      "versiculosRelacionados": [
+        "romanos/5/8",
+        "1-joao/4/9",
+        "efesios/2/8"
+      ],
       "faq": [
         {
           "pergunta": "Por que João 3:16 é chamado de 'o Evangelho em miniatura'?",
@@ -47,8 +57,16 @@
         "NTLH": "Pois Deus não enviou o seu Filho ao mundo para julgar o mundo, mas para salvar o mundo por meio dele.",
         "NVT": "Pois Deus não enviou o seu Filho ao mundo para condenar o mundo, mas para que o mundo fosse salvo por intermédio dele."
       },
-      "temas": ["salvacao", "graca", "misericordia", "amor-de-deus"],
-      "versiculosRelacionados": ["joao/3/16", "lucas/19/10"],
+      "temas": [
+        "salvacao",
+        "graca",
+        "misericordia",
+        "amor-de-deus"
+      ],
+      "versiculosRelacionados": [
+        "joao/3/16",
+        "lucas/19/10"
+      ],
       "faq": [
         {
           "pergunta": "O que João 3:17 nos diz sobre o propósito de Jesus vir ao mundo?",
@@ -64,8 +82,17 @@
         "NTLH": "Jesus respondeu: Eu garanto a você: quem não nascer de novo não pode entrar no Reino de Deus.",
         "NVT": "Jesus respondeu: Eu lhe digo a verdade: ninguém pode ver o Reino de Deus a menos que nasça de novo."
       },
-      "temas": ["novo-nascimento", "conversao", "espirito-santo", "salvacao"],
-      "versiculosRelacionados": ["joao/3/16", "tito/3/5", "2-corintios/5/17"],
+      "temas": [
+        "novo-nascimento",
+        "conversao",
+        "espirito-santo",
+        "salvacao"
+      ],
+      "versiculosRelacionados": [
+        "joao/3/16",
+        "tito/3/5",
+        "2-corintios/5/17"
+      ],
       "faq": [
         {
           "pergunta": "O que significa 'nascer de novo' em João 3:3?",
@@ -80,12 +107,34 @@
     "teologia": "João 3:16 é a síntese da teologia joanina: Deus é amor (1 João 4:8), e esse amor se revelou historicamente na encarnação e morte do Filho. A salvação é pela fé — não por obras, não por pertencimento étnico, não por mérito — mas pela confiança em Cristo. É o versículo que mais claramente expressa a doutrina evangélica central: graça pela fé.",
     "aplicacao": "Para o brasileiro de hoje, João 3:16 é o ponto de partida de toda jornada de fé. É o versículo que crianças aprendem na escola dominical, que jovens usam para evangelizar amigos, que adultos voltam nos momentos de dúvida. Mais do que um versículo para memorizar, é um convite a responder: você crê? Você confia no Filho que Deus deu?"
   },
-  "versiculosDestaque": [16, 17],
-  "temas": ["amor-de-deus", "salvacao", "fe", "vida-eterna", "graca", "novo-nascimento"],
+  "versiculosDestaque": [
+    16,
+    17
+  ],
+  "temas": [
+    "amor-de-deus",
+    "salvacao",
+    "fe",
+    "vida-eterna",
+    "graca",
+    "novo-nascimento"
+  ],
   "versiculosRelacionadosExternos": [
-    { "ref": "romanos/5/8", "texto": "Romanos 5:8 — Deus prova o seu amor: Cristo morreu por nós" },
-    { "ref": "efesios/2/8-9", "texto": "Efésios 2:8-9 — Pela graça sois salvos, mediante a fé" },
-    { "ref": "1-joao/4/9", "texto": "1 João 4:9 — Nisso se manifestou o amor de Deus" },
-    { "ref": "romanos/8/38-39", "texto": "Romanos 8:38-39 — Nada nos separará do amor de Deus" }
+    {
+      "ref": "romanos/5/8",
+      "texto": "Romanos 5:8 — Deus prova o seu amor: Cristo morreu por nós"
+    },
+    {
+      "ref": "efesios/2/8-9",
+      "texto": "Efésios 2:8-9 — Pela graça sois salvos, mediante a fé"
+    },
+    {
+      "ref": "1-joao/4/9",
+      "texto": "1 João 4:9 — Nisso se manifestou o amor de Deus"
+    },
+    {
+      "ref": "romanos/8/38-39",
+      "texto": "Romanos 8:38-39 — Nada nos separará do amor de Deus"
+    }
   ]
 }

@@ -10,4 +10,5 @@ export default defineConfig({
     sitemap(),
   ],
   site: 'https://bibliadobrasil.com',
+  trailingSlash: 'always',
 });

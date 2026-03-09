@@ -14,8 +14,18 @@
         "NTLH": "Eu sei os planos que tenho para vocês, planos de fazê-los prosperar e não de causar mal, planos de dar a vocês esperança e um futuro.",
         "NVT": "Pois conheço os planos que tenho para vocês, diz o SENHOR, planos de fazê-los prosperar e não de causar dano, planos de dar-lhes esperança e um futuro."
       },
-      "temas": ["proposito", "esperanca", "planos-de-deus", "futuro", "soberania-de-deus"],
-      "versiculosRelacionados": ["romanos/8/28", "salmos/139/16", "proverbios/16/9"],
+      "temas": [
+        "proposito",
+        "esperanca",
+        "planos-de-deus",
+        "futuro",
+        "soberania-de-deus"
+      ],
+      "versiculosRelacionados": [
+        "romanos/8/28",
+        "salmos/139/16",
+        "proverbios/16/9"
+      ],
       "faq": [
         {
           "pergunta": "O que significa 'eu sei os planos que tenho para vocês' em Jeremias 29:11?",
@@ -43,8 +53,15 @@
         "NTLH": "Então vocês me chamarão, e virão orar a mim, e eu os ouvirei.",
         "NVT": "Então vocês me invocarão, virão orar a mim, e eu os ouvirei."
       },
-      "temas": ["oracao", "escuta-de-deus", "busca"],
-      "versiculosRelacionados": ["jeremias/29/13", "mateus/7/7"],
+      "temas": [
+        "oracao",
+        "escuta-de-deus",
+        "busca"
+      ],
+      "versiculosRelacionados": [
+        "jeremias/29/13",
+        "mateus/7/7"
+      ],
       "faq": []
     },
     {
@@ -55,8 +72,16 @@
         "NTLH": "Vocês me procurarão e me encontrarão, se me procurarem com todo o coração.",
         "NVT": "Vocês me procurarão e me encontrarão quando me procurarem de todo o coração."
       },
-      "temas": ["busca", "encontro-com-deus", "sinceridade", "oracao"],
-      "versiculosRelacionados": ["2-cronicas/7/14", "mateus/7/7-8"],
+      "temas": [
+        "busca",
+        "encontro-com-deus",
+        "sinceridade",
+        "oracao"
+      ],
+      "versiculosRelacionados": [
+        "2-cronicas/7/14",
+        "mateus/7/7"
+      ],
       "faq": [
         {
           "pergunta": "O que significa buscar a Deus 'com todo o coração' em Jeremias 29:13?",
@@ -70,12 +95,33 @@
     "contexto": "Em 597 a.C., o rei Nabucodonosor levou os líderes e melhores cidadãos de Judá para a Babilônia. Enquanto falsos profetas prometiam um retorno rápido (2 anos), Jeremias escreve uma carta com a verdade incômoda: o exílio duraria 70 anos. Mas dentro desta realidade dura, vem a promessa do versículo 11 — não como escapismo, mas como âncora no meio da tempestade.",
     "aplicacao": "Ler Jeremias 29:11 com seu contexto é mais poderoso, não menos. A promessa não é 'você vai sair desta dificuldade amanhã' — é 'enquanto você está nela, Deus já tem um plano de esperança para você'. Para quem passa por cativeiros modernos — desemprego prolongado, doença crônica, relacionamento difícil — a mensagem é: mesmo aqui, mesmo agora, Deus tem planos de prosperidade e esperança para você."
   },
-  "versiculosDestaque": [11, 13],
-  "temas": ["proposito", "esperanca", "planos-de-deus", "futuro", "confianca"],
+  "versiculosDestaque": [
+    11,
+    13
+  ],
+  "temas": [
+    "proposito",
+    "esperanca",
+    "planos-de-deus",
+    "futuro",
+    "confianca"
+  ],
   "versiculosRelacionadosExternos": [
-    { "ref": "romanos/8/28", "texto": "Romanos 8:28 — Deus age em todas as coisas para o bem" },
-    { "ref": "proverbios/16/9", "texto": "Provérbios 16:9 — O coração do homem planeja, mas o SENHOR dirige os passos" },
-    { "ref": "salmos/139/16", "texto": "Salmos 139:16 — Todos os meus dias foram escritos no teu livro" },
-    { "ref": "efesios/2/10", "texto": "Efésios 2:10 — Somos feitura de Deus, criados em Cristo Jesus para boas obras" }
+    {
+      "ref": "romanos/8/28",
+      "texto": "Romanos 8:28 — Deus age em todas as coisas para o bem"
+    },
+    {
+      "ref": "proverbios/16/9",
+      "texto": "Provérbios 16:9 — O coração do homem planeja, mas o SENHOR dirige os passos"
+    },
+    {
+      "ref": "salmos/139/16",
+      "texto": "Salmos 139:16 — Todos os meus dias foram escritos no teu livro"
+    },
+    {
+      "ref": "efesios/2/10",
+      "texto": "Efésios 2:10 — Somos feitura de Deus, criados em Cristo Jesus para boas obras"
+    }
   ]
 }

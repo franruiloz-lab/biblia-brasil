@@ -14,8 +14,17 @@
         "NTLH": "Deixem que Deus carregue todos os seus problemas, porque ele cuida de vocês.",
         "NVT": "Lancem sobre ele toda a sua ansiedade, porque ele cuida de vocês."
       },
-      "temas": ["ansiedade", "cuidado-de-deus", "confianca", "oracao"],
-      "versiculosRelacionados": ["filipenses/4/6-7", "mateus/11/28", "salmos/55/22"],
+      "temas": [
+        "ansiedade",
+        "cuidado-de-deus",
+        "confianca",
+        "oracao"
+      ],
+      "versiculosRelacionados": [
+        "filipenses/4/6",
+        "mateus/11/28",
+        "salmos/55/22"
+      ],
       "faq": [
         {
           "pergunta": "O que significa 'lançar' a ansiedade sobre Deus em 1 Pedro 5:7?",
@@ -35,8 +44,16 @@
         "NTLH": "Sejam controlados e fiquem alertas. O diabo, o inimigo de vocês, ronda como um leão faminto, procurando alguém para devorar.",
         "NVT": "Sede sóbrios e vigilantes. O diabo, o adversário de vocês, anda em derredor como leão que ruge, procurando alguém para devorar."
       },
-      "temas": ["guerra-espiritual", "vigilancia", "diabo", "protecao"],
-      "versiculosRelacionados": ["efesios/6/11", "tiago/4/7"],
+      "temas": [
+        "guerra-espiritual",
+        "vigilancia",
+        "diabo",
+        "protecao"
+      ],
+      "versiculosRelacionados": [
+        "efesios/6/11",
+        "tiago/4/7"
+      ],
       "faq": []
     },
     {
@@ -47,8 +64,16 @@
         "NTLH": "Resistam ao diabo, mantendo-se firmes na fé. Vocês sabem que os irmãos e irmãs em todo o mundo estão passando pelos mesmos sofrimentos.",
         "NVT": "Resistam-lhe, permanecendo firmes na fé, sabendo que a mesma espécie de sofrimentos está sendo enfrentada pelos seus irmãos espalhados pelo mundo."
       },
-      "temas": ["guerra-espiritual", "resistencia", "comunidade", "perseveranca"],
-      "versiculosRelacionados": ["tiago/4/7", "efesios/6/13"],
+      "temas": [
+        "guerra-espiritual",
+        "resistencia",
+        "comunidade",
+        "perseveranca"
+      ],
+      "versiculosRelacionados": [
+        "tiago/4/7",
+        "efesios/6/13"
+      ],
       "faq": []
     },
     {
@@ -59,8 +84,17 @@
         "NTLH": "E o Deus que dá toda espécie de graça, que chamou vocês para participar da sua glória eterna em Cristo, vai fazer que, depois de algum tempo de sofrimento, vocês sejam restaurados, firmados, fortalecidos e alicerçados.",
         "NVT": "E o Deus de toda a graça, que em Cristo Jesus os chamou para a sua eterna glória, depois que vocês sofrerem um pouco, irá restaurá-los, firmá-los, fortalecê-los e estabelecê-los."
       },
-      "temas": ["graca", "restauracao", "sofrimento", "esperanca", "promessa"],
-      "versiculosRelacionados": ["romanos/8/18", "2-corintios/4/17"],
+      "temas": [
+        "graca",
+        "restauracao",
+        "sofrimento",
+        "esperanca",
+        "promessa"
+      ],
+      "versiculosRelacionados": [
+        "romanos/8/18",
+        "2-corintios/4/17"
+      ],
       "faq": [
         {
           "pergunta": "O que Pedro promete em 1 Pedro 5:10 para quem sofre?",
@@ -74,12 +108,33 @@
     "contexto": "Pedro escreveu para cristãos dispersos pelo Império Romano que enfrentavam perseguição crescente. O tema central de toda a carta é sofrimento com esperança: como viver com fé quando tudo ao redor pressiona contra essa fé. O capítulo 5 é a conclusão prática: humilhe-se, lance sua ansiedade, resista ao inimigo, e confie no Deus de toda a graça.",
     "aplicacao": "Em um Brasil com altíssimos índices de ansiedade e depressão, 1 Pedro 5:7 oferece a imagem mais acessível e prática do alívio espiritual: jogar o peso. Não é negação do problema, não é fé sem ação — é o reconhecimento de que você não foi projetado para carregar sozinho o que está te esmagando. Há um Deus que se importa especificamente com você e que tem capacidade infinita de carregar o que você não consegue."
   },
-  "versiculosDestaque": [7, 10],
-  "temas": ["ansiedade", "cuidado-de-deus", "guerra-espiritual", "graca", "restauracao"],
+  "versiculosDestaque": [
+    7,
+    10
+  ],
+  "temas": [
+    "ansiedade",
+    "cuidado-de-deus",
+    "guerra-espiritual",
+    "graca",
+    "restauracao"
+  ],
   "versiculosRelacionadosExternos": [
-    { "ref": "filipenses/4/6-7", "texto": "Filipenses 4:6-7 — Em nada estejais ansiosos" },
-    { "ref": "mateus/11/28", "texto": "Mateus 11:28 — Venham a mim todos os que estão cansados" },
-    { "ref": "salmos/55/22", "texto": "Salmos 55:22 — Lança sobre o SENHOR o teu cuidado" },
-    { "ref": "efesios/6/11", "texto": "Efésios 6:11 — Revesti-vos de toda a armadura de Deus" }
+    {
+      "ref": "filipenses/4/6-7",
+      "texto": "Filipenses 4:6-7 — Em nada estejais ansiosos"
+    },
+    {
+      "ref": "mateus/11/28",
+      "texto": "Mateus 11:28 — Venham a mim todos os que estão cansados"
+    },
+    {
+      "ref": "salmos/55/22",
+      "texto": "Salmos 55:22 — Lança sobre o SENHOR o teu cuidado"
+    },
+    {
+      "ref": "efesios/6/11",
+      "texto": "Efésios 6:11 — Revesti-vos de toda a armadura de Deus"
+    }
   ]
 }

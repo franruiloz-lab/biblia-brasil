@@ -14,8 +14,17 @@
         "NTLH": "Levante-se! Brilhe! Porque a sua luz chegou, e a glória do SENHOR aparece sobre você.",
         "NVT": "Levante-se! Brilhe! Pois sua luz chegou, e a glória do SENHOR raia sobre você."
       },
-      "temas": ["luz", "gloria-de-deus", "avivamento", "identidade"],
-      "versiculosRelacionados": ["isaias/60/22", "joao/8/12", "efesios/5/14"],
+      "temas": [
+        "luz",
+        "gloria-de-deus",
+        "avivamento",
+        "identidade"
+      ],
+      "versiculosRelacionados": [
+        "isaias/60/22",
+        "joao/8/12",
+        "efesios/5/14"
+      ],
       "faq": [
         {
           "pergunta": "O que significa 'Levanta-te, resplandece' em Isaías 60:1?",
@@ -35,7 +44,12 @@
         "NTLH": "Veja: as trevas cobrem a terra, e a escuridão cobre os povos; mas a presença do SENHOR brilhará sobre você, e a sua glória aparecerá sobre você.",
         "NVT": "Veja: a escuridão cobre a terra e a penumbra, os povos; mas o SENHOR raia sobre você, e sobre você aparece a sua glória."
       },
-      "temas": ["luz", "trevas", "contraste", "gloria-de-deus"],
+      "temas": [
+        "luz",
+        "trevas",
+        "contraste",
+        "gloria-de-deus"
+      ],
       "versiculosRelacionados": [],
       "faq": []
     },
@@ -47,8 +61,18 @@
         "NTLH": "O menor se tornará um milhar, e o mais fraco, uma nação poderosa. Eu sou o SENHOR, e no tempo certo farei tudo isso acontecer.",
         "NVT": "O menor se tornará um milhar, e o mais fraco, uma nação poderosa. Eu sou o SENHOR; no tempo certo farei isso de repente."
       },
-      "temas": ["multiplicacao", "crescimento", "soberania-de-deus", "promessa", "fe"],
-      "versiculosRelacionados": ["zacarias/4/10", "marcos/4/30-32", "deuteronomio/32/30"],
+      "temas": [
+        "multiplicacao",
+        "crescimento",
+        "soberania-de-deus",
+        "promessa",
+        "fe"
+      ],
+      "versiculosRelacionados": [
+        "zacarias/4/10",
+        "marcos/4/30",
+        "deuteronomio/32/30"
+      ],
       "faq": [
         {
           "pergunta": "O que significa 'o pequeno se tornará mil' em Isaías 60:22?",
@@ -70,11 +94,29 @@
     "contexto": "Isaías 60 foi escrito para um Israel em cativeiro ou prestes a ir ao cativeiro babilônico. A mensagem era radical: apesar da situação presente de humilhação, a glória futura seria tão grande que as nações viriam trazer suas riquezas a Jerusalém. O versículo 22 é o encerramento desta promessa — uma garantia de multiplicação que transcende o impossível.",
     "aplicacao": "Para o crente brasileiro hoje, Isaías 60:22 é um convite à fé que não se baseia nas circunstâncias atuais, mas na palavra de Deus sobre o futuro. Seja para um pastor de pequena congregação, um empreendedor iniciante ou uma família recomeçando — a mensagem é: Deus transforma o menor em mil. O único requisito é confiar no tempo e no poder Daquele que promete."
   },
-  "versiculosDestaque": [1, 22],
-  "temas": ["luz", "multiplicacao", "promessa", "soberania-de-deus", "fe"],
+  "versiculosDestaque": [
+    1,
+    22
+  ],
+  "temas": [
+    "luz",
+    "multiplicacao",
+    "promessa",
+    "soberania-de-deus",
+    "fe"
+  ],
   "versiculosRelacionadosExternos": [
-    { "ref": "zacarias/4/10", "texto": "Zacarias 4:10 — Não desprezeis o dia das pequenas coisas" },
-    { "ref": "marcos/4/30-32", "texto": "Marcos 4:30-32 — O menor de todos os grãos se torna a maior das ervas" },
-    { "ref": "filipenses/4/13", "texto": "Filipenses 4:13 — Posso fazer todas as coisas por meio de Cristo" }
+    {
+      "ref": "zacarias/4/10",
+      "texto": "Zacarias 4:10 — Não desprezeis o dia das pequenas coisas"
+    },
+    {
+      "ref": "marcos/4/30-32",
+      "texto": "Marcos 4:30-32 — O menor de todos os grãos se torna a maior das ervas"
+    },
+    {
+      "ref": "filipenses/4/13",
+      "texto": "Filipenses 4:13 — Posso fazer todas as coisas por meio de Cristo"
+    }
   ]
 }
