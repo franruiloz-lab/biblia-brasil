@@ -26,7 +26,7 @@ const schemaFAQ = {
 
 const breadcrumbs = [
   { label: 'Início', href: '/' },
-  { label: 'Temas', href: '/temas' },
+  { label: 'Temas', href: '/temas/' },
   { label: tema.nome }
 ];
 
@@ -109,7 +109,7 @@ const outrosTemas = temas.filter(t => t.slug !== tema.slug).slice(0, 4);
         ))}
       </div>
       <div class="mt-4">
-        <a href="/temas" class="ui-font text-sm hover:text-purple-600 transition-colors" style="color: var(--color-primary);">
+        <a href="/temas/" class="ui-font text-sm hover:text-purple-600 transition-colors" style="color: var(--color-primary);">
           Ver todos os temas →
         </a>
       </div>

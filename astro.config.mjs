@@ -13,6 +13,5 @@ export default defineConfig({
   trailingSlash: 'always',
   redirects: {
     '/salmos': '/biblia/salmos/',
-    '/salmos/': '/biblia/salmos/',
   },
 });

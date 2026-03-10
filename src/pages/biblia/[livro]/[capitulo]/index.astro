@@ -38,8 +38,8 @@ const description = capData.titulo
 const versiculosDestaque = capData.versiculosDestaque || [];
 const breadcrumbs = [
   { label: 'Início', href: '/' },
-  { label: 'A Bíblia', href: '/biblia' },
-  { label: livroData.nome, href: `/biblia/${livro}` },
+  { label: 'A Bíblia', href: '/biblia/' },
+  { label: livroData.nome, href: `/biblia/${livro}/` },
   { label: `Capítulo ${capitulo}` }
 ];
 
@@ -230,7 +230,7 @@ const versoesDisponiveis = ['ARC', 'NVI-PT', 'NTLH', 'NVT'];
               {capData.autor && <li>✍ {capData.autor}</li>}
             </ul>
             <a
-              href={`/biblia/${livro}`}
+              href={`/biblia/${livro}/`}
               class="ui-font text-xs hover:text-purple-600 transition-colors block mt-3"
               style="color: var(--color-primary);"
             >

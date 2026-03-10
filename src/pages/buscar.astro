@@ -38,7 +38,7 @@ for (const [path, loader] of Object.entries(modules)) {
           capitulo: capData.capitulo,
           versiculo: v.numero,
           texto: texto.substring(0, 150),
-          href: `/biblia/${livroSlug}/${capData.capitulo}/${v.numero}`
+          href: `/biblia/${livroSlug}/${capData.capitulo}/${v.numero}/`
         });
       }
     }
@@ -47,12 +47,12 @@ for (const [path, loader] of Object.entries(modules)) {
 
 // Suggested searches
 const sugestoes = [
-  { texto: 'O Senhor é o meu pastor', href: '/biblia/salmos/23/1' },
-  { texto: 'Porque Deus amou o mundo', href: '/biblia/joao/3/16' },
-  { texto: 'Consagre ao SENHOR tudo', href: '/biblia/proverbios/16/3' },
-  { texto: 'O menor se tornará mil', href: '/biblia/isaias/60/22' },
-  { texto: 'Venham a mim os cansados', href: '/biblia/mateus/11/28' },
-  { texto: 'Bênção Aarônica', href: '/biblia/numeros/6/24' },
+  { texto: 'O Senhor é o meu pastor', href: '/biblia/salmos/23/1/' },
+  { texto: 'Porque Deus amou o mundo', href: '/biblia/joao/3/16/' },
+  { texto: 'Consagre ao SENHOR tudo', href: '/biblia/proverbios/16/3/' },
+  { texto: 'O menor se tornará mil', href: '/biblia/isaias/60/22/' },
+  { texto: 'Venham a mim os cansados', href: '/biblia/mateus/11/28/' },
+  { texto: 'Bênção Aarônica', href: '/biblia/numeros/6/24/' },
 ];
 ---
 
@@ -111,7 +111,7 @@ const sugestoes = [
         <div class="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-6 gap-2">
           {livros.slice(0, 24).map(livro => (
             <a
-              href={`/biblia/${livro.slug}`}
+              href={`/biblia/${livro.slug}/`}
               class="flex flex-col items-center p-3 rounded-xl border text-center transition-all hover:border-purple-400"
               style="border-color: var(--color-border); background-color: var(--color-bg-card);"
             >
@@ -120,7 +120,7 @@ const sugestoes = [
             </a>
           ))}
         </div>
-        <a href="/biblia" class="inline-block mt-3 ui-font text-sm hover:text-purple-600 transition-colors" style="color: var(--color-primary);">
+        <a href="/biblia/" class="inline-block mt-3 ui-font text-sm hover:text-purple-600 transition-colors" style="color: var(--color-primary);">
           Ver todos os 66 livros →
         </a>
       </section>

@@ -53,7 +53,7 @@ const destaque = ['salmos', 'proverbios', 'numeros', '2-cronicas', 'romanos', 'f
           const temDados = destaque.includes(livro.slug);
           return (
             <a
-              href={`/biblia/${livro.slug}`}
+              href={`/biblia/${livro.slug}/`}
               class={`flex flex-col p-4 rounded-xl border transition-all hover:border-purple-400 hover:shadow-sm group ${temDados ? '' : ''}`}
               style={`border-color: var(--color-border); background-color: var(--color-bg-card);`}
             >
@@ -87,7 +87,7 @@ const destaque = ['salmos', 'proverbios', 'numeros', '2-cronicas', 'romanos', 'f
           const temDados = destaque.includes(livro.slug);
           return (
             <a
-              href={`/biblia/${livro.slug}`}
+              href={`/biblia/${livro.slug}/`}
               class="flex flex-col p-4 rounded-xl border transition-all hover:border-purple-400 hover:shadow-sm group"
               style="border-color: var(--color-border); background-color: var(--color-bg-card);"
             >

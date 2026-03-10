@@ -40,7 +40,7 @@ const schema = {
 
 const breadcrumbs = [
   { label: 'Início', href: '/' },
-  { label: 'A Bíblia', href: '/biblia' },
+  { label: 'A Bíblia', href: '/biblia/' },
   { label: livroData.nome }
 ];
 
@@ -69,7 +69,7 @@ const capitulos = Array.from({ length: livroData.capitulos }, (_, i) => i + 1);
           const temDados = capitulosComDados.has(num);
           return (
             <a
-              href={`/biblia/${livro}/${num}`}
+              href={`/biblia/${livro}/${num}/`}
               class={`flex items-center justify-center h-12 rounded-xl text-sm font-semibold ui-font transition-all border ${
                 temDados
                   ? 'hover:border-purple-500 hover:shadow-md'
@@ -130,7 +130,7 @@ const capitulos = Array.from({ length: livroData.capitulos }, (_, i) => i + 1);
           <>
             {livroAnterior && (
               <a
-                href={`/biblia/${livroAnterior.slug}`}
+                href={`/biblia/${livroAnterior.slug}/`}
                 class="flex items-center gap-2 px-4 py-2 rounded-xl border transition-colors hover:border-purple-400"
                 style="border-color: var(--color-border);"
               >
@@ -139,7 +139,7 @@ const capitulos = Array.from({ length: livroData.capitulos }, (_, i) => i + 1);
             )}
             {livroProximo && (
               <a
-                href={`/biblia/${livroProximo.slug}`}
+                href={`/biblia/${livroProximo.slug}/`}
                 class="flex items-center gap-2 px-4 py-2 rounded-xl border transition-colors hover:border-purple-400 ml-auto"
                 style="border-color: var(--color-border);"
               >
