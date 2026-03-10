@@ -11,4 +11,8 @@ export default defineConfig({
   ],
   site: 'https://bibliadobrasil.com',
   trailingSlash: 'always',
+  redirects: {
+    '/salmos': '/biblia/salmos/',
+    '/salmos/': '/biblia/salmos/',
+  },
 });

@@ -14,8 +14,15 @@
         "NTLH": "Não fique preocupado com nada. Pelo contrário, em toda situação apresente a Deus os seus pedidos, através da oração e da súplica, acompanhadas de agradecimento.",
         "NVT": "Não andeis ansiosos por coisa alguma; antes, em tudo, por meio de oração e súplica com ação de graças, apresentai vossas petições a Deus."
       },
-      "temas": ["oracao", "ansiedade", "paz"],
-      "versiculosRelacionados": ["filipenses/4/7", "mateus/6/34"],
+      "temas": [
+        "oracao",
+        "ansiedade",
+        "paz"
+      ],
+      "versiculosRelacionados": [
+        "filipenses/4/7",
+        "mateus/6/34"
+      ],
       "faq": []
     },
     {
@@ -26,8 +33,24 @@
         "NTLH": "E a paz de Deus, que vai além de qualquer compreensão, guardará o coração e a mente de vocês por meio de Cristo Jesus.",
         "NVT": "E a paz de Deus, que excede todo o entendimento, guardará os vossos corações e mentes em Cristo Jesus."
       },
-      "temas": ["paz", "oracao", "protecao"],
-      "versiculosRelacionados": ["joao/14/27", "numeros/6/26"],
+      "temas": [
+        "paz",
+        "oracao",
+        "protecao"
+      ],
+      "versiculosRelacionados": [
+        "joao/14/27",
+        "numeros/6/26"
+      ],
+      "faq": []
+    },
+    {
+      "numero": 8,
+      "versoes": {
+        "ARC": "Quanto ao mais, irmãos, tudo o que é verdadeiro, tudo o que é honesto, tudo o que é justo, tudo o que é puro, tudo o que é amável, tudo o que é de boa fama, se há alguma virtude, e se há algum louvor, nisso pensai."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
       "faq": []
     },
     {
@@ -38,8 +61,15 @@
         "NTLH": "Pois Cristo me dá forças para enfrentar qualquer situação.",
         "NVT": "Tudo posso naquele que me fortalece."
       },
-      "temas": ["forca", "confianca", "dependencia-de-deus"],
-      "versiculosRelacionados": ["isaias/40/31", "2-corintios/12/9"],
+      "temas": [
+        "forca",
+        "confianca",
+        "dependencia-de-deus"
+      ],
+      "versiculosRelacionados": [
+        "isaias/40/31",
+        "2-corintios/12/9"
+      ],
       "faq": [
         {
           "pergunta": "O que significa 'Posso todas as coisas em Cristo que me fortalece' em Filipenses 4:13?",
@@ -63,8 +93,15 @@
         "NTLH": "E o meu Deus vai suprir todas as suas necessidades com as gloriosas riquezas que tem em Cristo Jesus.",
         "NVT": "E meu Deus suprirá todas as vossas necessidades de acordo com as suas gloriosas riquezas em Cristo Jesus."
       },
-      "temas": ["provisao", "confianca", "bencao"],
-      "versiculosRelacionados": ["salmos/23/1", "mateus/6/33"],
+      "temas": [
+        "provisao",
+        "confianca",
+        "bencao"
+      ],
+      "versiculosRelacionados": [
+        "salmos/23/1",
+        "mateus/6/33"
+      ],
       "faq": []
     }
   ],
@@ -73,11 +110,29 @@
     "contexto": "Paulo escreve Filipenses da prisão em Roma, por volta do ano 60 d.C. Ele está acorrentado, mas escreve uma carta transbordante de alegria e contentamento. O segredo revelado no capítulo 4 é que essa paz não depende de circunstâncias externas — ela vem de Cristo.",
     "aplicacao": "Para o brasileiro que enfrenta pressão no trabalho, dívidas, problemas de saúde ou crises relacionais, Filipenses 4:13 é uma promessa de força sobrenatural para atravessar qualquer situação. A chave é a dependência: 'em Cristo que me fortalece'. Não é otimismo humano — é capacitação divina."
   },
-  "versiculosDestaque": [13, 6, 7],
-  "temas": ["forca", "paz", "oracao", "contentamento"],
+  "versiculosDestaque": [
+    13,
+    6,
+    7
+  ],
+  "temas": [
+    "forca",
+    "paz",
+    "oracao",
+    "contentamento"
+  ],
   "versiculosRelacionadosExternos": [
-    { "ref": "isaias/40/31", "texto": "Isaías 40:31 — Os que esperam no Senhor renovam as suas forças" },
-    { "ref": "salmos/91/15", "texto": "Salmos 91:15 — Clama a mim e responderei" },
-    { "ref": "romanos/8/28", "texto": "Romanos 8:28 — Todas as coisas cooperam para o bem" }
+    {
+      "ref": "isaias/40/31",
+      "texto": "Isaías 40:31 — Os que esperam no Senhor renovam as suas forças"
+    },
+    {
+      "ref": "salmos/91/15",
+      "texto": "Salmos 91:15 — Clama a mim e responderei"
+    },
+    {
+      "ref": "romanos/8/28",
+      "texto": "Romanos 8:28 — Todas as coisas cooperam para o bem"
+    }
   ]
 }

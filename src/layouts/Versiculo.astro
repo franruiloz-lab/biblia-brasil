@@ -82,8 +82,8 @@ const schemaFAQ = faqItems.length > 0 ? {
 const breadcrumbs = [
   { label: 'Início', href: '/' },
   { label: 'A Bíblia', href: '/biblia' },
-  { label: livroNome, href: `/biblia/${livroSlug}` },
-  { label: `Capítulo ${capitulo}`, href: `/biblia/${livroSlug}/${capitulo}` },
+  { label: livroNome, href: `/biblia/${livroSlug}/` },
+  { label: `Capítulo ${capitulo}`, href: `/biblia/${livroSlug}/${capitulo}/` },
   { label: `Versículo ${versiculoNumero}` },
 ];
 ---
@@ -100,7 +100,7 @@ const breadcrumbs = [
     <header class="mb-8">
       <div class="flex flex-wrap items-center gap-2 mb-3">
         {temas.slice(0, 3).map(tema => (
-          <a href={`/temas/${tema}`} class="badge hover:bg-purple-100 transition-colors">
+          <a href={`/temas/${tema}/`} class="badge hover:bg-purple-100 transition-colors">
             {tema.replace(/-/g, ' ')}
           </a>
         ))}
@@ -149,7 +149,7 @@ const breadcrumbs = [
               ))}
             </div>
             <p class="ui-font text-xs mt-2 text-center" style="color: var(--color-text-muted);">
-              <a href={`/biblia/${livroSlug}/${capitulo}`} class="hover:text-purple-600 underline">
+              <a href={`/biblia/${livroSlug}/${capitulo}/`} class="hover:text-purple-600 underline">
                 Ver o capítulo {capitulo} completo →
               </a>
             </p>
@@ -181,7 +181,7 @@ const breadcrumbs = [
             Leia o capítulo completo
           </p>
           <a
-            href={`/biblia/${livroSlug}/${capitulo}`}
+            href={`/biblia/${livroSlug}/${capitulo}/`}
             class="inline-flex items-center gap-2 px-5 py-2.5 rounded-xl font-semibold text-sm ui-font text-white transition-all hover:opacity-90"
             style="background-color: var(--color-primary);"
           >

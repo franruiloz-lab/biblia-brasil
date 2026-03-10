@@ -94,6 +94,15 @@
       ]
     },
     {
+      "numero": 23,
+      "versoes": {
+        "ARC": "Jesus respondeu-lhe: Se alguém me amar, guardará a minha palavra, e meu Pai o amará, e viremos para ele, e faremos nele morada."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
       "numero": 27,
       "versoes": {
         "ARC": "Deixo-vos a paz, a minha paz vos dou; não vo-la dou como o mundo a dá. Não se turbe o vosso coração, nem se atemorizem.",
@@ -156,7 +165,7 @@
       "texto": "Salmos 23:4 — Mesmo no vale da sombra da morte, não temerei"
     },
     {
-      "ref": "romanos/8/38-39",
+      "ref": "romanos/8/38",
       "texto": "Romanos 8:38-39 — Nada nos separará do amor de Deus"
     }
   ]

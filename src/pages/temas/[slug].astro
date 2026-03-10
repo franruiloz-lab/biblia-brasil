@@ -37,7 +37,7 @@ function parseRef(ref: string) {
     livro: parts[0],
     capitulo: parts[1],
     versiculo: parts[2],
-    href: `/biblia/${ref}`
+    href: `/biblia/${ref}/`
   };
 }
 
@@ -99,7 +99,7 @@ const outrosTemas = temas.filter(t => t.slug !== tema.slug).slice(0, 4);
       <div class="grid grid-cols-2 md:grid-cols-4 gap-3">
         {outrosTemas.map(t => (
           <a
-            href={`/temas/${t.slug}`}
+            href={`/temas/${t.slug}/`}
             class="flex items-center gap-3 p-4 rounded-xl border transition-all hover:border-purple-400"
             style="border-color: var(--color-border); background-color: var(--color-bg-card);"
           >

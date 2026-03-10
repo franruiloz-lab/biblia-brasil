@@ -20,7 +20,7 @@ if (!versiculos || versiculos.length === 0) return;
   <div class="grid gap-3 sm:grid-cols-2">
     {versiculos.map((v) => (
       <a
-        href={`/biblia/${v.ref}`}
+        href={`/biblia/${v.ref}/`}
         class="flex items-start gap-3 p-4 rounded-xl border transition-all hover:-translate-y-0.5 hover:shadow-md"
         style="border-color: var(--color-border); background-color: var(--color-bg-card);"
       >

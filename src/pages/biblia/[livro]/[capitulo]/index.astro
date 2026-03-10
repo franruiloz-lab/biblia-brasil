@@ -123,7 +123,7 @@ const versoesDisponiveis = ['ARC', 'NVI-PT', 'NTLH', 'NVT'];
                   ))}
                   <div class="flex items-center gap-2 mt-1 opacity-0 group-hover:opacity-100 transition-opacity">
                     <a
-                      href={`/biblia/${livro}/${capitulo}/${v.numero}`}
+                      href={`/biblia/${livro}/${capitulo}/${v.numero}/`}
                       class="ui-font text-xs hover:text-purple-600 transition-colors"
                       style="color: var(--color-text-muted);"
                     >
@@ -179,7 +179,7 @@ const versoesDisponiveis = ['ARC', 'NVI-PT', 'NTLH', 'NVT'];
         <nav class="flex justify-between mt-12 ui-font" aria-label="Navegação entre capítulos">
           {Number(capitulo) > 1 && (
             <a
-              href={`/biblia/${livro}/${Number(capitulo) - 1}`}
+              href={`/biblia/${livro}/${Number(capitulo) - 1}/`}
               class="flex items-center gap-2 px-4 py-2 rounded-xl border transition-colors hover:border-purple-400"
               style="border-color: var(--color-border);"
             >
@@ -188,7 +188,7 @@ const versoesDisponiveis = ['ARC', 'NVI-PT', 'NTLH', 'NVT'];
           )}
           {Number(capitulo) < livroData.capitulos && (
             <a
-              href={`/biblia/${livro}/${Number(capitulo) + 1}`}
+              href={`/biblia/${livro}/${Number(capitulo) + 1}/`}
               class="flex items-center gap-2 px-4 py-2 rounded-xl border transition-colors hover:border-purple-400 ml-auto"
               style="border-color: var(--color-border);"
             >
@@ -209,7 +209,7 @@ const versoesDisponiveis = ['ARC', 'NVI-PT', 'NTLH', 'NVT'];
                 {versiculosDestaque.map((num: number) => (
                   <li>
                     <a
-                      href={`/biblia/${livro}/${capitulo}/${num}`}
+                      href={`/biblia/${livro}/${capitulo}/${num}/`}
                       class="ui-font text-sm hover:text-purple-600 transition-colors block py-0.5"
                       style="color: var(--color-text-muted);"
                     >

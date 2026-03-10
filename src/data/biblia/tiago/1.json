@@ -69,6 +69,15 @@
       ]
     },
     {
+      "numero": 6,
+      "versoes": {
+        "ARC": "Mas peça com fé, sem duvidar nada; porque o que duvida é semelhante à onda do mar, que é impelida pelo vento e lançada de uma para outra parte."
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
+    },
+    {
       "numero": 17,
       "versoes": {
         "ARC": "Toda a boa dádiva e todo o dom perfeito são lá do alto, descendo do Pai das luzes, em quem não há mudança nem sombra de variação.",
@@ -137,7 +146,7 @@
       "texto": "Provérbios 2:6 — O SENHOR é quem dá a sabedoria"
     },
     {
-      "ref": "romanos/5/3-4",
+      "ref": "romanos/5/3",
       "texto": "Romanos 5:3-4 — A tribulação produz paciência"
     },
     {

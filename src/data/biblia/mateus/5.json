@@ -192,6 +192,15 @@
         "mateus/5/14"
       ],
       "faq": []
+    },
+    {
+      "numero": 44,
+      "versoes": {
+        "ARC": "Eu, porém, vos digo: Amai a vossos inimigos, e orai pelos que vos perseguem;"
+      },
+      "temas": [],
+      "versiculosRelacionados": [],
+      "faq": []
     }
   ],
   "explicacao": {
@@ -213,7 +222,7 @@
   ],
   "versiculosRelacionadosExternos": [
     {
-      "ref": "lucas/6/20-23",
+      "ref": "lucas/6/20",
       "texto": "Lucas 6:20-23 — Versão paralela das Bem-aventuranças"
     },
     {
