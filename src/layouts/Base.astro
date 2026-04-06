@@ -1,5 +1,6 @@
 ---
 import '../styles/global.css';
+import CookieBanner from '../components/CookieBanner.astro';
 
 interface Props {
   title: string;
@@ -160,7 +161,6 @@ const ogImg = ogImage || `${siteUrl}/og-default.jpg`;
           <h3 class="font-bold text-sm mb-3" style="color: var(--color-text);">Sobre</h3>
           <ul class="space-y-2 text-sm">
             <li><a href="/buscar/" class="hover:text-purple-600 transition-colors">Buscar versículos</a></li>
-            <li><a href="/sobre/" class="hover:text-purple-600 transition-colors">Sobre nós</a></li>
           </ul>
         </div>
       </div>
@@ -206,5 +206,7 @@ const ogImg = ogImage || `${siteUrl}/og-default.jpg`;
       mobileMenu?.classList.toggle('hidden');
     });
   </script>
+
+  <CookieBanner />
 </body>
 </html>

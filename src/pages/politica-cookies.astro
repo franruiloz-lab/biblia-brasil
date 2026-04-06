@@ -1,0 +1,130 @@
+---
+import Base from '../layouts/Base.astro';
+
+const title = 'Política de Cookies — Bíblia Brasil';
+const description = 'Entenda como o site Bíblia Brasil utiliza cookies para melhorar sua experiência de leitura e estudo da Palavra de Deus.';
+---
+
+<Base title={title} description={description}>
+  <div class="max-w-3xl mx-auto px-4 py-12">
+
+    <header class="mb-10">
+      <h1 class="text-3xl font-bold mb-3" style="color: var(--color-text);">Política de Cookies</h1>
+      <p class="text-sm ui-font" style="color: var(--color-text-muted);">
+        Última atualização: abril de 2025
+      </p>
+    </header>
+
+    <div class="prose-biblia space-y-8" style="color: var(--color-text);">
+
+      <section>
+        <h2 class="text-xl font-bold mb-3">O que são cookies?</h2>
+        <p>
+          Cookies são pequenos arquivos de texto que um site armazena no seu navegador quando você o visita.
+          Eles permitem que o site lembre suas preferências e melhore sua experiência em visitas futuras.
+          Cookies não contêm informações pessoais como seu nome ou endereço de e-mail.
+        </p>
+      </section>
+
+      <section>
+        <h2 class="text-xl font-bold mb-3">Como utilizamos cookies</h2>
+        <p>
+          O <strong>Bíblia Brasil</strong> utiliza cookies estritamente necessários para o funcionamento
+          correto do site, além de cookies opcionais para análise de tráfego e melhoria do conteúdo.
+        </p>
+      </section>
+
+      <section>
+        <h2 class="text-xl font-bold mb-3">Tipos de cookies que usamos</h2>
+
+        <div class="space-y-4">
+          <div class="rounded-lg p-4" style="background-color: var(--color-verse-bg); border-left: 4px solid var(--color-primary);">
+            <h3 class="font-bold mb-1 ui-font" style="color: var(--color-text);">Cookies necessários</h3>
+            <p class="text-sm" style="color: var(--color-text-muted);">
+              Essenciais para o funcionamento básico do site, como lembrar suas preferências de tema
+              (modo claro ou escuro) e registrar seu consentimento de cookies. Esses cookies não coletam
+              dados pessoais e não podem ser desativados.
+            </p>
+            <ul class="mt-2 text-sm space-y-1 ui-font" style="color: var(--color-text-muted);">
+              <li><code style="background: var(--color-border); padding: 1px 5px; border-radius: 3px;">theme</code> — guarda sua preferência de tema (claro/escuro)</li>
+              <li><code style="background: var(--color-border); padding: 1px 5px; border-radius: 3px;">cookie_consent</code> — registra se você aceitou ou recusou cookies opcionais</li>
+            </ul>
+          </div>
+
+          <div class="rounded-lg p-4" style="background-color: var(--color-bg-card); border: 1px solid var(--color-border);">
+            <h3 class="font-bold mb-1 ui-font" style="color: var(--color-text);">Cookies analíticos (opcionais)</h3>
+            <p class="text-sm" style="color: var(--color-text-muted);">
+              Usados para entender como os visitantes interagem com o site — quais versículos e livros são
+              mais lidos, de quais regiões vêm os acessos e como os usuários navegam pelo conteúdo bíblico.
+              Essas informações são agregadas e anônimas. Você pode recusá-los ao clicar em
+              "Apenas necessários" no aviso de cookies.
+            </p>
+          </div>
+        </div>
+      </section>
+
+      <section>
+        <h2 class="text-xl font-bold mb-3">Armazenamento local (localStorage)</h2>
+        <p>
+          Além dos cookies, utilizamos o <strong>armazenamento local</strong> do seu navegador para salvar
+          preferências que melhoram sua experiência — por exemplo, o tema escolhido (claro ou escuro)
+          e o seu consentimento de cookies. Esses dados ficam apenas no seu dispositivo e não são
+          enviados para nossos servidores.
+        </p>
+      </section>
+
+      <section>
+        <h2 class="text-xl font-bold mb-3">Cookies de terceiros</h2>
+        <p>
+          Caso o site utilize serviços de terceiros (como análise de tráfego ou fontes externas),
+          esses serviços podem definir seus próprios cookies, sujeitos às políticas de privacidade
+          de cada empresa. Recomendamos que você consulte as políticas de privacidade desses serviços
+          para mais informações.
+        </p>
+      </section>
+
+      <section>
+        <h2 class="text-xl font-bold mb-3">Como gerenciar ou desativar cookies</h2>
+        <p>
+          Você pode controlar e/ou excluir cookies a qualquer momento nas configurações do seu
+          navegador. Veja as instruções para os principais navegadores:
+        </p>
+        <ul class="mt-2 space-y-1 text-sm ui-font list-disc list-inside" style="color: var(--color-text-muted);">
+          <li>Google Chrome: Configurações → Privacidade e segurança → Cookies</li>
+          <li>Mozilla Firefox: Opções → Privacidade e Segurança → Cookies</li>
+          <li>Safari: Preferências → Privacidade → Gerenciar dados de sites</li>
+          <li>Microsoft Edge: Configurações → Privacidade → Cookies</li>
+        </ul>
+        <p class="mt-3">
+          Observe que desativar certos cookies pode afetar a funcionalidade do site, como a
+          memória da preferência de tema.
+        </p>
+      </section>
+
+      <section>
+        <h2 class="text-xl font-bold mb-3">Atualizações desta política</h2>
+        <p>
+          Podemos atualizar esta Política de Cookies periodicamente para refletir mudanças em nossas
+          práticas ou por exigências legais. Quando isso ocorrer, atualizaremos a data de
+          "Última atualização" no topo desta página.
+        </p>
+      </section>
+
+      <section>
+        <h2 class="text-xl font-bold mb-3">Contato</h2>
+        <p>
+          Se você tiver dúvidas sobre o uso de cookies neste site, entre em contato conosco pelo
+          endereço disponível na página principal de <strong>Bíblia Brasil</strong>.
+        </p>
+      </section>
+
+    </div>
+
+    <div class="mt-10 pt-6 border-t ui-font" style="border-color: var(--color-border);">
+      <a href="/" class="text-sm hover:underline" style="color: var(--color-primary);">
+        ← Voltar para a página inicial
+      </a>
+    </div>
+
+  </div>
+</Base>
