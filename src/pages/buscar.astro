@@ -6,6 +6,16 @@ import livros from '../data/livros.json';
 const title = 'Buscar na Bíblia — Bíblia Brasil';
 const description = 'Busque versículos, livros e temas na Bíblia Sagrada em português. Acesse qualquer versículo da Bíblia rapidamente.';
 
+const schema = {
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "Buscar na Bíblia Sagrada",
+  "description": description,
+  "url": "https://bibliabrasil.com.br/buscar",
+  "inLanguage": "pt-BR",
+  "isPartOf": { "@type": "WebSite", "url": "https://bibliabrasil.com.br" }
+};
+
 const breadcrumbs = [
   { label: 'Início', href: '/' },
   { label: 'Buscar' }
@@ -56,7 +66,7 @@ const sugestoes = [
 ];
 ---
 
-<Base title={title} description={description}>
+<Base title={title} description={description} schema={schema}>
   <div class="max-w-3xl mx-auto px-4 py-8">
     <Breadcrumb items={breadcrumbs} />
 

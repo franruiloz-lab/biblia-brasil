@@ -59,6 +59,15 @@ const ogImg = ogImage || `${siteUrl}/og-default.jpg`;
       "query-input": "required name=search_term_string"
     }
   })} />
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Bíblia Brasil",
+    "url": siteUrl,
+    "description": "A Bíblia Sagrada online em português com 4 versões (ARC, NVI, NTLH, NVT), explicações e estudos bíblicos.",
+    "inLanguage": "pt-BR",
+    "logo": { "@type": "ImageObject", "url": `${siteUrl}/favicon.svg` }
+  })} />
 
   <!-- Favicon -->
   <link rel="icon" type="image/svg+xml" href="/favicon.svg" />

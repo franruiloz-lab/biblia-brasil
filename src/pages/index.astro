@@ -4,20 +4,18 @@ import Base from '../layouts/Base.astro';
 const title = 'Bíblia Brasil — Bíblia Sagrada Online em Português';
 const description = 'Leia a Bíblia Sagrada online em português. 4 versões (ARC, NVI, NTLH, NVT) com explicações, contexto histórico e versículos relacionados. A Bíblia mais completa do Brasil.';
 
-const schemaWebSite = {
+const schemaWebPage = {
   "@context": "https://schema.org",
-  "@type": "WebSite",
-  "name": "Bíblia Brasil",
-  "url": "https://bibliabrasil.com.br",
+  "@type": "WebPage",
+  "name": "Bíblia Brasil — Bíblia Sagrada Online em Português",
   "description": description,
+  "url": "https://bibliabrasil.com.br/",
   "inLanguage": "pt-BR",
-  "potentialAction": {
-    "@type": "SearchAction",
-    "target": {
-      "@type": "EntryPoint",
-      "urlTemplate": "https://bibliabrasil.com.br/buscar?q={search_term_string}"
-    },
-    "query-input": "required name=search_term_string"
+  "isPartOf": { "@type": "WebSite", "url": "https://bibliabrasil.com.br" },
+  "about": {
+    "@type": "Thing",
+    "name": "Bíblia Sagrada",
+    "description": "A Bíblia Sagrada em português com 4 versões: ARC, NVI, NTLH e NVT"
   }
 };
 
@@ -97,7 +95,7 @@ const versoes = [
 ];
 ---
 
-<Base title={title} description={description} schema={schemaWebSite}>
+<Base title={title} description={description} schema={schemaWebPage}>
 
   <!-- Hero -->
   <section class="relative overflow-hidden py-20 md:py-28" style="background: linear-gradient(135deg, var(--color-bg) 0%, var(--color-hover-row) 50%, var(--color-primary-bg) 100%);" data-hero>
