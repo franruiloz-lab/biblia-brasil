@@ -3634,5 +3634,33 @@
         "texto": "E não vos conformeis com este século, mas transformai-vos pela renovação do vosso entendimento, para que experimenteis qual seja a boa, agradável e perfeita vontade de Deus."
       }
     ]
+  },
+  {
+    "slug": "rendicao",
+    "nome": "Rendição",
+    "descricao": "Versículos sobre entregar a própria vida a Deus e render-se à Sua vontade.",
+    "icone": "🙏",
+    "versiculos": [
+      {
+        "ref": "lucas/1/38",
+        "texto": "Então disse Maria: Eis aqui a serva do Senhor; faça-se em mim segundo a tua palavra. E o anjo se retirou da presença dela."
+      },
+      {
+        "ref": "salmos/37/5",
+        "texto": "Entrega o teu caminho ao Senhor; confia nele, e ele tudo fará."
+      },
+      {
+        "ref": "salmos/46/10",
+        "texto": "Aquietai-vos e sabei que eu sou Deus; serei exaltado entre as nações, serei exaltado na terra."
+      },
+      {
+        "ref": "romanos/12/1",
+        "texto": "Rogo-vos, pois, irmãos, pela compaixão de Deus, que apresenteis os vossos corpos como sacrifício vivo, santo e agradável a Deus, que é o vosso culto racional."
+      },
+      {
+        "ref": "mateus/11/29",
+        "texto": "Tomai sobre vós o meu jugo e aprendei de mim, porque sou manso e humilde de coração; e achareis descanso para as vossas almas."
+      }
+    ]
   }
 ]

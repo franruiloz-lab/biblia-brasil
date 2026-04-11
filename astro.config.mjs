@@ -13,10 +13,6 @@ export default defineConfig({
   trailingSlash: 'always',
   redirects: {
     '/salmos': '/biblia/salmos/',
-    '/sobre': '/',
-    '/sobre/': '/',
-    '/termos': '/politica-cookies/',
-    '/termos/': '/politica-cookies/',
     '/temas/familia': '/temas/familia/',
   },
 });

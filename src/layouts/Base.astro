@@ -11,7 +11,7 @@ interface Props {
 }
 
 const { title, description, canonical, ogImage, schema } = Astro.props;
-const siteUrl = 'https://bibliabrasil.com.br';
+const siteUrl = 'https://bibliadobrasil.com';
 const canonicalUrl = canonical || Astro.url.href;
 const ogImg = ogImage || `${siteUrl}/og-default.jpg`;
 ---
@@ -51,11 +51,11 @@ const ogImg = ogImage || `${siteUrl}/og-default.jpg`;
     "@type": "WebSite",
     "name": "Bíblia Brasil",
     "url": siteUrl,
-    "description": "A Bíblia Sagrada em português com versículos, explicações e estudos bíblicos",
+    "description": "A Bíblia Sagrada completa em português com 4 versões (ARC, NVI, NTLH, NVT), explicações contextuais e estudos temáticos.",
     "inLanguage": "pt-BR",
     "potentialAction": {
       "@type": "SearchAction",
-      "target": `${siteUrl}/buscar?q={search_term_string}`,
+      "target": `${siteUrl}/buscar/?q={search_term_string}`,
       "query-input": "required name=search_term_string"
     }
   })} />
@@ -64,9 +64,10 @@ const ogImg = ogImage || `${siteUrl}/og-default.jpg`;
     "@type": "Organization",
     "name": "Bíblia Brasil",
     "url": siteUrl,
-    "description": "A Bíblia Sagrada online em português com 4 versões (ARC, NVI, NTLH, NVT), explicações e estudos bíblicos.",
+    "description": "A Bíblia Sagrada online em português com 4 versões (ARC, NVI, NTLH, NVT), explicações contextuais e estudos bíblicos gratuitos.",
     "inLanguage": "pt-BR",
-    "logo": { "@type": "ImageObject", "url": `${siteUrl}/favicon.svg` }
+    "logo": { "@type": "ImageObject", "url": `${siteUrl}/favicon.svg` },
+    "sameAs": [`${siteUrl}/sobre/`]
   })} />
 
   <!-- Adsterra Popunder -->
@@ -177,6 +178,9 @@ const ogImg = ogImage || `${siteUrl}/og-default.jpg`;
           <h3 class="font-bold text-sm mb-3" style="color: var(--color-text);">Sobre</h3>
           <ul class="space-y-2 text-sm">
             <li><a href="/buscar/" class="hover:text-purple-600 transition-colors">Buscar versículos</a></li>
+            <li><a href="/sobre/" class="hover:text-purple-600 transition-colors">Sobre nós</a></li>
+            <li><a href="/termos/" class="hover:text-purple-600 transition-colors">Termos e Privacidade</a></li>
+            <li><a href="/politica-cookies/" class="hover:text-purple-600 transition-colors">Política de Cookies</a></li>
           </ul>
         </div>
       </div>
